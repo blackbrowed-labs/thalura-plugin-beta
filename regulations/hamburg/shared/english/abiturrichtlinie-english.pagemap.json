@@ -1,0 +1,318 @@
+{
+  "document_id": "abiturrichtlinie-english",
+  "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+  "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+  "index_version": 1,
+  "physical_page_count": 32,
+  "page_identity": {
+    "offset": 0,
+    "model": "simple",
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover",     "note": "Cover page — Anlage 2 zur Richtlinie … Englisch; unnumbered" },
+    { "physical_page": 2,  "printed_page": 2,    "kind": "impressum", "note": "Impressum — Herausgeber, Hamburg 2021" },
+    { "physical_page": 3,  "printed_page": 3,    "kind": "toc",       "note": "Inhalt (table of contents)" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content",   "note": "§1 Fachliche Anforderungen und Inhalte; §2 Anforderungen auf grundlegendem und erhöhtem Niveau" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content",   "note": "§3 Anforderungsbereiche; §3.1 Allgemeine Hinweise" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content",   "note": "§3.2 Fachspezifische Beschreibung der Anforderungsbereiche" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content",   "note": "Operator table — Kompetenzbereich Schreiben" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content",   "note": "Operator tables — Sprachmittlung, Hörverstehen" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content",   "note": "§4 Schriftliche Prüfung; §4.1 Allgemeine Hinweise" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content",   "note": "§4.2 Aufgabenarten; §4.2.1 Schreibaufgabe" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content",   "note": "§4.2.2 Sprachmittlung (starts mid-page)" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content",   "note": "§4.2.3 Hörverstehen; §4.3 Beschreibung der erwarteten Prüfungsleistung" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content",   "note": "§4.4 Bewertung der Prüfungsleistung; §4.4.1 Allgemeine Hinweise; §4.4.2 Fachspezifische Grundsätze" },
+    { "physical_page": 15, "printed_page": 15,   "kind": "content",   "note": "§4.4.2.1 Bewertung einer Schreibaufgabe" },
+    { "physical_page": 16, "printed_page": 16,   "kind": "content" },
+    { "physical_page": 17, "printed_page": 17,   "kind": "content",   "note": "§4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen" },
+    { "physical_page": 18, "printed_page": 18,   "kind": "content",   "note": "Deskriptorentabelle Schreibaufgabe weitergeführte Fremdsprache – sprachliche Leistung" },
+    { "physical_page": 19, "printed_page": 19,   "kind": "content",   "note": "Deskriptorentabelle Schreibaufgabe neu aufgenommene Fremdsprache" },
+    { "physical_page": 20, "printed_page": 20,   "kind": "content",   "note": "Deskriptorentabellen Schreibaufgabe neu aufgenommene Fremdsprache – sprachliche Leistung" },
+    { "physical_page": 21, "printed_page": 21,   "kind": "content",   "note": "Deskriptorentabelle Sprachmittlung – weitergeführte Fremdsprache" },
+    { "physical_page": 22, "printed_page": 22,   "kind": "content",   "note": "Deskriptorentabelle Sprachmittlung – neu aufgenommene Fremdsprache" },
+    { "physical_page": 23, "printed_page": 23,   "kind": "content",   "note": "§4.4.4 Korrekturzeichen und Anmerkungen" },
+    { "physical_page": 24, "printed_page": 24,   "kind": "content",   "note": "§5 Mündliche Prüfung; §5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH; §5.1.1 Form und Aufgabenstellung" },
+    { "physical_page": 25, "printed_page": 25,   "kind": "content" },
+    { "physical_page": 26, "printed_page": 26,   "kind": "content",   "note": "§5.1.2 Anforderungen und Bewertung" },
+    { "physical_page": 27, "printed_page": 27,   "kind": "content",   "note": "§5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH; §5.2.1 Form und Aufgabenstellung — text layer severely broken (100 text objects; only 15 chars extracted); visual render intact" },
+    { "physical_page": 28, "printed_page": 28,   "kind": "content",   "note": "§5.2.2 Anforderungen und Bewertung" },
+    { "physical_page": 29, "printed_page": 29,   "kind": "content" },
+    { "physical_page": 30, "printed_page": 30,   "kind": "content",   "note": "§5.3 Deskriptoren für die Bewertung mündlicher Prüfungen" },
+    { "physical_page": 31, "printed_page": 31,   "kind": "content",   "note": "Deskriptorentabelle mündliche Leistung Teil 1: Zusammenhängende Darstellung/Präsentation" },
+    { "physical_page": 32, "printed_page": 32,   "kind": "content",   "note": "Deskriptorentabelle mündliche Leistung Teil 2: Fachgespräch" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "1 Fachliche Anforderungen und Inhalte",
+      "printed_page_start": 4,
+      "printed_page_end": 4,
+      "physical_page_start": 4,
+      "physical_page_end": 4,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+      "printed_page_start": 4,
+      "printed_page_end": 4,
+      "physical_page_start": 4,
+      "physical_page_end": 4,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3 Anforderungsbereiche",
+      "printed_page_start": 5,
+      "printed_page_end": 9,
+      "physical_page_start": 5,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.1 Allgemeine Hinweise",
+      "printed_page_start": 5,
+      "printed_page_end": 5,
+      "physical_page_start": 5,
+      "physical_page_end": 5,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.2 Fachspezifische Beschreibung der Anforderungsbereiche",
+      "printed_page_start": 6,
+      "printed_page_end": 9,
+      "physical_page_start": 6,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Operatoren",
+      "printed_page_start": 8,
+      "printed_page_end": 9,
+      "physical_page_start": 8,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Schriftliche Prüfung",
+      "printed_page_start": 10,
+      "printed_page_end": 23,
+      "physical_page_start": 10,
+      "physical_page_end": 23,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.1 Allgemeine Hinweise",
+      "printed_page_start": 10,
+      "printed_page_end": 10,
+      "physical_page_start": 10,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.2 Aufgabenarten",
+      "printed_page_start": 11,
+      "printed_page_end": 13,
+      "physical_page_start": 11,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.2.1 Schreibaufgabe",
+      "printed_page_start": 11,
+      "printed_page_end": 12,
+      "physical_page_start": 11,
+      "physical_page_end": 12,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.2.2 Sprachmittlung",
+      "printed_page_start": 12,
+      "printed_page_end": 13,
+      "physical_page_start": 12,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.2.3 Hörverstehen",
+      "printed_page_start": 13,
+      "printed_page_end": 13,
+      "physical_page_start": 13,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.3 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizonte und Lösungsschlüssel)",
+      "printed_page_start": 13,
+      "printed_page_end": 13,
+      "physical_page_start": 13,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.4 Bewertung der Prüfungsleistung",
+      "printed_page_start": 14,
+      "printed_page_end": 23,
+      "physical_page_start": 14,
+      "physical_page_end": 23,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.4.1 Allgemeine Hinweise",
+      "printed_page_start": 14,
+      "printed_page_end": 14,
+      "physical_page_start": 14,
+      "physical_page_end": 14,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.4.2 Fachspezifische Grundsätze",
+      "printed_page_start": 14,
+      "printed_page_end": 16,
+      "physical_page_start": 14,
+      "physical_page_end": 16,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+      "printed_page_start": 15,
+      "printed_page_end": 16,
+      "physical_page_start": 15,
+      "physical_page_end": 16,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+      "printed_page_start": 17,
+      "printed_page_end": 22,
+      "physical_page_start": 17,
+      "physical_page_end": 22,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+      "printed_page_start": 23,
+      "printed_page_end": 23,
+      "physical_page_start": 23,
+      "physical_page_end": 23,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5 Mündliche Prüfung",
+      "printed_page_start": 24,
+      "printed_page_end": 32,
+      "physical_page_start": 24,
+      "physical_page_end": 32,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+      "printed_page_start": 24,
+      "printed_page_end": 26,
+      "physical_page_start": 24,
+      "physical_page_end": 26,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.1.1 Form und Aufgabenstellung",
+      "printed_page_start": 24,
+      "printed_page_end": 25,
+      "physical_page_start": 24,
+      "physical_page_end": 25,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.1.2 Anforderungen und Bewertung",
+      "printed_page_start": 26,
+      "printed_page_end": 26,
+      "physical_page_start": 26,
+      "physical_page_end": 26,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+      "printed_page_start": 27,
+      "printed_page_end": 29,
+      "physical_page_start": 27,
+      "physical_page_end": 29,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.2.1 Form und Aufgabenstellung",
+      "printed_page_start": 27,
+      "printed_page_end": 27,
+      "physical_page_start": 27,
+      "physical_page_end": 27,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.2.2 Anforderungen und Bewertung",
+      "printed_page_start": 28,
+      "printed_page_end": 29,
+      "physical_page_start": 28,
+      "physical_page_end": 29,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.3 Deskriptoren für die Bewertung mündlicher Prüfungen",
+      "printed_page_start": 30,
+      "printed_page_end": 32,
+      "physical_page_start": 30,
+      "physical_page_end": 32,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    }
+  ]
+}

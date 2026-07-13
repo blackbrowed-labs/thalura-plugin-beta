@@ -1,0 +1,12 @@
+{
+  "name": "blackbrowed-labs",
+  "description": "Plugins by Lars Weiser (blackbrowed-labs) for Hamburg teachers.",
+  "owner": { "name": "Lars Weiser", "url": "https://github.com/blackbrowed-labs" },
+  "plugins": [
+    {
+      "name": "thalura",
+      "source": "./",
+      "description": "AI-assisted lesson planning and assessment creation for Hamburg teachers (English, Philosophy, Psychology, Religion). Grounded in official regulations."
+    }
+  ]
+}

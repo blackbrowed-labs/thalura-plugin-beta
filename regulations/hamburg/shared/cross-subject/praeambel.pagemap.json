@@ -1,0 +1,94 @@
+{
+  "document_id": "praeambel",
+  "document_title": "Präambel",
+  "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+  "index_version": 1,
+  "physical_page_count": 8,
+  "page_identity": {
+    "model": "simple",
+    "offset": 0,
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1, "printed_page": null, "kind": "cover" },
+    { "physical_page": 2, "printed_page": 2,    "kind": "impressum" },
+    { "physical_page": 3, "printed_page": 3,    "kind": "content" },
+    { "physical_page": 4, "printed_page": 4,    "kind": "content" },
+    { "physical_page": 5, "printed_page": 5,    "kind": "content" },
+    { "physical_page": 6, "printed_page": 6,    "kind": "content" },
+    { "physical_page": 7, "printed_page": 7,    "kind": "content" },
+    { "physical_page": 8, "printed_page": 8,    "kind": "content", "note": "Back-cover page — URL only (www.hamburg.de/bildungsplaene)" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "Präambel",
+      "printed_page_start": 3,
+      "printed_page_end": 7,
+      "physical_page_start": 3,
+      "physical_page_end": 7,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Die Bildungspläne stärken die bewährte und erfolgreiche Hamburger Lernkultur",
+      "printed_page_start": 3,
+      "printed_page_end": 3,
+      "physical_page_start": 3,
+      "physical_page_end": 3,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Aktualisierung und Weiterentwicklung der bestehenden Lernkultur",
+      "printed_page_start": 4,
+      "printed_page_end": 4,
+      "physical_page_start": 4,
+      "physical_page_end": 4,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Kerncurricula verbessern die Kompetenzorientierung und die Teilhabe",
+      "printed_page_start": 5,
+      "printed_page_end": 5,
+      "physical_page_start": 5,
+      "physical_page_end": 5,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Hinweise und Beispiele für die Verankerung der Leitperspektiven und der Sprachbildung im Unterricht",
+      "printed_page_start": 5,
+      "printed_page_end": 5,
+      "physical_page_start": 5,
+      "physical_page_end": 5,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Darstellung der Kerncurricula und ihrer Bezüge",
+      "printed_page_start": 5,
+      "printed_page_end": 6,
+      "physical_page_start": 5,
+      "physical_page_end": 6,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Die Kerncurricula und ihre schulindividuelle Ausgestaltung",
+      "printed_page_start": 6,
+      "printed_page_end": 7,
+      "physical_page_start": 6,
+      "physical_page_end": 7,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    }
+  ]
+}

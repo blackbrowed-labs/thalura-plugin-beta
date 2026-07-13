@@ -1,0 +1,5 @@
+{
+  "internal_compliance_check": true,
+  "pdf_on_validation": "student_facing",
+  "generate_student_slides": true
+}

@@ -1,0 +1,24 @@
+{
+  "subjects": [
+    {
+      "id": "english",
+      "abbreviation": "E",
+      "has_overlay": true
+    },
+    {
+      "id": "philosophy",
+      "abbreviation": "P",
+      "has_overlay": true
+    },
+    {
+      "id": "psychology",
+      "abbreviation": "Psy",
+      "has_overlay": true
+    },
+    {
+      "id": "religion",
+      "abbreviation": "R",
+      "has_overlay": true
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c": {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "path": "gymnasium/cross-subject/rahmenvorgaben-sprachbildung.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123150/a8bdc1dc06ffaa810c4f90078d1af91f/sprabi-seki-ii-gym-dl-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966": {
+      "document_id": "sek1-aufgabengebiete",
+      "path": "gymnasium/cross-subject/sek1-aufgabengebiete.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/798498/3db5aa5a0f94b1d0512cdb83882c1b57/aufgabengebiete-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db": {
+      "document_id": "sek1-teil-c",
+      "path": "gymnasium/cross-subject/sek1-teil-c.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/798488/251acd87545f55fad72fc95d6402821c/teil-c-leistungsbewertung-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb": {
+      "document_id": "bildungsplan-sek1-english",
+      "path": "gymnasium/english/bildungsplan-sek1-english.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/122938/ea8fcb338d06e068c1e13091afa61761/englisch-gym-seki-2022-data.pdf",
+      "edition": "2022",
+      "url_note": null
+    },
+    "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a": {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "path": "gymnasium/philosophy/bildungsplan-sek1-philosophy.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/798532/588534f8a32cad82bfb3dde9e11a3046/philosophie-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943": {
+      "document_id": "bildungsplan-sek1-religion",
+      "path": "gymnasium/religion/bildungsplan-sek1-religion.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/122948/ca7d9df7f4657444f6b26f7532ea249c/religion-gym-seki-2022-data.pdf",
+      "edition": "2022",
+      "url_note": null
+    },
+    "0b4e0e8916f44e4d414969d0aeadbc7b5d07d3ee69f3779bea425f5b092ff6cc": {
+      "document_id": "a-heft-2026",
+      "path": "shared/cross-subject/a-heft-2026.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/925720/de438f05da6e7d4a9ec859b133de5ca6/abitur-a-heft-2026-data.pdf",
+      "edition": "2026",
+      "url_note": null
+    },
+    "052af16d5e32801145e88890c33c078919e81d35045e088871644845b4c4ef39": {
+      "document_id": "a-heft-2027",
+      "path": "shared/cross-subject/a-heft-2027.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/1074128/9a9b1afacd506b6058cb4c3379abaeb6/abitur-a-heft-2027-data.pdf",
+      "edition": "2027",
+      "url_note": null
+    },
+    "d45496ac8c56cad834d599ee0bfef107cf457c75083226b9d9508c6f5cc50ca6": {
+      "document_id": "a-heft-2028",
+      "path": "shared/cross-subject/a-heft-2028.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/1184102/9824585ffb0da46c83f00db2fa8cc7f9/abitur-a-heft-2028-data.pdf",
+      "edition": "2028",
+      "url_note": null
+    },
+    "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf": {
+      "document_id": "abiturrichtlinie",
+      "path": "shared/cross-subject/abiturrichtlinie.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123238/1515d36bf8e7bfdc5ab0fd590dceeffe/00-arl-2022-dl-data.pdf",
+      "edition": "2022",
+      "url_note": null
+    },
+    "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5": {
+      "document_id": "allgemeiner-teil",
+      "path": "shared/cross-subject/allgemeiner-teil.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123132/f4ec5d1f1348e96f16dc22d676c53ea2/a-teil-dl-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8": {
+      "document_id": "apo-ah",
+      "path": "shared/cross-subject/apo-ah.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/133942/83622ebebbcb4b771d65dc3b1f1a3996/bsb-apo-ah-18-03-2009-data.pdf",
+      "edition": "2009",
+      "url_note": null
+    },
+    "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f": {
+      "document_id": "apo-grundstgy",
+      "path": "shared/cross-subject/apo-grundstgy.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/136184/0f0b5da5811d0277de8491e6de3acb42/apo-grundstgy-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae": {
+      "document_id": "operatoren-gesellschaftswissenschaften",
+      "path": "shared/cross-subject/operatoren-gesellschaftswissenschaften.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123324/d2d1b1bb33e2dc14d6c456712e048b0a/erlaeuterungen-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37": {
+      "document_id": "praeambel",
+      "path": "shared/cross-subject/praeambel.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123144/288e13cc86e8acec1a0a51e5a12acbc4/praeambel-dl-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa": {
+      "document_id": "sek2-teil-c",
+      "path": "shared/cross-subject/sek2-teil-c.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/122978/fa345e3afc3191a6555e5ba99f447855/c-teil-gym-sekii-dl-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "c4c363f7cd9768c22b61675cee96acf3c6b27775d8a20b21d0f5c193c4b66f2e": {
+      "document_id": "sic-leitfaden",
+      "path": "shared/cross-subject/sic-leitfaden.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123130/2a51fe69ddc3d11318b66ba18fa79776/sic-dl-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365": {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "path": "shared/english/abiturrichtlinie-english-praesentation.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/802218/18c326e70b1ad65cc302ec64160280d9/englisch-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077": {
+      "document_id": "abiturrichtlinie-english",
+      "path": "shared/english/abiturrichtlinie-english.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123242/bd6e11f3c391e0a8e1c48fa22b7a1360/02-englisch-arl-2021-data.pdf",
+      "edition": "2021",
+      "url_note": null
+    },
+    "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0": {
+      "document_id": "bildungsplan-sek2-english",
+      "path": "shared/english/bildungsplan-sek2-english.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/122990/8be6c0cd2aef732c3931bab3dc97c664/fsp-englisch-gyo-2022-data.pdf",
+      "edition": "2022",
+      "url_note": null
+    },
+    "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a": {
+      "document_id": "abiturrichtlinie-philosophy-praesentation",
+      "path": "shared/philosophy/abiturrichtlinie-philosophy-praesentation.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/802242/e032465167fde6cafc3befa644306cfa/philosophie-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e": {
+      "document_id": "abiturrichtlinie-philosophy",
+      "path": "shared/philosophy/abiturrichtlinie-philosophy.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123280/8bd77da39cc2e1585a863e9216a4b246/21-philosophie-arl-2021-data.pdf",
+      "edition": "2021",
+      "url_note": null
+    },
+    "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd": {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "path": "shared/philosophy/bildungsplan-sek2-philosophy.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123090/4ebb1840dfb42319a7bd50bf3f29a4e2/philosophie-gyo-2022-data.pdf",
+      "edition": "2022",
+      "url_note": null
+    },
+    "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54": {
+      "document_id": "operatoren-beispiel-philosophie",
+      "path": "shared/philosophy/operatoren-beispiel-philosophie.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123340/5f57d4e76ec224de1452c5ed581e050b/fachspezifische-beispiele-philosophie-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36": {
+      "document_id": "abiturrichtlinie-psychology-praesentation",
+      "path": "shared/psychology/abiturrichtlinie-psychology-praesentation.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/802250/bfbd8929c3d9c52ff283a6dce5164713/psychologie-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7": {
+      "document_id": "abiturrichtlinie-psychology",
+      "path": "shared/psychology/abiturrichtlinie-psychology.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123284/d4d9747644c1f510ce53020dba0c1ff4/23-psychologie-arl-2021-data.pdf",
+      "edition": "2021",
+      "url_note": null
+    },
+    "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022": {
+      "document_id": "bildungsplan-sek1-psychology",
+      "path": "shared/psychology/bildungsplan-sek1-psychology.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/798408/12ecdbb73f4c799cb8e8b318340f47bc/psychologie-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80": {
+      "document_id": "bildungsplan-sek2-psychology",
+      "path": "shared/psychology/bildungsplan-sek2-psychology.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123098/d7a3b747142bce77013ab01fced4112b/psychologie-gyo-2022-data.pdf",
+      "edition": "2022",
+      "url_note": null
+    },
+    "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20": {
+      "document_id": "operatoren-beispiel-psychologie",
+      "path": "shared/psychology/operatoren-beispiel-psychologie.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123344/dc3ff0c9aa837fca9efc443b9f7d37fb/fachspezifische-beispiele-psychologie-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "10fc62838b0227d4c8df00b2c691b3029e4f6c0077911f88b6846002c66b1574": {
+      "document_id": "abiturrichtlinie-religion-praesentation",
+      "path": "shared/religion/abiturrichtlinie-religion-praesentation.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/802252/18396318a6f89d40f7e7daa9ed8a22e0/religion-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "33f4d21680a35d21b532b95822e680c786368b87c53b51f61eae56a05de6c43a": {
+      "document_id": "abiturrichtlinie-religion",
+      "path": "shared/religion/abiturrichtlinie-religion.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123288/c9f7f68037796af1243637456a850ce2/25-religion-arl-2021-data.pdf",
+      "edition": "2021",
+      "url_note": null
+    },
+    "9c151cb7c444f66754b7907dca2d0dc7d150d5d40b7fd8ccdca9fcaeb38da3f4": {
+      "document_id": "bildungsplan-sek1-religion-erlaeuterungen",
+      "path": "shared/religion/bildungsplan-sek1-religion-erlaeuterungen.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123146/1c32c6dc03f3bb8191cdae026e4e18c0/rel-he-dl-neu-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "792ff4c957dd21d01be0f49a0b77d34c5139124d78d8e7f8c8facdb681d7b7c5": {
+      "document_id": "bildungsplan-sek2-religion",
+      "path": "shared/religion/bildungsplan-sek2-religion.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/123106/a6e405e50687e99c7856f425d7823458/religion-gyo-2022-data.pdf",
+      "edition": "2022",
+      "url_note": null
+    },
+    "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d": {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "path": "stadtteilschule/cross-subject/rahmenvorgaben-sprachbildung.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/122956/7dc6bfd261308a69d4c779ccadf7685f/sprabi-seki-sts-dl-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c": {
+      "document_id": "sek1-aufgabengebiete",
+      "path": "stadtteilschule/cross-subject/sek1-aufgabengebiete.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/798356/a7cf7d17252ce96e752200742b834428/aufgabengebiete-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd": {
+      "document_id": "sek1-teil-c",
+      "path": "stadtteilschule/cross-subject/sek1-teil-c.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/798348/b90a28a8e27ba7b4169fedbc33474269/teil-c-leistungsbewertung-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5": {
+      "document_id": "bildungsplan-sek1-english",
+      "path": "stadtteilschule/english/bildungsplan-sek1-english.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/122964/3812266b9334c5b6d4e13c1971939d98/englisch-sts-2022-data.pdf",
+      "edition": "2022",
+      "url_note": null
+    },
+    "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371": {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "path": "stadtteilschule/philosophy/bildungsplan-sek1-philosophy.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/798418/732d887455ec0d1ec5bbd1c13899ef03/philosophie-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "8d2b132578172994ff6910ccd8e91e5668b98a7ff493786eeb0fa4512cee166d": {
+      "document_id": "musteraufgaben-esa-philosophy",
+      "path": "stadtteilschule/philosophy/musteraufgaben-esa-philosophy.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/1138958/7efe8275a69e12bc0bcdc1e586aa4291/philosophie-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "10831d58410615d2fd3ee2aa781b6d4052d3d0fe856e7f99ee272cca5d121ea2": {
+      "document_id": "musteraufgaben-msa-philosophy",
+      "path": "stadtteilschule/philosophy/musteraufgaben-msa-philosophy.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/1138984/4c90eea4f98bab3e1071e6b2c218e3cd/philosophie-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50": {
+      "document_id": "bildungsplan-sek1-religion",
+      "path": "stadtteilschule/religion/bildungsplan-sek1-religion.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/122972/fc58a5e470ccb42d9bc5285603d3d108/religion-sts-2022-data.pdf",
+      "edition": "2022",
+      "url_note": null
+    },
+    "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf": {
+      "document_id": "musteraufgaben-esa-religion",
+      "path": "stadtteilschule/religion/musteraufgaben-esa-religion.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/1138954/b359fef1649eabf01977b8b1d5b254ca/religion-data.pdf",
+      "edition": null,
+      "url_note": null
+    },
+    "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320": {
+      "document_id": "musteraufgaben-msa-religion",
+      "path": "stadtteilschule/religion/musteraufgaben-msa-religion.pdf",
+      "canonical_url": "https://dokumente.hamburg.de/resource/blob/1138990/aa149821749b90fdd1181c8e070293da/religion-data.pdf",
+      "edition": null,
+      "url_note": null
+    }
+  }
+}

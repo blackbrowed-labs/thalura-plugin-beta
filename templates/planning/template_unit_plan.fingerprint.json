@@ -1,0 +1,50 @@
+{
+  "application": "Thalura",
+  "family": "planning",
+  "fingerprint_schema": 1,
+  "header_footer_parts": [
+    "word/footer1.xml",
+    "word/header1.xml"
+  ],
+  "placeholders": [
+    "{{AI_GENERATION_NOTICE_HEADING}}",
+    "{{AI_GENERATION_NOTICE}}",
+    "{{BODY_CONTENT}}",
+    "{{DURATION}}",
+    "{{GENERATION_DATE}}",
+    "{{GRADE}}",
+    "{{RAHMENTHEMA}}",
+    "{{SCHWERPUNKTTHEMA}}",
+    "{{SEMESTER}}",
+    "{{SUBJECT}}",
+    "{{TEACHER_ABBR}}",
+    "{{TEACHER_NAME}}",
+    "{{UNIT_TITLE}}"
+  ],
+  "source_sha256": "6ff4cfe893bdf3831e6a92f999bcce186d60961a738c68ab936d642633d4b939",
+  "style_ids": [
+    "Absatz-Standardschriftart",
+    "Endnotentext",
+    "EndnotentextZchn",
+    "Endnotenzeichen",
+    "Fett1",
+    "Funotentext",
+    "FunotentextZchn",
+    "Funotenzeichen",
+    "Fuzeile",
+    "Hyperlink",
+    "KeineListe",
+    "Kopfzeile",
+    "Listenabsatz",
+    "NormaleTabelle",
+    "Standard",
+    "Titel",
+    "berschrift1",
+    "berschrift2",
+    "berschrift3",
+    "berschrift4",
+    "berschrift5",
+    "berschrift6"
+  ],
+  "template_id": "template_unit_plan"
+}

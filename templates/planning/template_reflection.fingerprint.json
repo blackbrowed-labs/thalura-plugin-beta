@@ -1,0 +1,46 @@
+{
+  "application": "Thalura",
+  "family": "planning",
+  "fingerprint_schema": 1,
+  "header_footer_parts": [
+    "word/footer1.xml",
+    "word/header1.xml"
+  ],
+  "placeholders": [
+    "{{AI_GENERATION_NOTICE_HEADING}}",
+    "{{AI_GENERATION_NOTICE}}",
+    "{{BODY_CONTENT}}",
+    "{{GENERATION_DATE}}",
+    "{{GRADE}}",
+    "{{REFLECTION_TITLE}}",
+    "{{SUBJECT}}",
+    "{{TEACHER_ABBR}}",
+    "{{UNIT_TITLE}}"
+  ],
+  "source_sha256": "768a5088574601fd3930d04f4da29d0d0beb3b73ac52ef31dfb01fc1839e6622",
+  "style_ids": [
+    "Absatz-Standardschriftart",
+    "Endnotentext",
+    "EndnotentextZchn",
+    "Endnotenzeichen",
+    "Fett1",
+    "Funotentext",
+    "FunotentextZchn",
+    "Funotenzeichen",
+    "Fuzeile",
+    "Hyperlink",
+    "KeineListe",
+    "Kopfzeile",
+    "Listenabsatz",
+    "NormaleTabelle",
+    "Standard",
+    "Titel",
+    "berschrift1",
+    "berschrift2",
+    "berschrift3",
+    "berschrift4",
+    "berschrift5",
+    "berschrift6"
+  ],
+  "template_id": "template_reflection"
+}

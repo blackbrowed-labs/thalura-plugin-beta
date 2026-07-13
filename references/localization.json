@@ -1,0 +1,561 @@
+{
+  "de": {
+    "subjects": {
+      "english": "Englisch",
+      "philosophy": "Philosophie",
+      "psychology": "Psychologie",
+      "religion": "Religion"
+    },
+
+    "document_types": {
+      "unit_plan": "Einheitenplanung",
+      "lesson_plan": "Verlaufsplan",
+      "material_overview": "Materialübersicht",
+      "reflection": "Reflexion",
+      "task": "Aufgabe",
+      "rubric": "Erwartungshorizont",
+      "evaluation_full": "Bewertung (Lehrerdokumentation)",
+      "evaluation_feedback": "Rückmeldung (SuS)",
+      "evaluation_feedback_abbreviation": "Rückmeldung (SuS)",
+      "evaluation_feedback_full": "Rückmeldung (Schülerinnen und Schüler)",
+      "year_overview": "Schuljahresübersicht"
+    },
+
+    "document_filenames": {
+      "unit_plan": "Einheitenplanung",
+      "material_overview": "Materialübersicht",
+      "reflection": "Reflexion",
+      "task": "Aufgabe",
+      "rubric": "Erwartungshorizont",
+      "diagnostic_report": "Fehlerbericht",
+      "year_overview": "Schuljahresübersicht"
+    },
+
+    "folder_names": {
+      "lessons": "Stunden",
+      "materials": "Materialien",
+      "assessments": "Lernkontrollen",
+      "submissions": "Abgaben"
+    },
+
+    "system_labels": {
+      "draft_suffix": "ENTWURF",
+      "draft_marker": "(Entwurf)"
+    },
+
+    "lesson_slots": {
+      "single": "Einzelstunde",
+      "double": "Doppelstunde"
+    },
+
+    "profile_fields": {
+      "name": "Name",
+      "teacher_abbreviation": "Kürzel",
+      "email": "E-Mail",
+      "school_id": "Schul-ID",
+      "school_name": "Schulname",
+      "federal_state": "Bundesland",
+      "school_type": "Schulform",
+      "conversation_language": "Gesprächssprache",
+      "subjects": "Fächer",
+      "target_language": "Zielsprache",
+      "content_language": "Inhaltssprache",
+      "lesson_slots": "Unterrichtszeiten",
+      "website": "Website",
+      "branding": "Schulbranding",
+      "primary_color": "Hauptfarbe",
+      "secondary_color": "Sekundärfarbe",
+      "accent_color": "Akzentfarbe",
+      "logo": "Schullogo"
+    },
+
+    "education": {
+      "sek1": "Sekundarstufe I",
+      "sek2": "Sekundarstufe II",
+      "grade_level": "Klassenstufe",
+      "abitur_year": "Abiturjahrgang",
+      "school_year": "Schuljahr",
+      "course_level_ga": "grundlegendes Anforderungsniveau",
+      "course_level_ea": "erhöhtes Anforderungsniveau",
+      "beobachtungsstufe": "Beobachtungsstufe",
+      "mittelstufe": "Mittelstufe",
+      "studienstufe": "Studienstufe",
+      "vorstufe": "Vorstufe",
+      "esa": "Erster allgemeinbildender Schulabschluss",
+      "msa": "Mittlerer Schulabschluss"
+    },
+
+    "phases": {
+      "warm_up": "Einstieg",
+      "main_phase": "Erarbeitung",
+      "consolidation": "Sicherung",
+      "reflection": "Reflexion",
+      "transfer": "Transfer"
+    },
+
+    "assessment_types": {
+      "short_test": "Kurztest",
+      "exam_sek1": "Klausur (Sek I)",
+      "exam_sek2_ga": "Klausur (Sek II, gA)",
+      "exam_sek2_ea": "Klausur (Sek II, eA)",
+      "abitur_exam": "Abiturklausur",
+      "oral_abitur_exam": "Präsentationsprüfung",
+      "presentation": "Referat",
+      "vocabulary_test": "Vokabeltest",
+      "portfolio": "Portfolio",
+      "oral_esa_exam": "Mündliche Prüfung ESA",
+      "oral_msa_exam": "Mündliche Prüfung MSA"
+    },
+
+    "material_types": {
+      "worksheet": "Arbeitsblatt",
+      "handout": "Handout",
+      "slides": "Folien",
+      "reading_text": "Lesetext",
+      "student_task_deck": "Aufgabenfolien"
+    },
+
+    "naming_labels": {
+      "unit_plan": "Einheitenplanung",
+      "lesson_plan": "Verlaufsplan",
+      "assessment_student": "Aufgabe",
+      "assessment_rubric": "Erwartungshorizont",
+      "reflection": "Reflexion",
+      "materials_overview": "Materialübersicht",
+      "student_task_deck": "Aufgabenfolien",
+      "year_overview": "Schuljahresübersicht"
+    },
+
+    "image_labels": {
+      "image_section_header": "Bilder / Infografiken",
+      "replace_instructions_line1": "Prompt aus dem nächsten Kommentar kopieren",
+      "replace_instructions_line2": "gemini.google.com → Tools → Bilder erstellen →",
+      "replace_instructions_line3": "Bild generieren und herunterladen",
+      "replace_instructions_line4": "Rechtsklick auf Platzhalter → \"Bild ändern\" → Bild auswählen",
+      "model_label": "Modell",
+      "aspect_ratio_label": "Seitenverhältnis",
+      "resolution_label": "Auflösung",
+      "validation_prompt": "Wurden alle Platzhalterbilder ersetzt?",
+      "images_pending": "Bilder noch ausstehend",
+      "fast": "Schnell",
+      "pro": "Pro",
+      "auto_generation_notice": "Freigegebene Bilder werden automatisch generiert.",
+      "auto_generated_marker": "automatisch generiert",
+      "generation_summary": "Bilder: {generated} generiert, {pending} als Platzhalter",
+      "generation_failed_fallback": "{image_id} konnte nicht automatisch generiert werden — Platzhalter eingefügt (Bild-Prompt liegt als Kommentar im Dokument)."
+    },
+
+    "planning_sections": {
+      "cover_page": "Deckblatt",
+      "unit_objective": "Gesamtziel der Einheit",
+      "competency_overview": "Kompetenzübersicht",
+      "lesson_overview": "Stundenübersicht",
+      "curriculum_anchoring": "Bildungsplan-Verankerung",
+      "sic_alignment": "Schulinternes Curriculum",
+      "unit_guiding_question": "Leitfrage der Einheit",
+      "didactic_concept": "Didaktisches Konzept",
+      "differentiation_concept": "Differenzierungskonzept",
+      "placement_in_unit": "Einordnung in die Einheit",
+      "phase_table": "Verlaufsplan",
+      "didactic_methodological_commentary": "Didaktisch-methodischer Kommentar",
+      "material_overview_lesson": "Materialübersicht für diese Stunde",
+      "materials_to_create": "Zu erstellende Materialien",
+      "standard_supplies": "Standardmaterial",
+      "rubric": "Erwartungshorizont",
+      "differentiation": "Differenzierung",
+      "expected_outcomes": "Erwartete Ergebnisse",
+      "notes_remarks": "Notizen / Hinweise",
+      "lesson_reflection": "Stundenreflexion",
+      "generated_materials": "Generierte Materialien",
+      "standard_supplies_overview": "Standardmaterial (Gesamtübersicht)",
+      "overall_assessment": "Gesamteinschätzung",
+      "what_worked_well": "Was gut funktioniert hat",
+      "what_to_change": "Was ich ändern würde",
+      "method_effectiveness": "Methodenwirksamkeit",
+      "bildungsplan_alignment": "Passung zum Bildungsplan",
+      "student_feedback": "Rückmeldung der SuS",
+      "student_feedback_abbreviation": "Rückmeldung der SuS",
+      "student_feedback_full": "Rückmeldung der Schülerinnen und Schüler",
+      "adaptations_for_reuse": "Anpassungen für die Wiederverwendung",
+      "guiding_perspectives": "Leitperspektiven",
+      "cross_curricular_task_areas": "Aufgabengebiete",
+      "key_terms": "Fachbegriffe",
+      "curriculum_reference": "Bildungsplan-Bezug",
+      "time_budget": "Zeitbudget",
+      "prerequisite_check": "Vorwissen-Check",
+      "assessment_note": "Bewertungshinweis",
+      "time_buffer": "Zeitpuffer",
+      "year_overview_coverage": "Kompetenzabdeckung",
+      "year_overview_units": "Einheiten",
+      "year_overview_abitur_countdown": "Countdown bis zum Abitur",
+      "year_overview_coverage_gap": "— (noch nicht abgedeckt)",
+      "year_overview_coverage_empty": "Noch keine Kompetenzabdeckung erfasst.",
+      "year_overview_units_empty": "Noch keine Einheiten geplant."
+    },
+
+    "gendering": {
+      "student_docs_examples": {
+        "neutral": "die Lernenden",
+        "paired": "Schülerinnen und Schüler",
+        "colon": "Schüler:innen",
+        "star": "Schüler*innen"
+      },
+      "teacher_docs_examples": {
+        "abbreviation": "SuS / LuL / KuK",
+        "full": "Schülerinnen und Schüler"
+      },
+      "column_headers": {
+        "option": "Option",
+        "example": "Beispiel",
+        "official_status": "Amtlicher Status",
+        "accessibility": "Barrierefreiheit"
+      },
+      "student_docs_option_names": {
+        "neutral": "Neutrale Form",
+        "paired": "Beidnennung",
+        "colon": "Gender-Doppelpunkt",
+        "star": "Gendersternchen"
+      },
+      "teacher_docs_option_names": {
+        "abbreviation": "Abkürzungen",
+        "full": "Ausgeschrieben"
+      },
+      "official_status_flags": {
+        "within": "Innerhalb des amtlichen Regelwerks",
+        "outside": "Außerhalb des amtlichen Regelwerks"
+      },
+      "accessibility_notes": {
+        "most_accessible": "Am barrierefreisten — keine Sonderzeichen",
+        "fully_accessible": "Voll barrierefrei",
+        "weaker_colon": "Schwächer — Sonderzeichen, längere Screenreader-Pause",
+        "star_preferred": "Sonderzeichen — Screenreader: `*` vor `:` empfohlen"
+      }
+    },
+
+    "special_needs_accommodations": {
+      "chunked_tasks": "Aufgaben in kurze, klar abgegrenzte Blöcke (ca. 15 Minuten) mit je einem Ziel gegliedert",
+      "clear_structure": "klare, vorhersehbare Stundenstruktur mit sichtbarer Schrittfolge",
+      "visual_markers": "visuelle Phasenmarker und Checklisten zur Orientierung",
+      "movement_breaks": "kurze Bewegungspausen zwischen den Arbeitsblöcken",
+      "extended_time": "verlängerte Bearbeitungszeit bei gleicher Aufgabe",
+      "spell_check_allowed": "Rechtschreibung wird nicht in die Bewertung einbezogen, wo sie nicht der geprüfte Kompetenzbereich ist",
+      "larger_font": "größere Schrift (mindestens 14 pt) und gut lesbare Schriftart",
+      "reduced_text_density": "geringere Textdichte und großzügiges, übersichtliches Layout",
+      "oral_alternative": "mündliche oder Audio-Alternative bei gleicher Aufgabe und gleichem Anspruch",
+      "extension_tasks": "Erweiterungsaufgaben auf höherem Anforderungsniveau zusätzlich zu den Kernaufgaben",
+      "advanced_sources": "anspruchsvollere Quellentexte für vertieftes, selbstständiges Arbeiten",
+      "open_research": "offene Forschungs- oder Transferfragen für eigenständige Vertiefung",
+      "bilingual_glossary": "zweisprachiges Glossar für die zentralen Begriffe der Einheit",
+      "simplified_instructions": "vereinfachte Arbeitsanweisungen neben dem Originaltext",
+      "visual_scaffolding": "visuelle Hilfen (Bilder, Diagramme, Strukturhilfen) zur Bedeutungssicherung",
+      "sentence_starters": "Satzanfänge und Satzbausteine als Schreibhilfe",
+      "predictable_structure": "vorhersehbare Struktur; Veränderungen werden frühzeitig angekündigt",
+      "written_instructions": "schriftliche und explizite Arbeitsanweisungen ohne implizite Sprache",
+      "structured_roles": "Gruppenarbeit mit klar definierten Rollen oder strukturierte Einzelalternative",
+      "reduced_sensory_load": "reduzierte sensorische Belastung (Lärm, visuelle Reize, Enge)",
+      "digital_alternative": "digitales Alternativformat zur barrierefreien Bearbeitung",
+      "flexible_layout": "flexibles Layout, angepasst an Arbeitshilfen und Sitzplatz",
+      "large_print": "Großdruck in der für die Schülerin oder den Schüler passenden Größe",
+      "high_contrast": "hoher Kontrast zwischen Text und Hintergrund",
+      "verbal_descriptions": "verbale Beschreibungen von Bildern, Diagrammen und Visualisierungen",
+      "accessible_document": "screenreader-kompatibles, barrierefreies Dokument; bei Bedarf taktile oder vergrößerte Grafiken",
+      "visual_instructions": "Arbeitsanweisungen zusätzlich zur mündlichen Form visuell geben",
+      "written_task_cards": "schriftliche Aufgabenkarten, sodass jede Anweisung dauerhaft verfügbar ist",
+      "reduced_audio": "geringere Audio-Abhängigkeit; alternativer, nicht-auditiver Zugang zum Inhalt",
+      "transcripts": "Transkripte oder Untertitel für audiovisuelles Material; Sitz- und Sichtplatz beachten"
+    },
+
+    "ai_generation_notice": {
+      "ai_generation_notice_heading": "Erstellungshinweis",
+      "ai_generation_notice": "Dieses Dokument wurde mit KI-Unterstützung erstellt und von der Lehrkraft geprüft und freigegeben."
+    },
+
+    "unit_status_labels": {
+      "planned": "Geplant",
+      "active": "Aktiv",
+      "completed": "Abgeschlossen",
+      "reflected": "Reflektiert",
+      "modified": "Überarbeitet"
+    }
+  },
+
+  "en": {
+    "subjects": {
+      "english": "English",
+      "philosophy": "Philosophy",
+      "psychology": "Psychology",
+      "religion": "Religion"
+    },
+
+    "document_types": {
+      "unit_plan": "Unit Plan",
+      "lesson_plan": "Lesson Plan",
+      "material_overview": "Materials Overview",
+      "reflection": "Reflection",
+      "task": "Task",
+      "rubric": "Rubric",
+      "evaluation_full": "Evaluation (Teacher)",
+      "evaluation_feedback": "Student Feedback",
+      "evaluation_feedback_abbreviation": "Student Feedback",
+      "evaluation_feedback_full": "Student Feedback",
+      "year_overview": "Year Overview"
+    },
+
+    "document_filenames": {
+      "unit_plan": "UnitPlan",
+      "material_overview": "MaterialOverview",
+      "reflection": "Reflection",
+      "task": "Task",
+      "rubric": "Rubric",
+      "diagnostic_report": "DiagnosticReport",
+      "year_overview": "YearOverview"
+    },
+
+    "folder_names": {
+      "lessons": "Lessons",
+      "materials": "Materials",
+      "assessments": "Assessments",
+      "submissions": "Submissions"
+    },
+
+    "system_labels": {
+      "draft_suffix": "DRAFT",
+      "draft_marker": "(Draft)"
+    },
+
+    "lesson_slots": {
+      "single": "Single Period",
+      "double": "Double Period"
+    },
+
+    "profile_fields": {
+      "name": "Name",
+      "teacher_abbreviation": "Abbreviation",
+      "email": "Email",
+      "school_id": "School ID",
+      "school_name": "School Name",
+      "federal_state": "Federal State",
+      "school_type": "School Type",
+      "conversation_language": "Conversation Language",
+      "subjects": "Subjects",
+      "target_language": "Target Language",
+      "content_language": "Content Language",
+      "lesson_slots": "Lesson Slots",
+      "website": "Website",
+      "branding": "School Branding",
+      "primary_color": "Primary Color",
+      "secondary_color": "Secondary Color",
+      "accent_color": "Accent Color",
+      "logo": "School Logo"
+    },
+
+    "education": {
+      "sek1": "Lower Secondary",
+      "sek2": "Upper Secondary",
+      "grade_level": "Grade Level",
+      "abitur_year": "Abitur Year",
+      "school_year": "School Year",
+      "course_level_ga": "Standard Level",
+      "course_level_ea": "Advanced Level",
+      "beobachtungsstufe": "Observation Stage",
+      "mittelstufe": "Middle School",
+      "studienstufe": "Upper Secondary",
+      "vorstufe": "Preparatory Year",
+      "esa": "First General School-Leaving Certificate",
+      "msa": "Intermediate School-Leaving Certificate"
+    },
+
+    "phases": {
+      "warm_up": "Warm-Up",
+      "main_phase": "Main Phase",
+      "consolidation": "Consolidation",
+      "reflection": "Reflection",
+      "transfer": "Transfer"
+    },
+
+    "assessment_types": {
+      "short_test": "Short Test",
+      "exam_sek1": "Exam (Sek I)",
+      "exam_sek2_ga": "Exam (Sek II, Standard)",
+      "exam_sek2_ea": "Exam (Sek II, Advanced)",
+      "abitur_exam": "Abitur Exam",
+      "oral_abitur_exam": "Oral Abitur Exam",
+      "presentation": "Presentation",
+      "vocabulary_test": "Vocabulary Test",
+      "portfolio": "Portfolio",
+      "oral_esa_exam": "ESA Oral Exam",
+      "oral_msa_exam": "MSA Oral Exam"
+    },
+
+    "material_types": {
+      "worksheet": "Worksheet",
+      "handout": "Handout",
+      "slides": "Slides",
+      "reading_text": "Reading Text",
+      "student_task_deck": "Task Slides"
+    },
+
+    "naming_labels": {
+      "unit_plan": "UnitPlan",
+      "lesson_plan": "LessonPlan",
+      "assessment_student": "Task",
+      "assessment_rubric": "Rubric",
+      "reflection": "Reflection",
+      "materials_overview": "MaterialOverview",
+      "student_task_deck": "Task Slides",
+      "year_overview": "YearOverview"
+    },
+
+    "image_labels": {
+      "image_section_header": "Images / Infographics",
+      "replace_instructions_line1": "Copy the prompt from the next comment",
+      "replace_instructions_line2": "Go to gemini.google.com → Tools → Create Images →",
+      "replace_instructions_line3": "Generate the image, download it",
+      "replace_instructions_line4": "Right-click placeholder → \"Change Picture\" → select downloaded image",
+      "model_label": "Model",
+      "aspect_ratio_label": "Aspect ratio",
+      "resolution_label": "Resolution",
+      "validation_prompt": "Have all placeholder images been replaced?",
+      "images_pending": "images still pending",
+      "fast": "Fast",
+      "pro": "Pro",
+      "auto_generation_notice": "Approved images will be generated automatically.",
+      "auto_generated_marker": "generated automatically",
+      "generation_summary": "Images: {generated} generated, {pending} as placeholders",
+      "generation_failed_fallback": "{image_id} could not be generated automatically — placeholder inserted (the image prompt is attached as a comment in the document)."
+    },
+
+    "planning_sections": {
+      "cover_page": "Cover Page",
+      "unit_objective": "Overall Unit Objective",
+      "competency_overview": "Competency Overview",
+      "lesson_overview": "Lesson Overview",
+      "curriculum_anchoring": "Curriculum Anchoring",
+      "sic_alignment": "School-Internal Curriculum",
+      "unit_guiding_question": "Unit Guiding Question",
+      "didactic_concept": "Didactic Concept",
+      "differentiation_concept": "Differentiation Concept",
+      "placement_in_unit": "Placement within the Unit",
+      "phase_table": "Phase Table",
+      "didactic_methodological_commentary": "Didactic-Methodological Commentary",
+      "material_overview_lesson": "Material Overview for this Lesson",
+      "materials_to_create": "Materials to Create",
+      "standard_supplies": "Standard Supplies",
+      "rubric": "Expected Outcomes",
+      "differentiation": "Differentiation",
+      "expected_outcomes": "Expected Outcomes",
+      "notes_remarks": "Notes / Remarks",
+      "lesson_reflection": "Lesson Reflection",
+      "generated_materials": "Generated Materials",
+      "standard_supplies_overview": "Standard Supplies (Overview)",
+      "overall_assessment": "Overall Assessment",
+      "what_worked_well": "What Worked Well",
+      "what_to_change": "What I Would Change",
+      "method_effectiveness": "Method Effectiveness",
+      "bildungsplan_alignment": "Alignment with Curriculum Standards",
+      "student_feedback": "Student Feedback",
+      "student_feedback_abbreviation": "Student Feedback",
+      "student_feedback_full": "Student Feedback",
+      "adaptations_for_reuse": "Adaptations for Reuse",
+      "guiding_perspectives": "Guiding Perspectives",
+      "cross_curricular_task_areas": "Cross-Curricular Task Areas",
+      "key_terms": "Key Terms",
+      "curriculum_reference": "Curriculum Reference",
+      "time_budget": "Time Budget",
+      "prerequisite_check": "Prerequisite Knowledge Check",
+      "assessment_note": "Assessment Note",
+      "time_buffer": "Time Buffer",
+      "year_overview_coverage": "Competency Coverage",
+      "year_overview_units": "Units",
+      "year_overview_abitur_countdown": "Countdown to the Abitur",
+      "year_overview_coverage_gap": "— (not yet covered)",
+      "year_overview_coverage_empty": "No competency coverage recorded yet.",
+      "year_overview_units_empty": "No units planned yet."
+    },
+
+    "gendering": {
+      "student_docs_examples": {
+        "neutral": "die Lernenden",
+        "paired": "Schülerinnen und Schüler",
+        "colon": "Schüler:innen",
+        "star": "Schüler*innen"
+      },
+      "teacher_docs_examples": {
+        "abbreviation": "SuS / LuL / KuK",
+        "full": "Schülerinnen und Schüler"
+      },
+      "column_headers": {
+        "option": "Option",
+        "example": "Example",
+        "official_status": "Official Status",
+        "accessibility": "Accessibility"
+      },
+      "student_docs_option_names": {
+        "neutral": "Neutral form",
+        "paired": "Paired form",
+        "colon": "Gender colon",
+        "star": "Gender star"
+      },
+      "teacher_docs_option_names": {
+        "abbreviation": "Abbreviations",
+        "full": "Written out"
+      },
+      "official_status_flags": {
+        "within": "Within the official orthography",
+        "outside": "Outside the official orthography"
+      },
+      "accessibility_notes": {
+        "most_accessible": "Most accessible — no special characters",
+        "fully_accessible": "Fully accessible",
+        "weaker_colon": "Weaker — special character, longer screen-reader pause",
+        "star_preferred": "Special character — screen readers: `*` preferred over `:`"
+      }
+    },
+
+    "special_needs_accommodations": {
+      "chunked_tasks": "tasks split into short, self-contained blocks (about 15 minutes), each with a single goal",
+      "clear_structure": "a clear, predictable lesson structure with the sequence of steps visible in advance",
+      "visual_markers": "visual phase markers and checklists for orientation",
+      "movement_breaks": "short movement breaks between the work blocks",
+      "extended_time": "extended working time on the same task",
+      "spell_check_allowed": "spelling is not factored into the mark where it is not the assessed competency",
+      "larger_font": "a larger font (at least 14 pt) and a clearly readable typeface",
+      "reduced_text_density": "lower text density and a generous, well-spaced layout",
+      "oral_alternative": "an oral or audio alternative at the same task and the same demand",
+      "extension_tasks": "extension tasks at a higher cognitive-demand level on top of the core tasks",
+      "advanced_sources": "more demanding source texts for deeper, independent work",
+      "open_research": "open-ended research or transfer questions for independent deepening",
+      "bilingual_glossary": "a bilingual glossary for the unit's key terms",
+      "simplified_instructions": "simplified instructions alongside the original wording",
+      "visual_scaffolding": "visual aids (pictures, diagrams, structuring aids) to carry meaning",
+      "sentence_starters": "sentence starters and building blocks as a writing aid",
+      "predictable_structure": "a predictable structure; changes are signalled in advance",
+      "written_instructions": "written and explicit instructions without implicit or figurative wording",
+      "structured_roles": "group work with clearly defined roles, or a structured individual alternative",
+      "reduced_sensory_load": "reduced sensory load (noise, visual clutter, crowding)",
+      "digital_alternative": "a digital alternative format for barrier-free completion",
+      "flexible_layout": "a flexible layout adapted to the student's working aids and seating",
+      "large_print": "large print sized to the student's need",
+      "high_contrast": "high contrast between text and background",
+      "verbal_descriptions": "verbal descriptions of images, diagrams, and visualizations",
+      "accessible_document": "a screen-reader-compatible, accessible document; tactile or enlarged graphics where needed",
+      "visual_instructions": "instructions given visually in addition to the oral form",
+      "written_task_cards": "written task cards so each instruction stays permanently available",
+      "reduced_audio": "reduced audio dependence; an alternative, non-audio route to the content",
+      "transcripts": "transcripts or captions for audio-visual material; note seating and line of sight"
+    },
+
+    "ai_generation_notice": {
+      "ai_generation_notice_heading": "Generation Notice",
+      "ai_generation_notice": "This document was created with AI assistance and reviewed and approved by the teacher."
+    },
+
+    "unit_status_labels": {
+      "planned": "Planned",
+      "active": "Active",
+      "completed": "Completed",
+      "reflected": "Reflected",
+      "modified": "Modified"
+    }
+  }
+}

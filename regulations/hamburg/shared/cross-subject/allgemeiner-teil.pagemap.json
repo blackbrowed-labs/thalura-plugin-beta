@@ -1,0 +1,272 @@
+{
+  "document_id": "allgemeiner-teil",
+  "document_title": "Allgemeiner Teil",
+  "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+  "index_version": 1,
+  "physical_page_count": 36,
+  "page_identity": {
+    "model": "simple",
+    "offset": 0,
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover",     "note": "Cover: Bildungsplan Grundschule, Stadtteilschule, Gymnasium — Allgemeiner Teil" },
+    { "physical_page": 2,  "printed_page": 2,    "kind": "impressum", "note": "Impressum; Hamburg 2022" },
+    { "physical_page": 3,  "printed_page": 3,    "kind": "toc",       "note": "Inhaltsverzeichnis" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content",   "note": "1 Gesetzliche Verankerung" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content",   "note": "2 Grundsätze" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content",   "note": "Entfaltung der Persönlichkeit und Vorbereitung auf das Berufsleben (sub-heading in §2)" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content",   "note": "3 Leitperspektiven; 3.1 Werte für ein gelingendes Zusammenleben" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content",   "note": "3.2 Bildung für nachhaltige Entwicklung" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content",   "note": "BNE circular competency diagram (meaning-bearing); 3.3 Leben und Lernen in einer digital geprägten Welt starts mid-page" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content" },
+    { "physical_page": 15, "printed_page": 15,   "kind": "content",   "note": "4 Sprachbildung als Querschnittsaufgabe in allen Fächern" },
+    { "physical_page": 16, "printed_page": 16,   "kind": "content" },
+    { "physical_page": 17, "printed_page": 17,   "kind": "content",   "note": "5 Lernkultur an Hamburgs Schulen" },
+    { "physical_page": 18, "printed_page": 18,   "kind": "content" },
+    { "physical_page": 19, "printed_page": 19,   "kind": "content" },
+    { "physical_page": 20, "printed_page": 20,   "kind": "content" },
+    { "physical_page": 21, "printed_page": 21,   "kind": "content" },
+    { "physical_page": 22, "printed_page": 22,   "kind": "content" },
+    { "physical_page": 23, "printed_page": 23,   "kind": "content" },
+    { "physical_page": 24, "printed_page": 24,   "kind": "content" },
+    { "physical_page": 25, "printed_page": 25,   "kind": "content" },
+    { "physical_page": 26, "printed_page": 26,   "kind": "content",   "note": "6 Der Auftrag...; 6.1 Grundschule; 6.1.1 Auftrag der Grundschule" },
+    { "physical_page": 27, "printed_page": 27,   "kind": "content",   "note": "6.1.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Grundschule" },
+    { "physical_page": 28, "printed_page": 28,   "kind": "content",   "note": "6.2 Stadtteilschule; 6.2.1 Auftrag der Stadtteilschule" },
+    { "physical_page": 29, "printed_page": 29,   "kind": "content",   "note": "6.2.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Stadtteilschule" },
+    { "physical_page": 30, "printed_page": 30,   "kind": "content" },
+    { "physical_page": 31, "printed_page": 31,   "kind": "content",   "note": "6.3 Gymnasium; 6.3.1 Auftrag des Gymnasiums; 6.3.2 Organisatorischer Rahmen..." },
+    { "physical_page": 32, "printed_page": 32,   "kind": "content" },
+    { "physical_page": 33, "printed_page": 33,   "kind": "content",   "note": "6.4 Die Studienstufe der gymnasialen Oberstufe; 6.4.1; 6.4.2 start mid-page" },
+    { "physical_page": 34, "printed_page": 34,   "kind": "content",   "note": "6.4.3 Organisatorischer Rahmen der Studienstufe" },
+    { "physical_page": 35, "printed_page": 35,   "kind": "content",   "note": "End of 6.4.3 — last content page" },
+    { "physical_page": 36, "printed_page": 36,   "kind": "impressum", "note": "Back page: www.hamburg.de/bildungsplaene" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "1 Gesetzliche Verankerung",
+      "printed_page_start": 4,
+      "printed_page_end": 4,
+      "physical_page_start": 4,
+      "physical_page_end": 4,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2 Grundsätze",
+      "printed_page_start": 5,
+      "printed_page_end": 7,
+      "physical_page_start": 5,
+      "physical_page_end": 7,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3 Leitperspektiven",
+      "printed_page_start": 8,
+      "printed_page_end": 14,
+      "physical_page_start": 8,
+      "physical_page_end": 14,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.1 Werte für ein gelingendes Zusammenleben in einer solidarischen, vielfältigen Gesellschaft",
+      "printed_page_start": 8,
+      "printed_page_end": 10,
+      "physical_page_start": 8,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.2 Bildung für nachhaltige Entwicklung",
+      "printed_page_start": 11,
+      "printed_page_end": 12,
+      "physical_page_start": 11,
+      "physical_page_end": 12,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["diagram"]
+    },
+    {
+      "section_anchor": "3.3 Leben und Lernen in einer digital geprägten Welt",
+      "printed_page_start": 12,
+      "printed_page_end": 14,
+      "physical_page_start": 12,
+      "physical_page_end": 14,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Sprachbildung als Querschnittsaufgabe in allen Fächern",
+      "printed_page_start": 15,
+      "printed_page_end": 16,
+      "physical_page_start": 15,
+      "physical_page_end": 16,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5 Lernkultur an Hamburgs Schulen",
+      "printed_page_start": 17,
+      "printed_page_end": 25,
+      "physical_page_start": 17,
+      "physical_page_end": 25,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6 Der Auftrag der Grundschule, der Stadtteilschule, des Gymnasiums und der Studienstufe der gymnasialen Oberstufe",
+      "printed_page_start": 26,
+      "printed_page_end": 35,
+      "physical_page_start": 26,
+      "physical_page_end": 35,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.1 Grundschule",
+      "printed_page_start": 26,
+      "printed_page_end": 27,
+      "physical_page_start": 26,
+      "physical_page_end": 27,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.1.1 Auftrag der Grundschule",
+      "printed_page_start": 26,
+      "printed_page_end": 26,
+      "physical_page_start": 26,
+      "physical_page_end": 26,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.1.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Grundschule",
+      "printed_page_start": 27,
+      "printed_page_end": 27,
+      "physical_page_start": 27,
+      "physical_page_end": 27,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.2 Stadtteilschule",
+      "printed_page_start": 28,
+      "printed_page_end": 30,
+      "physical_page_start": 28,
+      "physical_page_end": 30,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.2.1 Auftrag der Stadtteilschule",
+      "printed_page_start": 28,
+      "printed_page_end": 28,
+      "physical_page_start": 28,
+      "physical_page_end": 28,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.2.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Stadtteilschule",
+      "printed_page_start": 29,
+      "printed_page_end": 30,
+      "physical_page_start": 29,
+      "physical_page_end": 30,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.3 Gymnasium",
+      "printed_page_start": 31,
+      "printed_page_end": 33,
+      "physical_page_start": 31,
+      "physical_page_end": 33,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.3.1 Auftrag des Gymnasiums",
+      "printed_page_start": 31,
+      "printed_page_end": 31,
+      "physical_page_start": 31,
+      "physical_page_end": 31,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.3.2 Organisatorischer Rahmen und Gestaltungsaufgaben des Gymnasiums",
+      "printed_page_start": 31,
+      "printed_page_end": 33,
+      "physical_page_start": 31,
+      "physical_page_end": 33,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.4 Die Studienstufe der gymnasialen Oberstufe",
+      "printed_page_start": 33,
+      "printed_page_end": 35,
+      "physical_page_start": 33,
+      "physical_page_end": 35,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.4.1 Auftrag der gymnasialen Oberstufe",
+      "printed_page_start": 33,
+      "printed_page_end": 33,
+      "physical_page_start": 33,
+      "physical_page_end": 33,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.4.2 Vorgaben des Bildungsplans für die Studienstufe",
+      "printed_page_start": 33,
+      "printed_page_end": 33,
+      "physical_page_start": 33,
+      "physical_page_end": 33,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.4.3 Organisatorischer Rahmen der Studienstufe",
+      "printed_page_start": 34,
+      "printed_page_end": 35,
+      "physical_page_start": 34,
+      "physical_page_end": 35,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    }
+  ]
+}

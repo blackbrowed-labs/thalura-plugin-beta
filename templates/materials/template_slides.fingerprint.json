@@ -1,0 +1,24 @@
+{
+  "application": "Thalura",
+  "family": "materials",
+  "fingerprint_schema": 1,
+  "placeholders": [
+    "{{COURSE}}",
+    "{{MATERIAL_TITLE}}",
+    "{{SECTION_NUMBER}}",
+    "{{SECTION_SUBTITLE}}",
+    "{{SECTION_TITLE}}",
+    "{{SLIDE_CONTENT}}",
+    "{{SLIDE_NUMBER}}",
+    "{{SLIDE_TITLE}}",
+    "{{SUBJECT}}",
+    "{{TEACHER_ABBR}}"
+  ],
+  "signature_parts": [
+    "ppt/slideLayouts/slideLayout1.xml",
+    "ppt/slideMasters/slideMaster1.xml"
+  ],
+  "source_sha256": "f74ec42611d162780ca479357bce921558a3874682832efa269a450c3af8ce4a",
+  "style_ids": [],
+  "template_id": "template_slides"
+}

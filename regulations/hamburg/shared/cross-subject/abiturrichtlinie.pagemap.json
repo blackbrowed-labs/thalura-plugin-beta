@@ -1,0 +1,135 @@
+{
+  "document_id": "abiturrichtlinie",
+  "document_title": "Abiturrichtlinie",
+  "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+  "index_version": 1,
+  "physical_page_count": 11,
+  "page_identity": {
+    "offset": 0,
+    "model": "simple",
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover", "note": "Title page — 'Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung', 21. Juli 2022, BSB logo. Unnumbered." },
+    { "physical_page": 2,  "printed_page": 2,  "kind": "impressum", "note": "Herausgeber / Impressum; running header 'Abiturrichtlinie 2022'. Carries printed footer '2' (cover is the implicit page 1)." },
+    { "physical_page": 3,  "printed_page": 3,  "kind": "toc", "note": "Inhalt (table of contents); body-derived section starts agree with TOC — TOC reliable." },
+    { "physical_page": 4,  "printed_page": 4,  "kind": "content", "note": "§1 Anwendungsbereich; §2 / §2.1 begin." },
+    { "physical_page": 5,  "printed_page": 5,  "kind": "content", "note": "§2.2 Aufgaben für die schriftliche Prüfung." },
+    { "physical_page": 6,  "printed_page": 6,  "kind": "content", "note": "§3 / §3.1 / §3.2." },
+    { "physical_page": 7,  "printed_page": 7,  "kind": "content", "note": "§4 Korrekturverfahren; §5 Aufgaben für die mündliche Prüfung." },
+    { "physical_page": 8,  "printed_page": 8,  "kind": "content", "note": "§5.1 Mündliche Prüfung; §5.2 Präsentationsprüfung." },
+    { "physical_page": 9,  "printed_page": 9,  "kind": "content", "note": "§6 / §6.1 / §6.2." },
+    { "physical_page": 10, "printed_page": 10, "kind": "content", "note": "§6.3; §7 Bestimmungen für die einzelnen Fächer; §8 Schlussbestimmung." },
+    { "physical_page": 11, "printed_page": 11, "kind": "content", "note": "Anlagen — plain text list of Anlage 1–37 (Fachteile)." }
+  ],
+  "sections": [
+    {
+      "section_anchor": "1 Anwendungsbereich",
+      "printed_page_start": 4, "printed_page_end": 4,
+      "physical_page_start": 4, "physical_page_end": 4,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "2 Regelungen für die zentral gestellten schriftlichen Prüfungsaufgaben",
+      "printed_page_start": 4, "printed_page_end": 5,
+      "physical_page_start": 4, "physical_page_end": 5,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "2.1 Angaben zu den unterrichtlichen Voraussetzungen und den erwarteten Prüfungsleistungen",
+      "printed_page_start": 4, "printed_page_end": 4,
+      "physical_page_start": 4, "physical_page_end": 4,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "2.2 Aufgaben für die schriftliche Prüfung",
+      "printed_page_start": 5, "printed_page_end": 5,
+      "physical_page_start": 5, "physical_page_end": 5,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "3 Regelungen für die dezentral gestellten schriftlichen Prüfungsaufgaben",
+      "printed_page_start": 6, "printed_page_end": 6,
+      "physical_page_start": 6, "physical_page_end": 6,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "3.1 Angaben zu den unterrichtlichen Voraussetzungen und den erwarteten Prüfungsleistungen",
+      "printed_page_start": 6, "printed_page_end": 6,
+      "physical_page_start": 6, "physical_page_end": 6,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "3.2 Aufgaben für die schriftliche Prüfung",
+      "printed_page_start": 6, "printed_page_end": 6,
+      "physical_page_start": 6, "physical_page_end": 6,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "4 Korrekturverfahren für die schriftliche Prüfung",
+      "printed_page_start": 7, "printed_page_end": 7,
+      "physical_page_start": 7, "physical_page_end": 7,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "5 Aufgaben für die mündliche Prüfung",
+      "printed_page_start": 7, "printed_page_end": 8,
+      "physical_page_start": 7, "physical_page_end": 8,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+      "printed_page_start": 8, "printed_page_end": 8,
+      "physical_page_start": 8, "physical_page_end": 8,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+      "printed_page_start": 8, "printed_page_end": 8,
+      "physical_page_start": 8, "physical_page_end": 8,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "6 Bewertung der Prüfungsleistungen",
+      "printed_page_start": 9, "printed_page_end": 10,
+      "physical_page_start": 9, "physical_page_end": 10,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "6.1 Schriftliche Prüfung",
+      "printed_page_start": 9, "printed_page_end": 9,
+      "physical_page_start": 9, "physical_page_end": 9,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "6.2 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+      "printed_page_start": 9, "printed_page_end": 9,
+      "physical_page_start": 9, "physical_page_end": 9,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "6.3 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+      "printed_page_start": 10, "printed_page_end": 10,
+      "physical_page_start": 10, "physical_page_end": 10,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "7 Bestimmungen für die einzelnen Fächer",
+      "printed_page_start": 10, "printed_page_end": 10,
+      "physical_page_start": 10, "physical_page_end": 10,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "8 Schlussbestimmung",
+      "printed_page_start": 10, "printed_page_end": 10,
+      "physical_page_start": 10, "physical_page_end": 10,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "Anlagen",
+      "printed_page_start": 11, "printed_page_end": 11,
+      "physical_page_start": 11, "physical_page_end": 11,
+      "ordinance": null, "grades": null, "hazards": []
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "document_id": "bildungsplan-sek1-religion-erlaeuterungen",
+  "document_title": "Religion — Hinweise und Erläuterungen",
+  "source_pdf_sha256": "9c151cb7c444f66754b7907dca2d0dc7d150d5d40b7fd8ccdca9fcaeb38da3f4",
+  "index_version": 1,
+  "physical_page_count": 46,
+  "page_identity": {
+    "model": "simple",
+    "offset": 0,
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover" },
+    { "physical_page": 2,  "printed_page": 2,    "kind": "impressum" },
+    { "physical_page": 3,  "printed_page": 3,    "kind": "toc" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content", "note": "Vorwort" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content", "note": "1 Didaktik / 1.1 Grundaufgabe" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content", "note": "1.2 Grundsätze" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content", "note": "2 Kompetenzen / 2.1 Sukzessiver Kompetenzerwerb; Abb. 1" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content", "note": "2.2 Kompetenzen im Kerncurriculum" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content", "note": "3 Kerncurriculum / 3.1 Module und ihre Elemente" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content" },
+    { "physical_page": 15, "printed_page": 15,   "kind": "content" },
+    { "physical_page": 16, "printed_page": 16,   "kind": "content", "note": "3.2 Themenfelder und Fragenbereiche / 3.3 Didaktische Kreisbewegung; Abb. 2" },
+    { "physical_page": 17, "printed_page": 17,   "kind": "content" },
+    { "physical_page": 18, "printed_page": 18,   "kind": "content", "note": "3.4 Auswahl der religiösen Perspektiven" },
+    { "physical_page": 19, "printed_page": 19,   "kind": "content" },
+    { "physical_page": 20, "printed_page": 20,   "kind": "content", "note": "Abb. 3" },
+    { "physical_page": 21, "printed_page": 21,   "kind": "content", "note": "3.5 Kontexte / 3.6 Lernkultur" },
+    { "physical_page": 22, "printed_page": 22,   "kind": "content" },
+    { "physical_page": 23, "printed_page": 23,   "kind": "content", "note": "4 Organisationsformen / 4.1 Religionenübergreifende und religionenspezifische Phasen" },
+    { "physical_page": 24, "printed_page": 24,   "kind": "content", "note": "4.2 Gemeinsame und parallel-differenzierte Lernformen" },
+    { "physical_page": 25, "printed_page": 25,   "kind": "content", "note": "4.3 Bildung in der eigenen Religion" },
+    { "physical_page": 26, "printed_page": 26,   "kind": "content", "note": "4.4 Bildung für Schülerinnen und Schüler ohne religiöse Bezüge" },
+    { "physical_page": 27, "printed_page": 27,   "kind": "content", "note": "4.5 Religiöse Zusammensetzung der Lerngruppen; Abb. 4a/4b" },
+    { "physical_page": 28, "printed_page": 28,   "kind": "content", "note": "4.6 Strukturmodelle" },
+    { "physical_page": 29, "printed_page": 29,   "kind": "content" },
+    { "physical_page": 30, "printed_page": 30,   "kind": "content" },
+    { "physical_page": 31, "printed_page": 31,   "kind": "content" },
+    { "physical_page": 32, "printed_page": 32,   "kind": "content" },
+    { "physical_page": 33, "printed_page": 33,   "kind": "content" },
+    { "physical_page": 34, "printed_page": 34,   "kind": "content", "note": "4.7 Unterrichtsphasen und Schülerorientierung" },
+    { "physical_page": 35, "printed_page": 35,   "kind": "content", "note": "5 Lehrerinnen und Lehrer / 5.1 Positionalität" },
+    { "physical_page": 36, "printed_page": 36,   "kind": "content", "note": "5.2 Authentizität" },
+    { "physical_page": 37, "printed_page": 37,   "kind": "content", "note": "5.3 Dialogische Grundhaltung / 5.4 Rollen und Aufgaben" },
+    { "physical_page": 38, "printed_page": 38,   "kind": "content" },
+    { "physical_page": 39, "printed_page": 39,   "kind": "content" },
+    { "physical_page": 40, "printed_page": 40,   "kind": "content", "note": "5.4 Rollen und Aufgaben (cont.)" },
+    { "physical_page": 41, "printed_page": 41,   "kind": "content", "note": "6 Anhang / 6.1 Abkürzungen und Quellenverweise" },
+    { "physical_page": 42, "printed_page": 42,   "kind": "content" },
+    { "physical_page": 43, "printed_page": 43,   "kind": "content", "note": "6.2 Themenfelder und Fragenbereiche (Jg. 1–12/13) — full-page curriculum table" },
+    { "physical_page": 44, "printed_page": 44,   "kind": "content", "note": "6.3 Strukturmodelle im Überblick — color diagram page 1" },
+    { "physical_page": 45, "printed_page": 45,   "kind": "content", "note": "6.3 Strukturmodelle im Überblick — color diagram page 2" },
+    { "physical_page": 46, "printed_page": null,  "kind": "cover",   "note": "Back cover (www.hamburg.de/bildungsplaene)" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "Vorwort",
+      "printed_page_start": 4, "printed_page_end": 4,
+      "physical_page_start": 4, "physical_page_end": 4,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "1 Didaktik",
+      "printed_page_start": 5, "printed_page_end": 9,
+      "physical_page_start": 5, "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "1.1 Grundaufgabe",
+      "printed_page_start": 5, "printed_page_end": 5,
+      "physical_page_start": 5, "physical_page_end": 5,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "1.2 Grundsätze",
+      "printed_page_start": 6, "printed_page_end": 9,
+      "physical_page_start": 6, "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2 Kompetenzen",
+      "printed_page_start": 10, "printed_page_end": 12,
+      "physical_page_start": 10, "physical_page_end": 12,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["diagram", "pua-semantic"]
+    },
+    {
+      "section_anchor": "2.1 Sukzessiver Kompetenzerwerb",
+      "printed_page_start": 10, "printed_page_end": 11,
+      "physical_page_start": 10, "physical_page_end": 11,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["diagram", "pua-semantic"]
+    },
+    {
+      "section_anchor": "2.2 Kompetenzen im Kerncurriculum",
+      "printed_page_start": 12, "printed_page_end": 12,
+      "physical_page_start": 12, "physical_page_end": 12,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3 Kerncurriculum",
+      "printed_page_start": 13, "printed_page_end": 22,
+      "physical_page_start": 13, "physical_page_end": 22,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["diagram", "pua-semantic"]
+    },
+    {
+      "section_anchor": "3.1 Module und ihre Elemente",
+      "printed_page_start": 13, "printed_page_end": 15,
+      "physical_page_start": 13, "physical_page_end": 15,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "3.2 Themenfelder und Fragenbereiche",
+      "printed_page_start": 16, "printed_page_end": 17,
+      "physical_page_start": 16, "physical_page_end": 17,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.3 Didaktische Kreisbewegung",
+      "printed_page_start": 16, "printed_page_end": 17,
+      "physical_page_start": 16, "physical_page_end": 17,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["diagram"]
+    },
+    {
+      "section_anchor": "3.4 Auswahl der religiösen Perspektiven",
+      "printed_page_start": 18, "printed_page_end": 20,
+      "physical_page_start": 18, "physical_page_end": 20,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["diagram"]
+    },
+    {
+      "section_anchor": "3.5 Kontexte: Inhalte und Quellen über die Religionen hinaus",
+      "printed_page_start": 21, "printed_page_end": 21,
+      "physical_page_start": 21, "physical_page_end": 21,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.6 Lernkultur: Erfahrungen und Fragen der Schülerinnen und Schüler",
+      "printed_page_start": 21, "printed_page_end": 22,
+      "physical_page_start": 21, "physical_page_end": 22,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Organisationsformen",
+      "printed_page_start": 23, "printed_page_end": 34,
+      "physical_page_start": 23, "physical_page_end": 34,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["diagram", "pua-semantic"]
+    },
+    {
+      "section_anchor": "4.1 Religionenübergreifende und religionenspezifische Phasen",
+      "printed_page_start": 23, "printed_page_end": 23,
+      "physical_page_start": 23, "physical_page_end": 23,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "4.2 Gemeinsame und parallel-differenzierte Lernformen",
+      "printed_page_start": 24, "printed_page_end": 24,
+      "physical_page_start": 24, "physical_page_end": 24,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.3 Bildung in der eigenen Religion",
+      "printed_page_start": 25, "printed_page_end": 25,
+      "physical_page_start": 25, "physical_page_end": 25,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.4 Bildung für Schülerinnen und Schüler ohne religiöse Bezüge",
+      "printed_page_start": 26, "printed_page_end": 26,
+      "physical_page_start": 26, "physical_page_end": 26,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.5 Religiöse Zusammensetzung der Lerngruppen",
+      "printed_page_start": 27, "printed_page_end": 27,
+      "physical_page_start": 27, "physical_page_end": 27,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["diagram"]
+    },
+    {
+      "section_anchor": "4.6 Strukturmodelle",
+      "printed_page_start": 28, "printed_page_end": 33,
+      "physical_page_start": 28, "physical_page_end": 33,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.7 Unterrichtsphasen und Schülerorientierung",
+      "printed_page_start": 34, "printed_page_end": 34,
+      "physical_page_start": 34, "physical_page_end": 34,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5 Lehrerinnen und Lehrer",
+      "printed_page_start": 35, "printed_page_end": 40,
+      "physical_page_start": 35, "physical_page_end": 40,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "5.1 Positionalität",
+      "printed_page_start": 35, "printed_page_end": 35,
+      "physical_page_start": 35, "physical_page_end": 35,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "5.2 Authentizität",
+      "printed_page_start": 36, "printed_page_end": 36,
+      "physical_page_start": 36, "physical_page_end": 36,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.3 Dialogische Grundhaltung",
+      "printed_page_start": 36, "printed_page_end": 36,
+      "physical_page_start": 36, "physical_page_end": 36,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.4 Rollen und Aufgaben",
+      "printed_page_start": 37, "printed_page_end": 40,
+      "physical_page_start": 37, "physical_page_end": 40,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6 Anhang",
+      "printed_page_start": 41, "printed_page_end": 45,
+      "physical_page_start": 41, "physical_page_end": 45,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["diagram"]
+    },
+    {
+      "section_anchor": "6.1 Abkürzungen und Quellenverweise",
+      "printed_page_start": 41, "printed_page_end": 42,
+      "physical_page_start": 41, "physical_page_end": 42,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "6.2 Themenfelder und Fragenbereiche (Jg. 1 bis 12/13)",
+      "printed_page_start": 43, "printed_page_end": 43,
+      "physical_page_start": 43, "physical_page_end": 43,
+      "ordinance": null,
+      "grades": "Jg. 1–12/13",
+      "hazards": ["diagram"]
+    },
+    {
+      "section_anchor": "6.3 Strukturmodelle im Überblick",
+      "printed_page_start": 44, "printed_page_end": 45,
+      "physical_page_start": 44, "physical_page_end": 45,
+      "ordinance": null,
+      "grades": null,
+      "hazards": ["diagram"]
+    }
+  ]
+}

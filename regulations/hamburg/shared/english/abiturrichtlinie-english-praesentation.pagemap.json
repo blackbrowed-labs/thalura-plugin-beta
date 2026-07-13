@@ -1,0 +1,279 @@
+{
+  "document_id": "abiturrichtlinie-english-praesentation",
+  "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+  "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+  "index_version": 1,
+  "physical_page_count": 31,
+  "page_identity": {
+    "model": "simple",
+    "offset": 0,
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover",     "note": "Cover — PRÄSENTATIONSPRÜFUNG IM ABITUR / Beispielaufgaben im Fach: Englisch" },
+    { "physical_page": 2,  "printed_page": 2,    "kind": "impressum", "note": "Impressum — Hamburg 2021, überarbeitet" },
+    { "physical_page": 3,  "printed_page": 3,    "kind": "toc",       "note": "Inhalt (Inhaltsverzeichnis)" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content",   "note": "Einleitung (p.1 of 2)" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content",   "note": "Einleitung (p.2 of 2)" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content",   "note": "Thema: Racial discrimination in the film Crash (eA) — I–III" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content",   "note": "Crash — III Unterrichtsmaterial / Bildungsplanbezüge (cont.)" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content",   "note": "Crash — IV Erwartungshorizont (p.1)" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content",   "note": "Crash — IV Erwartungshorizont (p.2)" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content",   "note": "Crash — IV Erwartungshorizont (p.3) + V Hinweise + VI Bewertungshinweise" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content",   "note": "Crash — VI Bewertungshinweise: Bewertung Teil 1 Präsentation" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content",   "note": "Crash — VI Bewertungshinweise: Teil 2 Fachgespräch" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content",   "note": "Thema: Canada: Self-Image and Self-Representation (eA) — I–III" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content",   "note": "Canada — III Unterrichtsmaterial / Bildungsplanbezüge (cont.)" },
+    { "physical_page": 15, "printed_page": 15,   "kind": "content",   "note": "Canada — IV Erwartungshorizont (p.1)" },
+    { "physical_page": 16, "printed_page": 16,   "kind": "content",   "note": "Canada — IV Erwartungshorizont (p.2) + V Hinweise" },
+    { "physical_page": 17, "printed_page": 17,   "kind": "content",   "note": "Canada — VI Bewertungshinweise: Bewertung Teil 1 Präsentation" },
+    { "physical_page": 18, "printed_page": 18,   "kind": "content",   "note": "Canada — VI Bewertungshinweise: Teil 2 Fachgespräch" },
+    { "physical_page": 19, "printed_page": 19,   "kind": "content",   "note": "Thema: The Future of Crime (gA) — I–III" },
+    { "physical_page": 20, "printed_page": 20,   "kind": "content",   "note": "Crime — III Unterrichtsmaterial (cont.) + IV Erwartungshorizont (p.1)" },
+    { "physical_page": 21, "printed_page": 21,   "kind": "content",   "note": "Crime — IV Erwartungshorizont (p.2)" },
+    { "physical_page": 22, "printed_page": 22,   "kind": "content",   "note": "Crime — IV Erwartungshorizont (p.3) + V Hinweise + VI Bewertungshinweise" },
+    { "physical_page": 23, "printed_page": 23,   "kind": "content",   "note": "Crime — VI Bewertungshinweise: Bewertung Teil 1 Präsentation" },
+    { "physical_page": 24, "printed_page": 24,   "kind": "content",   "note": "Crime — VI Bewertungshinweise: Teil 2 Fachgespräch" },
+    { "physical_page": 25, "printed_page": 25,   "kind": "content",   "note": "Thema: Social media — blessing or curse? (gA) — I–III" },
+    { "physical_page": 26, "printed_page": 26,   "kind": "content",   "note": "Social media — III Unterrichtsmaterial (cont.) + IV Erwartungshorizont (p.1)" },
+    { "physical_page": 27, "printed_page": 27,   "kind": "content",   "note": "Social media — IV Erwartungshorizont (p.2)" },
+    { "physical_page": 28, "printed_page": 28,   "kind": "content",   "note": "Social media — IV Erwartungshorizont (p.3) + V Hinweise + VI Bewertungshinweise" },
+    { "physical_page": 29, "printed_page": 29,   "kind": "content",   "note": "Social media — VI Bewertungshinweise: Bewertung Teil 1 Präsentation" },
+    { "physical_page": 30, "printed_page": 30,   "kind": "content",   "note": "Social media — VI Bewertungshinweise: Teil 2 Fachgespräch" },
+    { "physical_page": 31, "printed_page": 31,   "kind": "content",   "note": "Back cover — numbered end page, no body content" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "Einleitung",
+      "printed_page_start": 4, "printed_page_end": 5,
+      "physical_page_start": 4, "physical_page_end": 5,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Racial discrimination in the film Crash (eA)",
+      "printed_page_start": 6, "printed_page_end": 12,
+      "physical_page_start": 6, "physical_page_end": 12,
+      "ordinance": null,
+      "grades": "S1",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Crash — I Aufgabenstellung",
+      "printed_page_start": 6, "printed_page_end": 6,
+      "physical_page_start": 6, "physical_page_end": 6,
+      "ordinance": null,
+      "grades": "S1",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Crash — II Literaturhinweise, Material",
+      "printed_page_start": 6, "printed_page_end": 6,
+      "physical_page_start": 6, "physical_page_end": 6,
+      "ordinance": null,
+      "grades": "S1",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Crash — III Unterrichtsmaterial / Bildungsplanbezüge",
+      "printed_page_start": 6, "printed_page_end": 7,
+      "physical_page_start": 6, "physical_page_end": 7,
+      "ordinance": null,
+      "grades": "S1",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Crash — IV Erwartungshorizont",
+      "printed_page_start": 8, "printed_page_end": 10,
+      "physical_page_start": 8, "physical_page_end": 10,
+      "ordinance": null,
+      "grades": "S1",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "Crash — V Hinweise zur Gestaltung des Fachgesprächs",
+      "printed_page_start": 10, "printed_page_end": 10,
+      "physical_page_start": 10, "physical_page_end": 10,
+      "ordinance": null,
+      "grades": "S1",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Crash — VI Bewertungshinweise",
+      "printed_page_start": 10, "printed_page_end": 12,
+      "physical_page_start": 10, "physical_page_end": 12,
+      "ordinance": null,
+      "grades": "S1",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Canada: Self-Image and Self-Representation (eA)",
+      "printed_page_start": 13, "printed_page_end": 18,
+      "physical_page_start": 13, "physical_page_end": 18,
+      "ordinance": null,
+      "grades": "S3",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Canada — I Aufgabenstellung",
+      "printed_page_start": 13, "printed_page_end": 13,
+      "physical_page_start": 13, "physical_page_end": 13,
+      "ordinance": null,
+      "grades": "S3",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Canada — II Literaturhinweise, Material",
+      "printed_page_start": 13, "printed_page_end": 13,
+      "physical_page_start": 13, "physical_page_end": 13,
+      "ordinance": null,
+      "grades": "S3",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Canada — III Unterrichtsmaterial / Bildungsplanbezüge",
+      "printed_page_start": 13, "printed_page_end": 14,
+      "physical_page_start": 13, "physical_page_end": 14,
+      "ordinance": null,
+      "grades": "S3",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Canada — IV Erwartungshorizont",
+      "printed_page_start": 15, "printed_page_end": 16,
+      "physical_page_start": 15, "physical_page_end": 16,
+      "ordinance": null,
+      "grades": "S3",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "Canada — V Hinweise zur Gestaltung des Fachgesprächs",
+      "printed_page_start": 16, "printed_page_end": 16,
+      "physical_page_start": 16, "physical_page_end": 16,
+      "ordinance": null,
+      "grades": "S3",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Canada — VI Bewertungshinweise",
+      "printed_page_start": 17, "printed_page_end": 18,
+      "physical_page_start": 17, "physical_page_end": 18,
+      "ordinance": null,
+      "grades": "S3",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: The Future of Crime (gA)",
+      "printed_page_start": 19, "printed_page_end": 24,
+      "physical_page_start": 19, "physical_page_end": 24,
+      "ordinance": null,
+      "grades": "S1–S2",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Crime — I Aufgabenstellung",
+      "printed_page_start": 19, "printed_page_end": 19,
+      "physical_page_start": 19, "physical_page_end": 19,
+      "ordinance": null,
+      "grades": "S1–S2",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Crime — II Literaturhinweise, Material",
+      "printed_page_start": 19, "printed_page_end": 19,
+      "physical_page_start": 19, "physical_page_end": 19,
+      "ordinance": null,
+      "grades": "S1–S2",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Crime — III Unterrichtsmaterial / Bildungsplanbezüge",
+      "printed_page_start": 19, "printed_page_end": 20,
+      "physical_page_start": 19, "physical_page_end": 20,
+      "ordinance": null,
+      "grades": "S1–S2",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Crime — IV Erwartungshorizont",
+      "printed_page_start": 20, "printed_page_end": 22,
+      "physical_page_start": 20, "physical_page_end": 22,
+      "ordinance": null,
+      "grades": "S1–S2",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "Crime — V Hinweise zur Gestaltung des Fachgesprächs",
+      "printed_page_start": 22, "printed_page_end": 22,
+      "physical_page_start": 22, "physical_page_end": 22,
+      "ordinance": null,
+      "grades": "S1–S2",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Crime — VI Bewertungshinweise",
+      "printed_page_start": 22, "printed_page_end": 24,
+      "physical_page_start": 22, "physical_page_end": 24,
+      "ordinance": null,
+      "grades": "S1–S2",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Social media — blessing or curse? (gA)",
+      "printed_page_start": 25, "printed_page_end": 30,
+      "physical_page_start": 25, "physical_page_end": 30,
+      "ordinance": null,
+      "grades": "S2–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Social media — I Aufgabenstellung",
+      "printed_page_start": 25, "printed_page_end": 25,
+      "physical_page_start": 25, "physical_page_end": 25,
+      "ordinance": null,
+      "grades": "S2–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Social media — II Literaturhinweise, Material",
+      "printed_page_start": 25, "printed_page_end": 25,
+      "physical_page_start": 25, "physical_page_end": 25,
+      "ordinance": null,
+      "grades": "S2–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Social media — III Unterrichtsmaterial / Bildungsplanbezüge",
+      "printed_page_start": 25, "printed_page_end": 26,
+      "physical_page_start": 25, "physical_page_end": 26,
+      "ordinance": null,
+      "grades": "S2–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Social media — IV Erwartungshorizont",
+      "printed_page_start": 26, "printed_page_end": 28,
+      "physical_page_start": 26, "physical_page_end": 28,
+      "ordinance": null,
+      "grades": "S2–S4",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "Social media — V Hinweise zur Gestaltung des Fachgesprächs",
+      "printed_page_start": 28, "printed_page_end": 28,
+      "physical_page_start": 28, "physical_page_end": 28,
+      "ordinance": null,
+      "grades": "S2–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Social media — VI Bewertungshinweise",
+      "printed_page_start": 28, "printed_page_end": 30,
+      "physical_page_start": 28, "physical_page_end": 30,
+      "ordinance": null,
+      "grades": "S2–S4",
+      "hazards": []
+    }
+  ]
+}

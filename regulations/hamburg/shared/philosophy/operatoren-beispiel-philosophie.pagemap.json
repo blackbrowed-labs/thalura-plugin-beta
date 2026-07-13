@@ -1,0 +1,115 @@
+{
+  "document_id": "operatoren-beispiel-philosophie",
+  "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+  "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+  "index_version": 1,
+  "physical_page_count": 19,
+  "page_identity": {
+    "offset": 0,
+    "model": "simple",
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover",     "note": "Cover page with decorative word-cloud image (operator names across social-science subjects); image is decorative, not meaning-bearing" },
+    { "physical_page": 2,  "printed_page": null, "kind": "impressum", "note": "Impressum — Hamburg BSB, 2020, Dr. Yvonne Lampert" },
+    { "physical_page": 3,  "printed_page": 3,    "kind": "content",   "note": "Darstellen — start" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content",   "note": "Darstellen — end (Schritt 3 / Schluss)" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content",   "note": "Zusammenfassen — single page" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content",   "note": "Erläutern — start" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content",   "note": "Erläutern — end" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content",   "note": "Analysieren — start" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content",   "note": "Analysieren — end" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content",   "note": "Vergleichen — start" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content",   "note": "Vergleichen — continued" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content",   "note": "Vergleichen — end (Schritt 3 / Fazit)" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content",   "note": "Beurteilen — start" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content",   "note": "Beurteilen — end" },
+    { "physical_page": 15, "printed_page": 15,   "kind": "content",   "note": "Stellung nehmen (Bewerten) — start" },
+    { "physical_page": 16, "printed_page": 16,   "kind": "content",   "note": "Stellung nehmen (Bewerten) — end" },
+    { "physical_page": 17, "printed_page": 17,   "kind": "content",   "note": "Erörtern — start" },
+    { "physical_page": 18, "printed_page": 18,   "kind": "content",   "note": "Erörtern — end" },
+    { "physical_page": 19, "printed_page": null,  "kind": "cover",    "note": "Back cover — BSB contact page (Hamburger Straße 31), decorative only" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "Darstellen",
+      "printed_page_start": 3,
+      "printed_page_end": 4,
+      "physical_page_start": 3,
+      "physical_page_end": 4,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Zusammenfassen",
+      "printed_page_start": 5,
+      "printed_page_end": 5,
+      "physical_page_start": 5,
+      "physical_page_end": 5,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Erläutern",
+      "printed_page_start": 6,
+      "printed_page_end": 7,
+      "physical_page_start": 6,
+      "physical_page_end": 7,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Analysieren",
+      "printed_page_start": 8,
+      "printed_page_end": 9,
+      "physical_page_start": 8,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Vergleichen",
+      "printed_page_start": 10,
+      "printed_page_end": 12,
+      "physical_page_start": 10,
+      "physical_page_end": 12,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Beurteilen",
+      "printed_page_start": 13,
+      "printed_page_end": 14,
+      "physical_page_start": 13,
+      "physical_page_end": 14,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Stellung nehmen",
+      "printed_page_start": 15,
+      "printed_page_end": 16,
+      "physical_page_start": 15,
+      "physical_page_end": 16,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Erörtern",
+      "printed_page_start": 17,
+      "printed_page_end": 18,
+      "physical_page_start": 17,
+      "physical_page_end": 18,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    }
+  ]
+}

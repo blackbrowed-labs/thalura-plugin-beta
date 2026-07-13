@@ -1,0 +1,306 @@
+{
+  "document_id": "abiturrichtlinie-psychology",
+  "document_title": "Abiturrichtlinie Psychologie",
+  "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+  "index_version": 1,
+  "physical_page_count": 18,
+  "page_identity": {
+    "model": "simple",
+    "offset": 0,
+    "flags": []
+  },
+  "page_table": [
+    {
+      "physical_page": 1,
+      "printed_page": null,
+      "kind": "cover"
+    },
+    {
+      "physical_page": 2,
+      "printed_page": 2,
+      "kind": "impressum"
+    },
+    {
+      "physical_page": 3,
+      "printed_page": 3,
+      "kind": "toc"
+    },
+    {
+      "physical_page": 4,
+      "printed_page": 4,
+      "kind": "content"
+    },
+    {
+      "physical_page": 5,
+      "printed_page": 5,
+      "kind": "content"
+    },
+    {
+      "physical_page": 6,
+      "printed_page": 6,
+      "kind": "content"
+    },
+    {
+      "physical_page": 7,
+      "printed_page": 7,
+      "kind": "content"
+    },
+    {
+      "physical_page": 8,
+      "printed_page": 8,
+      "kind": "content"
+    },
+    {
+      "physical_page": 9,
+      "printed_page": 9,
+      "kind": "content"
+    },
+    {
+      "physical_page": 10,
+      "printed_page": 10,
+      "kind": "content"
+    },
+    {
+      "physical_page": 11,
+      "printed_page": 11,
+      "kind": "content"
+    },
+    {
+      "physical_page": 12,
+      "printed_page": 12,
+      "kind": "content"
+    },
+    {
+      "physical_page": 13,
+      "printed_page": 13,
+      "kind": "content"
+    },
+    {
+      "physical_page": 14,
+      "printed_page": 14,
+      "kind": "content"
+    },
+    {
+      "physical_page": 15,
+      "printed_page": 15,
+      "kind": "content"
+    },
+    {
+      "physical_page": 16,
+      "printed_page": 16,
+      "kind": "content"
+    },
+    {
+      "physical_page": 17,
+      "printed_page": 17,
+      "kind": "content"
+    },
+    {
+      "physical_page": 18,
+      "printed_page": 18,
+      "kind": "content"
+    }
+  ],
+  "sections": [
+    {
+      "section_anchor": "1 Fachliche Anforderungen und Inhalte",
+      "printed_page_start": 4,
+      "printed_page_end": 4,
+      "physical_page_start": 4,
+      "physical_page_end": 4,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+      "printed_page_start": 4,
+      "printed_page_end": 4,
+      "physical_page_start": 4,
+      "physical_page_end": 4,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3 Anforderungsbereiche",
+      "printed_page_start": 4,
+      "printed_page_end": 8,
+      "physical_page_start": 4,
+      "physical_page_end": 8,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.1 Allgemeine Hinweise",
+      "printed_page_start": 4,
+      "printed_page_end": 4,
+      "physical_page_start": 4,
+      "physical_page_end": 4,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.2 Fachspezifische Beschreibung der Anforderungsbereiche",
+      "printed_page_start": 5,
+      "printed_page_end": 8,
+      "physical_page_start": 5,
+      "physical_page_end": 8,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Schriftliche Prüfung",
+      "printed_page_start": 9,
+      "printed_page_end": 13,
+      "physical_page_start": 9,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.1 Allgemeine Hinweise",
+      "printed_page_start": 9,
+      "printed_page_end": 9,
+      "physical_page_start": 9,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.2 Aufgabenarten",
+      "printed_page_start": 10,
+      "printed_page_end": 10,
+      "physical_page_start": 10,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.3 Hinweise zur Erstellung einer Prüfungsaufgabe",
+      "printed_page_start": 10,
+      "printed_page_end": 10,
+      "physical_page_start": 10,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.4 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizont)",
+      "printed_page_start": 10,
+      "printed_page_end": 10,
+      "physical_page_start": 10,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.5 Bewertung der Prüfungsleistung",
+      "printed_page_start": 11,
+      "printed_page_end": 13,
+      "physical_page_start": 11,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.5.1 Kriterien der Bewertung und Korrektur",
+      "printed_page_start": 11,
+      "printed_page_end": 12,
+      "physical_page_start": 11,
+      "physical_page_end": 12,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4.5.2 Definition von „gut“ und „ausreichend“",
+      "printed_page_start": 13,
+      "printed_page_end": 13,
+      "physical_page_start": 13,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5 Mündliche Prüfung",
+      "printed_page_start": 14,
+      "printed_page_end": 18,
+      "physical_page_start": 14,
+      "physical_page_end": 18,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+      "printed_page_start": 14,
+      "printed_page_end": 15,
+      "physical_page_start": 14,
+      "physical_page_end": 15,
+      "ordinance": null,
+      "grades": "Sek II",
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.1.1 Form und Aufgabenstellung",
+      "printed_page_start": 14,
+      "printed_page_end": 14,
+      "physical_page_start": 14,
+      "physical_page_end": 14,
+      "ordinance": null,
+      "grades": "Sek II",
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.1.2 Anforderungen und Bewertung",
+      "printed_page_start": 15,
+      "printed_page_end": 15,
+      "physical_page_start": 15,
+      "physical_page_end": 15,
+      "ordinance": null,
+      "grades": "Sek II",
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+      "printed_page_start": 16,
+      "printed_page_end": 18,
+      "physical_page_start": 16,
+      "physical_page_end": 18,
+      "ordinance": null,
+      "grades": "Sek II",
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.2.1 Form und Aufgabenstellung",
+      "printed_page_start": 16,
+      "printed_page_end": 16,
+      "physical_page_start": 16,
+      "physical_page_end": 16,
+      "ordinance": null,
+      "grades": "Sek II",
+      "hazards": []
+    },
+    {
+      "section_anchor": "5.2.2 Anforderungen und Bewertung",
+      "printed_page_start": 17,
+      "printed_page_end": 18,
+      "physical_page_start": 17,
+      "physical_page_end": 18,
+      "ordinance": null,
+      "grades": "Sek II",
+      "hazards": []
+    }
+  ]
+}

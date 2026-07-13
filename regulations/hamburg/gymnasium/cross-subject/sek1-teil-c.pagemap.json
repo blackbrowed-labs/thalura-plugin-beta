@@ -1,0 +1,268 @@
+{
+  "document_id": "sek1-teil-c",
+  "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+  "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+  "index_version": 1,
+  "physical_page_count": 32,
+  "page_identity": {
+    "offset": 0,
+    "model": "simple",
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover" },
+    { "physical_page": 2,  "printed_page": null, "kind": "impressum" },
+    { "physical_page": 3,  "printed_page": null, "kind": "toc" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content", "note": "§1 Feedback, Leistungsfeststellung und Leistungsbeurteilung" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content", "note": "§2 Grundsätze" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content", "note": "§3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen; §3a) Allgemeines" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content", "note": "§3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content", "note": "§4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content", "note": "§5 Prüfungen" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content", "note": "§6 Bewertungskriterien" },
+    { "physical_page": 15, "printed_page": 15,   "kind": "content" },
+    { "physical_page": 16, "printed_page": 16,   "kind": "content", "note": "§7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern; §7a) Alte Sprachen" },
+    { "physical_page": 17, "printed_page": 17,   "kind": "content", "note": "§7b) Bildende Kunst" },
+    { "physical_page": 18, "printed_page": 18,   "kind": "content", "note": "§7c) Biologie" },
+    { "physical_page": 19, "printed_page": 19,   "kind": "content", "note": "§7d) Chemie; §7e) Deutsch" },
+    { "physical_page": 20, "printed_page": 20,   "kind": "content", "note": "§7f) Deutsch als Zweitsprache in Vorbereitungsklassen" },
+    { "physical_page": 21, "printed_page": 21,   "kind": "content" },
+    { "physical_page": 22, "printed_page": 22,   "kind": "content", "note": "§7g) Englisch und Neuere Sprachen" },
+    { "physical_page": 23, "printed_page": 23,   "kind": "content" },
+    { "physical_page": 24, "printed_page": 24,   "kind": "content" },
+    { "physical_page": 25, "printed_page": 25,   "kind": "content", "note": "§7h) Informatik; §7i) Mathematik" },
+    { "physical_page": 26, "printed_page": 26,   "kind": "content", "note": "§7j) Musik" },
+    { "physical_page": 27, "printed_page": 27,   "kind": "content", "note": "§7k) Physik" },
+    { "physical_page": 28, "printed_page": 28,   "kind": "content", "note": "§7l) Sport" },
+    { "physical_page": 29, "printed_page": 29,   "kind": "content", "note": "§7m) Theater" },
+    { "physical_page": 30, "printed_page": 30,   "kind": "content" },
+    { "physical_page": 31, "printed_page": null,  "kind": "blank" },
+    { "physical_page": 32, "printed_page": null,  "kind": "cover", "note": "Back cover" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+      "printed_page_start": 4,
+      "printed_page_end": 5,
+      "physical_page_start": 4,
+      "physical_page_end": 5,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "2 Grundsätze",
+      "printed_page_start": 6,
+      "printed_page_end": 6,
+      "physical_page_start": 6,
+      "physical_page_end": 6,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+      "printed_page_start": 7,
+      "printed_page_end": 10,
+      "physical_page_start": 7,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "3a) Allgemeines",
+      "printed_page_start": 7,
+      "printed_page_end": 8,
+      "physical_page_start": 7,
+      "physical_page_end": 8,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+      "printed_page_start": 9,
+      "printed_page_end": 10,
+      "physical_page_start": 9,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+      "printed_page_start": 11,
+      "printed_page_end": 12,
+      "physical_page_start": 11,
+      "physical_page_end": 12,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "5 Prüfungen",
+      "printed_page_start": 13,
+      "printed_page_end": 13,
+      "physical_page_start": 13,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "6 Bewertungskriterien",
+      "printed_page_start": 14,
+      "printed_page_end": 15,
+      "physical_page_start": 14,
+      "physical_page_end": 15,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+      "printed_page_start": 16,
+      "printed_page_end": 30,
+      "physical_page_start": 16,
+      "physical_page_end": 30,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7a) Alte Sprachen",
+      "printed_page_start": 16,
+      "printed_page_end": 17,
+      "physical_page_start": 16,
+      "physical_page_end": 17,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7b) Bildende Kunst",
+      "printed_page_start": 17,
+      "printed_page_end": 18,
+      "physical_page_start": 17,
+      "physical_page_end": 18,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7c) Biologie",
+      "printed_page_start": 18,
+      "printed_page_end": 19,
+      "physical_page_start": 18,
+      "physical_page_end": 19,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7d) Chemie",
+      "printed_page_start": 19,
+      "printed_page_end": 19,
+      "physical_page_start": 19,
+      "physical_page_end": 19,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7e) Deutsch",
+      "printed_page_start": 19,
+      "printed_page_end": 20,
+      "physical_page_start": 19,
+      "physical_page_end": 20,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+      "printed_page_start": 20,
+      "printed_page_end": 21,
+      "physical_page_start": 20,
+      "physical_page_end": 21,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7g) Englisch und Neuere Sprachen",
+      "printed_page_start": 22,
+      "printed_page_end": 24,
+      "physical_page_start": 22,
+      "physical_page_end": 24,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7h) Informatik",
+      "printed_page_start": 25,
+      "printed_page_end": 25,
+      "physical_page_start": 25,
+      "physical_page_end": 25,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7i) Mathematik",
+      "printed_page_start": 25,
+      "printed_page_end": 26,
+      "physical_page_start": 25,
+      "physical_page_end": 26,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7j) Musik",
+      "printed_page_start": 26,
+      "printed_page_end": 27,
+      "physical_page_start": 26,
+      "physical_page_end": 27,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7k) Physik",
+      "printed_page_start": 27,
+      "printed_page_end": 28,
+      "physical_page_start": 27,
+      "physical_page_end": 28,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7l) Sport",
+      "printed_page_start": 28,
+      "printed_page_end": 29,
+      "physical_page_start": 28,
+      "physical_page_end": 29,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7m) Theater",
+      "printed_page_start": 29,
+      "printed_page_end": 30,
+      "physical_page_start": 29,
+      "physical_page_end": 30,
+      "ordinance": null,
+      "grades": "Sek I",
+      "hazards": []
+    }
+  ]
+}

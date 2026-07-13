@@ -1,0 +1,557 @@
+{
+  "document_id": "apo-grundstgy",
+  "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+  "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+  "index_version": 1,
+  "physical_page_count": 73,
+  "page_identity": {
+    "offset": null,
+    "model": "composite",
+    "flags": []
+  },
+  "page_table": [
+    {
+      "physical_page": 1,
+      "printed_page": null,
+      "kind": "cover"
+    },
+    {
+      "physical_page": 2,
+      "printed_page": null,
+      "kind": "impressum",
+      "note": "Impressum — Hamburg, April 2024"
+    },
+    {
+      "physical_page": 3,
+      "printed_page": null,
+      "kind": "toc",
+      "note": "Overview / contents page listing the three ordinances (SEITE 4 / 51 / 56)"
+    },
+    {
+      "physical_page": 4,
+      "printed_page": null,
+      "kind": "toc",
+      "note": "Section divider '01 → APO-GrundStGy' (unnumbered; printed numbering starts at physical 5)"
+    },
+    {
+      "physical_page": 5,
+      "printed_page": 5,
+      "kind": "content"
+    },
+    {
+      "physical_page": 6,
+      "printed_page": 6,
+      "kind": "content"
+    },
+    {
+      "physical_page": 7,
+      "printed_page": 7,
+      "kind": "content"
+    },
+    {
+      "physical_page": 8,
+      "printed_page": 8,
+      "kind": "content"
+    },
+    {
+      "physical_page": 9,
+      "printed_page": 9,
+      "kind": "content"
+    },
+    {
+      "physical_page": 10,
+      "printed_page": 10,
+      "kind": "content"
+    },
+    {
+      "physical_page": 11,
+      "printed_page": 11,
+      "kind": "content"
+    },
+    {
+      "physical_page": 12,
+      "printed_page": 12,
+      "kind": "content"
+    },
+    {
+      "physical_page": 13,
+      "printed_page": 13,
+      "kind": "content"
+    },
+    {
+      "physical_page": 14,
+      "printed_page": 14,
+      "kind": "content"
+    },
+    {
+      "physical_page": 15,
+      "printed_page": 15,
+      "kind": "content"
+    },
+    {
+      "physical_page": 16,
+      "printed_page": 16,
+      "kind": "content"
+    },
+    {
+      "physical_page": 17,
+      "printed_page": 17,
+      "kind": "content"
+    },
+    {
+      "physical_page": 18,
+      "printed_page": 18,
+      "kind": "content"
+    },
+    {
+      "physical_page": 19,
+      "printed_page": 19,
+      "kind": "content"
+    },
+    {
+      "physical_page": 20,
+      "printed_page": 20,
+      "kind": "content"
+    },
+    {
+      "physical_page": 21,
+      "printed_page": 21,
+      "kind": "content"
+    },
+    {
+      "physical_page": 22,
+      "printed_page": 22,
+      "kind": "content"
+    },
+    {
+      "physical_page": 23,
+      "printed_page": 23,
+      "kind": "content"
+    },
+    {
+      "physical_page": 24,
+      "printed_page": 24,
+      "kind": "content"
+    },
+    {
+      "physical_page": 25,
+      "printed_page": 25,
+      "kind": "content"
+    },
+    {
+      "physical_page": 26,
+      "printed_page": 26,
+      "kind": "content"
+    },
+    {
+      "physical_page": 27,
+      "printed_page": 27,
+      "kind": "content"
+    },
+    {
+      "physical_page": 28,
+      "printed_page": 28,
+      "kind": "content"
+    },
+    {
+      "physical_page": 29,
+      "printed_page": 29,
+      "kind": "content"
+    },
+    {
+      "physical_page": 30,
+      "printed_page": 30,
+      "kind": "content"
+    },
+    {
+      "physical_page": 31,
+      "printed_page": 31,
+      "kind": "content"
+    },
+    {
+      "physical_page": 32,
+      "printed_page": 32,
+      "kind": "content"
+    },
+    {
+      "physical_page": 33,
+      "printed_page": 33,
+      "kind": "content"
+    },
+    {
+      "physical_page": 34,
+      "printed_page": 34,
+      "kind": "content"
+    },
+    {
+      "physical_page": 35,
+      "printed_page": 35,
+      "kind": "content"
+    },
+    {
+      "physical_page": 36,
+      "printed_page": 36,
+      "kind": "content"
+    },
+    {
+      "physical_page": 37,
+      "printed_page": 37,
+      "kind": "content"
+    },
+    {
+      "physical_page": 38,
+      "printed_page": 38,
+      "kind": "content"
+    },
+    {
+      "physical_page": 39,
+      "printed_page": 39,
+      "kind": "content"
+    },
+    {
+      "physical_page": 40,
+      "printed_page": 40,
+      "kind": "content"
+    },
+    {
+      "physical_page": 41,
+      "printed_page": 41,
+      "kind": "content"
+    },
+    {
+      "physical_page": 42,
+      "printed_page": 42,
+      "kind": "content"
+    },
+    {
+      "physical_page": 43,
+      "printed_page": 43,
+      "kind": "content"
+    },
+    {
+      "physical_page": 44,
+      "printed_page": 44,
+      "kind": "content"
+    },
+    {
+      "physical_page": 45,
+      "printed_page": 45,
+      "kind": "content"
+    },
+    {
+      "physical_page": 46,
+      "printed_page": 46,
+      "kind": "content"
+    },
+    {
+      "physical_page": 47,
+      "printed_page": 47,
+      "kind": "content"
+    },
+    {
+      "physical_page": 48,
+      "printed_page": 48,
+      "kind": "content"
+    },
+    {
+      "physical_page": 49,
+      "printed_page": 49,
+      "kind": "content"
+    },
+    {
+      "physical_page": 50,
+      "printed_page": 50,
+      "kind": "content"
+    },
+    {
+      "physical_page": 51,
+      "printed_page": 51,
+      "kind": "content",
+      "note": "Section divider '02 → VO-BF' (numbered, printed 51)"
+    },
+    {
+      "physical_page": 52,
+      "printed_page": 52,
+      "kind": "content"
+    },
+    {
+      "physical_page": 53,
+      "printed_page": 53,
+      "kind": "content"
+    },
+    {
+      "physical_page": 54,
+      "printed_page": 54,
+      "kind": "content"
+    },
+    {
+      "physical_page": 55,
+      "printed_page": 55,
+      "kind": "content"
+    },
+    {
+      "physical_page": 56,
+      "printed_page": 56,
+      "kind": "content",
+      "note": "Section divider '03 → AO-SF' (numbered, printed 56; running header lags as '56 VO-BF')"
+    },
+    {
+      "physical_page": 57,
+      "printed_page": 57,
+      "kind": "content"
+    },
+    {
+      "physical_page": 58,
+      "printed_page": 58,
+      "kind": "content"
+    },
+    {
+      "physical_page": 59,
+      "printed_page": 59,
+      "kind": "content"
+    },
+    {
+      "physical_page": 60,
+      "printed_page": 60,
+      "kind": "content"
+    },
+    {
+      "physical_page": 61,
+      "printed_page": 61,
+      "kind": "content"
+    },
+    {
+      "physical_page": 62,
+      "printed_page": 62,
+      "kind": "content"
+    },
+    {
+      "physical_page": 63,
+      "printed_page": 63,
+      "kind": "content"
+    },
+    {
+      "physical_page": 64,
+      "printed_page": 64,
+      "kind": "content"
+    },
+    {
+      "physical_page": 65,
+      "printed_page": 65,
+      "kind": "content"
+    },
+    {
+      "physical_page": 66,
+      "printed_page": 66,
+      "kind": "content"
+    },
+    {
+      "physical_page": 67,
+      "printed_page": 67,
+      "kind": "content"
+    },
+    {
+      "physical_page": 68,
+      "printed_page": 68,
+      "kind": "content"
+    },
+    {
+      "physical_page": 69,
+      "printed_page": 69,
+      "kind": "content"
+    },
+    {
+      "physical_page": 70,
+      "printed_page": 70,
+      "kind": "content"
+    },
+    {
+      "physical_page": 71,
+      "printed_page": 71,
+      "kind": "content"
+    },
+    {
+      "physical_page": 72,
+      "printed_page": 72,
+      "kind": "content"
+    },
+    {
+      "physical_page": 73,
+      "printed_page": null,
+      "kind": "cover",
+      "note": "Back cover — SIZ contact"
+    }
+  ],
+  "sections": [
+    {
+      "section_anchor": "APO-GrundStGy — Inhaltsübersicht",
+      "printed_page_start": 5,
+      "printed_page_end": 7,
+      "physical_page_start": 5,
+      "physical_page_end": 7,
+      "ordinance": "APO-GrundStGy",
+      "grades": "5-10",
+      "hazards": []
+    },
+    {
+      "section_anchor": "APO-GrundStGy Abschnitt 1 — Anwendungsbereich",
+      "printed_page_start": 8,
+      "printed_page_end": 8,
+      "physical_page_start": 8,
+      "physical_page_end": 8,
+      "ordinance": "APO-GrundStGy",
+      "grades": "5-10",
+      "hazards": []
+    },
+    {
+      "section_anchor": "APO-GrundStGy Abschnitt 2 — Leistungsbewertung und Einschätzung überfachlicher Kompetenzen",
+      "printed_page_start": 8,
+      "printed_page_end": 11,
+      "physical_page_start": 8,
+      "physical_page_end": 11,
+      "ordinance": "APO-GrundStGy",
+      "grades": "5-10",
+      "hazards": []
+    },
+    {
+      "section_anchor": "APO-GrundStGy Abschnitt 3 — Lernentwicklungsgespräche und Zeugnisse",
+      "printed_page_start": 12,
+      "printed_page_end": 15,
+      "physical_page_start": 12,
+      "physical_page_end": 15,
+      "ordinance": "APO-GrundStGy",
+      "grades": "5-10",
+      "hazards": []
+    },
+    {
+      "section_anchor": "APO-GrundStGy Abschnitt 4 — Verlauf der Bildungsgänge",
+      "printed_page_start": 16,
+      "printed_page_end": 20,
+      "physical_page_start": 16,
+      "physical_page_end": 20,
+      "ordinance": "APO-GrundStGy",
+      "grades": "5-10",
+      "hazards": []
+    },
+    {
+      "section_anchor": "APO-GrundStGy Abschnitt 5 — Abschluss der Bildungsgänge, Übergänge in die Sekundarstufe II",
+      "printed_page_start": 21,
+      "printed_page_end": 36,
+      "physical_page_start": 21,
+      "physical_page_end": 36,
+      "ordinance": "APO-GrundStGy",
+      "grades": "5-10",
+      "hazards": []
+    },
+    {
+      "section_anchor": "APO-GrundStGy Abschnitt 6 — Stundentafeln",
+      "printed_page_start": 37,
+      "printed_page_end": 40,
+      "physical_page_start": 37,
+      "physical_page_end": 40,
+      "ordinance": "APO-GrundStGy",
+      "grades": "5-10",
+      "hazards": []
+    },
+    {
+      "section_anchor": "APO-GrundStGy Abschnitt 7 — Schlussbestimmungen",
+      "printed_page_start": 41,
+      "printed_page_end": 41,
+      "physical_page_start": 41,
+      "physical_page_end": 41,
+      "ordinance": "APO-GrundStGy",
+      "grades": "5-10",
+      "hazards": []
+    },
+    {
+      "section_anchor": "APO-GrundStGy Anlagen 1–8 (Notengebung & Stundentafeln)",
+      "printed_page_start": 42,
+      "printed_page_end": 50,
+      "physical_page_start": 42,
+      "physical_page_end": 50,
+      "ordinance": "APO-GrundStGy",
+      "grades": "5-10",
+      "hazards": []
+    },
+    {
+      "section_anchor": "VO-BF — Verordnung über die besondere Förderung von Schülerinnen und Schülern (§ 45 HmbSG)",
+      "printed_page_start": 51,
+      "printed_page_end": 55,
+      "physical_page_start": 51,
+      "physical_page_end": 55,
+      "ordinance": "VO-BF",
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "AO-SF — Inhaltsübersicht",
+      "printed_page_start": 57,
+      "printed_page_end": 58,
+      "physical_page_start": 57,
+      "physical_page_end": 58,
+      "ordinance": "AO-SF",
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "AO-SF Abschnitt 1 — Anwendungsbereich",
+      "printed_page_start": 59,
+      "printed_page_end": 59,
+      "physical_page_start": 59,
+      "physical_page_end": 59,
+      "ordinance": "AO-SF",
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "AO-SF Abschnitt 2 — Sonderpädagogischer Förderbedarf, Förderschwerpunkte",
+      "printed_page_start": 59,
+      "printed_page_end": 62,
+      "physical_page_start": 59,
+      "physical_page_end": 62,
+      "ordinance": "AO-SF",
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "AO-SF Abschnitt 3 — Überprüfungsverfahren, Feststellung des Förderbedarfs",
+      "printed_page_start": 63,
+      "printed_page_end": 67,
+      "physical_page_start": 63,
+      "physical_page_end": 67,
+      "ordinance": "AO-SF",
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "AO-SF Abschnitt 4 — Förderplanung, individueller sonderpädagogischer Förderbedarf",
+      "printed_page_start": 68,
+      "printed_page_end": 70,
+      "physical_page_start": 68,
+      "physical_page_end": 70,
+      "ordinance": "AO-SF",
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "AO-SF Abschnitt 5 — Leistungsbewertung, Zeugnisse und Abschlüsse",
+      "printed_page_start": 71,
+      "printed_page_end": 71,
+      "physical_page_start": 71,
+      "physical_page_end": 71,
+      "ordinance": "AO-SF",
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "AO-SF Abschnitt 6 — Schlussbestimmungen",
+      "printed_page_start": 72,
+      "printed_page_end": 72,
+      "physical_page_start": 72,
+      "physical_page_end": 72,
+      "ordinance": "AO-SF",
+      "grades": null,
+      "hazards": []
+    }
+  ]
+}

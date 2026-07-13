@@ -1,0 +1,194 @@
+{
+  "document_id": "musteraufgaben-esa-religion",
+  "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+  "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+  "index_version": 1,
+  "physical_page_count": 18,
+  "page_identity": {
+    "model": "simple",
+    "offset": -5,
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover",     "note": "Front cover — Musteraufgabe Mündliche Prüfung ESA Religion, Hamburg logo" },
+    { "physical_page": 2,  "printed_page": null, "kind": "impressum", "note": "Impressum — Behörde für Schule, Familie und Berufsbildung, Hamburg 2026" },
+    { "physical_page": 3,  "printed_page": null, "kind": "content",   "note": "Vorbemerkung (p.1 of 2) — unnumbered foreword" },
+    { "physical_page": 4,  "printed_page": null, "kind": "content",   "note": "Vorbemerkung (p.2 of 2) — unnumbered foreword" },
+    { "physical_page": 5,  "printed_page": null, "kind": "toc",       "note": "Inhalt (table of contents)" },
+    { "physical_page": 6,  "printed_page": 1,    "kind": "content",   "note": "I. Prüfungsunterlagen / a. Themenbekanntgabe" },
+    { "physical_page": 7,  "printed_page": 2,    "kind": "content",   "note": "b. Prüfungsaufgabe / c. Lehrkräftematerial / i. Rahmenplanbezug" },
+    { "physical_page": 8,  "printed_page": 3,    "kind": "content",   "note": "i. Rahmenplanbezug (cont.) / ii. Fragen und Impulse" },
+    { "physical_page": 9,  "printed_page": 4,    "kind": "content",   "note": "ii. Fragen und Impulse (cont.)" },
+    { "physical_page": 10, "printed_page": 5,    "kind": "content",   "note": "iii. Erwartungshorizont" },
+    { "physical_page": 11, "printed_page": 6,    "kind": "content",   "note": "iii. Erwartungshorizont (cont.)" },
+    { "physical_page": 12, "printed_page": 7,    "kind": "content",   "note": "iii. Erwartungshorizont (cont.) / iv. Bewertungshinweise" },
+    { "physical_page": 13, "printed_page": 8,    "kind": "content",   "note": "v. Dokumentationsbogen" },
+    { "physical_page": 14, "printed_page": 9,    "kind": "content",   "note": "II. Erläuterung des Beispiels / a. Hinweise zur Themenstellung / b. Didaktische und methodische Erläuterungen" },
+    { "physical_page": 15, "printed_page": 10,   "kind": "content",   "note": "b. Didaktische und methodische Erläuterungen (cont.)" },
+    { "physical_page": 16, "printed_page": 11,   "kind": "content",   "note": "b. Didaktische (cont.) / c. Hinweise zur Durchführung / i. Organisation / ii. Möglicher Ablauf" },
+    { "physical_page": 17, "printed_page": 12,   "kind": "content",   "note": "ii. Möglicher Ablauf (cont.) / d. Literatur" },
+    { "physical_page": 18, "printed_page": null,  "kind": "cover",    "note": "Back cover — decorative design only; text layer artefact '13' is not a content page" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "I. Prüfungsunterlagen",
+      "printed_page_start": 1,
+      "printed_page_end": 8,
+      "physical_page_start": 6,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "a. Themenbekanntgabe",
+      "printed_page_start": 1,
+      "printed_page_end": 1,
+      "physical_page_start": 6,
+      "physical_page_end": 6,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "b. Prüfungsaufgabe",
+      "printed_page_start": 2,
+      "printed_page_end": 2,
+      "physical_page_start": 7,
+      "physical_page_end": 7,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "c. Lehrkräftematerial",
+      "printed_page_start": 2,
+      "printed_page_end": 8,
+      "physical_page_start": 7,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen",
+      "printed_page_start": 2,
+      "printed_page_end": 3,
+      "physical_page_start": 7,
+      "physical_page_end": 8,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+      "printed_page_start": 3,
+      "printed_page_end": 4,
+      "physical_page_start": 8,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "iii. Erwartungshorizont",
+      "printed_page_start": 5,
+      "printed_page_end": 7,
+      "physical_page_start": 10,
+      "physical_page_end": 12,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "iv. Bewertungshinweise",
+      "printed_page_start": 7,
+      "printed_page_end": 7,
+      "physical_page_start": 12,
+      "physical_page_end": 12,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "v. Dokumentationsbogen",
+      "printed_page_start": 8,
+      "printed_page_end": 8,
+      "physical_page_start": 13,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "II. Erläuterung des Beispiels",
+      "printed_page_start": 9,
+      "printed_page_end": 12,
+      "physical_page_start": 14,
+      "physical_page_end": 17,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "a. Hinweise zur Themenstellung",
+      "printed_page_start": 9,
+      "printed_page_end": 9,
+      "physical_page_start": 14,
+      "physical_page_end": 14,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "b. Didaktische und methodische Erläuterungen",
+      "printed_page_start": 9,
+      "printed_page_end": 11,
+      "physical_page_start": 14,
+      "physical_page_end": 16,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "c. Hinweise zur Durchführung der Prüfung",
+      "printed_page_start": 11,
+      "printed_page_end": 12,
+      "physical_page_start": 16,
+      "physical_page_end": 17,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "i. Organisation der Vorbereitungsphase",
+      "printed_page_start": 11,
+      "printed_page_end": 11,
+      "physical_page_start": 16,
+      "physical_page_end": 16,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+      "printed_page_start": 11,
+      "printed_page_end": 12,
+      "physical_page_start": 16,
+      "physical_page_end": 17,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "d. Literatur",
+      "printed_page_start": 12,
+      "printed_page_end": 12,
+      "physical_page_start": 17,
+      "physical_page_end": 17,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    }
+  ]
+}

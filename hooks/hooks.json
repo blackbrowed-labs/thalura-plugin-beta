@@ -1,0 +1,61 @@
+{
+  "description": "Thalura regulation digest-cache hard-gate plus the advisory setup-route gate and the fan-out deny gate. Host-executed cache hooks that the firewall read loop can no longer skip. Put-side persists each section's digest on the firewall's completion — PostToolUse-on-Agent (primary, carries tool_input+tool_response) AND SubagentStop (backup, the structural boundary). Get-side pre-loads a cached digest on the next firewall dispatch — PreToolUse-on-Agent. The fan-out gate co-binds on PreToolUse-on-Agent and DENIES a firewall dispatch that hands more than one document to a single reader (>=2 first-line document_id: keys), returning a corrective re-dispatch reason before any read cost is paid. The setup-route gate re-asserts the setup-vs-task routing decision on every prompt — UserPromptSubmit — as an ADVISORY injection only: on a not-yet-initialized or ambiguous workspace it injects a routing directive, and on a resolved workspace it emits nothing. It NEVER blocks a turn and degrades to the retained startup prose, so a non-steering result is a clean no-regression. Every binding carries a host timeout (the guaranteed hang ceiling) and is FAIL-OPEN: any error path is a no-op (exit 0), so a misbehaving hook never breaks, stalls, or degrades a teacher session.",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/setup-route-gate.sh",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Agent",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/put-digest.sh",
+            "timeout": 15
+          }
+        ]
+      }
+    ],
+    "SubagentStop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/put-digest.sh",
+            "timeout": 15
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Agent",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/get-digest.sh",
+            "timeout": 15
+          }
+        ]
+      },
+      {
+        "matcher": "Agent",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/fanout-gate.sh",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}

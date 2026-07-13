@@ -1,0 +1,162 @@
+{
+  "document_id": "bildungsplan-sek1-psychology",
+  "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+  "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+  "index_version": 1,
+  "physical_page_count": 27,
+  "page_identity": {
+    "offset": null,
+    "model": "restarting",
+    "flags": ["restarting_numbering"]
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover" },
+    { "physical_page": 2,  "printed_page": null, "kind": "impressum", "note": "Impressum — Hamburg 2024" },
+    { "physical_page": 3,  "printed_page": null, "kind": "toc", "note": "Inhaltsverzeichnis" },
+    { "physical_page": 4,  "printed_page": 4,  "kind": "content", "note": "segment 1 start; printed = physical (offset 0)" },
+    { "physical_page": 5,  "printed_page": 5,  "kind": "content" },
+    { "physical_page": 6,  "printed_page": 6,  "kind": "content" },
+    { "physical_page": 7,  "printed_page": 7,  "kind": "content" },
+    { "physical_page": 8,  "printed_page": 8,  "kind": "content" },
+    { "physical_page": 9,  "printed_page": 9,  "kind": "content" },
+    { "physical_page": 10, "printed_page": 10, "kind": "content" },
+    { "physical_page": 11, "printed_page": 11, "kind": "content" },
+    { "physical_page": 12, "printed_page": 12, "kind": "content" },
+    { "physical_page": 13, "printed_page": 13, "kind": "content" },
+    { "physical_page": 14, "printed_page": 14, "kind": "content", "note": "segment 1 end; 2.3 Inhalte begins" },
+    { "physical_page": 15, "printed_page": 1,  "kind": "content", "note": "RESTART: printed numbering resets to 1 (module-grid segment); offset shifts to -14" },
+    { "physical_page": 16, "printed_page": 2,  "kind": "content" },
+    { "physical_page": 17, "printed_page": 3,  "kind": "content" },
+    { "physical_page": 18, "printed_page": 4,  "kind": "content" },
+    { "physical_page": 19, "printed_page": 5,  "kind": "content" },
+    { "physical_page": 20, "printed_page": 6,  "kind": "content" },
+    { "physical_page": 21, "printed_page": 7,  "kind": "content" },
+    { "physical_page": 22, "printed_page": 8,  "kind": "content" },
+    { "physical_page": 23, "printed_page": 9,  "kind": "content" },
+    { "physical_page": 24, "printed_page": 10, "kind": "content" },
+    { "physical_page": 25, "printed_page": 11, "kind": "content" },
+    { "physical_page": 26, "printed_page": 12, "kind": "content", "note": "segment 2 end (last content page)" },
+    { "physical_page": 27, "printed_page": null, "kind": "blank", "note": "back cover — www.hamburg.de/bildungsplaene" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "1 Lernen im Fach Psychologie",
+      "printed_page_start": 4, "printed_page_end": 7,
+      "physical_page_start": 4, "physical_page_end": 7,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "1.1 Didaktische Grundsätze",
+      "printed_page_start": 4, "printed_page_end": 6,
+      "physical_page_start": 4, "physical_page_end": 6,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+      "printed_page_start": 6, "printed_page_end": 7,
+      "physical_page_start": 6, "physical_page_end": 7,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+      "printed_page_start": 7, "printed_page_end": 7,
+      "physical_page_start": 7, "physical_page_end": 7,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+      "printed_page_start": 8, "printed_page_end": 14,
+      "physical_page_start": 8, "physical_page_end": 14,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.1 Überfachliche Kompetenzen",
+      "printed_page_start": 8, "printed_page_end": 9,
+      "physical_page_start": 8, "physical_page_end": 9,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.2 Fachliche Kompetenzen",
+      "printed_page_start": 9, "printed_page_end": 13,
+      "physical_page_start": 9, "physical_page_end": 13,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.3 Inhalte",
+      "printed_page_start": 14, "printed_page_end": 14,
+      "physical_page_start": 14, "physical_page_end": 14,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "M1 Psychologie als Wissenschaft (1. Lernjahr — Einführung in die Psychologie)",
+      "printed_page_start": 1, "printed_page_end": 1,
+      "physical_page_start": 15, "physical_page_end": 15,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "M2 Grundaspekte des psychischen Systems (1. Lernjahr — Einführung in die Psychologie)",
+      "printed_page_start": 2, "printed_page_end": 2,
+      "physical_page_start": 16, "physical_page_end": 16,
+      "ordinance": null, "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "M3 Die Paradigmen der Psychologie (1. Lernjahr — Einführung in die Psychologie)",
+      "printed_page_start": 3, "printed_page_end": 3,
+      "physical_page_start": 17, "physical_page_end": 17,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "M4 Das Paradigma der Tiefenpsychologie (2. Lernjahr — Vertiefung der Paradigmen der Psychologie)",
+      "printed_page_start": 4, "printed_page_end": 4,
+      "physical_page_start": 18, "physical_page_end": 18,
+      "ordinance": null, "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "M5 Das Paradigma des Behaviorismus (2. Lernjahr — Vertiefung der Paradigmen der Psychologie)",
+      "printed_page_start": 5, "printed_page_end": 5,
+      "physical_page_start": 19, "physical_page_end": 19,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "M6 Das Paradigma des Kognitivismus (2. Lernjahr — Vertiefung der Paradigmen der Psychologie)",
+      "printed_page_start": 6, "printed_page_end": 6,
+      "physical_page_start": 20, "physical_page_end": 20,
+      "ordinance": null, "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "M7 Kommunikation & Medien (Wahlpflicht) (3. Lernjahr — Fachwissenschaftliche Vertiefung)",
+      "printed_page_start": 7, "printed_page_end": 8,
+      "physical_page_start": 21, "physical_page_end": 22,
+      "ordinance": null, "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "M8 Peer-Beziehung & Gender (Wahlpflicht) (3. Lernjahr — Fachwissenschaftliche Vertiefung)",
+      "printed_page_start": 9, "printed_page_end": 10,
+      "physical_page_start": 23, "physical_page_end": 24,
+      "ordinance": null, "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "M9 Kriminalpsychologie (Wahlpflicht) (3. Lernjahr — Fachwissenschaftliche Vertiefung)",
+      "printed_page_start": 11, "printed_page_end": 12,
+      "physical_page_start": 25, "physical_page_end": 26,
+      "ordinance": null, "grades": null,
+      "hazards": ["pua-semantic"]
+    }
+  ]
+}

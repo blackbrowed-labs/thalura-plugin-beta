@@ -1,0 +1,256 @@
+{
+  "document_id": "sek2-teil-c",
+  "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+  "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+  "index_version": 1,
+  "physical_page_count": 30,
+  "page_identity": {
+    "model": "simple",
+    "offset": 0,
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": 1,  "kind": "cover",     "note": "Cover page; printed '1' in footer (white-on-blue band)" },
+    { "physical_page": 2,  "printed_page": 2,  "kind": "impressum", "note": "Impressum; Hamburg 2022" },
+    { "physical_page": 3,  "printed_page": 3,  "kind": "toc",       "note": "Inhaltsverzeichnis" },
+    { "physical_page": 4,  "printed_page": 4,  "kind": "content" },
+    { "physical_page": 5,  "printed_page": 5,  "kind": "content" },
+    { "physical_page": 6,  "printed_page": 6,  "kind": "content" },
+    { "physical_page": 7,  "printed_page": 7,  "kind": "content" },
+    { "physical_page": 8,  "printed_page": 8,  "kind": "content" },
+    { "physical_page": 9,  "printed_page": 9,  "kind": "content" },
+    { "physical_page": 10, "printed_page": 10, "kind": "content" },
+    { "physical_page": 11, "printed_page": 11, "kind": "content" },
+    { "physical_page": 12, "printed_page": 12, "kind": "content" },
+    { "physical_page": 13, "printed_page": 13, "kind": "content" },
+    { "physical_page": 14, "printed_page": 14, "kind": "content" },
+    { "physical_page": 15, "printed_page": 15, "kind": "content" },
+    { "physical_page": 16, "printed_page": 16, "kind": "content" },
+    { "physical_page": 17, "printed_page": 17, "kind": "content" },
+    { "physical_page": 18, "printed_page": 18, "kind": "content" },
+    { "physical_page": 19, "printed_page": 19, "kind": "content" },
+    { "physical_page": 20, "printed_page": 20, "kind": "content" },
+    { "physical_page": 21, "printed_page": 21, "kind": "content" },
+    { "physical_page": 22, "printed_page": 22, "kind": "content" },
+    { "physical_page": 23, "printed_page": 23, "kind": "content" },
+    { "physical_page": 24, "printed_page": 24, "kind": "content" },
+    { "physical_page": 25, "printed_page": 25, "kind": "content" },
+    { "physical_page": 26, "printed_page": 26, "kind": "content" },
+    { "physical_page": 27, "printed_page": 27, "kind": "content" },
+    { "physical_page": 28, "printed_page": 28, "kind": "content" },
+    { "physical_page": 29, "printed_page": 29, "kind": "content" },
+    { "physical_page": 30, "printed_page": 30, "kind": "cover",    "note": "Back cover; www.hamburg.de/bildungsplaene; printed '30' in footer" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+      "printed_page_start": 4,
+      "printed_page_end": 5,
+      "physical_page_start": 4,
+      "physical_page_end": 5,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "2 Grundsätze",
+      "printed_page_start": 6,
+      "printed_page_end": 6,
+      "physical_page_start": 6,
+      "physical_page_end": 6,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+      "printed_page_start": 7,
+      "printed_page_end": 10,
+      "physical_page_start": 7,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "3a) Allgemeines",
+      "printed_page_start": 7,
+      "printed_page_end": 8,
+      "physical_page_start": 7,
+      "physical_page_end": 8,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "3b) Klausuren und entsprechende Leistungen in der Studienstufe der gymnasialen Oberstufe",
+      "printed_page_start": 9,
+      "printed_page_end": 10,
+      "physical_page_start": 9,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+      "printed_page_start": 11,
+      "printed_page_end": 12,
+      "physical_page_start": 11,
+      "physical_page_end": 12,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "5 Prüfungen",
+      "printed_page_start": 13,
+      "printed_page_end": 13,
+      "physical_page_start": 13,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "6 Bewertungskriterien",
+      "printed_page_start": 14,
+      "printed_page_end": 15,
+      "physical_page_start": 14,
+      "physical_page_end": 15,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7 Bewertungsraster gem. Beschluss der Kultusministerkonferenz für die Klausuren unter Abiturbedingungen",
+      "printed_page_start": 16,
+      "printed_page_end": 16,
+      "physical_page_start": 16,
+      "physical_page_end": 16,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+      "printed_page_start": 17,
+      "printed_page_end": 29,
+      "physical_page_start": 17,
+      "physical_page_end": 29,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8a) Alte Sprachen",
+      "printed_page_start": 17,
+      "printed_page_end": 18,
+      "physical_page_start": 17,
+      "physical_page_end": 18,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8b) Bildende Kunst",
+      "printed_page_start": 19,
+      "printed_page_end": 20,
+      "physical_page_start": 19,
+      "physical_page_end": 20,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8c) Biologie",
+      "printed_page_start": 20,
+      "printed_page_end": 20,
+      "physical_page_start": 20,
+      "physical_page_end": 20,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8d) Chemie",
+      "printed_page_start": 21,
+      "printed_page_end": 21,
+      "physical_page_start": 21,
+      "physical_page_end": 21,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8e) Informatik",
+      "printed_page_start": 21,
+      "printed_page_end": 22,
+      "physical_page_start": 21,
+      "physical_page_end": 22,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8f) Mathematik",
+      "printed_page_start": 22,
+      "printed_page_end": 22,
+      "physical_page_start": 22,
+      "physical_page_end": 22,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8g) Musik",
+      "printed_page_start": 23,
+      "printed_page_end": 24,
+      "physical_page_start": 23,
+      "physical_page_end": 24,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8h) Neuere Fremdsprachen",
+      "printed_page_start": 24,
+      "printed_page_end": 25,
+      "physical_page_start": 24,
+      "physical_page_end": 25,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8i) Physik",
+      "printed_page_start": 26,
+      "printed_page_end": 26,
+      "physical_page_start": 26,
+      "physical_page_end": 26,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8j) Sport",
+      "printed_page_start": 26,
+      "printed_page_end": 27,
+      "physical_page_start": 26,
+      "physical_page_end": 27,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8k) Theater",
+      "printed_page_start": 28,
+      "printed_page_end": 29,
+      "physical_page_start": 28,
+      "physical_page_end": 29,
+      "ordinance": null,
+      "grades": "Studienstufe",
+      "hazards": []
+    }
+  ]
+}

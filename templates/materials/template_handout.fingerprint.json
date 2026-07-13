@@ -1,0 +1,44 @@
+{
+  "application": "Thalura",
+  "family": "materials",
+  "fingerprint_schema": 1,
+  "header_footer_parts": [
+    "word/footer1.xml",
+    "word/header1.xml"
+  ],
+  "placeholders": [
+    "{{BODY_CONTENT}}",
+    "{{COURSE}}",
+    "{{DIFFERENTIATION}}",
+    "{{MATERIAL_NO}}",
+    "{{MATERIAL_TITLE}}",
+    "{{SUBJECT}}",
+    "{{TEACHER_ABBR}}",
+    "{{UNIT_TITLE}}"
+  ],
+  "source_sha256": "7fd69d103317c9742d29c96ae8cf0644c4044feccf3b7b6adf3226a4799606e3",
+  "style_ids": [
+    "Aufgabe",
+    "EndnoteReference",
+    "EndnoteText",
+    "EndnoteTextChar",
+    "FootnoteReference",
+    "FootnoteText",
+    "FootnoteTextChar",
+    "Fu\u00dfzeile",
+    "Heading1",
+    "Heading2",
+    "Heading3",
+    "Heading4",
+    "Heading5",
+    "Heading6",
+    "Hyperlink",
+    "Kopfzeile",
+    "ListParagraph",
+    "Normal",
+    "Strong",
+    "Titel",
+    "Title"
+  ],
+  "template_id": "template_handout"
+}

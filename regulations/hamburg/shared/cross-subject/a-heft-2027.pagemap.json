@@ -1,0 +1,1036 @@
+{
+  "document_id": "a-heft-2027",
+  "document_title": "Abitur 2027 — Regelungen für die zentralen schriftlichen Prüfungsaufgaben",
+  "source_pdf_sha256": "052af16d5e32801145e88890c33c078919e81d35045e088871644845b4c4ef39",
+  "index_version": 1,
+  "physical_page_count": 139,
+  "page_identity": {
+    "offset": -2,
+    "model": "simple",
+    "flags": []
+  },
+  "page_table": [
+    {
+      "physical_page": 1,
+      "printed_page": null,
+      "kind": "cover"
+    },
+    {
+      "physical_page": 2,
+      "printed_page": null,
+      "kind": "impressum"
+    },
+    {
+      "physical_page": 3,
+      "printed_page": null,
+      "kind": "toc"
+    },
+    {
+      "physical_page": 4,
+      "printed_page": 2,
+      "kind": "content"
+    },
+    {
+      "physical_page": 5,
+      "printed_page": 3,
+      "kind": "content"
+    },
+    {
+      "physical_page": 6,
+      "printed_page": 4,
+      "kind": "content"
+    },
+    {
+      "physical_page": 7,
+      "printed_page": 5,
+      "kind": "content"
+    },
+    {
+      "physical_page": 8,
+      "printed_page": 6,
+      "kind": "content"
+    },
+    {
+      "physical_page": 9,
+      "printed_page": 7,
+      "kind": "content"
+    },
+    {
+      "physical_page": 10,
+      "printed_page": 8,
+      "kind": "content"
+    },
+    {
+      "physical_page": 11,
+      "printed_page": 9,
+      "kind": "content"
+    },
+    {
+      "physical_page": 12,
+      "printed_page": 10,
+      "kind": "content"
+    },
+    {
+      "physical_page": 13,
+      "printed_page": 11,
+      "kind": "content"
+    },
+    {
+      "physical_page": 14,
+      "printed_page": 12,
+      "kind": "content"
+    },
+    {
+      "physical_page": 15,
+      "printed_page": 13,
+      "kind": "content"
+    },
+    {
+      "physical_page": 16,
+      "printed_page": 14,
+      "kind": "content"
+    },
+    {
+      "physical_page": 17,
+      "printed_page": 15,
+      "kind": "content"
+    },
+    {
+      "physical_page": 18,
+      "printed_page": 16,
+      "kind": "content"
+    },
+    {
+      "physical_page": 19,
+      "printed_page": 17,
+      "kind": "content"
+    },
+    {
+      "physical_page": 20,
+      "printed_page": 18,
+      "kind": "content"
+    },
+    {
+      "physical_page": 21,
+      "printed_page": 19,
+      "kind": "content"
+    },
+    {
+      "physical_page": 22,
+      "printed_page": 20,
+      "kind": "content"
+    },
+    {
+      "physical_page": 23,
+      "printed_page": 21,
+      "kind": "content"
+    },
+    {
+      "physical_page": 24,
+      "printed_page": 22,
+      "kind": "content"
+    },
+    {
+      "physical_page": 25,
+      "printed_page": 23,
+      "kind": "content"
+    },
+    {
+      "physical_page": 26,
+      "printed_page": 24,
+      "kind": "content"
+    },
+    {
+      "physical_page": 27,
+      "printed_page": 25,
+      "kind": "content"
+    },
+    {
+      "physical_page": 28,
+      "printed_page": 26,
+      "kind": "content"
+    },
+    {
+      "physical_page": 29,
+      "printed_page": 27,
+      "kind": "content"
+    },
+    {
+      "physical_page": 30,
+      "printed_page": 28,
+      "kind": "content"
+    },
+    {
+      "physical_page": 31,
+      "printed_page": 29,
+      "kind": "content"
+    },
+    {
+      "physical_page": 32,
+      "printed_page": 30,
+      "kind": "content"
+    },
+    {
+      "physical_page": 33,
+      "printed_page": 31,
+      "kind": "content"
+    },
+    {
+      "physical_page": 34,
+      "printed_page": 32,
+      "kind": "content"
+    },
+    {
+      "physical_page": 35,
+      "printed_page": 33,
+      "kind": "content"
+    },
+    {
+      "physical_page": 36,
+      "printed_page": 34,
+      "kind": "content"
+    },
+    {
+      "physical_page": 37,
+      "printed_page": 35,
+      "kind": "content"
+    },
+    {
+      "physical_page": 38,
+      "printed_page": 36,
+      "kind": "content"
+    },
+    {
+      "physical_page": 39,
+      "printed_page": 37,
+      "kind": "content"
+    },
+    {
+      "physical_page": 40,
+      "printed_page": 38,
+      "kind": "content"
+    },
+    {
+      "physical_page": 41,
+      "printed_page": 39,
+      "kind": "content"
+    },
+    {
+      "physical_page": 42,
+      "printed_page": 40,
+      "kind": "content"
+    },
+    {
+      "physical_page": 43,
+      "printed_page": 41,
+      "kind": "content"
+    },
+    {
+      "physical_page": 44,
+      "printed_page": 42,
+      "kind": "content"
+    },
+    {
+      "physical_page": 45,
+      "printed_page": 43,
+      "kind": "content"
+    },
+    {
+      "physical_page": 46,
+      "printed_page": 44,
+      "kind": "content"
+    },
+    {
+      "physical_page": 47,
+      "printed_page": 45,
+      "kind": "content"
+    },
+    {
+      "physical_page": 48,
+      "printed_page": 46,
+      "kind": "content"
+    },
+    {
+      "physical_page": 49,
+      "printed_page": 47,
+      "kind": "content"
+    },
+    {
+      "physical_page": 50,
+      "printed_page": 48,
+      "kind": "content"
+    },
+    {
+      "physical_page": 51,
+      "printed_page": 49,
+      "kind": "content"
+    },
+    {
+      "physical_page": 52,
+      "printed_page": 50,
+      "kind": "content"
+    },
+    {
+      "physical_page": 53,
+      "printed_page": 51,
+      "kind": "content"
+    },
+    {
+      "physical_page": 54,
+      "printed_page": 52,
+      "kind": "content"
+    },
+    {
+      "physical_page": 55,
+      "printed_page": 53,
+      "kind": "content"
+    },
+    {
+      "physical_page": 56,
+      "printed_page": 54,
+      "kind": "content"
+    },
+    {
+      "physical_page": 57,
+      "printed_page": 55,
+      "kind": "content"
+    },
+    {
+      "physical_page": 58,
+      "printed_page": 56,
+      "kind": "content"
+    },
+    {
+      "physical_page": 59,
+      "printed_page": 57,
+      "kind": "content"
+    },
+    {
+      "physical_page": 60,
+      "printed_page": 58,
+      "kind": "content"
+    },
+    {
+      "physical_page": 61,
+      "printed_page": 59,
+      "kind": "content"
+    },
+    {
+      "physical_page": 62,
+      "printed_page": 60,
+      "kind": "content"
+    },
+    {
+      "physical_page": 63,
+      "printed_page": 61,
+      "kind": "content"
+    },
+    {
+      "physical_page": 64,
+      "printed_page": 62,
+      "kind": "content"
+    },
+    {
+      "physical_page": 65,
+      "printed_page": 63,
+      "kind": "content"
+    },
+    {
+      "physical_page": 66,
+      "printed_page": 64,
+      "kind": "content"
+    },
+    {
+      "physical_page": 67,
+      "printed_page": 65,
+      "kind": "content"
+    },
+    {
+      "physical_page": 68,
+      "printed_page": 66,
+      "kind": "content"
+    },
+    {
+      "physical_page": 69,
+      "printed_page": 67,
+      "kind": "content"
+    },
+    {
+      "physical_page": 70,
+      "printed_page": 68,
+      "kind": "content"
+    },
+    {
+      "physical_page": 71,
+      "printed_page": 69,
+      "kind": "content"
+    },
+    {
+      "physical_page": 72,
+      "printed_page": 70,
+      "kind": "content"
+    },
+    {
+      "physical_page": 73,
+      "printed_page": 71,
+      "kind": "content"
+    },
+    {
+      "physical_page": 74,
+      "printed_page": 72,
+      "kind": "content"
+    },
+    {
+      "physical_page": 75,
+      "printed_page": 73,
+      "kind": "content"
+    },
+    {
+      "physical_page": 76,
+      "printed_page": 74,
+      "kind": "content"
+    },
+    {
+      "physical_page": 77,
+      "printed_page": 75,
+      "kind": "content"
+    },
+    {
+      "physical_page": 78,
+      "printed_page": 76,
+      "kind": "content"
+    },
+    {
+      "physical_page": 79,
+      "printed_page": 77,
+      "kind": "content"
+    },
+    {
+      "physical_page": 80,
+      "printed_page": 78,
+      "kind": "content"
+    },
+    {
+      "physical_page": 81,
+      "printed_page": 79,
+      "kind": "content"
+    },
+    {
+      "physical_page": 82,
+      "printed_page": 80,
+      "kind": "content"
+    },
+    {
+      "physical_page": 83,
+      "printed_page": 81,
+      "kind": "content"
+    },
+    {
+      "physical_page": 84,
+      "printed_page": 82,
+      "kind": "content"
+    },
+    {
+      "physical_page": 85,
+      "printed_page": 83,
+      "kind": "content"
+    },
+    {
+      "physical_page": 86,
+      "printed_page": 84,
+      "kind": "content"
+    },
+    {
+      "physical_page": 87,
+      "printed_page": 85,
+      "kind": "content"
+    },
+    {
+      "physical_page": 88,
+      "printed_page": 86,
+      "kind": "content"
+    },
+    {
+      "physical_page": 89,
+      "printed_page": 87,
+      "kind": "content"
+    },
+    {
+      "physical_page": 90,
+      "printed_page": 88,
+      "kind": "content"
+    },
+    {
+      "physical_page": 91,
+      "printed_page": 89,
+      "kind": "content"
+    },
+    {
+      "physical_page": 92,
+      "printed_page": 90,
+      "kind": "content"
+    },
+    {
+      "physical_page": 93,
+      "printed_page": 91,
+      "kind": "content"
+    },
+    {
+      "physical_page": 94,
+      "printed_page": 92,
+      "kind": "content"
+    },
+    {
+      "physical_page": 95,
+      "printed_page": 93,
+      "kind": "content"
+    },
+    {
+      "physical_page": 96,
+      "printed_page": 94,
+      "kind": "content"
+    },
+    {
+      "physical_page": 97,
+      "printed_page": 95,
+      "kind": "content"
+    },
+    {
+      "physical_page": 98,
+      "printed_page": 96,
+      "kind": "content"
+    },
+    {
+      "physical_page": 99,
+      "printed_page": 97,
+      "kind": "content"
+    },
+    {
+      "physical_page": 100,
+      "printed_page": 98,
+      "kind": "content"
+    },
+    {
+      "physical_page": 101,
+      "printed_page": 99,
+      "kind": "content"
+    },
+    {
+      "physical_page": 102,
+      "printed_page": 100,
+      "kind": "content"
+    },
+    {
+      "physical_page": 103,
+      "printed_page": 101,
+      "kind": "content"
+    },
+    {
+      "physical_page": 104,
+      "printed_page": 102,
+      "kind": "content"
+    },
+    {
+      "physical_page": 105,
+      "printed_page": 103,
+      "kind": "content"
+    },
+    {
+      "physical_page": 106,
+      "printed_page": 104,
+      "kind": "content"
+    },
+    {
+      "physical_page": 107,
+      "printed_page": 105,
+      "kind": "content"
+    },
+    {
+      "physical_page": 108,
+      "printed_page": 106,
+      "kind": "content"
+    },
+    {
+      "physical_page": 109,
+      "printed_page": 107,
+      "kind": "content"
+    },
+    {
+      "physical_page": 110,
+      "printed_page": 108,
+      "kind": "content"
+    },
+    {
+      "physical_page": 111,
+      "printed_page": 109,
+      "kind": "content"
+    },
+    {
+      "physical_page": 112,
+      "printed_page": 110,
+      "kind": "content"
+    },
+    {
+      "physical_page": 113,
+      "printed_page": 111,
+      "kind": "content"
+    },
+    {
+      "physical_page": 114,
+      "printed_page": 112,
+      "kind": "content"
+    },
+    {
+      "physical_page": 115,
+      "printed_page": 113,
+      "kind": "content"
+    },
+    {
+      "physical_page": 116,
+      "printed_page": 114,
+      "kind": "content"
+    },
+    {
+      "physical_page": 117,
+      "printed_page": 115,
+      "kind": "content"
+    },
+    {
+      "physical_page": 118,
+      "printed_page": 116,
+      "kind": "content"
+    },
+    {
+      "physical_page": 119,
+      "printed_page": 117,
+      "kind": "content"
+    },
+    {
+      "physical_page": 120,
+      "printed_page": 118,
+      "kind": "content"
+    },
+    {
+      "physical_page": 121,
+      "printed_page": 119,
+      "kind": "content"
+    },
+    {
+      "physical_page": 122,
+      "printed_page": 120,
+      "kind": "content"
+    },
+    {
+      "physical_page": 123,
+      "printed_page": 121,
+      "kind": "content"
+    },
+    {
+      "physical_page": 124,
+      "printed_page": 122,
+      "kind": "content"
+    },
+    {
+      "physical_page": 125,
+      "printed_page": 123,
+      "kind": "content"
+    },
+    {
+      "physical_page": 126,
+      "printed_page": 124,
+      "kind": "content"
+    },
+    {
+      "physical_page": 127,
+      "printed_page": 125,
+      "kind": "content"
+    },
+    {
+      "physical_page": 128,
+      "printed_page": 126,
+      "kind": "content"
+    },
+    {
+      "physical_page": 129,
+      "printed_page": 127,
+      "kind": "content"
+    },
+    {
+      "physical_page": 130,
+      "printed_page": 128,
+      "kind": "content"
+    },
+    {
+      "physical_page": 131,
+      "printed_page": 129,
+      "kind": "content"
+    },
+    {
+      "physical_page": 132,
+      "printed_page": 130,
+      "kind": "content"
+    },
+    {
+      "physical_page": 133,
+      "printed_page": 131,
+      "kind": "content"
+    },
+    {
+      "physical_page": 134,
+      "printed_page": 132,
+      "kind": "content"
+    },
+    {
+      "physical_page": 135,
+      "printed_page": 133,
+      "kind": "content"
+    },
+    {
+      "physical_page": 136,
+      "printed_page": 134,
+      "kind": "content"
+    },
+    {
+      "physical_page": 137,
+      "printed_page": 135,
+      "kind": "content"
+    },
+    {
+      "physical_page": 138,
+      "printed_page": 136,
+      "kind": "content"
+    },
+    {
+      "physical_page": 139,
+      "printed_page": null,
+      "kind": "cover",
+      "note": "back cover — solid blue, BSB logo only, unnumbered"
+    }
+  ],
+  "sections": [
+    {
+      "section_anchor": "Vorwort",
+      "printed_page_start": 2,
+      "printed_page_end": 2,
+      "physical_page_start": 4,
+      "physical_page_end": 4,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Allgemeine Regelungen",
+      "printed_page_start": 3,
+      "printed_page_end": 4,
+      "physical_page_start": 5,
+      "physical_page_end": 6,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "1. Deutsch",
+      "printed_page_start": 5,
+      "printed_page_end": 8,
+      "physical_page_start": 7,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": [
+        "pua-semantic"
+      ]
+    },
+    {
+      "section_anchor": "2. Englisch",
+      "printed_page_start": 9,
+      "printed_page_end": 13,
+      "physical_page_start": 11,
+      "physical_page_end": 15,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "3. Arabisch",
+      "printed_page_start": 14,
+      "printed_page_end": 17,
+      "physical_page_start": 16,
+      "physical_page_end": 19,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4. Chinesisch",
+      "printed_page_start": 18,
+      "printed_page_end": 21,
+      "physical_page_start": 20,
+      "physical_page_end": 23,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "5. Farsi",
+      "printed_page_start": 22,
+      "printed_page_end": 25,
+      "physical_page_start": 24,
+      "physical_page_end": 27,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "6. Französisch",
+      "printed_page_start": 26,
+      "printed_page_end": 29,
+      "physical_page_start": 28,
+      "physical_page_end": 31,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "7. Italienisch",
+      "printed_page_start": 30,
+      "printed_page_end": 33,
+      "physical_page_start": 32,
+      "physical_page_end": 35,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "8. Latein",
+      "printed_page_start": 34,
+      "printed_page_end": 38,
+      "physical_page_start": 36,
+      "physical_page_end": 40,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "9. Polnisch",
+      "printed_page_start": 39,
+      "printed_page_end": 42,
+      "physical_page_start": 41,
+      "physical_page_end": 44,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "10. Portugiesisch",
+      "printed_page_start": 43,
+      "printed_page_end": 46,
+      "physical_page_start": 45,
+      "physical_page_end": 48,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "11. Russisch",
+      "printed_page_start": 47,
+      "printed_page_end": 50,
+      "physical_page_start": 49,
+      "physical_page_end": 52,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "12. Spanisch",
+      "printed_page_start": 51,
+      "printed_page_end": 54,
+      "physical_page_start": 53,
+      "physical_page_end": 56,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "13. Türkisch",
+      "printed_page_start": 55,
+      "printed_page_end": 58,
+      "physical_page_start": 57,
+      "physical_page_end": 60,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "14. Geographie",
+      "printed_page_start": 59,
+      "printed_page_end": 63,
+      "physical_page_start": 61,
+      "physical_page_end": 65,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "15. Geschichte",
+      "printed_page_start": 64,
+      "printed_page_end": 66,
+      "physical_page_start": 66,
+      "physical_page_end": 68,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "16. Politik/Gesellschaft/Wirtschaft",
+      "printed_page_start": 67,
+      "printed_page_end": 71,
+      "physical_page_start": 69,
+      "physical_page_end": 73,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "17. Philosophie",
+      "printed_page_start": 72,
+      "printed_page_end": 75,
+      "physical_page_start": 74,
+      "physical_page_end": 77,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": [
+        "pua-semantic"
+      ]
+    },
+    {
+      "section_anchor": "18. Psychologie (grundlegendes Anforderungsniveau)",
+      "printed_page_start": 76,
+      "printed_page_end": 78,
+      "physical_page_start": 78,
+      "physical_page_end": 80,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "19. Religion",
+      "printed_page_start": 79,
+      "printed_page_end": 83,
+      "physical_page_start": 81,
+      "physical_page_end": 85,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "20. Sport",
+      "printed_page_start": 84,
+      "printed_page_end": 87,
+      "physical_page_start": 86,
+      "physical_page_end": 89,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "21. Mathematik",
+      "printed_page_start": 88,
+      "printed_page_end": 90,
+      "physical_page_start": 90,
+      "physical_page_end": 92,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "22. Biologie",
+      "printed_page_start": 91,
+      "printed_page_end": 95,
+      "physical_page_start": 93,
+      "physical_page_end": 97,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "23. Chemie",
+      "printed_page_start": 96,
+      "printed_page_end": 101,
+      "physical_page_start": 98,
+      "physical_page_end": 103,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "24. Informatik",
+      "printed_page_start": 102,
+      "printed_page_end": 105,
+      "physical_page_start": 104,
+      "physical_page_end": 107,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "25. Physik",
+      "printed_page_start": 106,
+      "printed_page_end": 112,
+      "physical_page_start": 108,
+      "physical_page_end": 114,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "26. Betriebswirtschaftslehre (berufliche Gymnasien)",
+      "printed_page_start": 113,
+      "printed_page_end": 117,
+      "physical_page_start": 115,
+      "physical_page_end": 119,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "27. Volkswirtschaftslehre (berufliche Gymnasien)",
+      "printed_page_start": 118,
+      "printed_page_end": 121,
+      "physical_page_start": 120,
+      "physical_page_end": 123,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "28. Pädagogik (berufliche Gymnasien)",
+      "printed_page_start": 122,
+      "printed_page_end": 124,
+      "physical_page_start": 124,
+      "physical_page_end": 126,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "29. Psychologie (berufliche Gymnasien)",
+      "printed_page_start": 125,
+      "printed_page_end": 128,
+      "physical_page_start": 127,
+      "physical_page_end": 130,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    },
+    {
+      "section_anchor": "30. Technik (berufliche Gymnasien)",
+      "printed_page_start": 129,
+      "printed_page_end": 136,
+      "physical_page_start": 131,
+      "physical_page_end": 138,
+      "ordinance": null,
+      "grades": "S4 (Abitur)",
+      "hazards": []
+    }
+  ]
+}

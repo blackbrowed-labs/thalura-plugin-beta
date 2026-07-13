@@ -1,0 +1,332 @@
+{
+  "document_id": "rahmenvorgaben-sprachbildung",
+  "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+  "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+  "index_version": 1,
+  "physical_page_count": 26,
+  "page_identity": {
+    "model": "simple",
+    "offset": 0,
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover" },
+    { "physical_page": 2,  "printed_page": 2,    "kind": "impressum" },
+    { "physical_page": 3,  "printed_page": 3,    "kind": "toc" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content", "note": "1 Einleitung" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content", "note": "2 Didaktische Grundsätze / 2.1 Sprachliche Anforderungen im Fachunterricht" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content", "note": "2.2 Sprachsensibler Fachunterricht" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content", "note": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content", "note": "2.3 continued (Lesen / Schreiben subsections)" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content", "note": "2.4 Sprachbewusstheit" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content", "note": "2.5 Sprachliches Handeln im Fachunterricht" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content", "note": "2.5 continued" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content", "note": "3 Erläuterungen zum Aufbau der Kompetenzmatrix" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content", "note": "3 continued (Kompetenzmatrix overview table)" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content", "note": "4 Kompetenzmatrix fachbezogener bildungssprachlicher Kompetenzen für die Sekundarstufe" },
+    { "physical_page": 15, "printed_page": 15,   "kind": "content", "note": "Kompetenzbereiche: A. HÖREN / B. LESEN starts" },
+    { "physical_page": 16, "printed_page": 16,   "kind": "content", "note": "B. LESEN continued / C. SPRECHEN" },
+    { "physical_page": 17, "printed_page": 17,   "kind": "content", "note": "D. SCHREIBEN" },
+    { "physical_page": 18, "printed_page": 18,   "kind": "content", "note": "E. SPRACHBEWUSSTHEIT" },
+    { "physical_page": 19, "printed_page": 19,   "kind": "content", "note": "Sprachhandlungen 1–3" },
+    { "physical_page": 20, "printed_page": 20,   "kind": "content", "note": "Sprachhandlungen 4–6 starts (PUA U+F0E0 cross-reference arrows)" },
+    { "physical_page": 21, "printed_page": 21,   "kind": "content", "note": "Sprachhandlungen 6 continued / 7–8" },
+    { "physical_page": 22, "printed_page": 22,   "kind": "content", "note": "Sprachhandlungen 9–10 (PUA U+F0E0 cross-reference arrows)" },
+    { "physical_page": 23, "printed_page": 23,   "kind": "content", "note": "Sprachhandlungen 11–12 (PUA U+F0E0 cross-reference arrows)" },
+    { "physical_page": 24, "printed_page": 24,   "kind": "content", "note": "Sprachhandlung 13 (PUA U+F0E0 cross-reference arrows)" },
+    { "physical_page": 25, "printed_page": 25,   "kind": "content", "note": "Sprachhandlungen 14–15" },
+    { "physical_page": 26, "printed_page": 26,   "kind": "content", "note": "Back cover (decorative graphic + www.hamburg.de/bildungsplaene)" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "1 Einleitung",
+      "printed_page_start": 4,
+      "printed_page_end": 4,
+      "physical_page_start": 4,
+      "physical_page_end": 4,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2 Didaktische Grundsätze",
+      "printed_page_start": 5,
+      "printed_page_end": 11,
+      "physical_page_start": 5,
+      "physical_page_end": 11,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+      "printed_page_start": 5,
+      "printed_page_end": 5,
+      "physical_page_start": 5,
+      "physical_page_end": 5,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+      "printed_page_start": 6,
+      "printed_page_end": 6,
+      "physical_page_start": 6,
+      "physical_page_end": 6,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+      "printed_page_start": 7,
+      "printed_page_end": 8,
+      "physical_page_start": 7,
+      "physical_page_end": 8,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.4 Sprachbewusstheit",
+      "printed_page_start": 9,
+      "printed_page_end": 9,
+      "physical_page_start": 9,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+      "printed_page_start": 10,
+      "printed_page_end": 11,
+      "physical_page_start": 10,
+      "physical_page_end": 11,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+      "printed_page_start": 12,
+      "printed_page_end": 13,
+      "physical_page_start": 12,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix fachbezogener bildungssprachlicher Kompetenzen für die Sekundarstufe",
+      "printed_page_start": 14,
+      "printed_page_end": 25,
+      "physical_page_start": 14,
+      "physical_page_end": 25,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+      "printed_page_start": 15,
+      "printed_page_end": 15,
+      "physical_page_start": 15,
+      "physical_page_end": 15,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+      "printed_page_start": 15,
+      "printed_page_end": 16,
+      "physical_page_start": 15,
+      "physical_page_end": 16,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — C. SPRECHEN",
+      "printed_page_start": 16,
+      "printed_page_end": 16,
+      "physical_page_start": 16,
+      "physical_page_end": 16,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — D. SCHREIBEN (SACHTEXTE SCHREIBEN)",
+      "printed_page_start": 17,
+      "printed_page_end": 17,
+      "physical_page_start": 17,
+      "physical_page_end": 17,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — E. SPRACHBEWUSSTHEIT",
+      "printed_page_start": 18,
+      "printed_page_end": 18,
+      "physical_page_start": 18,
+      "physical_page_end": 18,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 1: ANWEISUNGEN & AUFGABENSTELLUNGEN AUSFÜHREN UND ERTEILEN",
+      "printed_page_start": 19,
+      "printed_page_end": 19,
+      "physical_page_start": 19,
+      "physical_page_end": 19,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 2: BENENNEN & AUFZÄHLEN",
+      "printed_page_start": 19,
+      "printed_page_end": 19,
+      "physical_page_start": 19,
+      "physical_page_end": 19,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 3: FRAGEN",
+      "printed_page_start": 19,
+      "printed_page_end": 19,
+      "physical_page_start": 19,
+      "physical_page_end": 19,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 4: VERMUTUNGEN ÄUSSERN",
+      "printed_page_start": 20,
+      "printed_page_end": 20,
+      "physical_page_start": 20,
+      "physical_page_end": 20,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 5: BERICHTEN",
+      "printed_page_start": 20,
+      "printed_page_end": 20,
+      "physical_page_start": 20,
+      "physical_page_end": 20,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 6: BESCHREIBEN",
+      "printed_page_start": 20,
+      "printed_page_end": 21,
+      "physical_page_start": 20,
+      "physical_page_end": 21,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 7: BESCHREIBEN DISKONTINUIERLICHER DARSTELLUNGSFORMEN",
+      "printed_page_start": 21,
+      "printed_page_end": 21,
+      "physical_page_start": 21,
+      "physical_page_end": 21,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 8: DEFINIEREN",
+      "printed_page_start": 21,
+      "printed_page_end": 21,
+      "physical_page_start": 21,
+      "physical_page_end": 21,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 9: ERKLÄREN UND ERLÄUTERN",
+      "printed_page_start": 22,
+      "printed_page_end": 22,
+      "physical_page_start": 22,
+      "physical_page_end": 22,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 10: VERGLEICHEN",
+      "printed_page_start": 22,
+      "printed_page_end": 22,
+      "physical_page_start": 22,
+      "physical_page_end": 22,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 11: MEINUNGEN UND BEHAUPTUNGEN ÄUSSERN",
+      "printed_page_start": 23,
+      "printed_page_end": 23,
+      "physical_page_start": 23,
+      "physical_page_end": 23,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 12: ARGUMENT FORMULIEREN UND BEGRÜNDEN",
+      "printed_page_start": 23,
+      "printed_page_end": 23,
+      "physical_page_start": 23,
+      "physical_page_end": 23,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 13: DISKUTIEREN UND ERÖRTERN",
+      "printed_page_start": 24,
+      "printed_page_end": 24,
+      "physical_page_start": 24,
+      "physical_page_end": 24,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 14: URTEILEN UND BEWERTEN",
+      "printed_page_start": 25,
+      "printed_page_end": 25,
+      "physical_page_start": 25,
+      "physical_page_end": 25,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    },
+    {
+      "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 15: ZUSAMMENFASSEN",
+      "printed_page_start": 25,
+      "printed_page_end": 25,
+      "physical_page_start": 25,
+      "physical_page_end": 25,
+      "ordinance": null,
+      "grades": "Sekundarstufe",
+      "hazards": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "application": "Thalura",
+  "family": "planning",
+  "fingerprint_schema": 1,
+  "header_footer_parts": [
+    "word/footer1.xml",
+    "word/header1.xml"
+  ],
+  "placeholders": [
+    "{{AI_GENERATION_NOTICE_HEADING}}",
+    "{{AI_GENERATION_NOTICE}}",
+    "{{BODY_CONTENT}}",
+    "{{GENERATION_DATE}}",
+    "{{SCHOOL_YEAR}}",
+    "{{TEACHER_ABBR}}",
+    "{{YEAR_OVERVIEW_TITLE}}"
+  ],
+  "source_sha256": "cfdc4af4f4dd70ec54e5d62ab40095150764bd8f8c5dd25e14019c0384fda865",
+  "style_ids": [
+    "Absatz-Standardschriftart",
+    "Endnotentext",
+    "EndnotentextZchn",
+    "Endnotenzeichen",
+    "Fett1",
+    "Funotentext",
+    "FunotentextZchn",
+    "Funotenzeichen",
+    "Fuzeile",
+    "Hyperlink",
+    "KeineListe",
+    "Kopfzeile",
+    "Listenabsatz",
+    "NormaleTabelle",
+    "Standard",
+    "Titel",
+    "berschrift1",
+    "berschrift2",
+    "berschrift3",
+    "berschrift4",
+    "berschrift5",
+    "berschrift6"
+  ],
+  "template_id": "template_year_overview"
+}

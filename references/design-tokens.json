@@ -1,0 +1,81 @@
+{
+  "$description": "Thalura design tokens — the single source for the layout values of generated planning and material documents (colours, fonts, spacing, table/column styling) that were migrated out of the content specification. Slides typography and the school-branding palette remain specified in template-specification.md and the branding pipeline for now. Populated with the CURRENT design; the deferred redesign re-populates the same schema. Nothing downstream may hard-code a value that exists here.",
+  "$conventions": {
+    "colors": "6-digit uppercase hex, no leading # (OOXML form)",
+    "sizes_word": "half-points (w:sz): 22 = 11 pt",
+    "space": "twips (dxa): 160 = 8 pt",
+    "rule_eighthpt": "w:sz border units are eighths of a point: 4 = 0.5 pt",
+    "tables_widths": "column widths in twips (dxa); per table, cols sum to word.page.content_width (9072)",
+    "pointer_resolution": "semantic-tier pointers to colour primitives ({primitive.color.*}) resolve to {\"value\": ...} objects - consumers read .value; pointers to font/size/space/rule primitives resolve to bare scalars"
+  },
+  "primitive": {
+    "color": {
+      "ink":          { "value": "000000" },
+      "surface":      { "value": "FFFFFF" },
+      "header_fill":  { "value": "C0C0C0", "note": "medium grey table header — survives photocopy" },
+      "rule_min":     { "value": "999999", "note": "minimum line/border grey that survives copying" },
+      "border":       { "value": "000000" },
+      "ai_notice":    { "value": "999999" },
+      "separator":    { "value": "CCCCCC" },
+      "brand_seed":   { "value": "2B579A", "note": "neutral education-blue fallback; a school brand replaces this (branding pipeline, unchanged here)" }
+    },
+    "font": {
+      "primary":       "Arial",
+      "accessibility": "Verdana",
+      "note": "current design uses Arial across Word documents; Verdana is the slide accessibility font"
+    },
+    "size_word_halfpt": {
+      "title": 28, "h2": 26, "h3": 22,
+      "body": 22, "table": 22, "table_header": 22,
+      "chrome": 16, "footnote": 16,
+      "note": "current: Titel 14pt, Heading2 13pt, Heading3 11pt, Normal 11pt, Kopfzeile/Fußzeile 8pt, footnote 8pt"
+    },
+    "space_twips": {
+      "after_body": 160, "line_body": 278,
+      "title_after": 360, "title_line": 240,
+      "cell_pad_h": 57, "header_row_min_height": 567,
+      "ai_notice_before": 480
+    },
+    "rule_eighthpt": { "hairline": 4 }
+  },
+  "semantic": {
+    "table_header_fill": "{primitive.color.header_fill}",
+    "table_border":      { "style": "single", "size": "{primitive.rule_eighthpt.hairline}", "color": "{primitive.color.border}" },
+    "ink":               "{primitive.color.ink}",
+    "surface":           "{primitive.color.surface}",
+    "ai_notice_text":    "{primitive.color.ai_notice}",
+    "separator_rule":    "{primitive.color.separator}",
+    "doc_type_markers":  null
+  },
+  "tables": {
+    "$note": "per-content-table column layout migrated out of document-specifications.md; generator skills read these via template-specification.md; each cols[] sums to 9072.",
+    "shared": {
+      "header_fill": "{semantic.table_header_fill}",
+      "header_row_min_height": "{primitive.space_twips.header_row_min_height}",
+      "header_bold": true, "header_valign": "center",
+      "border": "{semantic.table_border}",
+      "cell_pad_h": "{primitive.space_twips.cell_pad_h}",
+      "body_font": "{primitive.font.primary}", "body_size": "{primitive.size_word_halfpt.table}"
+    },
+    "competency_overview":          { "total": 9072, "cols": [2500, 3286, 3286] },
+    "unit_lesson_overview":         { "total": 9072, "cols": [1200, 800, 4072, 3000] },
+    "verlaufsplan":                 { "total": 9072, "cols": [1100, 700, 2700, 800, 1500, 1100, 1172] },
+    "material_overview_generated":  { "total": 9072, "cols": [700, 1300, 3072, 1500, 2500] },
+    "material_overview_supplies":   { "total": 9072, "cols": [5072, 4000] },
+    "method_effectiveness":         { "total": 9072, "cols": [3000, 2000, 4072] },
+    "year_overview_coverage":       { "total": 9072, "cols": [3072, 1500, 4500] },
+    "year_overview_units":          { "total": 9072, "cols": [700, 3072, 1500, 1300, 2500] }
+  },
+  "emphasis": {
+    "block_quote": "italic", "guiding_question": "italic", "group_header_row": "bold", "sub_phase_indent_prefix": "→ "
+  },
+  "word": {
+    "page": { "w": 11906, "h": 16838, "margin_top": 1417, "margin_right": 1417, "margin_bottom": 1134, "margin_left": 1417,
+              "header": 567, "footer": 567, "gutter": 0, "content_width": 9072 },
+    "language_default": "de-DE"
+  },
+  "pptx": {
+    "aspect_ratio_default": "16:10",
+    "slide_size": { "16:10": { "cx": 9144000, "cy": 5715000 }, "16:9": { "cx": 12192000, "cy": 6858000 } }
+  }
+}

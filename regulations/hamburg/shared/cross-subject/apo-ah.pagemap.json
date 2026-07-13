@@ -1,0 +1,380 @@
+{
+  "document_id": "apo-ah",
+  "document_title": "APO-AH",
+  "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+  "index_version": 1,
+  "physical_page_count": 54,
+  "page_identity": {
+    "model": "simple",
+    "offset": 0,
+    "flags": ["toc_unreliable"]
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover",     "note": "Front cover — APO-AH title page" },
+    { "physical_page": 2,  "printed_page": null, "kind": "impressum", "note": "Impressum — BSB Hamburg, November 2022" },
+    { "physical_page": 3,  "printed_page": null, "kind": "content",   "note": "Ermächtigungsgrundlage / promulgation header — unnumbered" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "toc",       "note": "Inhaltsverzeichnis Teil A" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "toc",       "note": "Inhaltsverzeichnis Teil B–C + Anlagen" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content" },
+    { "physical_page": 15, "printed_page": 15,   "kind": "content" },
+    { "physical_page": 16, "printed_page": 16,   "kind": "content" },
+    { "physical_page": 17, "printed_page": 17,   "kind": "content" },
+    { "physical_page": 18, "printed_page": 18,   "kind": "content" },
+    { "physical_page": 19, "printed_page": 19,   "kind": "content" },
+    { "physical_page": 20, "printed_page": 20,   "kind": "content" },
+    { "physical_page": 21, "printed_page": 21,   "kind": "content" },
+    { "physical_page": 22, "printed_page": 22,   "kind": "content" },
+    { "physical_page": 23, "printed_page": 23,   "kind": "content" },
+    { "physical_page": 24, "printed_page": 24,   "kind": "content" },
+    { "physical_page": 25, "printed_page": 25,   "kind": "content" },
+    { "physical_page": 26, "printed_page": 26,   "kind": "content" },
+    { "physical_page": 27, "printed_page": 27,   "kind": "content" },
+    { "physical_page": 28, "printed_page": 28,   "kind": "content" },
+    { "physical_page": 29, "printed_page": 29,   "kind": "content" },
+    { "physical_page": 30, "printed_page": 30,   "kind": "content" },
+    { "physical_page": 31, "printed_page": 31,   "kind": "content" },
+    { "physical_page": 32, "printed_page": 32,   "kind": "content" },
+    { "physical_page": 33, "printed_page": 33,   "kind": "content" },
+    { "physical_page": 34, "printed_page": 34,   "kind": "content" },
+    { "physical_page": 35, "printed_page": 35,   "kind": "content" },
+    { "physical_page": 36, "printed_page": 36,   "kind": "content" },
+    { "physical_page": 37, "printed_page": 37,   "kind": "content" },
+    { "physical_page": 38, "printed_page": 38,   "kind": "content" },
+    { "physical_page": 39, "printed_page": 39,   "kind": "content",  "note": "NOTIZEN — blank lined notes page" },
+    { "physical_page": 40, "printed_page": 40,   "kind": "toc",      "note": "Anlagen overview / index" },
+    { "physical_page": 41, "printed_page": 41,   "kind": "content" },
+    { "physical_page": 42, "printed_page": 42,   "kind": "content" },
+    { "physical_page": 43, "printed_page": 43,   "kind": "content",  "note": "Anlage 3 — typeset formula N=5⅔−P/180 absent from text layer" },
+    { "physical_page": 44, "printed_page": 44,   "kind": "content",  "note": "Anlage 4 — typeset fractions P/S and (2s+m)/3 not fully recoverable from text layer" },
+    { "physical_page": 45, "printed_page": 45,   "kind": "content" },
+    { "physical_page": 46, "printed_page": 46,   "kind": "content" },
+    { "physical_page": 47, "printed_page": 47,   "kind": "content" },
+    { "physical_page": 48, "printed_page": 48,   "kind": "content" },
+    { "physical_page": 49, "printed_page": 49,   "kind": "content",  "note": "Anlage 7 (aufgehoben)" },
+    { "physical_page": 50, "printed_page": 50,   "kind": "content" },
+    { "physical_page": 51, "printed_page": 51,   "kind": "content" },
+    { "physical_page": 52, "printed_page": 52,   "kind": "content" },
+    { "physical_page": 53, "printed_page": 53,   "kind": "content" },
+    { "physical_page": 54, "printed_page": null,  "kind": "cover",    "note": "Back cover — SIZ contact page" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "§ 1 Anwendungsbereich",
+      "printed_page_start": 6, "printed_page_end": 7,
+      "physical_page_start": 6, "physical_page_end": 7,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 2 Gliederung",
+      "printed_page_start": 6, "printed_page_end": 6,
+      "physical_page_start": 6, "physical_page_end": 6,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 3 Erstmalige Aufnahme in die Studienstufe",
+      "printed_page_start": 6, "printed_page_end": 7,
+      "physical_page_start": 6, "physical_page_end": 7,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 4 Verweildauer, Rücktritt",
+      "printed_page_start": 8, "printed_page_end": 8,
+      "physical_page_start": 8, "physical_page_end": 8,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 5 Fächer, Aufgabenfelder und Anforderungsniveaus",
+      "printed_page_start": 9, "printed_page_end": 11,
+      "physical_page_start": 9, "physical_page_end": 11,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 6 Kernfächer, Profilbereiche",
+      "printed_page_start": 9, "printed_page_end": 10,
+      "physical_page_start": 9, "physical_page_end": 10,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 7 Belegverpflichtungen",
+      "printed_page_start": 10, "printed_page_end": 11,
+      "physical_page_start": 10, "physical_page_end": 11,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 8 Besondere Lernleistung",
+      "printed_page_start": 11, "printed_page_end": 11,
+      "physical_page_start": 11, "physical_page_end": 11,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 9 Notensystem",
+      "printed_page_start": 12, "printed_page_end": 12,
+      "physical_page_start": 12, "physical_page_end": 12,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 10 Leistungsbewertung",
+      "printed_page_start": 13, "printed_page_end": 13,
+      "physical_page_start": 13, "physical_page_end": 13,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 11 Leistungsbewertung im Profilbereich, der besonderen Lernleistungen und der Förderkurse der Bildungsgänge Abendgymnasium und Hansa-Kolleg am Campus Zweiter Bildungsweg",
+      "printed_page_start": 13, "printed_page_end": 13,
+      "physical_page_start": 13, "physical_page_end": 13,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 12 Bewertung bei fehlenden Leistungsnachweisen, Bewertung bei Täuschung und anderen Pflichtwidrigkeiten",
+      "printed_page_start": 14, "printed_page_end": 14,
+      "physical_page_start": 14, "physical_page_end": 14,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 13 Nachteilsausgleich",
+      "printed_page_start": 14, "printed_page_end": 15,
+      "physical_page_start": 14, "physical_page_end": 15,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 14 Zeugnisarten",
+      "printed_page_start": 15, "printed_page_end": 15,
+      "physical_page_start": 15, "physical_page_end": 15,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 15 Halbjahreszeugnisse, Jahreszeugnisse",
+      "printed_page_start": 15, "printed_page_end": 15,
+      "physical_page_start": 15, "physical_page_end": 15,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 16 (aufgehoben)",
+      "printed_page_start": 15, "printed_page_end": 15,
+      "physical_page_start": 15, "physical_page_end": 15,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 17 Abgangszeugnis",
+      "printed_page_start": 16, "printed_page_end": 16,
+      "physical_page_start": 16, "physical_page_end": 16,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 18 Zeugnis der allgemeinen Hochschulreife",
+      "printed_page_start": 17, "printed_page_end": 17,
+      "physical_page_start": 17, "physical_page_end": 17,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 19 Form und Erteilung der Zeugnisse",
+      "printed_page_start": 17, "printed_page_end": 18,
+      "physical_page_start": 17, "physical_page_end": 18,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 20 Zweck, Gegenstand und Gliederung der Prüfung",
+      "printed_page_start": 18, "printed_page_end": 18,
+      "physical_page_start": 18, "physical_page_end": 18,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 21 Zulassung zur schriftlichen Prüfung",
+      "printed_page_start": 19, "printed_page_end": 19,
+      "physical_page_start": 19, "physical_page_end": 19,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 22 Prüfungsgremien",
+      "printed_page_start": 19, "printed_page_end": 20,
+      "physical_page_start": 19, "physical_page_end": 20,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 23 (aufgehoben)",
+      "printed_page_start": 20, "printed_page_end": 20,
+      "physical_page_start": 20, "physical_page_end": 20,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 24 Schriftliche Prüfung",
+      "printed_page_start": 20, "printed_page_end": 21,
+      "physical_page_start": 20, "physical_page_end": 21,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 25 Zulassung zur mündlichen Prüfung",
+      "printed_page_start": 21, "printed_page_end": 21,
+      "physical_page_start": 21, "physical_page_end": 21,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 26 Mündliche Prüfung, Präsentation",
+      "printed_page_start": 22, "printed_page_end": 22,
+      "physical_page_start": 22, "physical_page_end": 22,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 27 Versäumnis",
+      "printed_page_start": 23, "printed_page_end": 23,
+      "physical_page_start": 23, "physical_page_end": 23,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 28 Besondere Vorkommnisse",
+      "printed_page_start": 24, "printed_page_end": 24,
+      "physical_page_start": 24, "physical_page_end": 24,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 29 Gäste, Zuhörerinnen, Zuhörer",
+      "printed_page_start": 24, "printed_page_end": 24,
+      "physical_page_start": 24, "physical_page_end": 24,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 30 Niederschriften",
+      "printed_page_start": 25, "printed_page_end": 25,
+      "physical_page_start": 25, "physical_page_end": 25,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 31 Wiederholung der Abiturprüfung",
+      "printed_page_start": 26, "printed_page_end": 27,
+      "physical_page_start": 26, "physical_page_end": 27,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 32 Allgemeine Hochschulreife",
+      "printed_page_start": 26, "printed_page_end": 27,
+      "physical_page_start": 26, "physical_page_end": 27,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 33 Fachhochschulreife, mittlerer Schulabschluss",
+      "printed_page_start": 28, "printed_page_end": 29,
+      "physical_page_start": 28, "physical_page_end": 29,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 34 Latinum, Graecum",
+      "printed_page_start": 30, "printed_page_end": 31,
+      "physical_page_start": 30, "physical_page_end": 31,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 35 Übergang in die Vorstufe",
+      "printed_page_start": 32, "printed_page_end": 32,
+      "physical_page_start": 32, "physical_page_end": 32,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 36 Ausbildung in der Vorstufe",
+      "printed_page_start": 33, "printed_page_end": 33,
+      "physical_page_start": 33, "physical_page_end": 33,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 37 Versetzung in die Studienstufe, mittlerer Schulabschluss",
+      "printed_page_start": 33, "printed_page_end": 34,
+      "physical_page_start": 33, "physical_page_end": 34,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 38 Übergang in die Vorstufe des beruflichen Gymnasiums",
+      "printed_page_start": 35, "printed_page_end": 35,
+      "physical_page_start": 35, "physical_page_end": 35,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 39 Ausbildung in der Vorstufe und der Studienstufe",
+      "printed_page_start": 35, "printed_page_end": 36,
+      "physical_page_start": 35, "physical_page_end": 36,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 40 Versetzung in die Studienstufe, mittlerer Schulabschluss (berufliches Gymnasium)",
+      "printed_page_start": 36, "printed_page_end": 37,
+      "physical_page_start": 36, "physical_page_end": 37,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "§ 41 Inkrafttreten, Außerkrafttreten, Übergangsregelungen",
+      "printed_page_start": 38, "printed_page_end": 38,
+      "physical_page_start": 38, "physical_page_end": 38,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "Anlage 1 Zuordnung der Fächer zu den Aufgabenfeldern",
+      "printed_page_start": 41, "printed_page_end": 41,
+      "physical_page_start": 41, "physical_page_end": 41,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "Anlage 2 Stundentafel für die Studienstufe des Gymnasiums und der Stadtteilschule",
+      "printed_page_start": 42, "printed_page_end": 42,
+      "physical_page_start": 42, "physical_page_end": 42,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "Anlage 3 Tabelle zur Errechnung der Abiturdurchschnittsnote (N) aus der Punktzahl der Gesamtqualifikation (P)",
+      "printed_page_start": 43, "printed_page_end": 43,
+      "physical_page_start": 43, "physical_page_end": 43,
+      "ordinance": null, "grades": null,
+      "hazards": ["diagram"],
+      "note": "Typeset formula N=5⅔−P/180 is absent from text layer; table values extract correctly"
+    },
+    {
+      "section_anchor": "Anlage 4 Berechnung der in Block 1 und in Block 2 (Abiturprüfung) erreichten Gesamtpunktzahl",
+      "printed_page_start": 44, "printed_page_end": 45,
+      "physical_page_start": 44, "physical_page_end": 45,
+      "ordinance": null, "grades": null,
+      "hazards": ["diagram"],
+      "note": "Typeset fractions (P/S×40 and (2s+m)/3) on pp. 44 not fully recoverable from text layer; p. 45 formulas are linear and extract correctly"
+    },
+    {
+      "section_anchor": "Anlage 5 Tabelle zur Errechnung der Abiturdurchschnittsnote (N) für die Fachhochschulreife (schulischer Teil)",
+      "printed_page_start": 46, "printed_page_end": 46,
+      "physical_page_start": 46, "physical_page_end": 46,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "Anlage 5a Umwandlung der Noten nach § 9 in Noten der mittleren Anforderungsebene",
+      "printed_page_start": 47, "printed_page_end": 47,
+      "physical_page_start": 47, "physical_page_end": 47,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "Anlage 6 Stundentafel für die Vorstufe der Stadtteilschule",
+      "printed_page_start": 48, "printed_page_end": 48,
+      "physical_page_start": 48, "physical_page_end": 48,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "Anlage 7 (aufgehoben)",
+      "printed_page_start": 49, "printed_page_end": 49,
+      "physical_page_start": 49, "physical_page_end": 49,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "Anlage 8 Stundentafel für die Vorstufe des beruflichen Gymnasiums",
+      "printed_page_start": 50, "printed_page_end": 51,
+      "physical_page_start": 50, "physical_page_end": 51,
+      "ordinance": null, "grades": null, "hazards": []
+    },
+    {
+      "section_anchor": "Anlage 9 Stundentafel für die Studienstufe des beruflichen Gymnasiums",
+      "printed_page_start": 52, "printed_page_end": 53,
+      "physical_page_start": 52, "physical_page_end": 53,
+      "ordinance": null, "grades": null, "hazards": []
+    }
+  ]
+}

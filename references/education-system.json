@@ -1,0 +1,22 @@
+{
+  "federal_states": [
+    {
+      "id": "Hamburg",
+      "school_year_start": { "month": 8, "day": 1 },
+      "school_types": [
+        {
+          "id": "Gymnasium",
+          "sek1_grades": ["5", "6", "7", "8", "9", "10"],
+          "sek2_grades": ["S1", "S2", "S3", "S4"],
+          "abitur_after": "S4"
+        },
+        {
+          "id": "Stadtteilschule",
+          "sek1_grades": ["5", "6", "7", "8", "9", "10"],
+          "sek2_grades": ["11", "S1", "S2", "S3", "S4"],
+          "abitur_after": "S4"
+        }
+      ]
+    }
+  ]
+}

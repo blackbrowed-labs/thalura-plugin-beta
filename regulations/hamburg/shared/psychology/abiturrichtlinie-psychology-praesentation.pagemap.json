@@ -1,0 +1,181 @@
+{
+  "document_id": "abiturrichtlinie-psychology-praesentation",
+  "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+  "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+  "index_version": 1,
+  "physical_page_count": 15,
+  "page_identity": {
+    "model": "simple",
+    "offset": 0,
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover",     "note": "Cover — Präsentationsprüfung im Abitur / Beispielaufgaben im Fach: Psychologie" },
+    { "physical_page": 2,  "printed_page": 2,    "kind": "impressum", "note": "Impressum" },
+    { "physical_page": 3,  "printed_page": 3,    "kind": "toc",       "note": "Inhalt (table of contents)" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content",   "note": "Einleitung (start)" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content",   "note": "Einleitung (end)" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content",   "note": "Thema gA: I Aufgabenstellung + II Literaturhinweise" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content",   "note": "Thema gA: III Unterrichtliche Voraussetzungen + IV Erwartungshorizont (start)" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content",   "note": "Thema gA: IV Erwartungshorizont (end) + V Bewertungshinweise (start)" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content",   "note": "Thema gA: V Bewertungshinweise (end) + VI Hinweise Fachgespräch" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content",   "note": "Thema eA: I Aufgabenstellung + II Literaturhinweise" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content",   "note": "Thema eA: III Unterrichtliche Voraussetzungen + IV Erwartungshorizont (start)" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content",   "note": "Thema eA: IV Erwartungshorizont (end)" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content",   "note": "Thema eA: V Bewertungshinweise (start)" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content",   "note": "Thema eA: V Bewertungshinweise (end) + VI Hinweise Fachgespräch (start)" },
+    { "physical_page": 15, "printed_page": 15,   "kind": "content",   "note": "Thema eA: VI Hinweise Fachgespräch (end)" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "Einleitung",
+      "printed_page_start": 4,
+      "printed_page_end": 5,
+      "physical_page_start": 4,
+      "physical_page_end": 5,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA)",
+      "printed_page_start": 6,
+      "printed_page_end": 9,
+      "physical_page_start": 6,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — I Aufgabenstellung",
+      "printed_page_start": 6,
+      "printed_page_end": 6,
+      "physical_page_start": 6,
+      "physical_page_end": 6,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — II Literaturhinweise, Material [für den Prüfling]",
+      "printed_page_start": 6,
+      "printed_page_end": 6,
+      "physical_page_start": 6,
+      "physical_page_end": 6,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — III Unterrichtliche Voraussetzungen/Bildungsplanbezüge",
+      "printed_page_start": 7,
+      "printed_page_end": 7,
+      "physical_page_start": 7,
+      "physical_page_end": 7,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+      "printed_page_start": 7,
+      "printed_page_end": 8,
+      "physical_page_start": 7,
+      "physical_page_end": 8,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — V Bewertungshinweise",
+      "printed_page_start": 8,
+      "printed_page_end": 9,
+      "physical_page_start": 8,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — VI Hinweise zur Gestaltung des Fachgesprächs",
+      "printed_page_start": 9,
+      "printed_page_end": 9,
+      "physical_page_start": 9,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA)",
+      "printed_page_start": 10,
+      "printed_page_end": 15,
+      "physical_page_start": 10,
+      "physical_page_end": 15,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — I Aufgabenstellung",
+      "printed_page_start": 10,
+      "printed_page_end": 10,
+      "physical_page_start": 10,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — II Literaturhinweise, Material [für den Prüfling]",
+      "printed_page_start": 10,
+      "printed_page_end": 10,
+      "physical_page_start": 10,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — III Unterrichtliche Voraussetzungen",
+      "printed_page_start": 11,
+      "printed_page_end": 11,
+      "physical_page_start": 11,
+      "physical_page_end": 11,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+      "printed_page_start": 11,
+      "printed_page_end": 12,
+      "physical_page_start": 11,
+      "physical_page_end": 12,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+      "printed_page_start": 13,
+      "printed_page_end": 14,
+      "physical_page_start": 13,
+      "physical_page_end": 14,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — VI Hinweise zur Gestaltung des Fachgesprächs",
+      "printed_page_start": 14,
+      "printed_page_end": 15,
+      "physical_page_start": 14,
+      "physical_page_end": 15,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    }
+  ]
+}

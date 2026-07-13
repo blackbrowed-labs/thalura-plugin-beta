@@ -1,0 +1,256 @@
+{
+  "document_id": "sic-leitfaden",
+  "document_title": "Das schulinterne Curriculum – Ein Leitfaden zur Implementation der neuen Bildungspläne",
+  "source_pdf_sha256": "c4c363f7cd9768c22b61675cee96acf3c6b27775d8a20b21d0f5c193c4b66f2e",
+  "index_version": 1,
+  "physical_page_count": 44,
+  "page_identity": {
+    "offset": 0,
+    "model": "simple",
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover" },
+    { "physical_page": 2,  "printed_page": 2,    "kind": "toc", "note": "Impressum + Inhaltsverzeichnis; printed number '2' visible in running header" },
+    { "physical_page": 3,  "printed_page": 3,    "kind": "content", "note": "Vorwort" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content", "note": "1 Bildungspläne und schulinterne Curricula / 1.1 / 1.2" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content", "note": "1.2 — PUA glyph U+F075 (section ▶ marker)" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content", "note": "1.3 Leitperspektiven" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content", "note": "1.4 Sprachbildung / 1.5 Zur Funktion" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content", "note": "Grafik 1 — process diagram" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content", "note": "1.6 Die Rolle des Unterrichtsvorhabens" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content", "note": "1.6 — PUA glyph U+F075 (section ▶ marker)" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content", "note": "2 Digitalisierung … / 2.1 / 2.2" },
+    { "physical_page": 15, "printed_page": 15,   "kind": "content" },
+    { "physical_page": 16, "printed_page": 16,   "kind": "content", "note": "2.3 Erläuterungen zur Musterstruktur" },
+    { "physical_page": 17, "printed_page": 17,   "kind": "content", "note": "2.4 Beispiele" },
+    { "physical_page": 18, "printed_page": 18,   "kind": "content", "note": "2.4 a) Grundschule: Sachunterricht, Jg. 4" },
+    { "physical_page": 19, "printed_page": 19,   "kind": "content" },
+    { "physical_page": 20, "printed_page": 20,   "kind": "content" },
+    { "physical_page": 21, "printed_page": 21,   "kind": "content" },
+    { "physical_page": 22, "printed_page": 22,   "kind": "content", "note": "2.4 b) Gymnasium: Deutsch, Jg. 7 — PUA arrows U+F0E0/U+F084 in comparison table" },
+    { "physical_page": 23, "printed_page": 23,   "kind": "content", "note": "2.4 b) cont. — PUA arrows U+F0E0 in comparison table" },
+    { "physical_page": 24, "printed_page": 24,   "kind": "content", "note": "2.4 c) Stadtteilschule: Mathematik, Jg. 5" },
+    { "physical_page": 25, "printed_page": 25,   "kind": "content" },
+    { "physical_page": 26, "printed_page": 26,   "kind": "content" },
+    { "physical_page": 27, "printed_page": 27,   "kind": "content", "note": "2.4 d) Studienstufe gymn. Oberstufe: Philosophie" },
+    { "physical_page": 28, "printed_page": 28,   "kind": "content" },
+    { "physical_page": 29, "printed_page": 29,   "kind": "content" },
+    { "physical_page": 30, "printed_page": 30,   "kind": "content", "note": "2.5 Struktur für die Dokumentation von Unterrichtsvorhaben" },
+    { "physical_page": 31, "printed_page": 31,   "kind": "content", "note": "blank-form documentation tables (grid lines only)" },
+    { "physical_page": 32, "printed_page": 32,   "kind": "content", "note": "3 Die Gestaltung des Prozesses / 3.1 / 3.2" },
+    { "physical_page": 33, "printed_page": 33,   "kind": "content" },
+    { "physical_page": 34, "printed_page": 34,   "kind": "content" },
+    { "physical_page": 35, "printed_page": 35,   "kind": "content", "note": "3.3 Steuerung und Kooperation / 3.3.1" },
+    { "physical_page": 36, "printed_page": 36,   "kind": "content" },
+    { "physical_page": 37, "printed_page": 37,   "kind": "content" },
+    { "physical_page": 38, "printed_page": 38,   "kind": "content" },
+    { "physical_page": 39, "printed_page": 39,   "kind": "content", "note": "3.3.2 Arbeit in den Fachschaften" },
+    { "physical_page": 40, "printed_page": 40,   "kind": "content" },
+    { "physical_page": 41, "printed_page": 41,   "kind": "content", "note": "Grafik 2 — cyclic process diagram (SCHRITT 1–5)" },
+    { "physical_page": 42, "printed_page": 42,   "kind": "content", "note": "3.4 Arbeit aller Arbeitsgruppen … geteiltes Bild des Lernens" },
+    { "physical_page": 43, "printed_page": 43,   "kind": "content", "note": "3.5 Unterstützungsangebote" },
+    { "physical_page": 44, "printed_page": null, "kind": "cover", "note": "back cover (LI Hamburg colophon); text layer carries a hidden '44' but no printed number is visible" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "Vorwort",
+      "printed_page_start": 3, "printed_page_end": 3,
+      "physical_page_start": 3, "physical_page_end": 3,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "1 Bildungspläne und schulinterne Curricula",
+      "printed_page_start": 4, "printed_page_end": 13,
+      "physical_page_start": 4, "physical_page_end": 13,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "1.1 Zur Anlage der neuen Bildungspläne",
+      "printed_page_start": 4, "printed_page_end": 4,
+      "physical_page_start": 4, "physical_page_end": 4,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "1.2 Ergänzung der Kompetenzanforderungen durch inhaltliche Vorgaben",
+      "printed_page_start": 4, "printed_page_end": 6,
+      "physical_page_start": 4, "physical_page_end": 6,
+      "ordinance": null, "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "1.3 Leitperspektiven",
+      "printed_page_start": 7, "printed_page_end": 7,
+      "physical_page_start": 7, "physical_page_end": 7,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "1.4 Sprachbildung als Querschnittsaufgabe",
+      "printed_page_start": 8, "printed_page_end": 8,
+      "physical_page_start": 8, "physical_page_end": 8,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "1.5 Zur Funktion schulinterner Curricula",
+      "printed_page_start": 8, "printed_page_end": 10,
+      "physical_page_start": 8, "physical_page_end": 10,
+      "ordinance": null, "grades": null,
+      "hazards": ["diagram"]
+    },
+    {
+      "section_anchor": "Grafik 1: Die Überarbeitung der schulinternen Fachcurricula",
+      "printed_page_start": 10, "printed_page_end": 10,
+      "physical_page_start": 10, "physical_page_end": 10,
+      "ordinance": null, "grades": null,
+      "hazards": ["diagram"]
+    },
+    {
+      "section_anchor": "1.6 Die Rolle des Unterrichtsvorhabens",
+      "printed_page_start": 11, "printed_page_end": 13,
+      "physical_page_start": 11, "physical_page_end": 13,
+      "ordinance": null, "grades": null,
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "2 Digitalisierung der Bildungspläne und der schulinternen Curricula",
+      "printed_page_start": 14, "printed_page_end": 31,
+      "physical_page_start": 14, "physical_page_end": 31,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.1 Geplante digitale Unterstützungsangebote",
+      "printed_page_start": 14, "printed_page_end": 14,
+      "physical_page_start": 14, "physical_page_end": 14,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.2 Musterstruktur für die Erarbeitung digitaler schulinterner Fachcurricula",
+      "printed_page_start": 14, "printed_page_end": 15,
+      "physical_page_start": 14, "physical_page_end": 15,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.3 Erläuterungen zur Musterstruktur für die Erarbeitung digitaler schulinterner Fachcurricula",
+      "printed_page_start": 16, "printed_page_end": 16,
+      "physical_page_start": 16, "physical_page_end": 16,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.4 Beispiele",
+      "printed_page_start": 17, "printed_page_end": 29,
+      "physical_page_start": 17, "physical_page_end": 29,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.4 a) Grundschule: Sachunterricht, Jahrgangsstufe 4",
+      "printed_page_start": 18, "printed_page_end": 21,
+      "physical_page_start": 18, "physical_page_end": 21,
+      "ordinance": null, "grades": "4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.4 b) Gymnasium: Deutsch, Jahrgangsstufe 7",
+      "printed_page_start": 22, "printed_page_end": 23,
+      "physical_page_start": 22, "physical_page_end": 23,
+      "ordinance": null, "grades": "7",
+      "hazards": ["pua-semantic"]
+    },
+    {
+      "section_anchor": "2.4 c) Stadtteilschule: Mathematik, Jahrgangsstufe 5",
+      "printed_page_start": 24, "printed_page_end": 26,
+      "physical_page_start": 24, "physical_page_end": 26,
+      "ordinance": null, "grades": "5",
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.4 d) Studienstufe der gymnasialen Oberstufe: Philosophie",
+      "printed_page_start": 27, "printed_page_end": 29,
+      "physical_page_start": 27, "physical_page_end": 29,
+      "ordinance": null, "grades": "S1-S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "2.5 Struktur für die Dokumentation von Unterrichtsvorhaben",
+      "printed_page_start": 30, "printed_page_end": 31,
+      "physical_page_start": 30, "physical_page_end": 31,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3 Die Gestaltung des Prozesses",
+      "printed_page_start": 32, "printed_page_end": 43,
+      "physical_page_start": 32, "physical_page_end": 43,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.1 Die Bedeutung des Prozesses",
+      "printed_page_start": 32, "printed_page_end": 32,
+      "physical_page_start": 32, "physical_page_end": 32,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.2 Überblick über die Struktur des Prozesses",
+      "printed_page_start": 32, "printed_page_end": 35,
+      "physical_page_start": 32, "physical_page_end": 35,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.3 Steuerung und Kooperation",
+      "printed_page_start": 35, "printed_page_end": 42,
+      "physical_page_start": 35, "physical_page_end": 42,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.3.1 Steuerung durch die Leitungsebene",
+      "printed_page_start": 35, "printed_page_end": 39,
+      "physical_page_start": 35, "physical_page_end": 39,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.3.2 Arbeit in den Fachschaften",
+      "printed_page_start": 39, "printed_page_end": 42,
+      "physical_page_start": 39, "physical_page_end": 42,
+      "ordinance": null, "grades": null,
+      "hazards": ["diagram"]
+    },
+    {
+      "section_anchor": "Grafik 2: Unterrichtsentwicklung in den Fachschaften durch die Arbeit an konkreten Unterrichtsvorhaben",
+      "printed_page_start": 41, "printed_page_end": 41,
+      "physical_page_start": 41, "physical_page_end": 41,
+      "ordinance": null, "grades": null,
+      "hazards": ["diagram"]
+    },
+    {
+      "section_anchor": "3.4 Arbeit aller Arbeitsgruppen und Gremien an einem geteilten Bild des Lernens",
+      "printed_page_start": 42, "printed_page_end": 42,
+      "physical_page_start": 42, "physical_page_end": 42,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "3.5 Unterstützungsangebote",
+      "printed_page_start": 43, "printed_page_end": 43,
+      "physical_page_start": 43, "physical_page_end": 43,
+      "ordinance": null, "grades": null,
+      "hazards": []
+    }
+  ]
+}

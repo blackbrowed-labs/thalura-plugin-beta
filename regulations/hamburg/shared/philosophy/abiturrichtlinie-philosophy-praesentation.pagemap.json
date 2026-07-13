@@ -1,0 +1,180 @@
+{
+  "document_id": "abiturrichtlinie-philosophy-praesentation",
+  "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+  "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+  "index_version": 1,
+  "physical_page_count": 14,
+  "page_identity": {
+    "model": "simple",
+    "offset": 0,
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover",     "note": "Front cover — title page; no printed page number" },
+    { "physical_page": 2,  "printed_page": 2,    "kind": "impressum", "note": "Impressum — Hamburg BSB 2021" },
+    { "physical_page": 3,  "printed_page": 3,    "kind": "toc",       "note": "Inhalt — table of contents" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content" },
+    { "physical_page": 14, "printed_page": null, "kind": "cover",     "note": "Back cover — decorative; text layer carries baked-in header string '14' but no printed page number is visually present on the rendered page" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "Einleitung",
+      "printed_page_start": 4,
+      "printed_page_end": 5,
+      "physical_page_start": 4,
+      "physical_page_end": 5,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Die Feuerbach'sche Religionskritik (gA)",
+      "printed_page_start": 6,
+      "printed_page_end": 9,
+      "physical_page_start": 6,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "I Aufgabenstellung [Feuerbach]",
+      "printed_page_start": 6,
+      "printed_page_end": 6,
+      "physical_page_start": 6,
+      "physical_page_end": 6,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "II Unterrichtliche Voraussetzungen [Feuerbach]",
+      "printed_page_start": 6,
+      "printed_page_end": 7,
+      "physical_page_start": 6,
+      "physical_page_end": 7,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "III Erwartungshorizont [Feuerbach]",
+      "printed_page_start": 7,
+      "printed_page_end": 8,
+      "physical_page_start": 7,
+      "physical_page_end": 8,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "IV Bewertungskriterien [Feuerbach]",
+      "printed_page_start": 8,
+      "printed_page_end": 8,
+      "physical_page_start": 8,
+      "physical_page_end": 8,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "V Hinweise zur Gestaltung des Fachgesprächs [Feuerbach]",
+      "printed_page_start": 8,
+      "printed_page_end": 9,
+      "physical_page_start": 8,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Feuerbach]",
+      "printed_page_start": 9,
+      "printed_page_end": 9,
+      "physical_page_start": 9,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "Thema: Erkenntnistheoretische Aspekte im Werk René Magrittes (eA)",
+      "printed_page_start": 10,
+      "printed_page_end": 13,
+      "physical_page_start": 10,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "I Aufgabenstellung [Magritte]",
+      "printed_page_start": 10,
+      "printed_page_end": 10,
+      "physical_page_start": 10,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "II Unterrichtliche Voraussetzungen [Magritte]",
+      "printed_page_start": 10,
+      "printed_page_end": 11,
+      "physical_page_start": 10,
+      "physical_page_end": 11,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "III Erwartungshorizont [Magritte]",
+      "printed_page_start": 11,
+      "printed_page_end": 12,
+      "physical_page_start": 11,
+      "physical_page_end": 12,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "IV Bewertungshinweise [Magritte]",
+      "printed_page_start": 12,
+      "printed_page_end": 13,
+      "physical_page_start": 12,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "V Hinweise zur Gestaltung des Fachgesprächs [Magritte]",
+      "printed_page_start": 13,
+      "printed_page_end": 13,
+      "physical_page_start": 13,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    },
+    {
+      "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Magritte]",
+      "printed_page_start": 13,
+      "printed_page_end": 13,
+      "physical_page_start": 13,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": "S1–S4",
+      "hazards": []
+    }
+  ]
+}

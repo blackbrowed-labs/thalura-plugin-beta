@@ -1,0 +1,121 @@
+{
+  "document_id": "operatoren-gesellschaftswissenschaften",
+  "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+  "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+  "index_version": 1,
+  "physical_page_count": 15,
+  "page_identity": {
+    "offset": 0,
+    "model": "simple",
+    "flags": []
+  },
+  "page_table": [
+    { "physical_page": 1,  "printed_page": null, "kind": "cover", "note": "Cover — word-cloud illustration + Hamburg BSB logo; no printed page number" },
+    { "physical_page": 2,  "printed_page": null, "kind": "impressum", "note": "Impressum — publisher, editorial team, Hamburg 2020; no printed page number" },
+    { "physical_page": 3,  "printed_page": 3,    "kind": "toc",     "note": "Inhaltsverzeichnis — printed page 3" },
+    { "physical_page": 4,  "printed_page": 4,    "kind": "content", "note": "Vorwort (start)" },
+    { "physical_page": 5,  "printed_page": 5,    "kind": "content", "note": "Vorwort (end)" },
+    { "physical_page": 6,  "printed_page": 6,    "kind": "content", "note": "Darstellen" },
+    { "physical_page": 7,  "printed_page": 7,    "kind": "content", "note": "Zusammenfassen" },
+    { "physical_page": 8,  "printed_page": 8,    "kind": "content", "note": "Erläutern" },
+    { "physical_page": 9,  "printed_page": 9,    "kind": "content", "note": "Analysieren" },
+    { "physical_page": 10, "printed_page": 10,   "kind": "content", "note": "Vergleichen" },
+    { "physical_page": 11, "printed_page": 11,   "kind": "content", "note": "Beurteilen" },
+    { "physical_page": 12, "printed_page": 12,   "kind": "content", "note": "Bewerten / Stellung nehmen (start)" },
+    { "physical_page": 13, "printed_page": 13,   "kind": "content", "note": "Bewerten / Stellung nehmen (end)" },
+    { "physical_page": 14, "printed_page": 14,   "kind": "content", "note": "Erörtern" },
+    { "physical_page": 15, "printed_page": null, "kind": "impressum", "note": "Back cover — BSB address and Hamburg logo; no printed page number" }
+  ],
+  "sections": [
+    {
+      "section_anchor": "Vorwort",
+      "printed_page_start": 4,
+      "printed_page_end": 5,
+      "physical_page_start": 4,
+      "physical_page_end": 5,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Darstellen",
+      "printed_page_start": 6,
+      "printed_page_end": 6,
+      "physical_page_start": 6,
+      "physical_page_end": 6,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Zusammenfassen",
+      "printed_page_start": 7,
+      "printed_page_end": 7,
+      "physical_page_start": 7,
+      "physical_page_end": 7,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Erläutern",
+      "printed_page_start": 8,
+      "printed_page_end": 8,
+      "physical_page_start": 8,
+      "physical_page_end": 8,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Analysieren",
+      "printed_page_start": 9,
+      "printed_page_end": 9,
+      "physical_page_start": 9,
+      "physical_page_end": 9,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Vergleichen",
+      "printed_page_start": 10,
+      "printed_page_end": 10,
+      "physical_page_start": 10,
+      "physical_page_end": 10,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Beurteilen",
+      "printed_page_start": 11,
+      "printed_page_end": 11,
+      "physical_page_start": 11,
+      "physical_page_end": 11,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Bewerten / Stellung nehmen (aus der Sicht von…)",
+      "printed_page_start": 12,
+      "printed_page_end": 13,
+      "physical_page_start": 12,
+      "physical_page_end": 13,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    },
+    {
+      "section_anchor": "Erörtern",
+      "printed_page_start": 14,
+      "printed_page_end": 14,
+      "physical_page_start": 14,
+      "physical_page_end": 14,
+      "ordinance": null,
+      "grades": null,
+      "hazards": []
+    }
+  ]
+}

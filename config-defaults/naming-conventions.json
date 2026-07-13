@@ -1,0 +1,20 @@
+{
+  "documents": {
+    "unit_plan": "{subject_abbr}{grade} - {unit_title} - {unit_plan_label}",
+    "lesson_plan": "{subject_abbr}{grade} - {unit_title} - {lesson_plan_label} {lesson}",
+    "material": "{subject_abbr}{grade} - {unit_title} - M{seq} - {material_title}",
+    "material_group": "{subject_abbr}{grade} - {unit_title} - M{seq}-{group} - {material_title}",
+    "material_group_access": "{subject_abbr}{grade} - {unit_title} - M{seq}-{group}-{access} - {material_title}",
+    "assessment_student": "{subject_abbr}{grade} - {unit_title} - {format} - {assessment_student_label}",
+    "assessment_rubric": "{subject_abbr}{grade} - {unit_title} - {format} - {assessment_rubric_label}",
+    "student_task_deck": "{subject_abbr}{grade} - {unit_title} - {lesson_plan_label} {lesson} - {student_task_deck_label}",
+    "reflection": "{subject_abbr}{grade} - {unit_title} - {reflection_label}",
+    "materials_overview": "{subject_abbr}{grade} - {unit_title} - {materials_overview_label}",
+    "parent_onepager": "{subject_abbr}{grade} - {parent_info_label} {number}",
+    "year_overview": "{year_overview_label} {school_year}"
+  },
+  "identifiers": {
+    "image_id": "IMG-{seq}",
+    "unit_id": "lib_{slug}_{sequence}"
+  }
+}
