@@ -1,0 +1,484 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:02ce845ff936cc6eb170260e18fa75c5c6d4fdb262d67216530ac2eb56995910"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Chapter 2 covers competencies and content in the subject philosophy; its section 2.1 states that cross-curricular competencies (überfachliche Kompetenzen) form the basis for successful learning development and for acquiring subject competencies.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "2 Kompetenzen und Inhalte im Fach Philosophie \n2.1 Überfachliche Kompetenzen \nÜberfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den \nErwerb fachlicher Kompetenzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "These competencies are relevant across all subjects and are of central importance for coping with different demands and problems.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Sie sind fächerübergreifend relevant und bei der Bewältigung \nunterschiedlicher Anforderungen und Probleme von zentraler Bedeutung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Conveying cross-curricular competencies is therefore the shared task and shared goal of all school subjects and of school life as a whole.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Vermittlung \nüberfachlicher Kompetenzen ist somit die gemeinsame Aufgabe und gemeinsames Ziel aller \nUnterrichtsfächer sowie des gesamten Schullebens.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competencies can be assigned to four areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die überfachlichen Kompetenzen lassen \nsich vier Bereichen zuordnen:",
+        "residual_flags": []
+      },
+      {
+        "content": "Area 1, personal competencies (Personale Kompetenzen), comprises attitudes and stances towards oneself.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegen-\nüber.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are to develop trust in their own abilities and in the effectiveness of their own action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Schülerinnen und Schüler sollen Vertrauen in die eigenen Fähigkeiten und die \nWirksamkeit des eigenen Handelns entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are to learn to assess their own abilities realistically, to reflect on their behaviour and to deal appropriately with criticism.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Sie sollen lernen, die eigenen Fähigkei-\nten realistisch einzuschätzen, ihr Verhalten zu reflektieren und mit Kritik angemessen \numzugehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are likewise to learn to stand up for their own opinions and to take decisions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Ebenso sollen sie lernen, eigene Meinungen zu vertreten und Entschei-\ndungen zu treffen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Area 2, motivational attitudes (Motivationale Einstellungen), describes the ability and willingness to commit oneself to things and to get involved.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für \nDinge einzusetzen und zu engagieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are to learn to show initiative and to work persistently and with concentration.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Schülerinnen und Schüler sollen lernen, Ini-\ntiative zu zeigen und ausdauernd und konzentriert zu arbeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "In doing so they are to develop interests and make the experience that goals can be achieved through effort.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Dabei sollen sie Interes-\nsen entwickeln und die Erfahrung machen, dass sich Ziele durch Anstrengung erreichen \nlassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Area 3, learning-method competencies (Lernmethodische Kompetenzen), forms the basis for a conscious acquisition of knowledge and competencies and thus for goal-directed, self-directed learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Lernmethodische Kompetenzen bilden die Grundlage für einen bewussten Erwerb \nvon Wissen und Kompetenzen und damit für ein zielgerichtetes, selbstgesteuertes Ler-\nnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are to learn to use learning strategies effectively and to use media sensibly.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Schülerinnen und Schüler sollen lernen, Lernstrategien effektiv einzusetzen \nund Medien sinnvoll zu nutzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are to develop the ability to solve different kinds of problems in an appropriate way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Sie sollen die Fähigkeit entwickeln, unterschiedliche Ar-\nten von Problemen in angemessener Weise zu lösen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Area 4, social competencies (Soziale Kompetenzen), is required in order to deal with other people appropriately and to work together with them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen um-\ngehen und zusammenarbeiten zu können.",
+        "residual_flags": []
+      },
+      {
+        "content": "These include the abilities to cooperate successfully, to behave constructively in conflicts, and to show tolerance, empathy and respect towards others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Dazu zählen die Fähigkeiten, erfolgreich zu \nkooperieren, sich in Konflikten konstruktiv zu verhalten sowie Toleranz, Empathie und \nRespekt gegenüber anderen zu zeigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competencies listed in the following table are to be understood as spanning year groups: unlike the subject competencies in the framework plans, they are not set out separately for different year levels.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die in der nachfolgenden Tabelle genannten überfachlichen Kompetenzen sind jahrgangs-\nübergreifend zu verstehen, d. h., sie werden anders als die fachlichen Kompetenzen in den \nRahmenplänen nicht für unterschiedliche Jahrgangsstufen differenziert ausgewiesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students' development in these areas is continuously accompanied and supported by the teachers.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Ent-\nwicklung der Schülerinnen und Schüler in den beschriebenen Bereichen wird von den Lehr-\nkräften kontinuierlich begleitet und gefördert.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competencies must be taken into account when the school-internal curriculum (schulinternes Curriculum) is drawn up.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die überfachlichen Kompetenzen sind bei der \nErarbeitung des schulinternen Curriculums zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The table \"Struktur überfachlicher Kompetenzen\" sets out the areas — beginning with personal competencies and learning-method competencies — with every descriptor phrased from the student's perspective (\"Die Schülerin, der Schüler …\").",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Struktur überfachlicher Kompetenzen \nPersonale Kompetenzen \n(Die Schülerin, der Schüler …) \nLernmethodische Kompetenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Personal competencies, descriptor \"Selbstwirksamkeit\" (self-efficacy): the student has trust in their own abilities and believes in the effectiveness of their own action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Selbstwirksamkeit \n… hat Vertrauen in die eigenen Fähigkeiten und glaubt \nan die Wirksamkeit des eigenen Handelns.",
+        "residual_flags": []
+      },
+      {
+        "content": "Personal competencies, descriptor \"Selbstbehauptung\" (self-assertion): the student develops an opinion of their own, takes their own decisions and represents them towards others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Selbstbehauptung \n… entwickelt eine eigene Meinung, trifft eigene \nEntscheidungen und vertritt diese gegenüber anderen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Personal competencies, descriptor \"Selbstreflexion\" (self-reflection): the student assesses their own abilities realistically and uses their own potential.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Selbstreflexion \n… schätzt eigene Fähigkeiten realistisch ein und nutzt \neigene Potenziale.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning-method competencies, descriptor \"Lernstrategien\" (learning strategies): the student proceeds in a structured and systematic way when learning and plans and organises their own work processes.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Lernstrategien \n… geht beim Lernen strukturiert und systematisch \nvor, plant und organisiert eigene Arbeitsprozesse.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning-method competencies, descriptor \"Problemlösefähigkeit\" (problem-solving ability): the student knows and uses different ways of solving problems.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Problemlösefähigkeit \n… kennt und nutzt unterschiedliche Wege, um \nProbleme zu lösen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning-method competencies, descriptor \"Medienkompetenz\" (media literacy): the student can collect, prepare, evaluate and present information.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Medienkompetenz \n… kann Informationen sammeln, aufbereiten, \nbewerten und präsentieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "The table's two further areas are motivational attitudes and social competencies, again with descriptors phrased as \"Die Schülerin, der Schüler …\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Motivationale Einstellungen \n(Die Schülerin, der Schüler …) \nSoziale Kompetenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivational attitudes, descriptor \"Engagement\" (commitment): the student stands up for things that are important to them and shows commitment and initiative.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Engagement \n… setzt sich für Dinge ein, die ihr/ihm wichtig sind, zeigt \nEinsatz und Initiative.",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivational attitudes, descriptor \"Lernmotivation\" (motivation to learn): the student is motivated to learn new things and to understand things and makes an effort to improve.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Lernmotivation \n… ist motiviert, Neues zu lernen und Dinge zu \nverstehen, strengt sich an, um sich zu verbessern.",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivational attitudes, descriptor \"Ausdauer\" (perseverance): the student works persistently and with concentration and does not give up even when difficulties arise.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Ausdauer \n… arbeitet ausdauernd und konzentriert, gibt auch bei \nSchwierigkeiten nicht auf.",
+        "residual_flags": []
+      },
+      {
+        "content": "Social competencies, descriptor \"Kooperationsfähigkeit\" (ability to cooperate): the student works well with others and takes on tasks and responsibility in groups.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Kooperationsfähigkeit \n… arbeitet gut mit anderen zusammen, übernimmt \nAufgaben und Verantwortung in Gruppen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Social competencies, descriptor \"Konstruktiver Umgang mit Konflikten\" (constructive handling of conflict): the student behaves appropriately in conflicts, understands other people's points of view and responds to them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Konstruktiver Umgang mit Konflikten \n… verhält sich in Konflikten angemessen, versteht \ndie Sichtweisen anderer und geht darauf ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Social competencies, descriptor \"Konstruktiver Umgang mit Vielfalt\" (constructive handling of diversity): the student shows tolerance and respect towards others and deals appropriately with contradictions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Konstruktiver Umgang mit Vielfalt \n… zeigt Toleranz und Respekt gegenüber anderen \nund geht angemessen mit Widersprüchen um.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Überfachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "2.1 Überfachliche Kompetenzen",
+        "printed_page_range": "8–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

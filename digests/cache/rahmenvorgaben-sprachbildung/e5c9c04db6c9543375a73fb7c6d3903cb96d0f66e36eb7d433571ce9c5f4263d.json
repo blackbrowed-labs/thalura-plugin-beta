@@ -1,0 +1,414 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e5c9c04db6c9543375a73fb7c6d3903cb96d0f66e36eb7d433571ce9c5f4263d"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Guideline: the teacher supports students with linguistic scaffolds and aids at word, sentence, text and discourse level, and provides general-language means especially for students with German as a second language so they can take part in subject teaching.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "unterstützt Schülerinnen und Schüler durch sprachliche Gerüste und Hilfen auf Wort-, \nSatz-, Text- und Diskursebene. Insbesondere Schülerinnen und Schüler mit Deutsch \nals Zweitsprache stellt sie auch allgemeinsprachliche Mittel bereit, damit sie am Fach-\nunterricht teilhaben können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: the teacher supports through feedback and corrections and secures and checks the quality of the linguistic activities.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "unterstützt durch Rückmeldung und Korrekturen; sichert und überprüft die Qualität der \nsprachlichen Aktivitäten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: in language- and interaction-promoting teaching the teacher gives students many opportunities to use and develop language actively, both in oral communication and in written language production.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "gibt Schülerinnen und Schülern in einem sprach- und interaktionsfördernden Unterricht \nviele Gelegenheiten Sprache aktiv einzusetzen und zu entwickeln, sowohl in der münd-\nlichen Kommunikation als auch bei der schriftlichen Sprachproduktion.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: the teacher prompts students to reflect on their own language use.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "regt die Schülerinnen und Schüler zur Reflexion über ihren Sprachgebrauch an.",
+        "residual_flags": []
+      },
+      {
+        "content": "German lessons (Deutschunterricht) convey general foundations of communicative ability and especially reading and writing competence; subject teaching builds on these, focusing more strongly than German lessons on competences in handling subject-specific non-fiction texts (Sachtexte), which are only begun in primary school.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Der Deutschunterricht vermittelt allgemeine Grundlagen der Kommunikationsfähigkeit und ins-\nbesondere der Lese- und Schreibkompetenzen. Der Fachunterricht baut auf diesen grundle-\ngenden Kompetenzen auf. Im Mittelpunkt steht hier in größerem Umfang als im Deutschunter-\nricht der Erwerb von Kompetenzen im Umgang mit fachspezifischen Sachtexten, der in der \nGrundschule erst angebahnt wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Zuhören und Sprechen: communicative exchange and listening matter for knowledge acquisition; in all subjects spoken language is the most important means of school and out-of-school communication.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Der kommunikative Austausch und das Zuhören sind von Bedeutung für den Wissenserwerb \nim Fachunterricht. Im Fachunterricht aller Fächer ist die gesprochene Sprache das wichtigste \nMittel schulischer und außerschulischer Kommunikation.",
+        "residual_flags": []
+      },
+      {
+        "content": "To understand, process and connect information heard in class, students need corresponding subject prior knowledge as well as knowledge of academic and technical language.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Um im Fachunterricht gehörte Infor-\nmationen zu verstehen, zu verarbeiten und miteinander verknüpfen zu können, müssen Schü-\nlerinnen und Schüler über entsprechende fachliche Vorkenntnisse, aber auch über sprachliche \nKenntnisse der Bildungs- und Fachsprache verfügen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Through pre-relieving tasks (vorentlastende Aufgaben) and linguistic aids the teacher creates the preconditions for students to understand and process what they hear.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Durch vorentlastende Aufgaben und \nsprachliche Hilfen schafft die Lehrkraft die Voraussetzungen dafür, dass Schülerinnen und \nSchüler das Gehörte verstehen und verarbeiten können.",
+        "residual_flags": []
+      },
+      {
+        "content": "While listening to longer spoken utterances or media-conveyed listening texts, students get the chance to take notes or to ask questions.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Schülerinnen und Schüler erhalten \nwährend des Hörens längerer gesprochener Äußerungen oder medial vermittelter Hörtexte die \nMöglichkeit, sich Notizen zu machen oder nachzufragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teachers give students enough time to process what they heard and understand it in context, e.g. by allowing sufficient time after a talk or a question to react.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Lehrkräfte geben den Schülerinnen \nund Schülern genug Zeit, das Gehörte zu verarbeiten und im Sinnzusammenhang zu verste-\nhen, z.B. indem sie nach einem Vortrag oder einer Frage ausreichend Zeit einräumen, um auf \ndas Gehörte zu reagieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "To support dialogic speaking (with others) and monologic speaking (in front of others) in a subject-related way, the teacher provides appropriate Redemittel as the situation requires. NOTE: the source prints 'fachbezogenen zu unterstützen'.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Um das Sprechen in Interaktion mit Anderen (dialogisches Sprechen) sowie das Sprechen vor \nAnderen (monologisches Sprechen) fachbezogenen zu unterstützen, stellt die Lehrkraft ent-\nsprechende Redemittel situationsgemäß bereit.",
+        "residual_flags": [
+          "source anomaly: '(monologisches Sprechen) fachbezogenen zu unterstützen' — should read 'fachbezogen'"
+        ]
+      },
+      {
+        "content": "Students are given enough time to prepare their contributions so they can describe and explain subject matters and develop their subject and language knowledge in exchange with others.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Im Fachunterricht wird den Schülerinnen und \nSchülern daneben genügend Zeit eingeräumt, damit sie ihre Redebeiträge vorbereiten kön-\nnen, um fachbezogene Sachverhalte zu beschreiben, erklären und ihre fachlichen und sprach-\nlichen Kenntnisse im Austausch mit Anderen weiterzuentwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "The teacher offers as many opportunities as possible to practise and apply language in a subject-related way, e.g. by letting students talk about their solution paths and verbalize their trains of thought.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Lehrkraft bietet mög-\nlichst oft Gelegenheiten, Sprache fachbezogen einzuüben und anzuwenden, z.B. indem Schü-\nlerinnen und Schüler über ihre Lösungswege sprechen und ihre Gedankengänge dazu verba-\nlisieren können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are asked open questions as often as possible — questions permitting longer answers whose responses cannot be judged unambiguously right or wrong. NOTE: the source reads 'Den Schülerinnen werden so oft möglich offene Fragen gestellt'.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Den Schülerinnen werden so oft möglich offene Fragen gestellt, zu deren \nBeantwortung längere Äußerungen möglich sind und deren Antworten nicht eindeutig als rich-\ntig oder falsch beurteilt werden können.",
+        "residual_flags": [
+          "source anomaly: 'Den Schülerinnen werden so oft möglich offene Fragen gestellt' — 'und Schülern' omitted and 'so oft wie möglich' missing 'wie'"
+        ]
+      },
+      {
+        "content": "Lesen: reading competence has a central influence on students' learning success in subject teaching and is therefore called a key competence for school success.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Lesekompetenz der Schülerinnen und Schüler hat einen zentralen Einfluss auf die Lern-\nerfolge der Schülerinnen und Schüler im Fachunterricht. Sie wird daher auch als Schlüssel-\nkompetenz für schulischen Erfolg bezeichnet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Reading fluency (Leseflüssigkeit) — reading texts quickly, fluently (silently and aloud), automatized and meaningfully — is the basic precondition for understanding texts; building it is the task of German lessons, while subject teaching in primary school (and the lower Sekundarstufe) extends these basal abilities in subject contexts.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Leseflüssigkeit ist die Grundvoraussetzung für das Verstehen von Texten auch im Fachunter-\nricht. Darunter wird die Fertigkeit verstanden, Texte schnell, flüssig (leise und laut), automati-\nsiert und sinngestaltend zu lesen. Aufbau und Förderung der Leseflüssigkeit liegt in der Hand \ndes Deutschunterrichts. Im Fachunterricht der Grundschule werden diese basalen Fähigkeiten \nbeim Lesen in fachbezogenen Kontexten ausgebaut. Auch der Fachunterricht in der Unterstufe \nder Sekundarstufe kann hierzu einen Beitrag leisten.",
+        "residual_flags": []
+      },
+      {
+        "content": "German lessons provide general access to texts which often does not suffice for subject-specific texts, since students meet texts in subject teaching that are not (or only marginally) the object of German lessons — e.g. word problems in mathematics, instruction texts or Merksätze.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der Deutschunterricht vermittelt einen allgemeinen Zugang zu Texten, der für das Verstehen \nzu fachspezifischen Texten oft nicht ausreicht, da den Schülerinnen und Schülern im Fachun-\nterricht häufig Texte begegnen, die nicht Gegenstand des Deutschunterrichts sind, oder eine \nuntergeordnete Rolle spielen. Beispiele dafür sind Textaufgaben in Mathematik, Instruktions-\ntexte oder Merksätze.",
+        "residual_flags": []
+      },
+      {
+        "content": "Besides continuous texts, images, graphics and tables (non-continuous texts / forms of representation) play an important role and are often embedded in a Sachtext; information from texts and non-continuous representations must be integrated to arrive at text comprehension.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Neben kontinuierlichen Texten spielen im Fachunterricht auch Bilder, \nGrafiken und Tabellen (nicht kontinuierliche Texte bzw. Darstellungsformen) eine wichtige \nRolle. Sie sind oft eingebettet in einen Sachtext. Die Informationen aus Texten und nicht kon-\ntinuierlichen Darstellungsformen müssen mithin integriert werden, um zu einem Textverständ-\nnis zu gelangen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The hurdles in understanding subject texts are often not just the technical terms: students often have difficulty establishing connections in highly condensed subject texts.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Hürden beim Verständnis von fachbezogenen Texten stellen dabei häufig nicht nur die Fach-\nbegriffe dar. Die Schülerinnen und Schüler haben oft Schwierigkeiten, in den hoch verdichteten \nFachtexten Zusammenhänge herzustellen.",
+        "residual_flags": []
+      },
+      {
+        "content": "So that school subject texts can be opened up and used as a source of information, reading competences and subject-specific reading strategies are also built up in subject teaching; students are supported in opening up and processing texts through linguistic aids and language-sensitive reading tasks before, during and after reading.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Damit schulische Fachtexte erschlossen und als \nInformationsquelle genutzt werden können, werden Lesekompetenzen und fachspezifische \nLesestrategien auch im Fachunterricht aufgebaut. Die Schülerinnen und Schüler werden beim \nErschließen und Verarbeiten von Texten durch sprachliche Hilfen und sprachsensible Lese-\naufgaben zur Vorbereitung des Lesens, während des Lesens und nach dem Lesen unterstützt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Schreiben: students use writing in a documenting function (to relieve memory) and a communicative function (to tell others something); writing also serves the gaining of insights, since terms and content must be selected, reconstructed, reformulated and restructured — through which subject matters are often better understood.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Im Fachunterricht nutzen Schülerinnen und Schüler das Schreiben in dokumentierender Funk-\ntion, um das Gedächtnis zu entlasten und in kommunikativer Funktion, um Anderen etwas \nmitzuteilen. Schreiben dient im Fachunterricht auch der Gewinnung von Erkenntnissen. Beim \nSchreiben müssen Begriffe und Inhalte gezielt ausgewählt, rekonstruiert, umformuliert und neu \nstrukturiert werden. Durch entsprechende Schreibprozesse werden fachliche Sachverhalte oft \nauch besser verstanden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Writing fluency (Schreibflüssigkeit) — putting ideas into words and writing them down fluently — is a basic precondition for writing one's own texts; building it is the task of German lessons, while subject teaching extends these basal abilities in subject contexts.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Eine Grundvoraussetzung für das Schreiben eigener Texte im Fachunterricht ist flüssiges \nSchreiben. Darunter wird die Fertigkeit verstanden, Ideen flüssig zu versprachlichen und auf-\nzuschreiben. Aufbau und Förderung der Schreibflüssigkeit liegt in der Hand des Deutschun-\nterrichts. Im Fachunterricht werden diese basalen Fähigkeiten beim Schreiben in fachbezoge-\nnen Kontexten ausgebaut.",
+        "residual_flags": []
+      },
+      {
+        "content": "Developing spelling competence is an object of German lessons, not of subject teaching, but spelling is attended to in all subjects and areas, sharpening students' awareness that correct writing always matters when texts are to be understood quickly and reliably.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Entwicklung von Rechtschreibkompetenzen ist Lerngegenstand des Deutschunterrichts, \nnicht des Fachunterrichts. Auf die Rechtschreibung wird aber in allen Fächern und Aufgaben-\ngebieten geachtet. Damit wird das Bewusstsein der Schülerinnen und Schüler geschärft, dass \ndas richtige Schreiben immer von Bedeutung ist, wenn Texte geschrieben werden, die Lese-\nrinnen und Leser schnell und sicher verstehen sollen.",
+        "residual_flags": []
+      },
+      {
+        "content": "(p. 9, continuation of Schreiben) In subject teaching students are required to present subject-specific matters precisely, as far as possible in Bildungssprache and using technical terms, and to produce coherent subject-related texts; weaker writers depend on targeted support such as writing frames (Schreibrahmen).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Schülerinnen und Schüler sind im Fachunterricht dazu aufgefordert, fachspezifische Sachver-\nhalte präzise, möglichst bildungssprachlich und unter Verwendung von Fachbegriffen darzu-\nstellen und kohärente, fachbezogene Texte zu produzieren. Schreibschwächere Schülerinnen \nund Schüler sind auf gezielte Hilfestellungen, wie zum Beispiel Schreibrahmen, angewiesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "(p. 9) To write texts in subject teaching, students are taught skills for planning, putting into writing and revising a text (das Planen, Verschriftlichen und Überarbeiten eines Textes); since each subject foregrounds different text patterns and text types, writing strategies are also fostered and extended in subject teaching within subject-specific writing tasks.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Um Texte im Fachunterricht zu verfassen, werden Schülerinnen und Schülern Fertigkeiten für \ndas Planen, Verschriftlichen und Überarbeiten eines Textes vermittelt. Da in jedem Fachun-\nterricht unterschiedliche spezifische Textmuster und Textsorten im Vordergrund stehen, wer-\nden Schreibstrategien auch im Fachunterricht im Rahmen fachspezifischer Schreibaufgaben \ngefördert und ausgebaut.",
+        "residual_flags": []
+      },
+      {
+        "content": "(p. 9) The teacher gives students sufficient opportunity to learn how to write different subject-typical texts and how to shape their formal and linguistic form according to the subject requirements of the context.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Lehrkraft gibt den Schülerinnen und Schülern im Fachunterricht \nausreichend Gelegenheit zu lernen, wie man unterschiedliche fachtypische Texte verfasst und \ndabei die formale und sprachliche Form je nach fachlichen Anforderungen im Fachkontext \ngestaltet.",
+        "residual_flags": []
+      },
+      {
+        "content": "(p. 9) To create enough writing opportunities, meaningful writing occasions (Schreibanlässe) should be used as often as possible, since writing supports the processing and understanding of subject content.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Um ausreichend Schreibgelegenheiten zu schaffen, sollten möglichst häufig sinn-\nvolle Schreibanlässe genutzt werden, da das Schreiben die Verarbeitung und das Verständnis \nder Fachinhalte unterstützt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
+        "printed_page_range": "7–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c6041530284e2b86b0fa473fa599cf50df65b96740357026e05f241cb4c065bb"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-psychologie",
+      "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Definition of Analysieren: under targeted questions, work out elements, structural features and connections, and present the results.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Analysieren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Unter gezielten Fragestellungen Elemente, Strukturmerkmale \nund Zusammenhänge herausarbeiten und die Ergebnisse \ndarstellen",
+        "residual_flags": []
+      },
+      {
+        "content": "The example task instruction: analyze the mother-child relationship drawing on concepts of attachment theory (Bowlby and Ainsworth).",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Analysieren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Analysieren Sie unter Rückgriff auf Ihre Kenntnisse zu \nKonzepten der Bindungstheorie nach Bowlby und Ainsworth \n[ausführlich] die Mutter-Kind-Beziehung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction) instruction: concretize the problem from the task, mark and possibly condense the essential material elements, describe the analysis aspect and possibly the analysis method.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Analysieren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Problemstellung aus der Aufgabe konkretisieren, wesentliche Elemente des Materials \nkenntlich machen und ggf. verkürzt darstellen, Analyseaspekt (ggf. auswählen,) beschreiben \nund darstellen, Analysemethode ggf. darstellen",
+        "residual_flags": []
+      },
+      {
+        "content": "The guiding questions of the analysis: what is the child's attachment style, how is it recognizable, and what role do the mother and other attachment figures play.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Analysieren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Was ist der Bindungsstil des Kindes? \n- \nWoran ist dieser erkennbar? \n- \nWelche Rolle spielen die Mutter und andere Bindungspersonen?",
+        "residual_flags": []
+      },
+      {
+        "content": "The Bowlby background: Bowlby's attachment theory postulates a primary need for closeness to an attachment figure that is of vital importance.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Analysieren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die von John Bowlby konzipierte Bindungstheorie postuliert ein primäres Bedürfnis \nnach Nähe zu einer Bindungsperson, das von überlebenswichtiger Bedeutung ist",
+        "residual_flags": []
+      },
+      {
+        "content": "The Ainsworth method: Mary Ainsworth's group substantially helped describe children's attachment behavior in dependence on the attachment figure's behavior, underpinning Bowlby's theory.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Analysieren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Arbeitsgruppe von Mary Ainsworth hat wesentlich dazu beigetragen, das \nBindungsverhalten von Kindern in Abhängigkeit vom Verhalten der Bindungsperson \nzu beschreiben und damit Bowlbys Theorie zu untermauern",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (analysis) instruction: examine the essential material elements within the analysis aspect using an analysis method, working out connections between background knowledge, analysis aspect and material.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Analysieren",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Wesentliche Elemente des Materials im Rahmen des Analyseaspekts mithilfe einer \nAnalysemethode untersuchen, dabei Zusammenhänge von eigenem Hintergrundwissen, \nAnalyseaspekt und Material herausarbeiten",
+        "residual_flags": []
+      },
+      {
+        "content": "An analysis finding: it is to be assumed that Jonas has a very close, symbiotic relationship with his mother.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Analysieren",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "es ist zu vermuten, dass Jonas eine sehr enge, symbiotische Beziehung zu seiner \nMutter hat",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (conclusion) result: per Ainsworth one can assume an insecure-ambivalent attachment to the mother, with strong attachment needs on the mother's side who binds her son beyond an age-appropriate degree.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Analysieren",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Nach Ainsworth kann man von einer unsicher-ambivalenten Bindung zur Mutter \nausgehen, dabei sind starke Bindungsbedürfnisse seitens der Mutter feststellbar; \ndiese bindet ihren Sohn über ein altersentsprechendes Maß hinaus an sich und ist \nhochgradig sensibilisiert für kleinste Entwicklungsveränderungen ihres Sohnes",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Analysieren"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-psychologie",
+        "section_anchor": "Analysieren",
+        "printed_page_range": "9–10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

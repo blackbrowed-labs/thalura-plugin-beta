@@ -1,0 +1,315 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e9fdb6f540b57f39f7b048da8c02eb8c56f4a3fcba9eb8e6d11bcb108a41df19"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The 'Schreiben' operator table lists operator, explanation and an illustrating task example, grouped by requirement area.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Kompetenzbereich „Schreiben“\nOperator\nErläuterung\nIllustrierendes Aufgabenbeispiel",
+        "residual_flags": []
+      },
+      {
+        "content": "For AB I: 'outline' = give the main features, structure or general principles of sth.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "für den Anforderungsbereich I\noutline\ngive the main features, structure or gener-\nal principles of sth. \nOutline the writer’s views on love, mar-\nriage and divorce.",
+        "residual_flags": []
+      },
+      {
+        "content": "'point out, state' = present the main aspects of sth. briefly and clearly.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "point out, state\npresent the main aspects of sth. briefly \nand clearly \nPoint out the author’s ideas on…\nState your reasons for applying for a high \nschool year.",
+        "residual_flags": []
+      },
+      {
+        "content": "'summarize, sum up' = give a concise account of the main points or ideas of a text, issue or topic.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "summarize, sum up\ngive a concise account of the main points \nor ideas of a text, issue or topic \nSummarize the text. \nSum up the information given about green \nenergy.",
+        "residual_flags": []
+      },
+      {
+        "content": "'describe' (AB I and II) = give a detailed account of what sb./sth. is like, with examples marked (I) and (II).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "für die Anforderungsbereiche I und II\ndescribe\ngive a detailed account of what sb./sth. is like\n• Describe the soldier’s appearance. (I)\n• Describe the way the playwright creates\nan atmosphere of suspense. (II)",
+        "residual_flags": []
+      },
+      {
+        "content": "For AB II: 'analyze, examine' = describe and explain in detail.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "analyze, \nexamine\ndescribe and explain in detail\nAnalyze the way(s) in which atmosphere \nis created.\nExamine the opposing views on social \nclass held by the two protagonists.",
+        "residual_flags": []
+      },
+      {
+        "content": "'give/write a characterization of' = provide a thorough analysis of a character.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "give/write a characterization \nof\nprovide a thorough analysis of a character\nGive a characterization of the protagonist \nin the excerpt given.",
+        "residual_flags": []
+      },
+      {
+        "content": "'contrast' = emphasize the differences between two or more things.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "contrast\nemphasize the differences between two or \nmore things\nContrast the author’s idea of human ag-\ngression with the theories of aggression \nyou are familiar with.",
+        "residual_flags": []
+      },
+      {
+        "content": "'explain' = make sth. clear; 'illustrate' = use examples to explain or make clear.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "explain\nmake sth. clear\nExplain the protagonist’s obsession with \nmoney.\nillustrate\nuse examples to explain or make clear\nIllustrate the way in which school life in \nBritain differs from that in Germany.",
+        "residual_flags": []
+      },
+      {
+        "content": "For AB II and III: 'compare' = show similarities and differences; 'interpret' = explain the meaning or purpose of sth.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "für die Anforderungsbereiche II und III\ncompare\nshow similarities and differences\nCompare the opinions on education held \nby the experts presented in the text.\ninterpret\nexplain the meaning or purpose of sth.\nInterpret the message of the cartoon.",
+        "residual_flags": []
+      },
+      {
+        "content": "For AB III: 'assess, evaluate' = express a well-founded opinion on the nature or quality of sb./sth.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "für den Anforderungsbereich III\nassess,\nevaluate\nexpress a well-founded opinion on the \nnature or quality of sb./sth. \nAssess the importance of learning lan-\nguages for somebody’s future.\nEvaluate the success of the steps taken \nso far to reduce pollution.",
+        "residual_flags": []
+      },
+      {
+        "content": "'comment (on)' = state one's opinion clearly and support one's view with evidence or reason.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "comment (on)\nstate one’s opinion clearly and support \none’s view with evidence or reason\nComment on the writer’s view on gender \nroles.",
+        "residual_flags": []
+      },
+      {
+        "content": "'discuss' = give arguments or reasons for and against; especially to come to a well-founded conclusion.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "discuss\ngive arguments or reasons for and \nagainst; especially to come to a \nwell-founded conclusion \nDiscuss whether social status determines \nsomebody’s future options.",
+        "residual_flags": []
+      },
+      {
+        "content": "'justify' = show adequate grounds for decisions or conclusions.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "justify\nshow adequate grounds for decisions or \nconclusions\nYou are the principal of a school. Justify \nyour decision to forbid smoking on the \nschool premises.",
+        "residual_flags": []
+      },
+      {
+        "content": "'write (+ text type)' = produce a text with specific features.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "write (+ text type)\nproduce a text with specific features.\nWrite the ending of a story / a letter to the \neditor / a dialogue, etc.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the Sprachmittlung area the task instruction may be in German or English depending on the situation; examples account for addressee reference, situational appropriateness and an authentic action situation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Aufgabenstellung kann abhängig von der Situation auf Deutsch oder Englisch for-\nmuliert sein. Die beispielhaften Aufgabenstellungen berücksichtigen Adressatenbezug, \nSituationsangemessenheit und authentische Handlungssituation.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachmittlung operator 'explain' = make sth. clear taking into account culture-related differences if necessary.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "explain\nmake sth. clear taking into account \nculture-related differences if neces-\nsary\nBased on the text on environmental policy explain the \nprinciple of waste separation in Germany.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachmittlung operators 'outline, present, summarize, sum up' = give a concise account of the main points or ideas of a text clarifying culture-related aspects if necessary.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "outline, present, sum-\nmarize, sum up\ngive a concise account of the main \npoints or ideas of a text clarifying \nculture-related aspects if necessary \nFor an international school project in the EU, present \nthe relevant information on the image of migrants in \nGerman media in a formal email.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachmittlung 'write (+ text type)' = produce a text with specific features, illustrated by an article for a project website.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "write (+ text type)\nproduce a text with specific features\nUsing the information in the input article write an ar-\nticle in English for your project website in which you \ninform your British partners how to get a sports schol-\narship at a German university.",
+        "residual_flags": []
+      },
+      {
+        "content": "Hörverstehen operators with examples: complete/fill in, list/name, match, state, tick.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "Operatoren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Kompetenzbereich „Hörverstehen“\nOperator\nIllustrierendes Aufgabenbeispiel\ncomplete,\nfill in \nComplete the sentences below using 1 to 5 words. Fill in the missing information using about \n1 to 5 words. \nlist,\nname\nList the most important aspects mentioned in the discussion. \nmatch\nMatch each person with one of the pictures. There is one more picture than you need. \nstate\nState the ideas supported by speaker A. \ntick\nTick the correct answer.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Operatoren"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "Operatoren",
+        "printed_page_range": "8–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:a9ddda163bc8419412c9839ee7e5d6f44c8695182c438fdea0d14e20a7de6d6b"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Achievements are graded with marks that are broken down into points.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 9 Notensystem",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Leistungen werden mit Noten bewertet, die in Punkte aufgeschlüsselt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Mark 1 (sehr gut) corresponds to 15, 14 and 13 points.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 9 Notensystem",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "sehr gut = Note 1 = 15, 14 und 13 Punkte",
+        "residual_flags": []
+      },
+      {
+        "content": "Mark 2 (gut) corresponds to 12, 11 and 10 points.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 9 Notensystem",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "gut = Note 2 = 12, 11 und 10 Punkten",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'gut = Note 2 = 12, 11 und 10 Punkten' (dative 'Punkten'; the other grade lines read 'Punkte')"
+        ]
+      },
+      {
+        "content": "Mark 4 (ausreichend) corresponds to 6, 5 and 4 points.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 9 Notensystem",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "ausreichend = Note 4 = 6, 5 und 4 Punkte",
+        "residual_flags": []
+      },
+      {
+        "content": "Mark 6 (ungenügend) corresponds to 0 points.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 9 Notensystem",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "ungenügend = Note 6 = 0 Punkte",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 9 Notensystem"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 9 Notensystem",
+        "printed_page_range": "12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

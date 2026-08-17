@@ -2,7 +2,7 @@
   "document_id": "abiturrichtlinie",
   "document_title": "Abiturrichtlinie",
   "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 11,
   "page_identity": {
     "offset": 0,
@@ -43,8 +43,8 @@
     },
     {
       "section_anchor": "2.2 Aufgaben für die schriftliche Prüfung",
-      "printed_page_start": 5, "printed_page_end": 5,
-      "physical_page_start": 5, "physical_page_end": 5,
+      "printed_page_start": 5, "printed_page_end": 6,
+      "physical_page_start": 5, "physical_page_end": 6,
       "ordinance": null, "grades": null, "hazards": []
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "section_anchor": "3.2 Aufgaben für die schriftliche Prüfung",
-      "printed_page_start": 6, "printed_page_end": 6,
-      "physical_page_start": 6, "physical_page_end": 6,
+      "printed_page_start": 6, "printed_page_end": 7,
+      "physical_page_start": 6, "physical_page_end": 7,
       "ordinance": null, "grades": null, "hazards": []
     },
     {
@@ -85,8 +85,8 @@
     },
     {
       "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
-      "printed_page_start": 8, "printed_page_end": 8,
-      "physical_page_start": 8, "physical_page_end": 8,
+      "printed_page_start": 8, "printed_page_end": 9,
+      "physical_page_start": 8, "physical_page_end": 9,
       "ordinance": null, "grades": null, "hazards": []
     },
     {

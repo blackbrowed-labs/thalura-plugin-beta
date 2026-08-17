@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:48e4f9c516973c0fef930e320ebd241bfd7c7e0fdef6bcd3306f582ea03b70c7"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Compulsory module 'Allgemeine Ethik': moral decisions and their justification; moral questions, values and norms; ethical principles and their application.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 3: Wie wollen wir zusammen leben?",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Moralische Entscheidungen und ihre Begründungen \n• Moralische Fragen, Werte und Normen \n• Ethische Prinzipien und ihre Anwendung",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 1 'Angewandte Ethik': dimensions of responsibility; basic positions of environmental ethics.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 3: Wie wollen wir zusammen leben?",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Dimensionen der Verantwortung \n• Grundpositionen der Naturethik",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 2 'Eudaimonistische Ethik': conceptions of the good and flourishing life; the human as an individual and a communal being.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 3: Wie wollen wir zusammen leben?",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Vorstellungen vom guten und gelingenden Leben \n• Der Mensch als Einzel- und Gemeinschaftswesen",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 3 'Gerechtigkeit': just forms of living together; justice, equality and inequality in society; justice within a state.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 3: Wie wollen wir zusammen leben?",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Gerechte Formen des Zusammenlebens \n• Gerechtigkeit, Gleichheit und Ungleichheit in der Gesellschaft \n• Gerechtigkeit in einem Staat",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 3: Wie wollen wir zusammen leben?"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 3: Wie wollen wir zusammen leben?",
+        "printed_page_range": "18–19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

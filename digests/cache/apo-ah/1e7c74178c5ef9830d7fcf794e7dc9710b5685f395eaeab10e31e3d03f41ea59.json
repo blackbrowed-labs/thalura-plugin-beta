@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1e7c74178c5ef9830d7fcf794e7dc9710b5685f395eaeab10e31e3d03f41ea59"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Anlage 6 (to § 36) is the timetable for the Vorstufe of the Stadtteilschule.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 6 Stundentafel für die Vorstufe der Stadtteilschule",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Stundentafel für die Vorstufe der Stadtteilschule",
+        "residual_flags": []
+      },
+      {
+        "content": "Each student must choose two of the listed subjects per semester; in cluster teaching all subjects must be covered.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 6 Stundentafel für die Vorstufe der Stadtteilschule",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Jede Schülerin und jeder Schüler muss pro Semester zwei der genannten Fächer \nwählen; beim Unterricht im Fächerverbund müssen alle Fächer berücksichtigt \nwerden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The second foreign language is taught with at least 152 lessons where an enrolment duty under § 36 sentence 3 exists.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 6 Stundentafel für die Vorstufe der Stadtteilschule",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Der Unterricht in der zweiten Fremdsprache wird mit mindestens  \n152 Unterrichtsstunden erteilt, sofern eine Belegverpflichtung  \nnach § 36 Satz 3 besteht.",
+        "residual_flags": []
+      },
+      {
+        "content": "The total enrolment obligation of the Vorstufe amounts to 1178 lessons.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 6 Stundentafel für die Vorstufe der Stadtteilschule",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Summe der Belegverpflichtung\n1178",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 48,
+          "printed_page": 48
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Anlage 6 Stundentafel für die Vorstufe der Stadtteilschule"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "Anlage 6 Stundentafel für die Vorstufe der Stadtteilschule",
+        "printed_page_range": "48"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:817538e8675947852962e0d3ecde8ad9307e99cc25246b90598c375a77f777c2"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Bei erheblichen Maengeln in sprachlicher Richtigkeit und aeusserer Form sind bis zu zwei Notenpunkte der einfachen Wertung abzuziehen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.5 Bewertung der Prüfungsleistung",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "bis zu zwei Notenpunkte der einfachen Wer",
+        "residual_flags": []
+      },
+      {
+        "content": "Gute und sehr gute Bewertungen setzen Leistungen voraus, die ueber den Anforderungsbereich II hinausgehen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.5 Bewertung der Prüfungsleistung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Gute und sehr gute Bewertungen setzen Leistungen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.5 Bewertung der Prüfungsleistung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "4.5 Bewertung der Prüfungsleistung",
+        "printed_page_range": "11–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

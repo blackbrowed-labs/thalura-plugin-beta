@@ -1,0 +1,225 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e15ae5c10ae8ee5cc9a99c4f15ad66bf7d7c35fce0706152f788c39a0f059186"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A1 (end of grade 6): students speak about familiar topics (people, animals, actions, objects and places), relying on their partners and using simple means.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "traute Themen (Personen, Tiere, Handlungen sowie",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 (raised, grade 6): students use simple linguistic means and also pre-formulated expressions, occasionally hesitating or restarting.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Gegenstände und Orte) und verwenden einfache",
+        "residual_flags": []
+      },
+      {
+        "content": "A1 competency: students recite short texts they have practised many times.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "tragen vielfach geübte kurze Texte vor,",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 competency: students recite practised short texts (e.g. song, poem, role play).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "tragen geübte kurze Texte vor",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "A2 competency: students present work results on a manageable task.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "tragen Arbeitsergebnisse zu einem überschaubaren",
+        "residual_flags": []
+      },
+      {
+        "content": "A2- (first general leaving qualification): students speak about familiar topics using simple phrases and strung-together sentences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "sprechen über vertraute Themen,",
+        "residual_flags": []
+      },
+      {
+        "content": "A2+ (grade 8): students speak in simple, connected sentences about familiar topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "hängenden Sätzen über vertraute",
+        "residual_flags": []
+      },
+      {
+        "content": "B1- (mittlerer Schulabschluss): students speak coherently on a limited range of familiar topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "einem begrenzten Spektrum von",
+        "residual_flags": [
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "B1- competency: students report on experiences and events, describing in a simple form their own feelings and reactions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "berichten über Erfahrungen und",
+        "residual_flags": [
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "B1- competency: students describe and justify wishes, goals and intentions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Wünsche, Ziele und Absichten,",
+        "residual_flags": [
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "B1+ (transition to Studienstufe): students speak coherently and largely fluently on topics of personal interest or societal significance.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "tragen mit analogen oder digitalen Medien und",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "B1+ competency: students give extensive presentations and answer follow-up questions spontaneously and confidently.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "beantworten spontan und sicher Nachfragen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "K3 Zusammenhängendes Sprechen (Produktion)",
+        "printed_page_range": "21–23"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

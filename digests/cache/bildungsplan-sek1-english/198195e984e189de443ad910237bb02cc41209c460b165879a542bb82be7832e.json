@@ -1,0 +1,181 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:198195e984e189de443ad910237bb02cc41209c460b165879a542bb82be7832e"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Intercultural competencies (interkulturelle Kompetenzen) are acquired in thematic contexts and comprise sociocultural orientation knowledge, successful communication in intercultural encounters, respectful handling of linguistic and cultural diversity, and perception of shared and differing values, norms and viewpoints.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Interkulturelle Kompetenzen werden in thematischen Kontexten erworben (s. Themenübersicht). \nDazu gehören: \n• soziokulturelles Orientierungswissen \n• gelingende Kommunikation in interkulturellen Begegnungssituationen \n• respektvoller und wertschätzender Umgang mit sprachlicher und kultureller Diversität \n• Wahrnehmung gemeinsamer und unterschiedlicher Werte, Normen und Sichtweisen",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirements are defined for the end of grade 6, grade 8 and grade 10.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Anforderungen am Ende der \nJahrgangsstufe 6 \nAnforderungen am Ende der \nJahrgangsstufe 8 \nAnforderungen am Ende der \nJahrgangsstufe 10",
+        "residual_flags": []
+      },
+      {
+        "content": "By end of grade 6, students explore and compare Great Britain with their own life-world (e.g. everyday life, customs).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "erkunden und vergleichen Groß-\nbritannien mit der eigenen Le-\nbenswelt (z. B. Alltag, Sitten und",
+        "residual_flags": []
+      },
+      {
+        "content": "By end of grade 6, students name typical forms of leisure and daily routine in Great Britain (e.g. sport, school).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "benennen typische Arten der \nFreizeitgestaltung und des Ta-\ngesablaufes in Großbritannien",
+        "residual_flags": []
+      },
+      {
+        "content": "By end of grade 6, students are willing to engage with the anglophone language and culture area.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "sind bereit, sich mit dem anglo-\nphonen Sprach- und Kulturraum \nauseinanderzusetzen,",
+        "residual_flags": []
+      },
+      {
+        "content": "By end of grade 8, students have basic knowledge about young people's life-worlds (e.g. leisure, school life) in the anglophone language and culture area.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "verfügen über ein grundlegen-\ndes Wissen über die Lebenswel-\nten Jugendlicher (z. B. Freizeit-\ngestaltung, Schulalltag) im ang-\nlophonen Sprach- und Kultur",
+        "residual_flags": []
+      },
+      {
+        "content": "By end of grade 8, students recognise culture-specific stereotypes in familiar real or digital situations and develop sensitivity for their own stereotypical views (e.g. festivals, customs).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "erkennen in vertrauten realen o-\nder digitalen Situationen kultur-\nspezifische Stereotype, entwi-\nckeln eine Sensibilität für eigene \nstereotype Sichtweisen und wer-\nden sich zunehmend der Ge-\nmeinsamkeiten und Unter-\nschiede mit Menschen eines an-\nderen kulturellen Hintergrundes \nbewusst (z. B. Feste, Bräuche),",
+        "residual_flags": []
+      },
+      {
+        "content": "By end of grade 10, students have basic knowledge of geographic, historical, political, social and cultural aspects of anglophone areas and draw comparisons to their own life-world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "verfügen über Grundkenntnisse \nzu geografischen, geschichtli-\nchen, politischen, sozialen und \nkulturellen Aspekten in anglo-\nphonen Sprach- und Kulturräu-\nmen und ziehen Vergleiche zu \nihrer Lebenswelt,",
+        "residual_flags": []
+      },
+      {
+        "content": "By end of grade 10, students describe stereotypes and prejudices, name effects such as discrimination or exclusion for individuals and groups, and take a position on them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "beschreiben Stereotypen und \nVorurteile, benennen Auswirkun-\ngen wie Diskriminierung oder \nAusgrenzung für Individuen und \nGruppen und nehmen dazu Stel",
+        "residual_flags": []
+      },
+      {
+        "content": "By end of grade 10, students endure conflict situations and contradictions and resolve them constructively.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "halten Konfliktsituationen und \nWidersprüche aus und lösen \ndiese konstruktiv.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I Interkulturelle Kompetenz"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "I Interkulturelle Kompetenz",
+        "printed_page_range": "14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

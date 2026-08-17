@@ -1,0 +1,122 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:fd98ddfa92e10657b6c86eb5a98fc44320dab9b42782e2f6fa7e0f996613b24e"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The KMK grading grid applies to exams under Abitur conditions in Mathematics, Biology, Chemistry, Physics and Computer Science, and in the modern foreign languages for listening comprehension only.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "7 Bewertungsraster gem. Beschluss der Kultusministerkonferenz für die Klausuren unter Abiturbedingungen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "7 Bewertungsraster gem. Beschluss der Kultusministerkonferenz \nfür die Klausuren unter Abiturbedingungen in den Fächern \nMathematik, Biologie, Chemie, Physik und Informatik sowie in \nden Neueren Fremdsprachen (nur Hörverstehen)",
+        "residual_flags": []
+      },
+      {
+        "content": "The grid maps grade points (Notenpunkte) to the minimum share of the total attainable rating units or of overall performance, in percent.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "7 Bewertungsraster gem. Beschluss der Kultusministerkonferenz für die Klausuren unter Abiturbedingungen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Mind. zu erreichender Anteil an den insgesamt zu erreichenden \nBewertungseinheiten oder der Gesamtleistung (in %)",
+        "residual_flags": []
+      },
+      {
+        "content": "Top of the scale: 15 points require 95 %, 14 points 90 %, 13 points 85 %.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "7 Bewertungsraster gem. Beschluss der Kultusministerkonferenz für die Klausuren unter Abiturbedingungen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "15 \n95 \n14 \n90 \n13 \n85",
+        "residual_flags": [
+          "table flattened by extraction: Notenpunkte and percentage values alternate as separate lines"
+        ]
+      },
+      {
+        "content": "Middle of the scale: 7 points require 55 %, 6 points 50 %, 5 points 45 %, 4 points 40 %.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "7 Bewertungsraster gem. Beschluss der Kultusministerkonferenz für die Klausuren unter Abiturbedingungen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "7 \n55 \n6 \n50 \n5 \n45 \n4 \n40",
+        "residual_flags": [
+          "table flattened by extraction: Notenpunkte and percentage values alternate as separate lines"
+        ]
+      },
+      {
+        "content": "Bottom of the scale: 3 points require 33 %, 2 points 27 %, 1 point 20 %, 0 points 0 %.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "7 Bewertungsraster gem. Beschluss der Kultusministerkonferenz für die Klausuren unter Abiturbedingungen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "3 \n33 \n2 \n27 \n1 \n20 \n0 \n0",
+        "residual_flags": [
+          "table flattened by extraction: Notenpunkte and percentage values alternate as separate lines"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7 Bewertungsraster gem. Beschluss der Kultusministerkonferenz für die Klausuren unter Abiturbedingungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "7 Bewertungsraster gem. Beschluss der Kultusministerkonferenz für die Klausuren unter Abiturbedingungen",
+        "printed_page_range": "16"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

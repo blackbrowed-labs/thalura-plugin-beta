@@ -1,0 +1,124 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ac4e5089107ad02f9dc38daa721cef2d1b780ddcf56716bae4ab7db3f6795d3d"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Topic 7 rationale: hardly any subject is discussed as controversially as globalisation in its social, ecological, cultural and economic dimensions.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 4: Themen globaler Bedeutung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Kaum ein Thema wird so kontrovers diskutiert wie die Globalisierung in \nihren gesellschaftlichen, ökologischen, kulturellen und wirtschaftlichen \nDimensionen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching must select phenomena relevant and interesting to young people and address individual and collective responsibility for global developments.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 4: Themen globaler Bedeutung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Bei der Behandlung im Unterricht sind Phänomene auszuwählen, die für \ndie Jugendlichen relevant und von Interesse sind, und Fragen von indi-\nvidueller und kollektiver Verantwortlichkeit für globale Entwicklungen \nund Handlungsmöglichkeiten in den Blick zu nehmen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content of topic 7: environmental sustainability (climate change, plastic pollution, food production).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 4: Themen globaler Bedeutung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "environmental sustainability (e. g. climate change, plastic pollution, \nfood production)",
+        "residual_flags": []
+      },
+      {
+        "content": "Topic 8 rationale: scientific progress has accelerated considerably in the 21st century — findings considered secure today may be outdated tomorrow.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 4: Themen globaler Bedeutung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Der wissenschaftliche Fortschritt hat sich im 21. Jahrhundert erheblich \nbeschleunigt: Forschungsergebnisse, die heute als gesichert gelten, kön-\nnen morgen schon veraltet sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content of topic 8: Visions of the future — utopia vs. dystopia.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 4: Themen globaler Bedeutung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Visions of the future: utopia vs. dystopia",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 4: Themen globaler Bedeutung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "Themenbereich 4: Themen globaler Bedeutung",
+        "printed_page_range": "32–34"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

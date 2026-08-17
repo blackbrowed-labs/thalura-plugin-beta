@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:469bd1928383749f3c36c2fba7441d977feb33b8abe899a372136116d01ab8ba"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "F1: recognise fundamental philosophical questions of orientation in thinking and acting within everyday contexts and express them in linguistically clear form.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Fragen (Fragekompetenzen, F)",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "in lebensweltlichen Zusammenhängen grundsätzliche philosophische Fragen der Ori-\nentierung im Denken und Handeln erkennen und in sprachlich klarer Form ausdrücken \n(F1)",
+        "residual_flags": []
+      },
+      {
+        "content": "F2: question given intuitions, proposed answers, justifications, positions, arguments and habits, and test them for plausibility and consistency, e.g. with counter-examples and thought experiments.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Fragen (Fragekompetenzen, F)",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "vorliegende Intuitionen, Antwortvorschläge, Lösungsansätze, Begründungen, Positio-\nnen, Argumente und Gewohnheiten hinterfragen",
+        "residual_flags": []
+      },
+      {
+        "content": "F3: identify one's own and others' knowledge and competency deficits and formulate clarifying questions.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Fragen (Fragekompetenzen, F)",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "eigene und fremde Wissens- und Kompetenzdefizite identifizieren und hierzu klärende \nFragen formulieren (F3)",
+        "residual_flags": []
+      },
+      {
+        "content": "F4: identify unclear terms, statements and positionings as such and present proposals for clarifying them.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Fragen (Fragekompetenzen, F)",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "unklare Begriffe, Aussagen und Positionierungen als solche identifizieren und Vor-\nschläge für deren Klärung darstellen (F4)",
+        "residual_flags": []
+      },
+      {
+        "content": "F6 (raised requirement level, erhöhtes Niveau): name typical philosophical questions from various philosophical disciplines and works and explain difficulties and problems of thought.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Fragen (Fragekompetenzen, F)",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "typische philosophische Fragen aus verschiedenen philosophischen Disziplinen und \nWerken benennen sowie Schwierigkeiten und Denkprobleme erläutern (F6)",
+        "residual_flags": []
+      },
+      {
+        "content": "F9 (raised requirement level): understand themselves as philosophically questioning and inquiring, and describe the individual, social, cultural and historical backgrounds of their questioning.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Fragen (Fragekompetenzen, F)",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "sich selbst als philosophisch Fragende und Forschende verstehen und individuelle, \nsoziale, kulturelle, historische Hintergründe und Besonderheiten ihres Fragens und \nForschens darstellen (F9)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Kompetenzbereich Fragen (Fragekompetenzen, F)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Kompetenzbereich Fragen (Fragekompetenzen, F)",
+        "printed_page_range": "10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

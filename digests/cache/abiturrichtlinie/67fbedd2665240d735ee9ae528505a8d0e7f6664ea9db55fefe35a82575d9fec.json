@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:67fbedd2665240d735ee9ae528505a8d0e7f6664ea9db55fefe35a82575d9fec"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie",
+      "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The linguistic-literary-artistic task field (Aufgabenfeld) begins with Anlage 1 Deutsch and Anlage 2 Englisch.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "Anlagen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "sprachlich-literarisch-künstlerisches Aufgabenfeld \nAnlage 1 \nDeutsch \nAnlage 2 \nEnglisch",
+        "residual_flags": []
+      },
+      {
+        "content": "Philosophie is Anlage 21, followed by Politik/Gesellschaft/Wirtschaft as Anlage 22.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "Anlagen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Anlage 21 \nPhilosophie \nAnlage 22 \nPolitik/Gesellschaft/Wirtschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Religion is Anlage 25, followed by Wirtschaft as Anlage 26, within the social-science task field.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "Anlagen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Anlage 25 \nReligion \nAnlage 26 \nWirtschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "The mathematical-scientific-technical task field starts with Anlage 27 Mathematik.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "Anlagen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "mathematisch-naturwissenschaftlich-technisches Aufgabenfeld \nAnlage 27 \nMathematik",
+        "residual_flags": []
+      },
+      {
+        "content": "Additional annexes for vocational Gymnasien run from Anlage 33 Betriebswirtschaft to Anlage 37 Volkswirtschaft.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "Anlagen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "zusätzlich in beruflichen Gymnasien \nAnlage 33 \nBetriebswirtschaft \nAnlage 34 \nPädagogik \nAnlage 35 \nPsychologie \nAnlage 36 \nTechnik \nAnlage 37 \nVolkswirtschaft",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Anlagen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie",
+        "section_anchor": "Anlagen",
+        "printed_page_range": "11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:75f19c44f3b1c8a9f5aee49ded7c8480d4ae5c24725e431ab88bf1111aa73385"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Anlagen 5, 9 and 12 came into force on 1 August 2009; otherwise the ordinance came into force on 1 August 2008.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 41 Inkrafttreten, Außerkrafttreten, Übergangsregelungen",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Die Anlagen 5, 9 und 12 treten am 1. August 2009 in Kraft. Im Übrigen tritt diese \nVerordnung am 1. August 2008 in Kraft.",
+        "residual_flags": []
+      },
+      {
+        "content": "For students who were in the Studienstufe in the school year 2008/2009, the rules in force until 31 July 2008 continue to apply.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 41 Inkrafttreten, Außerkrafttreten, Übergangsregelungen",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "sind die bis zum \n31. Juli 2008 geltenden Bestimmungen weiter anzuwenden.",
+        "residual_flags": []
+      },
+      {
+        "content": "A one-off 2019 transitional rule entitled all candidates who had sat written Mathematics at the basic requirement level to take the oral examination.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 41 Inkrafttreten, Außerkrafttreten, Übergangsregelungen",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "§ 25 Absatz 2 findet einmalig im Jahr 2019 für die Prüflinge, die die schriftliche Prü-\nfung im Fach Mathematik auf grundlegendem Anforderungsniveau abgelegt haben",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 38,
+          "printed_page": 38
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 41 Inkrafttreten, Außerkrafttreten, Übergangsregelungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 41 Inkrafttreten, Außerkrafttreten, Übergangsregelungen",
+        "printed_page_range": "38"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

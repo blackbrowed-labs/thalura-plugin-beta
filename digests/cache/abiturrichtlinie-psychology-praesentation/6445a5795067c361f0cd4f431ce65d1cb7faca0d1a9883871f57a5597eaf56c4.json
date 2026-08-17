@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6445a5795067c361f0cd4f431ce65d1cb7faca0d1a9883871f57a5597eaf56c4"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology-praesentation",
+      "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The examinee names 'Entwicklung und Persönlichkeit'; the referent adds 'Motivation und Lernen' to secure the Semesterübergriff.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — I Aufgabenstellung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "gibt als Inhaltsbereich für die Präsentationsprüfung \n„Entwicklung und Persönlichkeit“ an; auf dieser Grundlage erhält er die nachfolgend an-\ngegebene Aufgabenstellung, die der Referent/die Referentin um den Inhaltsbereich „Mo-\ntivation und Lernen“ ergänzt, um den geforderten Semesterübergriff sicherzustellen",
+        "residual_flags": []
+      },
+      {
+        "content": "Discuss to what extent attachment styles maintained into adolescence in partnership bonds can be explained by means of learning theories.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — I Aufgabenstellung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "inwiefern die Aufrechterhaltung von Bindungsstilen bis zur Adoleszenz im \nRahmen partnerschaftlicher Bindungen mittels Lerntheorien erklärt",
+        "residual_flags": []
+      },
+      {
+        "content": "Alternative task: develop a concept for a research project investigating this using a self-chosen learning theory.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — I Aufgabenstellung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Entwickeln Sie ein Konzept zu einem Forschungsvorhaben, welches untersucht, inwie-\nfern die Aufrechterhaltung von Bindungsstilen bis zur Adoleszenz im Rahmen partner-\nschaftlicher Bindungen mittels einer von Ihnen gewählten Lerntheorie",
+        "residual_flags": []
+      },
+      {
+        "content": "The alternative task is more comprehensive and requires methodical, planning work.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — I Aufgabenstellung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Umfassender, erfordert methodisch-planendes Arbeiten",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — I Aufgabenstellung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology-praesentation",
+        "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — I Aufgabenstellung",
+        "printed_page_range": "10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

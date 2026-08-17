@@ -1,0 +1,250 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:192f153be5c2150cb8dab8f928ed3bed70ad57945c4f6bb22a47964479d768ba"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Beyond media text and illustration elements, candidates use e.g. cards with keywords as aids, but in no case fully written-out texts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Karten mit Stichworten als Hilfsmittel, in keinem Fall aber ausformulierte Texte.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the second part the whole task is deepened in a Fachgespräch led predominantly by the responsible subject teacher.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Das \nFachgespräch führt überwiegend die zuständige Fachlehrkraft.",
+        "residual_flags": []
+      },
+      {
+        "content": "A task too close to one already worked, or so prepared that requirements amount to reproduction, is not permissible; in particular oral-exam tasks may not already have been used as a class presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Insbesondere dürfen Aufgaben für die \nmündliche Prüfung als Präsentationsprüfung nicht bereits als Präsentationsleistung im \nUnterricht behandelt worden sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Using the presented documentation, the referent refines the Erwartungshorizont regarding content and course and presents it to the committee at the latest the day before the exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "präzisiert der Referent \nbzw. die Referentin den Erwartungshorizont in Hinblick auf Inhalt und Verlauf der \nPräsentationsprüfung",
+        "residual_flags": []
+      },
+      {
+        "content": "On exam day, candidates prepare their presentation independently (possibly with a technical trial run) and deliver the talk without further preparation time.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Am Tag der Prüfung bereiten die Prüflinge ihre Präsentation selbstständig vor",
+        "residual_flags": []
+      },
+      {
+        "content": "In the second part candidates reflect on the course of the presentation, answer deepening questions on content and media design, and meet requirements covering the whole task.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die Prüflinge reflektieren in diesem Prüfungsteil den Verlauf der Präsentation, beant-\nworten vertiefende Fragen zum Inhalt und zur medialen Gestaltung der Präsentation",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirement areas under 3.2 and assessment criteria under 4.5 apply also to the presentation exam, which is assessed in its entirety with subject-matter performance central.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die unter 3.2 beschriebenen Anforderungsbereiche und die unter 4.5 dargelegten Be-\nwertungskriterien gelten grundsätzlich auch für die Präsentationsprüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Communicative performances shown are also to be considered, but serious subject deficiencies cannot be compensated by presentation or media competence.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Darüber hinaus sind die gezeigten kommunikativen Leis-\ntungen zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A specific requirement is to unfold the underlying matter or problem and place it into larger subject and possibly cross-subject contexts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "den der Aufgabenstellung zugrundeliegenden Sachverhalt bzw. das darin enthaltene\nProblem zu entfalten und in größere fachliche und ggf. überfachliche Zusammenhänge\neinzuordnen,",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must find a comprehensible, cogent result for the task in the given time.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "in der gegebenen Zeit für die gestellte Aufgabe ein nachvollziehbares, triftiges Ergeb-\nnis zu finden,",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must present this result with skilled, subject- and audience-appropriate media use.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "dieses Ergebnis mit versiertem, sach- und adressatengerechten Medieneinsatz zu prä-\nsentieren,",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must express themselves clearly, structured and differentiated using appropriate technical terminology and secure task-related knowledge.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "sich unter angemessener Verwendung der Fachterminologie und auf der Basis sicherer\naufgabenbezogener Kenntnisse klar, strukturiert und differenziert auszudrücken,",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must react appropriately and flexibly to questions, impulses, aids or counter-arguments in the exam discussion.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "im Prüfungsgespräch sachbezogen, situationsangemessen und flexibel auf Fragen,\nImpulse, Hilfen oder Gegenargumente zu reagieren,",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must speak freely, appear confident, and defend their own standpoint in talk and discussion.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "im Vortrag und im Gespräch frei zu sprechen, sicher aufzutreten und dabei den eigenen\nStandpunkt selbstbewusst zu vertreten,",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must give reflective, self-critical account of the chosen method, work steps, and media use.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "über die gewählte Methode, die Arbeitsschritte bei der Lösung der Aufgabe sowie den\nMedieneinsatz bei der Präsentation reflektiert und selbstkritisch Auskunft zu geben.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.2.2 Anforderungen und Bewertung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "5.2.2 Anforderungen und Bewertung",
+        "printed_page_range": "17–18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

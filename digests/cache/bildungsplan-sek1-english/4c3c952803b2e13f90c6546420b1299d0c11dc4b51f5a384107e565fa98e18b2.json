@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:4c3c952803b2e13f90c6546420b1299d0c11dc4b51f5a384107e565fa98e18b2"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The base grammar overviews structures students should know by the end of grade 10.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 9/10",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Die Basisgrammatik bietet eine Übersicht über grammatische",
+        "residual_flags": []
+      },
+      {
+        "content": "A goal is to name and describe persons, things, states and activities.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 9/10",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Personen, Sachen, Sachverhalte und Tätigkeiten bezeichnen",
+        "residual_flags": []
+      },
+      {
+        "content": "Structures include participle, infinitive and gerund constructions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 9/10",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Partizipialkonstruktionen \n• Infinitivkonstruktionen \n• Gerundialkonstruktionen",
+        "residual_flags": []
+      },
+      {
+        "content": "Information giving includes adverbial clauses: temporal, local, concessive, final.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 9/10",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Adverbialsätze: temporal, lokal, konzessiv, final",
+        "residual_flags": []
+      },
+      {
+        "content": "Indirect speech is covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 9/10",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "indirekte Rede \nMengen angeben",
+        "residual_flags": []
+      },
+      {
+        "content": "Quantities are indicated via fractions and decimal numbers.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 9/10",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Mengen angeben \n• Brüche \n• Dezimalzahlen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 61,
+          "printed_page": 61
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Basisgrammatik 9/10"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Basisgrammatik 9/10",
+        "printed_page_range": "61"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:94776ae1fe495adac9a030bd0cf946e45fd7b8420a135275ea281aa3bf2c5e23"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "For assessments (Klassenarbeiten) serving to check spelling performance, certain task types are especially suitable.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Für die Klassenarbeiten, die der Überprüfung der Rechtschreibleistung dienen, eignen sich",
+        "residual_flags": []
+      },
+      {
+        "content": "Suitable are tasks for error finding and correction on given texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Aufgaben zur Fehlersuche und -korrektur an vorgegebenen Texten",
+        "residual_flags": []
+      },
+      {
+        "content": "Suitable are dictionary-use tasks and dictations.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Aufgaben zur Wörterbuchnutzung \n• \nDiktate.",
+        "residual_flags": []
+      },
+      {
+        "content": "If a dictation is used to check spelling performance, it is not the sole instrument of assessment.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Wird ein Diktat zur Überprüfung der Rechtschreibleistung eingesetzt, ist dies nicht das alleinige \nInstrument der Leistungsfeststellung.",
+        "residual_flags": []
+      },
+      {
+        "content": "It must be ensured that students have adequate time before submission to check the dictated text.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Außerdem muss gewährleistet sein, dass den Schüle-\nrinnen und Schülern vor Abgabe der Klassenarbeit eine angemessene Zeit zur Verfügung \nsteht, den diktierten Text zu prüfen.",
+        "residual_flags": []
+      },
+      {
+        "content": "As a rule the use of a dictionary should be permitted.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Dabei soll in der Regel die Nutzung eines Wörterbuchs \nzulässig sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "In spelling-focused assessments the errors are marked and corrected by the students.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In Klassenarbeiten zur Überprüfung der Rechtschreibleistung werden die Fehler markiert und \nvon den Schülerinnen und Schülern berichtigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "In all German assessments the teacher gives error-differentiated feedback on spelling and grammar errors, oriented to competencies and instructional requirements.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In allen Klassenarbeiten im Fach Deutsch gibt die Lehrkraft den Schülerinnen und Schülern \neine fehlerdifferenzierende Rückmeldung zu Rechtschreib- und Grammatikfehlern, die sich an \nderen Rechtschreibkompetenzen sowie an den unterrichtlichen Anforderungen orientiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students correct these errors and may receive follow-up tasks to expand and consolidate spelling competence.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "berichtigen diese Fehler und erhalten gegebenenfalls Anschluss-\naufgaben zur Erweiterung und Festigung ihrer Rechtschreibkompetenz.",
+        "residual_flags": []
+      },
+      {
+        "content": "Only areas of spelling and punctuation already worked on in class count toward the spelling assessment.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In die Bewertung der Rechtschreibleistung fließen nur diejenigen Bereiche der Rechtschrei-\nbung und Zeichensetzung ein, die bereits im Unterricht erarbeitet wurden.",
+        "residual_flags": []
+      },
+      {
+        "content": "When assessing texts, spelling errors may not be evaluated purely quantitatively; degree of impairment to reading flow and comprehensibility, and severity, number and type of error types must also be considered.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Bei der Bewertung von Texten hinsichtlich der Rechtschreibleistung dürfen Fehler, insofern es \nnicht um eine reine Überprüfung der Rechtschreibleistung geht, nicht allein quantitativ ausge-\nwertet werden. Zu berücksichtigen sind über die Anzahl der Fehler hinaus: \n• \nder Grad der Beeinträchtigung des Leseflusses und der Verständlichkeit des Textes \nund  \n• \ndie Schwere der Fehler sowie die Anzahl und Art von Fehlertypen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7e) Deutsch"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7e) Deutsch",
+        "printed_page_range": "20"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

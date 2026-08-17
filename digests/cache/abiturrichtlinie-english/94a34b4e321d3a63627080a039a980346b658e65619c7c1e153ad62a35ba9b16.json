@@ -1,0 +1,237 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:94a34b4e321d3a63627080a039a980346b658e65619c7c1e153ad62a35ba9b16"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Guided by instructions the candidate works on one or more English-language source texts (text reception) and writes a coherent independent text (written text production).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Anhand von Arbeitsanweisungen bearbeitet der Prüfling eine oder mehrere englisch-\nsprachige Textvorlagen (Textrezeption) und verfasst einen zusammenhängenden eigen-\nständigen Text (schriftliche Textproduktion).",
+        "residual_flags": []
+      },
+      {
+        "content": "Source texts in the extended text sense may be non-fiction texts (journalistic texts, reports, essays), literary texts (poems, song lyrics, novel excerpts, short stories, drama) and images/graphics (illustrations, cartoons, charts, diagrams, tables).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Vorlagen im Sinne eines erweiterten Textbegriffes können sein:\n•\nSachtexte (wie etwa journalistische Texte, Berichte oder Essays),\n•\nliterarische Texte (wie zum Beispiel Gedichte, Liedertexte, Auszüge aus Romanen,\nKurzgeschichten oder Dramen),\n•\nBilder und Grafiken (z. B. Illustrationen, Karikaturen, Schaubilder, Diagramme oder Ta-\nbellen).",
+        "residual_flags": []
+      },
+      {
+        "content": "Several sources of the same or different type may be combined but must be thematically linked; images and graphics may only be used in combination with other written sources.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Eine Verbindung mehrerer Vorlagen entweder derselben oder unterschiedlicher Art ist \nmöglich; die Vorlagen müssen thematisch miteinander verknüpft sein. Bilder und Grafi-\nken dürfen nur in Verbindung mit anderen schriftlichen Vorlagen Teil der Prüfung sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Source materials are authentic English texts, thematically significant, of a linguistic difficulty appropriate to the course type, and sufficiently complex in topic and structure.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Arbeitsvorlagen sind\n•\nauthentische Texte in englischer Sprache,\n•\nthematisch bedeutsam,\n•\neinem der Kursart angemessenen sprachlichen Schwierigkeitsgrad entsprechend,\n•\nin Thematik und Struktur hinreichend komplex.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for judging the difficulty of the sources: degree of encoding, degree of abstraction, complexity of the text or visual structure, information density, complexity of language (syntax, lexis, pragmatics), degree of deviation from standard language, extent of assumed factual knowledge.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Zur Einschätzung des Schwierigkeitsgrades der Vorlagen sind folgende Kriterien zu be-\nrücksichtigen:\n•\nGrad der Verschlüsselung,\n•\nAbstraktionsgrad,\n•\nKomplexität der Text- bzw. visuellen Struktur,\n•\nInformationsdichte,\n•\nKomplexität der verwendeten Sprache hinsichtlich Satzbau, Lexik, Pragmatik,\n•\nGrad der Abweichung von der Standardsprache,\n•\nUmfang der vorausgesetzten Sachkenntnis.",
+        "residual_flags": []
+      },
+      {
+        "content": "The text for raised level may contain at most 1000 words; the text for basic level and for the newly taken-up foreign language at most 800 words.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Der für das erhöhte Niveau vorgelegte Text darf maximal 1000 Wörter, der auf dem \ngrundlegenden Niveau und der für die neu aufgenommene Fremdsprache vorgelegte \nText darf maximal 800 Wörter umfassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Highly condensed and multiply coded texts (e.g. poems, film excerpts) or combination with visual material can justify deviation from the stated word counts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Stark verdichtete und mehrfach kodierte Texte (wie z. B. Gedichte und Filmausschnitte) \noder eine Kombination mit visuellen Materialien (z. B. Bilder, Grafiken) können eine Ab-\nweichung von den genannten Wortzahlen rechtfertigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "If several texts are presented, the word count applies to all texts together.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Werden mehrere Texte vorgelegt, gilt die Wortzahl für alle Texte zusammen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Tasks on discontinuous texts let candidates convert visual impulses into language, ensure the performance is not merely additively descriptive, and require explanation of the relation of picture elements and thematic placement of the image.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Aufgabenstellung zu diskontinuierlichen Texten ermöglicht es den Prüflingen, visuelle \nImpulse in Sprache umzusetzen. Sie stellt sicher, dass sich die Prüfungsleistung nicht auf \neine rein additiv deskriptive Leistung beschränkt. Vielmehr werden auch die Erläuterung \ndes Bezuges von Bildelementen zueinander und die Einordnung des Bildes in themati-\nsche Zusammenhänge gefordert.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the writing task candidates work on English-language sources at the levels of requirement areas I to III, with instructions allowing extended, mutually related answers.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "In der Schreibaufgabe bearbeiten die Prüflinge englischsprachige Vorlagen auf den Ebe-\nnen der Anforderungsbereiche I bis III.\nDie Arbeitsaufträge sind in allen Anforderungsbereichen so gestaltet, dass eine Entfal-\ntung der Antworten in längeren Textabschnitten, die inhaltlich und sprachlich aufeinan-\nder bezogen sind, möglich ist. Es werden folgende Aufgabenstellungen gegeben:",
+        "residual_flags": []
+      },
+      {
+        "content": "The tasks given are one Comprehension task, one Analysis task, and one task each in Comment or Creative Writing.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "eine Aufgabe zum Bereich Comprehension,\n•\neine Aufgabe zum Bereich Analysis,\n•\njeweils eine Aufgabe zum Bereich Comment oder Creative Writing.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the third requirement area candidates must choose between Comment and Creative Writing.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Im dritten Anforderungsbereich müssen die Prüflinge zwischen Comment und Creative \nWriting wählen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content weighting: Comprehension and Comment/Creative Writing each as a rule 30 percent of the content assessment; Analysis as a rule 40 percent.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die von den Prüflingen erbrachten inhaltlichen Leistungen im Bereich \nComprehension und Comment/Creative Writing gehen in der Regel zu jeweils 30 Prozent in \ndie Bewertung des Inhalts ein; die Leistungen im Bereich Analysis fließen in der Regel zu \n40 Prozent in die inhaltliche Bewertung ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates formulate results as self-contained, coherent texts and demonstrate written text production, command of linguistic means, methodological competences and knowledge of different forms of presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.1 Schreibaufgabe",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Prüflinge formulieren ihre Ergebnisse als in sich geschlossene, so weit wie möglich \nkohärente Texte. Sie weisen dabei besonders ihre Fertigkeiten aus den Bereichen schrift-\nliche Textproduktion, Verfügung über sprachliche Mittel und methodische Kompetenzen \nzur Textproduktion sowie die Kenntnis verschiedener Darstellungsformen nach.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.2.1 Schreibaufgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "4.2.1 Schreibaufgabe",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

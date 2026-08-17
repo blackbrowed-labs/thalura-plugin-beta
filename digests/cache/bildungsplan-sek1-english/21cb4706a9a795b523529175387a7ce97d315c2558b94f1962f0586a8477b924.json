@@ -1,0 +1,187 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:21cb4706a9a795b523529175387a7ce97d315c2558b94f1962f0586a8477b924"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "English systematically develops diverse intercultural communicative competences, contributing to the Wertebildung perspective.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Im Englischunterricht werden systematisch vielfältige interkulturelle kommunikative",
+        "residual_flags": []
+      },
+      {
+        "content": "Literary texts are especially suited to strengthening learners' capacity for empathy.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "eignen sich hier besonders, um die Empathiefähigkeit der Lernenden zu stärken.",
+        "residual_flags": []
+      },
+      {
+        "content": "Pupils compare their own societal reality with anglophone cultures and reflect critically under ethical and social aspects.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "vergleichen und unter ethischen und sozialen Gesichtspunkten kritisch zu reflektieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "English teaching conveys intercultural communicative competences relevant to education for sustainable development.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Der Englischunterricht vermittelt interkulturelle kommunikative",
+        "residual_flags": []
+      },
+      {
+        "content": "Numerous globally relevant themes from ecology, economy and society are worked on.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "den Bereichen Ökologie, Ökonomie und Gesellschaft bearbeitet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Given that English acts as a lingua franca on the internet, it holds special significance in the digital space.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Englisch im Internet die Rolle einer Lingua franca einnimmt",
+        "residual_flags": []
+      },
+      {
+        "content": "Using digital media in English teaching opens access to numerous cultural global discourses.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Medien und Werkzeuge im Englischunterricht eröffnet einen Zugang zu zahlreichen kulturellen",
+        "residual_flags": []
+      },
+      {
+        "content": "The special potential lies in producing multimodal interactive texts and their reception in the public digital space.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Produktion multimodaler interaktiver Texte und deren Rezeption in der",
+        "residual_flags": []
+      },
+      {
+        "content": "English teaching lets pupils reflect on chances and risks of their media use and modify it if needed.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "die Möglichkeit, Chancen und Risiken ihres Mediengebrauchs zu reflektieren und ggfs.",
+        "residual_flags": []
+      },
+      {
+        "content": "The source misspells 'Englischunterricht' as 'Englischunterrichtet' when introducing the reflection on societal reality.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Der Englischunterrichtet bietet den Schülerinnen und Schülern die Möglichkeit",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+        "printed_page_range": "10–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

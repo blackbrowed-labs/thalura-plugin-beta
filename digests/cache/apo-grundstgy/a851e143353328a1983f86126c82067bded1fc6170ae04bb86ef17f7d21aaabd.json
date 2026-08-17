@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:a851e143353328a1983f86126c82067bded1fc6170ae04bb86ef17f7d21aaabd"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "All school forms must support students so that strengths are further developed and weaknesses compensated.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 1 — Anwendungsbereich",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Alle Schulformen haben die Aufgabe, Schülerinnen und Schüler so zu fördern, \ndass Stärken weiter ausgebaut und Schwächen ausgeglichen werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Individual support (individuelle Förderung) is a teaching principle in every school form and grade level.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 1 — Anwendungsbereich",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Individuelle \nFörderung ist Unterrichtsprinzip in allen Schulformen und Jahrgangsstufen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The ordinance applies to Grundschule students and to grades 5 to 10 of the Stadtteilschule and the Gymnasium.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 1 — Anwendungsbereich",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Diese Ordnung gilt für die Schülerinnen und Schüler der Grundschule und der \nJahrgangsstufen 5 bis 10 der Stadtteilschule und des Gymnasiums",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "APO-GrundStGy Abschnitt 1 — Anwendungsbereich"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "APO-GrundStGy Abschnitt 1 — Anwendungsbereich",
+        "printed_page_range": "8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

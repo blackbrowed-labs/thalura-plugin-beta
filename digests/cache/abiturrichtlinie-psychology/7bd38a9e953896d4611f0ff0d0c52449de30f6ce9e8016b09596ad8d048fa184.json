@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7bd38a9e953896d4611f0ff0d0c52449de30f6ce9e8016b09596ad8d048fa184"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Durch die Formulierung der Aufgabenstellung muss die Art der geforderten Leistung eindeutig erkennbar werden.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.3 Hinweise zur Erstellung einer Prüfungsaufgabe",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Durch die Formulierung der Aufgabenstellung",
+        "residual_flags": []
+      },
+      {
+        "content": "Dies geschieht wesentlich ueber die verbindlichen Operatoren und die Beachtung der spezifischen Ansprueche der Aufgabenarten.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.3 Hinweise zur Erstellung einer Prüfungsaufgabe",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "verbindlichen Operatoren und durch die Beachtung der spezifischen",
+        "residual_flags": []
+      },
+      {
+        "content": "Ein angemessenes Niveau ist erreicht, wenn das Schwergewicht im Anforderungsbereich II (ca. 40%) liegt und die Bereiche I und III mit je ca. 30% beruecksichtigt werden.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.3 Hinweise zur Erstellung einer Prüfungsaufgabe",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "im Anforderungsbereich II (ca. 40%) liegt und daneben die Anforde-\nrungsbereiche I und III mit jeweils ca. 30%",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Pruefungsaufgabe ist mehrgliedrig und besteht aus wenigen, aber komplexen Arbeitsanweisungen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.3 Hinweise zur Erstellung einer Prüfungsaufgabe",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "besteht aus wenigen, aber komplexen Arbeits",
+        "residual_flags": []
+      },
+      {
+        "content": "Zugelassene Hilfsmittel werden angegeben.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.3 Hinweise zur Erstellung einer Prüfungsaufgabe",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Zugelassene Hilfsmittel werden angegeben",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.3 Hinweise zur Erstellung einer Prüfungsaufgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "4.3 Hinweise zur Erstellung einer Prüfungsaufgabe",
+        "printed_page_range": "10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

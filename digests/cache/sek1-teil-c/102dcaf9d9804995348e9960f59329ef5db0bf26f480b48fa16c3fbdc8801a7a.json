@@ -1,0 +1,255 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:102dcaf9d9804995348e9960f59329ef5db0bf26f480b48fa16c3fbdc8801a7a"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Language-learning competency (Sprachlernkompetenz) criteria: targeted use of analogue and digital media and tools for language learning; targeted reflection on and use of techniques, strategies and all previous language-learning experience for the individual learning process.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Sprachlernkompetenz \nEs gelten insbesondere folgende Bewertungskriterien: \n• \nzielgerichtete Nutzung analoger sowie digitaler Medien und Werkzeuge für das Spra-\nchenlernen \n• \nzielgerichtete Reflexion und Nutzung von Techniken und Strategien sowie aller bishe-\nrigen Erfahrungen mit dem Lernen von Sprachen für den individuellen Sprachlernpro-\nzess.",
+        "residual_flags": [
+          "section-tail: closes 7f) Deutsch als Zweitsprache but sits physically on page 22, inside this section's page range",
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Language awareness (Sprachbewusstheit) criterion: conscious and intentional adaptation of language use to the communicative situation, i.e. weighing formulations, self- and peer-correction, and revising texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Sprachbewusstheit \nEs gilt insbesondere folgendes Bewertungskriterium: \n• \nbewusste und intentionale Anpassung des Sprachgebrauchs an die kommunikative Si-\ntuation, d. h. Abwägen von Formulierungen, Selbst- und Fremdkorrektur sowie Über-\narbeitung von Texten.",
+        "residual_flags": [
+          "section-tail: closes 7f) Deutsch als Zweitsprache but sits physically on page 22, inside this section's page range"
+        ]
+      },
+      {
+        "content": "Subject-related digital competency criteria: addressee-, situation- and purpose-appropriate use of subject-specific digital aids (dictionaries, translation programs, other tools) for communication and interaction in the target language; appropriate reflection on the potential and limits of digital aids.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Fachbezogene digitale Kompetenz \nEs gelten insbesondere folgende Bewertungskriterien: \n• \nadressaten-, situations- und zweckangemessene Nutzung fachspezifischer digitaler \nHilfsmittel (z. B. Wörterbücher, Übersetzungsprogramme oder andere Tools) zur Kom-\nmunikation und Interaktion in der Zielsprache \n• \nangemessene Reflexion der Potenziale und Grenzen digitaler Hilfsmittel.",
+        "residual_flags": [
+          "section-tail: closes 7f) Deutsch als Zweitsprache but sits physically on page 22, inside this section's page range",
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Text and media competency criteria: for text analysis/interpretation — choice of appropriate tools, techniques and strategies for opening up texts; for text production — selection and reorganisation of individual pieces of information per the task, choice of appropriate text types, comprehensible, structured and vivid presentation of content, thoroughness, accuracy and independence in presenting content, and appropriate use of digital and analogue media and tools for presenting texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Text- und Medienkompetenz \nEs gelten insbesondere folgende Bewertungskriterien: \nTextanalyse/Textinterpretation \n• \nWahl angemessener Werkzeuge, Techniken und Strategien zur Erschließung von Tex-\nten \nTextproduktion \n• \nSelektion und Reorganisation von Einzelinformationen gemäß der Aufgabenstellung \n• \nWahl angemessener Textsorten gemäß der Aufgabenstellung \n• \nverständliches, strukturiertes und anschauliches Präsentieren von Inhalten \n• \nGründlichkeit, Genauigkeit und Selbstständigkeit bei der Darstellung von Inhalten \n• \nangemessener Einsatz von digitalen und analogen Medien und Werkzeugen zur Prä-\nsentation von Texten.",
+        "residual_flags": [
+          "section-tail: closes 7f) Deutsch als Zweitsprache but sits physically on page 22, inside this section's page range"
+        ]
+      },
+      {
+        "content": "Englisch und Neuere Sprachen — at the latest in grade 10, class tests must also be set that contain tasks on text analysis and guided text interpretation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Spätestens in der Jahrgangsstufe 10 sind auch Klassenarbeiten zu stellen, die Aufgaben zur \nTextanalyse und gelenkten Textinterpretation enthalten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural competency: alongside reflective and action competency, students' orientation knowledge is also checked; criteria are accuracy and scope of socio-cultural orientation knowledge, differentiation in presenting cultural phenomena and one's own standpoints, and use of suitable strategies in situations marked by linguistic and cultural diversity.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Im Bereich der interkulturellen Kompetenz wird neben der Reflexions- und Handlungskompe-\ntenz auch das Orientierungswissen der Schülerinnen und Schüler überprüft. \nEs gelten insbesondere folgende Bewertungskriterien: \n• \nGenauigkeit und Umfang des soziokulturellen Orientierungswissens \n• \nDifferenziertheit bei der Darstellung kultureller Phänomene und eigener Standpunkte \n• \nEinsatz geeigneter Strategien in Kommunikationssituationen, die von sprachlicher und \nkultureller Diversität geprägt sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Functional communicative competency: communicative success and successful linguistic expression are weighted HIGHER than linguistic correctness.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Im Bereich der funktionalen kommunikativen Kompetenz werden kommunikativer Erfolg und \ngelungener sprachlicher Ausdruck höher gewichtet als sprachliche Korrektheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for language reception and production: completeness and accuracy of information extraction from a spoken contribution or text (also auditory/audio-visual); task and subject relatedness; independence and originality; linguistic clarity and cogency of thought; comprehensibility; length and complexity of the utterance; appropriate differentiation of vocabulary and structures; linguistic correctness; genre- or situation-appropriate shaping.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "im Bereich Sprachrezeption \n• \nVollständigkeit und Genauigkeit der Informationsentnahme aus einem Redebeitrag \noder Text (auch auditiv oder audiovisuell) \nim Bereich Sprachproduktion \n• \nAufgaben- und Sachbezogenheit \n• \nSelbstständigkeit und Originalität \n• \nsprachliche Klarheit und gedankliche Stringenz \n• \nVerständlichkeit der Aussage \n• \nLänge und Komplexität der Äußerung \n• \nangemessene Differenziertheit von Wortschatz und Strukturen \n• \nsprachliche Richtigkeit \n• \ntextsortenspezifische Gestaltung des Textes bzw. situationsangemessene Gestaltung \ndes Redebeitrags",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for interaction (English/modern languages): successful participation in conversations, discussions and debates; use of topic-specific, situation- and addressee-appropriate language means; spontaneity and originality of linguistic acting and reacting; AND successful mediation in bilingual or multilingual situations.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "im Bereich Interaktion \n• \nerfolgreiche Beteiligung an Gesprächen, Diskussionen und Debatten \n• \nVerwendung von themenspezifischen, situationsangemessenen und adressatenge-\nrechten Redemitteln \n• \nSpontaneität und Originalität des sprachlichen Agierens und Reagierens \n• \nerfolgreiche Vermittlung in zwei- oder mehrsprachigen Situationen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachlernkompetenz criteria: targeted use of analogue and digital media and tools for language learning; targeted reflection on and use of techniques, strategies and all previous language-learning experience for the individual language-learning process.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "• \nzielgerichtete Nutzung analoger sowie digitaler Medien und Werkzeuge für das Spra-\nchenlernen \n• \nzielgerichtete Reflexion und Nutzung von Techniken und Strategien sowie aller bishe-\nrigen Erfahrungen mit dem Lernen von Sprachen für den individuellen Sprachlernpro-\nzess.",
+        "residual_flags": [
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Sprachbewusstheit criteria (English/modern languages): conscious, intentional adaptation of language use to the communicative situation (weighing formulations, self- and peer-correction, revising texts); AND metalinguistic engagement with and formulation of knowledge about language-related concepts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "• \nbewusste und intentionale Anpassung des Sprachgebrauchs an die kommunikative Si-\ntuation, d. h. Abwägen von Formulierungen, Selbst- und Fremdkorrektur sowie Über-\narbeitung von Texten \n• \nmetasprachliche Auseinandersetzung und Formulierung von Wissen über sprachbezo-\ngene Konzepte.",
+        "residual_flags": []
+      },
+      {
+        "content": "Subject-related digital competency criteria: addressee-, situation- and purpose-appropriate use of subject-specific digital aids (dictionaries, translation programs, other tools) for communication and interaction in the target language; appropriate reflection on the potential and limits of digital aids.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Fachbezogene digitale Kompetenz \nEs gelten insbesondere folgende Bewertungskriterien: \n• \nadressaten-, situations- und zweckangemessene Nutzung fachspezifischer digitaler \nHilfsmittel (z. B. Wörterbücher, Übersetzungsprogramme oder andere Tools) zur Kom-\nmunikation und Interaktion in der Zielsprache \n• \nangemessene Reflexion der Potenziale und Grenzen digitaler Hilfsmittel.",
+        "residual_flags": [
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Text and media competency — text analysis/interpretation criteria (English/modern languages): choice of appropriate tools, techniques and strategies for opening up texts; finding indirect statements and the cogency of their interpretation; recognising texts' design features and their effect.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Textanalyse/Textinterpretation \n• \nWahl angemessener Werkzeuge, Techniken und Strategien zur Erschließung von Tex-\nten \n• \nAuffinden indirekter Aussagen und Schlüssigkeit ihrer Deutung \n• \nErkennen von Gestaltungsmerkmalen von Texten und ihrer Wirkung",
+        "residual_flags": []
+      },
+      {
+        "content": "Text production criteria: selection and reorganisation of individual information per the task; choice of appropriate text types; comprehensible, structured and vivid presentation of content; thoroughness, accuracy and independence in presenting contents and problem substance; appropriate use of digital and analogue media and tools for presenting texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Textproduktion \n• \nSelektion und Reorganisation von Einzelinformationen gemäß der Aufgabenstellung \n• \nWahl angemessener Textsorten gemäß der Aufgabenstellung \n• \nverständliches, strukturiertes und anschauliches Präsentieren von Inhalten \n• \nGründlichkeit, Genauigkeit und Selbstständigkeit bei der Darstellung von Inhalten und \nProblemgehalten \n• \nangemessener Einsatz von digitalen und analogen Medien und Werkzeugen zur Prä-\nsentation von Texten.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7g) Englisch und Neuere Sprachen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7g) Englisch und Neuere Sprachen",
+        "printed_page_range": "22–24"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

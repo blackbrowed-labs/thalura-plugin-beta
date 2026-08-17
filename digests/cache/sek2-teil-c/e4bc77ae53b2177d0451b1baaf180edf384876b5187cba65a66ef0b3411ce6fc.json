@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e4bc77ae53b2177d0451b1baaf180edf384876b5187cba65a66ef0b3411ce6fc"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Performance shown in working on Greek or Latin texts carries the greatest weight and cannot be replaced by performance from other contexts.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die im Umgang mit griechischen bzw. lateinischen Texten gezeigten Leistungen haben das \ngrößte Gewicht und können nicht durch in anderen Zusammenhängen erbrachte Leistungen \nersetzt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "An exam consists of a translation task and a task part, weighted about 60 % / 40 % of the working time.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die Klausur ist so anzulegen, dass die Bearbeitung des Überset-\nzungsteils etwa 60 % und die Bearbeitung des Aufgabenteils etwa 40 % der Arbeitszeit erfor-\ndert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Text length: in Latin as a rule one word per minute allotted for translation, in Greek 1.1 words per minute.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Der Umfang des zu übersetzenden Textes beträgt im Fach Latein in der Regel ein Wort \npro für die Übersetzung angesetzte Minute, in Griechisch in der Regel 1,1 Wörter pro für die \nÜbersetzung angesetzte Minute.",
+        "residual_flags": []
+      },
+      {
+        "content": "The grade 'ausreichend' (05 grade points) may only be given if the overall sense of the text is still understood.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8a) Alte Sprachen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "(05 Notenpunkte) darf nur \ndann erteilt werden, wenn der vorgelegte Text in seinem Gesamtsinn noch verstanden ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "As a rule that is no longer the case if the translation has more than ten full errors per hundred words of the Greek or Latin text.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8a) Alte Sprachen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "wenn die Übersetzung auf je hun-\ndert Wörter des griechischen bzw. lateinischen Textes in der Summe mehr als zehn (ganze) \nFehler aufweist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Severe errors distort the sense of the source text and are counted with two error points.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8a) Alte Sprachen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Schwere Fehler sind Sinnentstellungen des Ausgangstextes, die das Verständnis einer \n– auch gedanklich – komplexen Textstelle stark beeinträchtigen oder unmöglich ma-\nchen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "8a) Alte Sprachen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "8a) Alte Sprachen",
+        "printed_page_range": "17–18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

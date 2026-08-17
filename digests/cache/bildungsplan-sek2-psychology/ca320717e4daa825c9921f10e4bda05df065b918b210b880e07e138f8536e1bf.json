@@ -1,0 +1,168 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ca320717e4daa825c9921f10e4bda05df065b918b210b880e07e138f8536e1bf"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The theme area S4 covers social psychology.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4 Sozialpsychologie",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Themenbereich S4: Sozialpsychologie",
+        "residual_flags": [
+          "page-multi-match:physical-30-earliest-of-5-candidate-pages"
+        ]
+      },
+      {
+        "content": "Foundations of social cognition address the connection of mental processes and social behavior and automatic versus controlled processes.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4 Sozialpsychologie",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Zusammenhang von mentalen Prozessen und sozialem Ver-\nhalten \n• automatische und kontrollierte Prozesse",
+        "residual_flags": []
+      },
+      {
+        "content": "Categories, schemata and heuristics include stereotypes, social categorization and the representativeness, availability and anchoring heuristics.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4 Sozialpsychologie",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Stereotype und soziale Kategorisierung \no Repräsentativitäts-, Verfügbarkeits- und Ankerheuristik",
+        "residual_flags": []
+      },
+      {
+        "content": "Social perception addresses individual and social influences on perception including Bruner and Postman's theory of social perception.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4 Sozialpsychologie",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Theorie der sozialen Wahrnehmung nach Bruner und \nPostman und ggf. ergänzend Selbstwahrnehmungstheorie \nnach Bem",
+        "residual_flags": []
+      },
+      {
+        "content": "The self and identity address constructions and interpretations of the self, e.g. James's distinction of I and Me.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4 Sozialpsychologie",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "handelndes und deskriptives Selbst, z. B auf Basis der Unter-\nscheidung von „Ich“ und „Mich“ nach James (1890)",
+        "residual_flags": []
+      },
+      {
+        "content": "Attitudes are covered via Zanna and Rempel's multi-component model with cognitive, affective and behavioral components.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4 Sozialpsychologie",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Multikomponentenmodell von Zanna und Rempel \no kognitive Komponente \no affektive Komponente \no Verhaltenskomponente",
+        "residual_flags": []
+      },
+      {
+        "content": "Antisocial behavior begins with distinguishing aggression, aggressiveness and violence.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4 Sozialpsychologie",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Begriffsunterscheidung Aggression, Aggressivität und Gewalt",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        },
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S4 Sozialpsychologie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S4 Sozialpsychologie",
+        "printed_page_range": "30–36"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

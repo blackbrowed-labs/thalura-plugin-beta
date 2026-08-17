@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7d25d6c96bc8d50c9183250e57a4d09f678f2727e8fd7afcc63ff9af30246c3a"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Task a) asks the candidate to sum up the types of crime and the reactions to them in Dave Eggers' novel The Circle.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — I Aufgabenstellung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "a) Sum up the different types of crime as well as the reactions to them in Dave Eg-\ngers’ novel The Circle.",
+        "residual_flags": []
+      },
+      {
+        "content": "Taking the novel as a starting point, task b) asks for an analysis of how attitudes towards crime might change in the future — three aspects.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — I Aufgabenstellung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Taking Eggers’ novel as a starting point … \nb) analyse how attitudes towards crime might be changing in the future (three as-\npects) and",
+        "residual_flags": []
+      },
+      {
+        "content": "Task c) asks the candidate to discuss the implications of those changes for future societies.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — I Aufgabenstellung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "discuss the implications these changes might have for future societies.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Crime — I Aufgabenstellung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Crime — I Aufgabenstellung",
+        "printed_page_range": "19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

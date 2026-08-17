@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5b710a5ee55ee9896178937d00b97d0d51b64b2a7624482b3eae8ac401b1cd6e"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-religion",
+      "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Fuer die Umsetzung der Querschnittsaufgabe Sprachbildung sind die im allgemeinen Teil des Bildungsplans niedergelegten Grundsaetze relevant.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "sind die im allgemeinen Teil des Bildungsplans niedergelegten Grundsätze relevant",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Darstellung und Erlaeuterung fachbezogener sprachlicher Kompetenzen erfolgt in der Kompetenzmatrix Sprachbildung.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "fachbezogener sprachlicher Kompetenzen erfolgt in der Kompetenz-\nmatrix Sprachbildung",
+        "residual_flags": []
+      },
+      {
+        "content": "Innerhalb der Kerncurricula werden die zentralen sprachlichen Kompetenzen durch Verweise einzelnen Themen- bzw. Inhaltsbereichen zugeordnet.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Innerhalb der Kerncurricula werden die zentralen sprachlichen Kompe-\ntenzen durch Verweise einzelnen Themen- bzw. Inhaltsbereichen zugeordnet",
+        "residual_flags": []
+      },
+      {
+        "content": "Ziel der Zuordnung ist es, die Planung eines sprachsensiblen Fachunterrichts zu unterstuetzen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "um die Planung \neines sprachsensiblen Fachunterrichts",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-religion",
+        "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+        "printed_page_range": "9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

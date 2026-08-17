@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e99c0c4575af7a483377462236f51107a3692c8894866b42080d9d1bfe78aba7"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In the competence area Bewerten the focus is on critical reflection and the conscious adoption of other perspectives.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Im Kompetenzbereich Bewerten stehen die kritische Reflexion",
+        "residual_flags": []
+      },
+      {
+        "content": "In the competence area Handeln students acquire the competence to act and to represent their own actions as responsible decisions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Im Kompetenzbereich Handeln erwerben die Schülerinnen und Schüler Handlungskompetenz",
+        "residual_flags": []
+      },
+      {
+        "content": "School-specific curricula are to be designed so that every student has sufficient opportunity to develop the described competencies regardless of the school-leaving qualification pursued or attained.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "sind so auszugestalten, dass unabhängig von dem angestrebten",
+        "residual_flags": []
+      },
+      {
+        "content": "All Aufgabengebiete show specific connections to the guiding perspectives (Leitperspektiven).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Alle Aufgabengebiete weisen spezifische Bezüge zu",
+        "residual_flags": []
+      },
+      {
+        "content": "Developing moral judgement capacity is a goal of all Aufgabengebiete in their respective thematic contexts.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "ist ein Ziel aller Aufgabengebiete in ihren jeweils",
+        "residual_flags": []
+      },
+      {
+        "content": "Education for Sustainable Development (BNE) is meant to contribute to a comprehensively understood education regarding the challenges of our time.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Bildung für nachhaltige Entwicklung (BNE) soll zu einer umfassend verstandenen Bildung",
+        "residual_flags": []
+      },
+      {
+        "content": "The international community formulated sustainability goals with the UN Agenda 2030, to which several thematic fields of the Aufgabengebiete can be assigned.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "mit der UN-Agenda 2030 Nachhaltigkeitsziele formuliert",
+        "residual_flags": []
+      },
+      {
+        "content": "Thematic links exist between the Aufgabengebiete and the guiding perspective of living and learning in a digitally shaped world.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Thematische Verknüpfungen zwischen den Aufgabengebieten und der Leitperspektive Leben",
+        "residual_flags": []
+      },
+      {
+        "content": "A critical handling of social media addresses dangers of one-sided information such as fake news, hate and racism on the internet.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Fake News, Hass und Rassismus im Internet",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "1.2 Beitrag der Aufgabengebiete zu den Leitperspektiven",
+        "printed_page_range": "5–6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

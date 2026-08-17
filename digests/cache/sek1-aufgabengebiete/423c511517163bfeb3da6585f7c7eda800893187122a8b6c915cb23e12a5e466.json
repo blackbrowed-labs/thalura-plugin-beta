@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:423c511517163bfeb3da6585f7c7eda800893187122a8b6c915cb23e12a5e466"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Instruction in the Aufgabengebiete comprises altogether about one tenth of the base hours.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "insgesamt etwa ein Zehntel der",
+        "residual_flags": []
+      },
+      {
+        "content": "Schools decide on their own responsibility in which organisational forms and learning arrangements the content of the Aufgabengebiete is worked on.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Schulen entscheiden in eigener Verantwortung",
+        "residual_flags": []
+      },
+      {
+        "content": "For content orientation the framework plan formulates thematic areas for the Aufgabengebiete, to be concretised in the school-internal curriculum.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "formuliert der Rahmenplan für die Aufgabengebiete",
+        "residual_flags": []
+      },
+      {
+        "content": "When integrating the content into subject teaching, the binding content requirements of the subjects' framework plans must be observed.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "dass die inhaltlichen Vorgaben der Rahmenpläne der",
+        "residual_flags": []
+      },
+      {
+        "content": "It is often appropriate to link learning in the Aufgabengebiete with learning at extracurricular sites and civic engagement.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "mit dem Lernen an außerschulischen Lernorten und gesellschaftlichem Engagement",
+        "residual_flags": []
+      },
+      {
+        "content": "Delivered achievements and special engagement can also be documented and recognised in the report card (Zeugnis).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "im Zeugnis dokumentiert und anerkannt werden",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+        "printed_page_range": "7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

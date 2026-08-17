@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7db035e2efce3fbf65b9c36109cee6ce0d1a52acd28bad39db33efaefac540d6"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken WM1 (grade 8, 'Auf der Suche nach dem Guten'): students reflect on the meaning of love and friendship as it presents itself to them and as it is spoken about in public.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 1: Freundschaft und Liebe",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "In diesem Modul reflektieren die Schülerinnen und Schüler die Be-\ndeutung von Liebe und Freundschaft, so wie sie sich ihnen darstellt \nund wie in der Öffentlichkeit darüber gesprochen wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Contents of WM1: kinds of relationships with fellow humans; friendship and love as a value; trust and responsibility for others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 1: Freundschaft und Liebe",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "• Arten von Beziehungen zu den Mitmenschen \n• Freundschaft und Liebe als Wert \n• Vertrauen und Verantwortung für andere",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': students reflect on kinds of relationships with their fellow humans.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 1: Freundschaft und Liebe",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren Arten von Beziehungen \nzu ihren Mitmenschen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Wahlmodul 1: Freundschaft und Liebe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Wahlmodul 1: Freundschaft und Liebe",
+        "printed_page_range": "16"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

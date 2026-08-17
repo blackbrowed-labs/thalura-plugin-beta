@@ -1,0 +1,1931 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:56a32597aecc79920002c1a89db4cf8c32e1d24c9dcb0485caf8f84b6ed6cd32"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In a globalised world, languages carry particular importance.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "In einer globalisierten Welt haben Sprachen eine besondere Bedeutung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language teaching gives students the chance to engage with languages and cultures both inside and outside their own life-world and field of experience.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Sprachenunter-\nricht bietet Schülerinnen und Schülern die Chance, sich mit Sprachen und Kulturen inner- und \naußerhalb der eigenen Lebenswelt und des eigenen Erfahrungsbereiches auseinanderzuset-\nzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Developing linguistic and intercultural competence is an overarching task of school and society, expressed especially in language teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Entwicklung sprachlicher und interkultureller Kompetenz ist eine übergreifende Auf-\ngabe von Schule und Gesellschaft, was besonders im Sprachenunterricht zum Ausdruck \nkommt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Building individual multilingualism and plurilingual discourse competence is to be promoted and expanded within schooling, drawing in the linguistic and cultural diversity of the students.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Somit ist der Aufbau individueller Mehrsprachigkeit und plurilingualer Diskurskompe-\ntenz im Rahmen der Schulbildung zu fördern, auszubauen und dabei die sprachliche und kul-\nturelle Vielfalt der Schülerinnen und Schüler einzubeziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In Hamburg, English is as a rule the first foreign language and thus the foundation for lifelong foreign-language learning and for acquiring multilingualism.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Englisch ist in Hamburg in der Regel die erste Fremdsprache und bildet somit die Grundlage \nfür ein lebenslanges Fremdsprachenlernen und den Erwerb von Mehrsprachigkeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students build sociocultural orientation knowledge, experience the particularities of other language and culture areas, and compare them with their own life-world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Schü-\nlerinnen und Schüler bauen soziokulturelles Orientierungswissen auf, erleben und erfahren \ndie Besonderheiten anderer Sprach- und Kulturräume und vergleichen diese mit ihrer eigenen \nLebenswelt.",
+        "residual_flags": []
+      },
+      {
+        "content": "In lower secondary (Sekundarstufe I) students increasingly try out engaging with other attitudes and stances and communicating in intercultural situations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Sie erproben in der Sekundarstufe I mehr und mehr, sich auf andere Haltungen \nund Einstellungen einzulassen und die Kommunikation in interkulturellen Situationen umzu-\nsetzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "English teaching helps students not to deny or level out differences but to accept them and to experience diversity as enrichment.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Englischunterricht trägt dazu bei, Unterschiede nicht zu leugnen oder zu nivellie-\nren, sondern sie zu akzeptieren und Diversität als Bereicherung zu empfinden.",
+        "residual_flags": []
+      },
+      {
+        "content": "This appreciative attitude is a foundation for lifelong learning in linguistic exchange with people from other cultural spheres and life-worlds.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Diese wert-\nschätzende Haltung bildet eine Grundlage für lebenslanges Lernen im sprachlichen Austausch \nmit Menschen anderer Kulturkreise und Lebenswelten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching prepares students for a future in an ever more closely connected world in which English plays a key role as a bridge language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Unterricht bereitet die Schülerinnen und Schüler auf eine Zukunft in einer immer stärker \nzusammenwachsenden Welt vor, in der Englisch als Brückensprache eine Schlüsselrolle ein-\nnimmt.",
+        "residual_flags": []
+      },
+      {
+        "content": "English is a first, second or official language for many people and is used as a language of communication in science and technology, economy and politics, and in digitalisation and media use.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Sie ist für viele Menschen Erstsprache, Zweitsprache oder Amtssprache und wird in \nWissenschaft und Technik, Wirtschaft und Politik sowie in der Digitalisierung und Mediennut-\nzung als Kommunikationssprache genutzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "In Hamburg a large number of students bring further heritage languages besides German.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "In Hamburg bringt eine große Zahl von Schülerinnen und Schülern neben Deutsch weitere \nHerkunftssprachen mit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Children and young people also have everyday access to a variety of languages and cultures.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Darüber hinaus haben Kinder und Jugendliche im Alltag Zugang zu \nverschiedenen Sprachen und Kulturen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learners' life-world is no longer shaped exclusively by German; multilingualism and diversity play a significant role and can be actively used in foreign-language teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Insofern ist die Lebenswelt von Lernenden nicht mehr \nausschließlich vom Deutschen geprägt. Vielmehr spielen Mehrsprachigkeit und Diversität eine \nbedeutende Rolle und können im Fremdsprachenunterricht aktiv genutzt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Comparison with German and with other heritage languages develops students' language-awareness competence.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Durch den \nVergleich mit der deutschen Sprache und mit anderen Herkunftssprachen fördert der Fremd-\nsprachenunterricht die Kompetenz der Sprachbewusstheit der Schülerinnen und Schüler.",
+        "residual_flags": []
+      },
+      {
+        "content": "Heritage languages are an important source of positive language transfer and therefore knowledge relevant to linguistic performance.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die \nHerkunftssprachen stellen eine wichtige Quelle positiven Sprachtransfers dar und sind somit \nein für die sprachliche Performanz relevantes Wissen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Constructively including heritage languages in lessons lets multilingual students build a positive attitude towards them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Ihr konstruktiver Einbezug im Unterricht \nermöglicht es mehrsprachigen Schülerinnen und Schülern, eine positive Einstellung zu ihren \nHerkunftssprachen aufzubauen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language reflection additionally fosters expansive language acquisition in all students.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Zudem wird durch Sprachreflexion der expansive Sprach-\nerwerb bei allen Schülerinnen und Schülern gefördert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching in grade 5 ties in with what was taught in primary school.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Unterricht in Jahrgangsstufe 5 knüpft an den Grundschulunterricht an.",
+        "residual_flags": []
+      },
+      {
+        "content": "It offers the opportunity to get to know cultures outside students' own life-world and field of experience.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Er bietet Gelegen-\nheit, Kulturen außerhalb der eigenen Lebenswelt und des eigenen Erfahrungsbereiches ken-\nnenzulernen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students acquire sociocultural orientation knowledge about the particularities of the anglophone language and culture area (for example festivals, school life) and compare it with their own reality.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Schülerinnen und Schüler erwerben soziokulturelles Orientierungswissen \nüber die Besonderheiten des anglophonen Sprach- und Kulturraumes (z. B. Feste, Schulle-\nben) und vergleichen diesen mit der eigenen Lebenswirklichkeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "English shapes children's and young people's everyday world and everyday language in many respects (sport, games, music, media) and influences their attitudes and stances.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Englisch prägt in vielfacher \nHinsicht (Sport, Spiele, Musik, Medien u. a.) die Alltagswelt und Alltagssprache von Kindern \nund Jugendlichen und beeinflusst ihre Haltungen und Einstellungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "English teaching is well suited to making such influences conscious and reflecting on them critically.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Englischunterricht ist \ngeeignet, solche Einflüsse bewusst zu machen und kritisch zu reflektieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Systematically building linguistic competences and subject knowledge develops students' ability to understand documents, texts and media from various areas of everyday life and to act successfully in communicative situations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Durch einen systematischen Aufbau sprachlicher Kompetenzen und fachbezogener Kennt-\nnisse entwickeln die Schülerinnen und Schüler u. a. die Fähigkeit, Dokumente, Texte und Me-\ndien aus verschiedenen Bereichen des Alltagslebens zu verstehen sowie in kommunikativen \nSituationen sprachlich erfolgreich zu agieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students also get the opportunity to reflect on language and to recognise linguistic particularities.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Zum anderen erhalten sie die Gelegenheit, über \nSprache zu reflektieren und sprachliche Besonderheiten zu erkennen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They learn both cooperatively and independently to shape and to assess their foreign-language learning process.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sie lernen sowohl koope-\nrativ als auch selbstständig, den fremdsprachigen Lernprozess zu gestalten und zu beurteilen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The supreme goal of teaching is language action (Sprachhandeln), which takes priority over language knowledge and language reflection.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Oberstes Ziel des Unterrichts ist das Sprachhandeln, das vorrangig vor Sprachwissen und \nSprachreflexion ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Communicative competence in the foreign language shows itself in situations mastered successfully in language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Kommunikative Kompetenz in der Fremdsprache zeigt sich in sprachlich erfolgreich bewältig-\nten Situationen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students acquire receptive, productive and interactive language skills cumulatively in varied learning arrangements and in language-use contexts that are as real as possible.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Um dieses Ziel zu erreichen, erwerben die Schülerinnen und Schüler in viel-\nfältigen Lernarrangements kumulativ und in möglichst realen Sprachverwendungszusammen-\nhängen rezeptive, produktive und interaktive sprachliche Fertigkeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "They use their growing ability to deploy grammatical structures meaningfully.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sie nutzen ihre zuneh-\nmenden Fähigkeiten, grammatische Strukturen sinnvoll einzusetzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Competences - abilities, knowledge and attitudes - can only be acquired through content.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Kompetenzen, also Fä-\nhigkeiten, Kenntnisse und Haltungen, lassen sich nur über Inhalte erwerben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content follows topic areas that are repeated and expanded in the sense of a spiral curriculum, so students can build up and interlink their repertoire of linguistic means step by step.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Diese orientieren \nsich an Themenkreisen, die im Sinne eines Spiralcurriculums wiederholt und erweitert werden, \nsodass die Schülerinnen und Schüler ihr Repertoire an sprachlichen Mitteln schrittweise auf-\nbauen und miteinander verknüpfen können.",
+        "residual_flags": []
+      },
+      {
+        "content": "The topics and content on which competences are developed should be comprehensible and justified.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Themen und Inhalte, an denen die Kompetenzen ausgebildet werden, sollten nachvollziehbar \nund begründet sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Good foreign-language teaching is marked by the teacher designing learning arrangements so that subject-specific and cross-curricular competences can be built and a competence gain occurs in various areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Guter Fremdsprachenunterricht zeichnet sich dadurch aus, dass die Lehr-\nkraft Lernarrangements so gestaltet, dass fachliche und überfachliche Kompetenzen aufge-\nbaut werden können und ein Kompetenzzuwachs bei Schülerinnen und Schülern in verschie-\ndenen Bereichen stattfindet.",
+        "residual_flags": []
+      },
+      {
+        "content": "The content listed in the core curriculum (Kerncurriculum) is the basis for systematically building cultural orientation knowledge about the English-speaking reference cultures.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die im Kerncurriculum aufgeführten Inhalte stellen die Basis für den systematischen Aufbau \nkulturellen Orientierungswissens über die englischsprachigen Bezugskulturen dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "That knowledge is an important foundation for developing intercultural competence and is thus a precondition for understanding and reaching understanding.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Dieses \nWissen bildet eine wichtige Grundlage für die Ausbildung interkultureller Kompetenz und ist \nsomit Voraussetzung zum Verstehen und zur Verständigung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The content additionally enables students to hold a largely natural discourse in English, motivating through an age-appropriate link to their life-world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Inhalte ermöglichen den \nSchülerinnen und Schülern zudem einen weitgehend natürlichen Diskurs in der englischen \nSprache, der durch einen jeweils altersangemessenen Lebensweltbezug motivierend wirkt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content and linguistic means are deliberately linked in the sense of competence orientation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "So \nwerden Inhalte und sprachliche Mittel im Sinne einer Kompetenzorientierung gezielt miteinan-\nder verknüpft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students' general intercultural competence is continuously fostered and expanded in foreign-language teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die allgemeine interkulturelle Kompetenz der Schülerinnen und Schüler wird im Fremdspra-\nchenunterricht stetig gefördert und ausgebaut.",
+        "residual_flags": []
+      },
+      {
+        "content": "They perceive shared, similar and differing values, norms and viewpoints, and respect and appreciate differences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sie nehmen gemeinsame, ähnliche und unter-\nschiedliche Werte, Normen und Sichtweisen wahr, respektieren und wertschätzen Unter-\nschiede.",
+        "residual_flags": []
+      },
+      {
+        "content": "They recognise that every student can belong to several groups at once and that these memberships do not exclude one another.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sie erkennen, dass jede Schülerin und jeder Schüler verschiedenen Gruppen zu-\ngleich angehören kann und dass diese Zugehörigkeiten einander nicht ausschließen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are able to reflect on different options for action, help shape processes of reaching understanding, and interact appropriately in intercultural situations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sie sind \nin der Lage, verschiedene Handlungsmöglichkeiten zu reflektieren, Verständigungsprozesse \nmitzugestalten und in interkulturellen Situationen angemessen zu interagieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Subject-related progress in intercultural competence shows in students becoming increasingly aware of the cultural, linguistic and societal complexity of the anglophone culture and language areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Fachbezogene Lernfortschritte im Bereich der interkulturellen Kompetenzen zeigen sich da-\nran, dass die Schülerinnen und Schüler sich zunehmend der kulturellen, sprachlichen und ge-\nsellschaftlichen Komplexität der anglophonen Kultur- und Sprachräume bewusst werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Over the course of lower secondary they engage increasingly with the postcolonial realities of anglophone societies.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Im \nVerlauf der Sekundarstufe I beschäftigen sie sich vermehrt mit den postkolonialen Realitäten \nder anglophonen Gesellschaften.",
+        "residual_flags": []
+      },
+      {
+        "content": "They also extend their ability to reflect on different linguistic and cultural identities.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Außerdem erweitern sie ihre Fähigkeit zur Reflexion über \nunterschiedliche sprachliche und kulturelle Identitäten.",
+        "residual_flags": []
+      },
+      {
+        "content": "They become increasingly able to use this knowledge and these insights in communicative situations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sie sind zunehmend in der Lage, diese \nKenntnisse und Einsichten in kommunikativen Situationen zu nutzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Development of functional communicative competence shows in students increasingly commanding communicative abilities and the linguistic means needed to realise them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Entwicklung der funktionalen kommunikativen Kompetenz zeigt sich daran, dass Schüle-\nrinnen und Schüler zunehmend über kommunikative Fähigkeiten und über die zu ihrer Reali-\nsierung notwendigen sprachlichen Mittel verfügen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching lets learners develop their communicative abilities in listening and audio-visual comprehension, reading comprehension, speaking, writing and mediation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Der Unterricht bietet den Lernenden die \nMöglichkeit, ihre kommunikativen Fähigkeiten im Hör-(Seh-)verstehen, im Leseverstehen, \nSprechen und Schreiben sowie in der Sprachmittlung weiterzuentwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "The relevant linguistic means (vocabulary, grammar, pronunciation/intonation and spelling) are introduced and deepened within a content context, with the communicative success of an utterance as the most important goal.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die relevanten \nsprachlichen Mittel (Wortschatz, Grammatik, Aussprache/Intonation und Rechtschreibung) \nwerden im inhaltlichen Kontext eingeführt und vertieft, wobei der kommunikative Erfolg einer \nÄußerung das wichtigste Ziel ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Text and media competence is consolidated and expanded over the course of lower secondary.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Text- und Medienkompetenz wird im Laufe der Sekundarstufe I gefestigt und ausgebaut.",
+        "residual_flags": []
+      },
+      {
+        "content": "Literary texts such as short stories and (possibly abridged) novels play just as important a role as work with films.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Dabei spielen literarische Texte wie Kurzgeschichten und (evtl. gekürzte) Romane eine \nebenso wichtige Rolle wie der Umgang mit Filmen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Non-fiction texts such as newspaper articles, informational texts and essays are used as sources of information, and in higher grades their function and effect are also addressed.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Sachtexte in Form von Zeitungsartikeln, \nInformationstexten sowie Aufsätzen zu bestimmten Themen werden als Informationsquelle \ngenutzt und in höheren Klassen auch ihre Funktion und Wirkung thematisiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Handling digital media is likewise learned and reflected on in foreign-language teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Ebenso wird der \nUmgang mit den digitalen Medien im Fremdsprachenunterricht erlernt und reflektiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "In teaching and learning foreign languages, subject-specific aspects are added to general digital competence.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Bei der Vermittlung und Aneignung von Fremdsprachen treten neben der allgemeinen digitalen \nKompetenz fachspezifische Aspekte hinzu.",
+        "residual_flags": []
+      },
+      {
+        "content": "Digitalisation opens up possibilities for foreign-language and multilingual action that should be taken up and reflected on in lessons.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Digitalisierung eröffnet Möglichkeiten für das \nfremd- und mehrsprachige Handeln, die im Unterricht aufgegriffen und reflektiert werden sol-\nlen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Available digital tools are used to support students' own language-learning process and to enable communication.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Dabei werden die vorhandenen digitalen Werkzeuge einerseits genutzt, um den eigenen \nSprachlernprozess zu unterstützen und Kommunikation zu ermöglichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Their performance and appropriateness are also examined and discussed in lessons, with particular attention to the culturally shaped aspects of communication.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Andererseits werden \nihre Leistungsfähigkeit und Angemessenheit im Unterricht untersucht und thematisiert, wobei \ninsbesondere auf die kulturell geprägten Aspekte von Kommunikation eingegangen wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students engage with the potentials and limitations of digital tools and learn to use them responsibly.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die \nSchülerinnen und Schüler setzen sich mit den Potenzialen und Einschränkungen der digitalen \nWerkzeuge auseinander und erlernen einen verantwortungsvollen Umgang mit ihnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language awareness and language-learning competence are transversal competences supporting successful foreign-language learning in all competence areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Sprachbewusstheit und Sprachlernkompetenz unterstützen als transversale Kompetenzen \ndas erfolgreiche Erlernen der Fremdsprache in allen Kompetenzbereichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language awareness means the conscious perception of, and reflection on, linguistically mediated communication.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Sprachbewusstheit beinhaltet die bewusste Wahrnehmung von und Reflexion über sprachlich \nvermittelte Kommunikation.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students increasingly perceive the sociocultural imprint of language consciously and develop a sensitivity in shaping their own communication.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die soziokulturelle Prägung der Sprache wird von den Schülerin-\nnen und Schülern zunehmend bewusst wahrgenommen und es wird eine Sensibilität in der \neigenen Kommunikationsgestaltung entwickelt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Any multilingualism students already have is a supporting resource for language reflection.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Für die Sprachreflexion ist die ggf. vorhandene \nMehrsprachigkeit bei Schülerinnen und Schülern eine unterstützende Ressource.",
+        "residual_flags": []
+      },
+      {
+        "content": "Depending on the grade level, rhyme and sound games and increasingly also metalinguistic tasks can be used in lessons.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Je nach \nJahrgangsstufe können z. B. Reim- und Lautspiele sowie zunehmend auch metasprachliche \nAufgaben im Unterricht genutzt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language-learning competence is the ability to steer one's own language-learning process independently and to support it with individually adapted learning methods and strategies.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Sprachlernkompetenz stellt die Fähigkeit dar, den eigenen Sprachlernprozess selbststän-\ndig zu steuern und durch die Anwendung individuell angepasster Lernmethoden und -strate-\ngien zu unterstützen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students increasingly learn to assess their own language competence and to develop more strategies of reflexive language learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Schülerinnen und Schüler lernen zunehmend, ihre eigene Sprach-\nkompetenz einzuschätzen und immer mehr Strategien des reflexiven Sprachenlernens zu ent-\nwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Here too, existing multilingualism plays an important role and should be actively used in the language-learning process.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Auch hier spielt eine bereits vorhandene Mehrsprachigkeit eine wichtige Rolle und \nsoll im Sprachlernprozess aktiv genutzt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the competence model, intercultural competence covers sociocultural orientation knowledge as well as successful communication and respectful interaction in a context of linguistic and cultural diversity.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Interkulturelle Kompetenz \n(soziokulturelles Orientierungswissen; gelingende Kommunikation und  \nrespektvoller Umgang im Kontext sprachlicher und kultureller Diversität)",
+        "residual_flags": []
+      },
+      {
+        "content": "The communicative skills of functional communicative competence are reading comprehension, listening and audio-visual comprehension, speaking (taking part in conversations and connected speaking), writing and mediation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Kommunikative Fertigkeiten: \n• Leseverstehen \n• Hör- und Hör-Sehverstehen \n• Sprechen \no an Gesprächen teilnehmen \no zusammenhängendes Sprechen \n• Schreiben \n• Sprachmittlung",
+        "residual_flags": []
+      },
+      {
+        "content": "Command of the linguistic means covers vocabulary, grammar, pronunciation and intonation, and spelling.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Verfügen über die sprachlichen \nMittel: \n• Wortschatz \n• Grammatik \n• Aussprache und Intonation \n• Rechtschreibung",
+        "residual_flags": []
+      },
+      {
+        "content": "The competence model also names subject-related digital competence, text and media competence, and literary-aesthetic competence.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Fachbezogene digitale  \nKompetenz \nText- und Medienkompetenz \nLiterarisch-ästhetische Kompetenz",
+        "residual_flags": []
+      },
+      {
+        "content": "Functional monolingualism means the teacher conducts lessons in the target language but falls back on German to clarify individual subject-related or organisational problems, for example with the sandwich method.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Funktionale Einsprachigkeit bedeutet, dass die Lehrkraft den Unterricht in der Zielsprache \ndurchführt, aber zur Klärung einzelner fachlicher oder organisatorischer Probleme auf das \nDeutsche zurückgreift (z. B. mit der Sandwichmethode, bei der ein Sachverhalt zunächst auf \nEnglisch, dann kurz zur Erklärung auf Deutsch und abschließend erneut auf Englisch erklärt \nwird).",
+        "residual_flags": []
+      },
+      {
+        "content": "Ritualised everyday classroom situations (classroom discourse) in particular are to be handled in English, to raise learners' acceptance and motivation to communicate in the target language ever more naturally.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Insbesondere ritualisierte Alltagssituationen im Klassenzimmer (classroom discourse) \nsind auf Englisch zu bewältigen, um die Akzeptanz und Motivation der Lernenden zu erhöhen, \nzunehmend selbstverständlich in der Zielsprache zu kommunizieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Action orientation means the focus of teaching lies on the action- and application-oriented use of English, with communication occasions created to fit the respective content and topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Handlungsorientierung bedeutet, dass der Schwerpunkt des Unterrichts auf dem handlungs- \nund anwendungsbezogenen Gebrauch des Englischen liegt, d. h., es werden passend zu den \njeweiligen Inhalten und Themen Kommunikationsanlässe geschaffen, die in authentischen",
+        "residual_flags": []
+      },
+      {
+        "content": "Those occasions culminate in authentic language actions - for example simulating sales talks or playing restaurant scenes - and thus enable high student activation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Sprachhandlungen münden (z. B. Simulation von Verkaufsgesprächen, das Spielen von Res-\ntaurantszenen) und so eine hohe Schüleraktivierung ermöglichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The task formats of these communication occasions in turn follow functional communicative competence, for example mediation within a restaurant scene or listening comprehension of a supermarket announcement.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die so generierten Kommunikationsanlässe orientieren sich wiederum in ihren Aufgabenfor-\nmaten an der funktionalen kommunikativen Kompetenz (z. B. Sprachmittlung im Rahmen einer \nRestaurantszene, Hörverstehen einer Durchsage im Supermarkt).",
+        "residual_flags": []
+      },
+      {
+        "content": "Action orientation also means establishing links to reality outside school, through complex topics and authentic materials or through activities such as class correspondence, e-mail partnerships, visits to cultural institutions of the target language, encounters with native speakers, youth encounters, exchange trips and individual stays abroad.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Handlungsorientierung bedeutet auch das Herstellen von Bezügen zur außerschulischen Re-\nalität, sei es über komplexe Themen, Inhalte und authentische Materialien, sei es über Aktivi-\ntäten wie Klassenkorrespondenzen, E-Mail-Partnerschaften, den Besuch von Kultureinrichtun-\ngen der Zielsprache oder durch die Begegnung mit Native Speakers, die Teilnahme an Ju-\ngendbegegnungen, Schüleraustauschfahrten und individuelle Auslandsaufenthalte.",
+        "residual_flags": []
+      },
+      {
+        "content": "Topic selection in language teaching should deliberately follow particular fields of experience from students' life-world, thereby generating varied authentic situations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Themenauswahl im Sprachenunterricht soll sich gezielt an bestimmten Erfahrungsfeldern \nder Lebenswelt der Schülerinnen und Schüler orientieren und dadurch vielfältige authentische",
+        "residual_flags": []
+      },
+      {
+        "content": "Socially relevant key themes of the reference cultures should also play a role in topic selection.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Auch gesellschaftlich rele-\nvante Schlüsselthemen der Bezugskulturen sollten hierbei eine Rolle spielen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content acts as a common thread and, in varying contextualisation, demands and fosters the use of (new) linguistic means such as thematic vocabulary and grammatical structures matching the communication occasion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der Inhalt fun-\ngiert als „roter Faden“ und fordert und fördert in unterschiedlicher Kontextualisierung den Ein-\nsatz (neuer) sprachlicher Mittel (z. B. thematischer Wortschatz, grammatikalische Strukturen \npassend zum Kommunikationsanlass).",
+        "residual_flags": []
+      },
+      {
+        "content": "Differing learning starting points, language biographies and learner types must be accommodated through differentiated and individualised learning offers.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Den unterschiedlichen Lernausgangslagen, Sprachbiografien und Lerntypen ist im Sprachen-\nunterricht durch differenzierte und individualisierte Lernangebote Rechnung zu tragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The basis for this is procedures and methods for diagnosing levels of learning and achievement.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Grund-\nlage hierfür sind Verfahren und Methoden zur Diagnostik der Lern- und Leistungsstände.",
+        "residual_flags": []
+      },
+      {
+        "content": "Besides classroom observation and documentation options, self-assessment procedures such as checklists and evaluation sheets are available.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Ne-\nben den unterrichtlichen Beobachtungen und Dokumentationsmöglichkeiten stehen auch Ver-\nfahren der Selbsteinschätzung (z. B. Checklisten, Evaluationsbögen) zur Verfügung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Task formats that differ in content and method, such as complex learning tasks, take account of students' individual needs.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Durch inhaltlich und methodisch unterschiedliche Aufgabenformate (z. B. komplexe Lernauf-\ngaben) werden die individuellen Bedürfnisse der Schülerinnen und Schüler berücksichtigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students discover their individual learning disposition and gain experience with different learning paths and strategies, learning to use them functionally and efficiently.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Sie \nentdecken einerseits ihre individuelle Lerndisposition, andererseits machen sie Erfahrungen \nmit unterschiedlichen Lernwegen und -strategien und lernen diese funktional und effizient ein-\nzusetzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "At the level of lesson design the scaffolding principle applies: targeted, time-limited support - among other things through glossaries, sentence or text building blocks and film strips - enables students to acquire linguistic elements and new content and to master demanding tasks.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Auf der Ebene der Unterrichtsgestaltung wird nach dem Prinzip des Scaffoldings gearbeitet: \nDurch eine gezielte, zeitlich begrenzte Unterstützung, u. a. durch Glossare, Satz- oder Text-\nbausteine und Filmleisten, werden die Schülerinnen und Schülern in die Lage versetzt, sich \nsprachliche Elemente und neue Lerninhalte anzueignen sowie herausfordernde Aufgaben zu \nmeistern.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "For example, pre-given phrases (Redemittel) can support students' formulation process.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Beispielsweise können vorgegebene Redemittel den Formulierungsprozess der \nSchülerinnen und Schüler unterstützen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students whose heritage-language knowledge is predominantly oral should receive learning offers that pick up, structure and purposefully develop their linguistic competences, for example in grammar and orthography.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Schülerinnen und Schülern mit vorwiegend mündlich geprägten herkunftssprachlichen Vor-\nkenntnissen sollten Lernangebote erhalten, die ihre sprachlichen Kompetenzen aufgreifen, \nstrukturieren und gezielt weiterentwickeln (z. B. Grammatik, Orthografie).",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "The linguistic means needed to realise communicative intentions are built up spirally and successively.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die für die Realisierung von Sprachabsichten benötigten sprachlichen Mittel werden spiralför-\nmig sukzessive aufgebaut.",
+        "residual_flags": []
+      },
+      {
+        "content": "Ritualised repetition and practice are of great importance for automating language structures and developing a feel for the language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Dem ritualisierten Wiederholen und Üben kommt hierbei eine große \nBedeutung für die Automatisierung von Sprachstrukturen und das Entwickeln eines Sprach-\ngefühls zu.",
+        "residual_flags": []
+      },
+      {
+        "content": "Progression arises from revisiting and expanding previously learned phrases.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Progression entsteht durch das Wiederaufgreifen und Erweitern bisher erlern-\nter Redemittel.",
+        "residual_flags": []
+      },
+      {
+        "content": "Targeted development of functional communicative competence results in students increasingly commanding communicative abilities in the named areas and the linguistic means needed to realise them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die gezielte Entwicklung der funktionalen kommunikativen Kompetenz bewirkt, dass Schüle-\nrinnen und Schüler zunehmend über kommunikative Fähigkeiten in den genannten Bereichen \nund über die zu ihrer Realisierung notwendigen sprachlichen Mittel verfügen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The linguistic means have a serving function in this.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Den sprachlichen \nMitteln kommt dabei eine dienende Funktion zu.",
+        "residual_flags": []
+      },
+      {
+        "content": "Linguistic competence is measured primarily by the communicative success of an utterance, that is, by discourse competence.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Sprachliche Kompetenz misst sich in erster \nLinie am kommunikativen Erfolg einer Äußerung, also der Diskurskompetenz.",
+        "residual_flags": []
+      },
+      {
+        "content": "Avoiding errors must not stand in the way of successful communication.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Vermeidung \nvon Fehlern soll einer erfolgreichen Kommunikation nicht im Wege stehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A positive error culture ('fluency before accuracy', 'communication before mastery', 'meaning before form') and a constructive learning atmosphere are therefore of particular importance.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "So kommt einer \npositiven Fehlerkultur („fluency before accuracy“, „communication before mastery“, „meaning \nbefore form“) und einer konstruktiven Lernatmosphäre eine besondere Bedeutung im Unter-\nricht zu.",
+        "residual_flags": []
+      },
+      {
+        "content": "Whether errors are corrected depends on the teaching situation and the content-related goal of the task.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Korrektur von Fehlern hängt von der Unterrichtssituation und dem inhaltlichen Ziel \nder Aufgabenstellung ab.",
+        "residual_flags": []
+      },
+      {
+        "content": "Where communication is in the foreground, breaches of linguistic correctness need not be corrected immediately.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Steht die Kommunikation im Vordergrund, müssen Verstöße gegen \ndie sprachliche Richtigkeit nicht sofort korrigiert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "When grammatical structures are being practised, by contrast, error correction plays an important role.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Beim Einüben grammatikalischer \nStrukturen hingegen spielt die Korrektur von Fehlern eine wichtige Rolle.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language acquisition should take place through a playful, discovery-based and creative handling of the language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Der Spracherwerb soll durch einen spielerisch-entdeckenden und kreativen Umgang mit der \nSprache erfolgen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Offers from the rhythmic-musical area increase willingness to speak and motivation to learn.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Angebote aus dem rhythmisch-musikalischen Bereich erhöhen die Sprech-\nbereitschaft und Lernmotivation.",
+        "residual_flags": []
+      },
+      {
+        "content": "Cognitive learning is linked with emotion and movement and involves all sensory channels, for example in movement games or singing songs in the target language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Kognitives Lernen wird mit Emotionen und Bewegung und \nunter Einbeziehung aller Sinneskanäle verknüpft, z. B. bei Bewegungsspielen oder dem Sin-\ngen von Liedern in der Zielsprache.",
+        "residual_flags": []
+      },
+      {
+        "content": "The language of instruction and work follows the standard language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Unterrichts- und Arbeitssprache orientiert sich an der Standardsprache.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language variants such as dialects or pronunciation variants, and typical registers of everyday, educational and youth language, are also part of lessons.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Auch Sprachvari-\nanten wie Dialekte oder Aussprachevarianten sowie typische Sprachregister von Alltags-, Bil-\ndungs- und Jugendsprache sind Bestandteile des Unterrichts.",
+        "residual_flags": []
+      },
+      {
+        "content": "Diversity within the language arising from individual students' language biographies is reflected on appreciatively, and its use in the respective regional, social or contextual settings is taught.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Vielfalt innerhalb der Spra-\nche, die sich gegebenenfalls aus den Sprachbiografien einzelner Schülerinnen und Schüler \nergibt, wird wertschätzend reflektiert und ihre Anwendung in den jeweiligen regionalen, gesell-\nschaftlichen oder kontextualen Bezügen vermittelt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Authentic materials are used increasingly as learning progression advances.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Dabei werden im Zuge der Lernprogression \nvermehrt authentische Materialien eingesetzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Digital media support language teaching in line with the KMK competences 'Bildung in einer digitalen Welt'.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Digitale Medien unterstützen den Sprachenunterricht gemäß der KMK-Kompetenzen „Bildung \nin einer digitalen Welt“.",
+        "residual_flags": []
+      },
+      {
+        "content": "The added value of digitality in language learning applies particularly to producing and presenting, cooperation and collaboration, individualised learning and practice, and diagnostics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Der Mehrwert der Digitalität beim Sprachenlernen kommt dabei insbe-\nsondere in den Bereichen Produzieren und Präsentieren, Kooperation und Kollaboration sowie \nbeim individualisierten Lernen und Üben und bei der Diagnostik zum Tragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Using learning platforms, producing audio or video contributions and using Etherpads should belong to the standard method repertoire in all year groups, as should critical reflection on the opportunities and limits of digital tools in the sense of subject-related digital competence.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "So sollte der \nEinsatz von Lernplattformen, die Erstellung von Audio- oder Videobeiträgen oder die Verwen-\ndung von Etherpads genauso zum gängigen Methodenrepertoire in allen Jahrgängen gehören \nwie die kritische Reflexion von Chancen und Grenzen digitaler Werkzeuge im Sinne der fach-\nbezogenen digitalen Kompetenz.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching in grades 5 and 6 ties in with the competences acquired in primary school and expands them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Der Unterricht in den Jahrgangsstufen 5 und 6 knüpft an die in der Grundschule erworbenen \nKompetenzen an und baut diese aus.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students learn basic grammatical rules systematically and in an application-oriented way, including explicit focus on and naming of linguistic elements and simple verbal rules.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Schülerinnen und Schüler lernen systematisch und \nanwendungsorientiert grundlegende grammatische Regeln kennen (explizite Fokussierung \nund Bezeichnung von sprachlichen Elementen sowie einfache verbale Regeln).",
+        "residual_flags": []
+      },
+      {
+        "content": "They increasingly organise word fields by semantic criteria.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Sie organisie-\nren Wortfelder zunehmend nach semantischen Kriterien.",
+        "residual_flags": []
+      },
+      {
+        "content": "Despite this metalinguistic work, the linguistic means to be acquired have a serving function.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Trotz dieser metasprachlichen Arbeit \nhaben die zu erwerbenden sprachlichen Mittel dienende Funktion.",
+        "residual_flags": []
+      },
+      {
+        "content": "The focus of English teaching therefore remains the acquisition of functional communicative competences and their action-oriented application within the topic areas and content.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Schwerpunkt des Englisch-\nunterrichts bleibt also der Erwerb funktionaler kommunikativer Kompetenzen und deren hand-\nlungsorientierte Anwendung im Rahmen der Themenbereiche und Inhalte.",
+        "residual_flags": []
+      },
+      {
+        "content": "The aim is to use English increasingly as a medium for handling subject-specific learning and working processes in content subjects in the foreign language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Es wird angestrebt, Englisch zunehmend als Medium einzusetzen, um fachspezifische Lern- \nund Arbeitsprozesse in Sachfächern in der Fremdsprache zu bewältigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The intention is to interlock subject and language learning in bilingual modules or bilingual teaching following the principle of content and language integrated learning (CLIL).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Dabei ist intendiert, \nfachliches und sprachliches Lernen in bilingualen Modulen oder einem bilingualen Unterricht \nnach dem Prinzip content and language integrated learning (CLIL) miteinander zu verzahnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "For students this means adjusting in bilingual modules or bilingual teaching to learning in the foreign language rather than learning the foreign language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Für die Schülerinnen und Schüler bedeutet das, dass sie sich in bilingualen Modulen oder im \nbilingualen Unterricht auf ein Lernen in der Fremdsprache und nicht auf ein Erlernen der \nFremdsprache einstellen.",
+        "residual_flags": []
+      },
+      {
+        "content": "English is the working language in bilingual teaching too.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Auch im bilingualen Unterricht ist Englisch die Arbeitssprache.",
+        "residual_flags": []
+      },
+      {
+        "content": "German, or the learners' individual multilingualism, is drawn on according to the principle of functional monolingualism.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Auf \ndie deutsche Sprache bzw. die individuelle Mehrsprachigkeit der Lernenden wird nach dem \nPrinzip der funktionalen Einsprachigkeit zurückgegriffen.",
+        "residual_flags": []
+      },
+      {
+        "content": "English offers many points of connection to the cross-cutting perspective of values education and value orientation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Das Fach Englisch bietet viele Bezugspunkte zu der Leitperspektive Wertebildung/Werteori-\nentierung.",
+        "residual_flags": []
+      },
+      {
+        "content": "English lessons systematically develop varied intercultural communicative competences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Im Englischunterricht werden systematisch vielfältige interkulturelle kommunikative \nKompetenzen entwickelt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students engage with the everyday life, attitudes and opinions of children and young people in the anglophone language and culture areas and, over lower secondary, increasingly learn about their cultural, social and historical circumstances.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Schülerinnen und Schüler setzen sich mit dem Alltagsleben so-\nwie den Einstellungen und Meinungen von Kindern und Jugendlichen in den anglophonen \nSprach- und Kulturräumen auseinander und lernen im Verlauf der Sekundarstufe I zunehmend \nderen kulturelle, gesellschaftliche und historische Gegebenheiten kennen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Literary texts are especially suited here to strengthening learners' capacity for empathy.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Literarische Texte \neignen sich hier besonders, um die Empathiefähigkeit der Lernenden zu stärken.",
+        "residual_flags": []
+      },
+      {
+        "content": "English lessons let students compare their own social reality with the different cultures of the English-speaking world and reflect on it critically from ethical and social viewpoints.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Der Englischunterrichtet bietet den Schülerinnen und Schülern die Möglichkeit, ihre eigene \ngesellschaftliche Realität mit den unterschiedlichen Kulturen im englischsprachigen Raum zu \nvergleichen und unter ethischen und sozialen Gesichtspunkten kritisch zu reflektieren.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "This allows students to develop personal core competences such as respect and an understanding of democracy.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Dies \nerlaubt es ihnen, personale Grundkompetenzen wie Respekt und Demokratieverständnis aus-\nzubilden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Designing learning situations that take account of diversity and different cultural identities fosters tolerance of ambiguity, acceptance and appreciation of difference.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Durch die Gestaltung von Lernsituationen, die Diversität und verschiedene kulturelle \nIdentitäten berücksichtigen, werden Ambiguitätstoleranz, Akzeptanz und Wertschätzung von \nVerschiedenheit gefördert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Education for sustainable development has gained importance worldwide in recent years and now permeates all areas of life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Erziehung und Bildung für eine nachhaltige Entwicklung hat in den letzten Jahren weltweit \nan Bedeutung gewonnen und durchdringt inzwischen alle Lebensbereiche.",
+        "residual_flags": []
+      },
+      {
+        "content": "English as an international lingua franca plays an outstanding role in the accompanying political and social discourses.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "In den damit ein-\nhergehenden politischen und gesellschaftlichen Diskursen spielt Englisch als internationale \nVerkehrssprache eine herausragende Rolle.",
+        "residual_flags": []
+      },
+      {
+        "content": "English enables students to approach, grasp and reflect on sustainability-relevant topics through language acquisition and engagement with conditions in the anglophone language and culture area.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Englisch ermöglicht es den Schülerinnen und \nSchülern, sich durch den Spracherwerb und die Auseinandersetzung mit den Gegebenheiten \nim anglophonen Sprach- und Kulturraum nachhaltigkeitsrelevanten Themen zu nähern, sie zu \nbegreifen und ihr eigenes Handeln diesbezüglich zu reflektieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "This access initially consists of a linguistic component tied to expanding communicative ability.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Dieser Zugang besteht mit dem Ausbau der Kommunikationsfähigkeit zunächst aus einer \nsprachlichen Komponente.",
+        "residual_flags": []
+      },
+      {
+        "content": "English teaching conveys intercultural communicative competences that matter for understanding in encounters and for exchange within education for sustainable development.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Der Englischunterricht vermittelt interkulturelle kommunikative \nKompetenzen, die zur Verständigung bei Begegnungen und für den Austausch im Rahmen \neiner Bildung für eine nachhaltige Entwicklung von Bedeutung sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "By engaging with other cultures, students encounter other value systems, perspectives and solution approaches, and develop empathy and judgement.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Schülerinnen und Schüler \nsetzen sich durch die Beschäftigung mit anderen Kulturen auch mit anderen Wertvorstellun-\ngen, Perspektiven und Lösungsansätzen für Probleme auseinander und entwickeln dabei Em-\npathie und Urteilsfähigkeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are thereby enabled to use language for peace and social justice and to contribute to societal change towards sustainable development.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Sie werden dadurch befähigt, Sprache für Frieden und soziale Ge-\nrechtigkeit einzusetzen und damit zu gesellschaftlichen Veränderungen im Sinne einer nach-\nhaltigen Entwicklung beizutragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "English lessons also treat numerous globally relevant topics from ecology, economy and society.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Des Weiteren werden im Unterrichtsfach Englisch zahlreiche global relevante Themen aus \nden Bereichen Ökologie, Ökonomie und Gesellschaft bearbeitet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Literary and fictional approaches supplement knowledge transfer with subjective experiences in different social contexts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Literarische und fiktionale \nZugänge ergänzen den Aspekt der Wissensvermittlung durch subjektive Erfahrungen in unter-\nschiedlichen gesellschaftlichen Kontexten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The effects of global disparities on individual and society are mirrored directly in film, music and literature and foster students' problem awareness for sustainability topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Auswirkungen globaler Disparitäten auf Indivi-\nduum und Gesellschaft werden in Film, Musik und Literatur unmittelbar gespiegelt und fördern \nbei den Schülerinnen und Schülern ein Problembewusstsein für Themen der Nachhaltigkeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "English makes varied contributions to meeting a culture of digitality confidently and productively.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Das Fach Englisch leistet vielfältige Beiträge, um einer Kultur der Digitalität souverän und pro-\nduktiv zu begegnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "It contributes to both individual and collective expansion of a functional competence.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Es trägt sowohl zur individuellen als auch zur gemeinschaftlichen Erwei-\nterung einer funktionalen Kompetenz bei.",
+        "residual_flags": []
+      },
+      {
+        "content": "Because English acts as a lingua franca on the internet, the English language carries particular significance in the digital space.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Vor dem Hintergrund, dass Englisch im Internet die Rolle einer Lingua franca einnimmt, kommt \nder englischen Sprache im digitalen Raum eine besondere Bedeutung zu.",
+        "residual_flags": []
+      },
+      {
+        "content": "Using digital media and tools in English lessons opens access to numerous cultural, global discourses and perspectives in the foreign language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Der Einsatz digitaler \nMedien und Werkzeuge im Englischunterricht eröffnet einen Zugang zu zahlreichen kulturellen \nglobalen Diskursen und Perspektiven in der Fremdsprache.",
+        "residual_flags": []
+      },
+      {
+        "content": "Digital communication and cooperation can thereby be practised appropriately to the situation in authentic English-language contexts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Dadurch können digitale Kommu-\nnikation und Kooperation in authentischen englischsprachigen Kontexten situationsadäquat \npraktiziert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The particular potential of digital media use in English lessons lies in the asynchronous or synchronous production of multimodal interactive texts and their reception in the public sphere of the digital space.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Das besondere Potenzial der digitalen Mediennutzung im Englischunterricht liegt in der asyn-\nchronen/synchronen Produktion multimodaler interaktiver Texte und deren Rezeption in der \nÖffentlichkeit des digitalen Raumes.",
+        "residual_flags": []
+      },
+      {
+        "content": "English lessons let students reflect on the opportunities and risks of their media use and, where appropriate, modify their own use.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1 Lernen im Fach Englisch",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Der Englischunterricht bietet den Schülerinnen und Schü-\nlern die Möglichkeit, Chancen und Risiken ihres Mediengebrauchs zu reflektieren und ggfs. \ndie eigene Nutzung zu modifizieren.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Lernen im Fach Englisch"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "1 Lernen im Fach Englisch",
+        "printed_page_range": "4–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

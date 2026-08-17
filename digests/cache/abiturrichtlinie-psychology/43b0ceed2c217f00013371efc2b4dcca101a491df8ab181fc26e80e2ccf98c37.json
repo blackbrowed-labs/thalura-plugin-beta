@@ -1,0 +1,220 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:43b0ceed2c217f00013371efc2b4dcca101a491df8ab181fc26e80e2ccf98c37"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The referent presents the task, the expected-answers grid (Erwartungshorizont), the assessment specifications and the instructional prerequisites to the committee at the latest the day before the exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "legt den Mitgliedern des Fachprüfungsausschusses spä-\ntestens am Tag vor der Prüfung die Aufgabenstellung, den Erwartungshorizont und die \nVorgaben zur Bewertung der Prüfungsleistung sowie die unterrichtlichen Voraussetzun-\ngen vor.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Erwartungshorizont contains information assigning tasks to the requirement areas.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Angaben zur Zuordnung der Aufgaben zu den Anforderungsbereichen,",
+        "residual_flags": []
+      },
+      {
+        "content": "It contains the expected solutions and their assignment to the requirement areas, and possibly a weighting of the sub-tasks.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Angaben zu den erwarteten Lösungen und deren Zuordnung zu den Anforderungsbe-\nreichen,",
+        "residual_flags": []
+      },
+      {
+        "content": "The assessment specifications contain specific statements about the requirements for a 'good' and an 'adequate' performance.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "spezifische Aussagen über \ndie Anforderungen an eine „gute“ sowie eine „ausreichende“ Leistung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Erwartungshorizont and assessment specifications are part of the record of the oral exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "sind Teil der Niederschrift \nüber den Verlauf der mündlichen Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "A task so similar to one already worked in class, or so prepared that requirements essentially amount to reproducing already-covered material, is not permissible.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "dass sich die Anforderungen \nim Wesentlichen lediglich auf die Wiedergabe von bereits Bearbeitetem oder Erarbeite-\ntem beschränken, ist nicht zulässig.",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirement areas described under 3.2 and the assessment criteria under 4.5 apply in principle to the oral exam; the candidate's subject-matter performance is foremost.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die unter 3.2 beschriebenen Anforderungsbereiche und die unter 4.5 dargelegten Be-\nwertungskriterien gelten grundsätzlich auch für die mündliche Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Specific requirements include expressing oneself clearly and presenting prepared results freely in structured, audience-oriented form.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "sich klar und differenziert auszudrücken und die vorbereiteten Arbeitsergebnisse in\ngegliedertem Zusammenhang frei vorzutragen und adressatenbezogen darzustellen,",
+        "residual_flags": []
+      },
+      {
+        "content": "A further requirement is to conduct a theme-bound discussion, respond to impulses, and contribute one's own relevant points on further aspects.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "ein themengebundenes Gespräch zu führen, dabei auf Impulse einzugehen und gege-\nbenenfalls eigene sach- und problemgerechte Beiträge zu weiteren Aspekten einzu-\nbringen,",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must place matters or problems into higher-order contexts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "eine Einordnung von Sachverhalten oder Problemen in übergeordnete Zusammenhän-\nge vorzunehmen,",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must engage independently with the matters and possibly give their own opinion.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "sich mit den Sachverhalten und Problemen selbstständig auseinanderzusetzen und\nggf. eine eigene Stellungnahme vorzunehmen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Additional subject-specific assessment criteria are the type and structuring of the presentation and the capacity for verbal and non-verbal communication.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Art und Strukturierung des Vortrags,\n•\nFähigkeit zur verbalen und nonverbalen Kommunikation,",
+        "residual_flags": []
+      },
+      {
+        "content": "Further criteria are responsiveness to discussion impulses and situation-based argumentation and judgement.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Eingehen auf Gesprächsimpulse,\n•\nsituationsbezogene Argumentations- und Urteilsfähigkeit.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.1.2 Anforderungen und Bewertung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "5.1.2 Anforderungen und Bewertung",
+        "printed_page_range": "15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

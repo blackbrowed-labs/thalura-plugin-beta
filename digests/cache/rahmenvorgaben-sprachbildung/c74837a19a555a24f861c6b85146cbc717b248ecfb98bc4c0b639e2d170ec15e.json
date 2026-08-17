@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c74837a19a555a24f861c6b85146cbc717b248ecfb98bc4c0b639e2d170ec15e"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The subject-related language competencies are described for five competency areas (A-E) shown in the overview.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "werden für die fünf Kompetenzbereiche (A-E)",
+        "residual_flags": []
+      },
+      {
+        "content": "The area Sprachbewusstheit relates to each of the other competency areas and also to the described language actions.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "steht in Beziehung zu jedem der anderen Kompetenzbereiche",
+        "residual_flags": []
+      },
+      {
+        "content": "The matrix does not exhaustively list all language actions but focuses on central actions important in many or all subjects with a common core of meaning.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "sondern fokussiert auf zentrale sprachliche",
+        "residual_flags": []
+      },
+      {
+        "content": "The 15 Sprachhandlungen include Anweisungen und Aufgabenstellungen ausführen und erteilen, Benennen, Fragen, Vermutungen äußern and Berichten.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Anweisungen und Aufgabenstellungen ausführen und erteilen",
+        "residual_flags": []
+      },
+      {
+        "content": "Further language actions include Beschreiben, Definieren (Sekundarstufe) / Wörter und Begriffe erklären (Grundschule), Erklären und Erläutern, Vergleichen and Argument formulieren und Begründen.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Definieren (Sekundarstufe); Wörter und Begriffe erklären (Grundschule)",
+        "residual_flags": []
+      },
+      {
+        "content": "The five competency areas and the central language actions are listed in the left column of the matrix.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "sind in der linken Spalte der Kompetenzmatrix aufgeführt",
+        "residual_flags": []
+      },
+      {
+        "content": "They are described more precisely via descriptors in the second column, representing the partial competencies required to carry out the language actions.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "werden mittels Deskriptoren in der 2. Spalte genauer beschrieben",
+        "residual_flags": []
+      },
+      {
+        "content": "Implementation aids in the third column include sprachliche Mittel, Hinweise (explanations of the partial competencies), and Umsetzungsbeispiele (concrete task and lesson examples from three subjects/learning areas each).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Erläuterungen zu den Teilkompetenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "A rigid differentiation of requirement levels (Anforderungsniveaus) is deliberately omitted in the matrix, since difficulty depends on subject-context complexity, text length and degree of guidance.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "auf eine starre Unterscheidung und Differenzierung von Anforderungsniveaus",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+        "printed_page_range": "12–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:bd8da7f441debff5ec97618406efa06858a1bab7c746efcc4a62f79156edc9fd"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students promoted from year 10 of the Gymnasium or from the Vorstufe may move into the Studienstufe of their own school.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 3 Erstmalige Aufnahme in die Studienstufe",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Schülerinnen und Schüler, die aus der Jahrgangsstufe 10 des Gymnasiums oder aus \nder Vorstufe in die Studienstufe versetzt wurden, können in die Studienstufe ihrer Schu-\nle übergehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Admission into the Studienstufe of a different school is decided by the receiving school.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 3 Erstmalige Aufnahme in die Studienstufe",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Über die Aufnahme der Schülerinnen und Schüler in die Studienstufe einer \nanderen Schule entscheidet die aufnehmende Schule",
+        "residual_flags": []
+      },
+      {
+        "content": "On application, students may be promoted early into the first semester of the Studienstufe if they far exceed the class average in ability and maturity.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 3 Erstmalige Aufnahme in die Studienstufe",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Schülerinnen und Schüler des Gymnasiums und der Stadtteilschule werden auf An-\ntrag vorzeitig in das erste Semester der Studienstufe versetzt",
+        "residual_flags": []
+      },
+      {
+        "content": "Entry into the Studienstufe is in principle only permitted at the beginning of the first semester.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 3 Erstmalige Aufnahme in die Studienstufe",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Ein Eintritt in die Studienstufe ist grundsätzlich nur zum Beginn des ersten Semes-\nters zulässig.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 3 Erstmalige Aufnahme in die Studienstufe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 3 Erstmalige Aufnahme in die Studienstufe",
+        "printed_page_range": "6–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:24d46c700f208c92bb1753f6265de96704728bdff654db0ecda7b9dcba8509f7"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Sport — performance delivered in connection with lessons is assessed on the motor, cognitive and social level; observation/assessment refers to the abilities, skills and knowledge shown in lessons. In sports practice mainly the motor performances are considered, and also the willingness to perform (Leistungsbereitschaft).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Bewertet werden die von Schülerinnen und Schülern im Zusammenhang mit dem Unterricht \nerbrachten Leistungen auf motorischer, kognitiver und sozialer Ebene. Die Leistungsbeobach-\ntung bzw. -bewertung bezieht sich auf die im Unterricht gezeigten Fähigkeiten, Fertigkeiten \nund Kenntnisse. In der Sportpraxis werden hauptsächlich die motorischen Leistungen berück-\nsichtigt und auch die Leistungsbereitschaft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Within the required close practice-theory link, theoretical and reflective parts enter the assessment to the extent that they were taken into account in the lessons.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Im Rahmen der geforderten engen Praxis-Theorie-Verbindung fließen theoretische und refle-\nxive Anteile in dem Maße in die Leistungsbewertung ein, in dem sie im Unterricht Berücksich-\ntigung gefunden haben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Where no class tests are written, assessment rests exclusively on ongoing classwork; practical performance carries particular weight; written performance is NOT compulsory but is permissible on occasion.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Sofern keine Klassenarbeiten geschrieben werden, bezieht sich die Bewertung ausschließlich \nauf die laufende Unterrichtsarbeit. Bewertet werden hierbei erworbene Kompetenzen und \nKenntnisse, die sowohl in unterrichtlichen Lern- und Arbeitsprozessen gezeigt als auch in \npunktuellen Lernerfolgskontrollen nachgewiesen werden. Bei der Bewertung kommt den prak-\ntischen Leistungen besonderes Gewicht zu. Die Erbringung schriftlicher Leistungen ist nicht \nverpflichtend, jedoch anlassbezogen zulässig.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment-free phases must be especially safeguarded in Sport, to give room to processes of experiencing, learning, practising and training movement, play and sport.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Bewertungsfreie Phasen sind in besonderem Maße zu sichern, um Prozesse des Erfahrens, \nErlernens, Übens und Trainierens von Bewegung, Spiel und Sport Raum zu geben.",
+        "residual_flags": []
+      },
+      {
+        "content": "For both non-assessed and assessed working phases, varied suitable feedback/assessment formats (learning diaries, learning agreements, students' independent work with observation sheets and competency grids) are of particular importance and can structure process support and individual goal setting.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Sowohl \nfür nicht bewertete als auch für bewertete Arbeitsphasen kommt dem Einsatz vielfältiger ge-\neigneter Rückmelde- bzw. Bewertungsformate (z. B. Lerntagebücher, Lernvereinbarungen, \nselbstständige Arbeit der Schülerinnen und Schüler mit Beobachtungsbögen und Kompetenz-\nrastern) besondere Bedeutung zu.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for sports-practical action: process quality of sport-related movements regarding functionality and selected qualitative movement features; measurable results; variety and variance of movements; difficulty of movement/sport skills; situational appropriateness of creative and productive handling of movement and play; aesthetic-creative expression; commitment and willingness to go to the limits of one's capacity.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "In Bezug auf das sportpraktische Handeln (fachliche und bewegungsfeldspezifische Kompe-\ntenzen) gelten insbesondere folgende Bewertungskriterien: \n• \nVerlaufsqualität sportbezogener Bewegungen in Bezug auf Funktionalität sowie aus-\ngewählte qualitative Bewegungsmerkmale \n• \nmessbare Ergebnisse \n• \nVielfalt und Varianz sportbezogener Bewegungen \n• \nSchwierigkeitsgrad bewegungs- und sportbezogener Fertigkeiten \n• \nsituative Angemessenheit des kreativen und produktiven Umgangs mit der Bewegung \nund dem Spiel \n• \nästhetisch-gestalterischer Ausdruck \n• \nEinsatzbereitschaft und Bereitschaft, an die Grenzen der Leistungsfähigkeit zu gehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for SOCIAL action in Sport: cooperativeness and reliability in playing and doing sport together; responding to others' impulses, signals and learning needs; capacity to take responsibility; fairness, consideration and helpfulness; capacity to reflect on one's own sport-related action and its effects on others, especially in handling performance differences and victory/defeat; capacity to analyse conflicts, endure them and take part in forms of problem solving.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7l) Sport",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "• \nKooperationsfähigkeit und Zuverlässigkeit beim gemeinsamen Spielen und Sporttrei-\nben \n• \nEingehen auf Impulse, Signale und Lernbedürfnisse anderer \n• \nFähigkeit zur Verantwortungsübernahme \n• \nFairness, Rücksichtnahme und Hilfsbereitschaft \n• \nFähigkeit zur Reflexion des eigenen sportbezogenen Handelns und seiner Auswirkun-\ngen auf andere, insbesondere im Umgang mit Leistungsdifferenzen sowie Sieg und \nNiederlage \n• \nFähigkeit, Konflikte zu analysieren, sie auszuhalten und an Formen der Problemlösung \nmitzuwirken.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for KNOWLEDGE and REFLECTION in Sport: command and application of subject knowledge; understanding and correct use of basic technical terms; understanding the contents, conditions and motives of doing sport and formulating one's own position; subject-related judgement; capacity to analyse one's own sporting development and capacity; understanding of sport, play, rules; understanding of basic principles of learning, practising and training movements and being able to apply them; making cross-subject connections; capacity for creative engagement with movement.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7l) Sport",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "In Bezug auf Kenntnisse und Reflexion gelten insbesondere folgende Bewertungskriterien: \n• \nVerfügung und Anwendung fachlicher Kenntnisse \n• \nVerständnis und korrekte Anwendung grundlegender Fachbegriffe \n• \nVerständnis der Inhalte, Rahmenbedingungen und Motive des Sporttreibens und For-\nmulierung einer eigenen Position dazu \n• \nfachbezogene Urteilsfähigkeit \n• \nFähigkeit zur Analyse der eigenen sportlichen Entwicklung und Leistungsfähigkeit \n• \nSport- und Spielverständnis, Regelkenntnis und Regelverstehen \n• \nVerständnis basaler Prinzipien des Erlernens, Übens und Trainierens von Bewegun-\ngen und Fähigkeit zu deren Umsetzung \n• \nHerstellung fächerverbindender und fachübergreifender Verknüpfungen \n• \nFähigkeit zum kreativen Umgang in der Auseinandersetzung mit Bewegung.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7l) Sport"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7l) Sport",
+        "printed_page_range": "28–29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

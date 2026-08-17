@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e8468976ab456568524ae218e4453fba140506b0d091c67f7a3ee7ca4bb5d037"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "End-of-Studienstufe requirement: understanding authentic audio and audiovisual texts spoken in representative varieties of the target language.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Schülerinnen und Schüler können authentische Hör- und Hörsehtexte verstehen, sofern repräsentative Va-\nrietäten der Zielsprache gesprochen werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "At the basic level students apply reception strategies according to the listening/viewing purpose.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "in Abhängigkeit von der jeweiligen Hör-/Hörsehab-\nsicht Rezeptionsstrategien anwenden",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised level students can additionally decode complex audio and audiovisual texts on less familiar topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "komplexe Hör- und Hörsehtexte auch zu wenig ver-\ntrauten Themen erschließen",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised level they can recognise implicit information, place it and interpret its effect.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "implizite Informationen erkennen und einordnen und \nderen Wirkung interpretieren",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+        "printed_page_range": "14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

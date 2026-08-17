@@ -1,0 +1,146 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6d20a5849259ad7fb606ceb5c6c2bc0153331444b2a9a4d1310617f83202b589"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Deutsch — for class tests checking spelling performance, suitable formats include tasks on finding and correcting errors in given texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Für die Klassenarbeiten, die der Überprüfung der Rechtschreibleistung dienen, eignen sich \ninsbesondere: \n• \nAufgaben zur Fehlersuche und -korrektur an vorgegebenen Texten",
+        "residual_flags": []
+      },
+      {
+        "content": "Further suitable spelling-test formats: tasks reflecting on the spelling of words or on punctuation; dictionary-use tasks; dictations (Diktate).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "• \nAufgaben zum Nachdenken über die Schreibweise von Wörtern bzw. die Zeichenset-\nzung \n• \nAufgaben zur Wörterbuchnutzung \n• \nDiktate.",
+        "residual_flags": []
+      },
+      {
+        "content": "If a dictation is used to check spelling performance it must not be the sole instrument of performance assessment; students must have adequate time before handing in to check the dictated text, and as a rule the use of a dictionary should be permitted.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Wird ein Diktat zur Überprüfung der Rechtschreibleistung eingesetzt, ist dies nicht das alleinige \nInstrument der Leistungsfeststellung. Außerdem muss gewährleistet sein, dass den Schüle-\nrinnen und Schülern vor Abgabe der Klassenarbeit eine angemessene Zeit zur Verfügung \nsteht, den diktierten Text zu prüfen. Dabei soll in der Regel die Nutzung eines Wörterbuchs \nzulässig sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "In spelling-check class tests, errors are marked and corrected by the students.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In Klassenarbeiten zur Überprüfung der Rechtschreibleistung werden die Fehler markiert und \nvon den Schülerinnen und Schülern berichtigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "In all German class tests the teacher gives error-differentiated feedback on spelling and grammar errors, oriented on students' spelling competencies and on the demands of the lessons.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In allen Klassenarbeiten im Fach Deutsch gibt die Lehrkraft den Schülerinnen und Schülern \neine fehlerdifferenzierende Rückmeldung zu Rechtschreib- und Grammatikfehlern, die sich an \nderen Rechtschreibkompetenzen sowie an den unterrichtlichen Anforderungen orientiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Only those areas of spelling and punctuation that have already been worked on in class enter the assessment of spelling performance.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In die Bewertung der Rechtschreibleistung fließen nur diejenigen Bereiche der Rechtschrei-\nbung und Zeichensetzung ein, die bereits im Unterricht erarbeitet wurden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Except in a pure spelling check, errors must NOT be evaluated purely quantitatively; beyond the number of errors, the degree of impairment of reading flow and text comprehensibility and the severity of the errors plus the number and type of error types must be considered.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7e) Deutsch",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Bei der Bewertung von Texten hinsichtlich der Rechtschreibleistung dürfen Fehler, insofern es \nnicht um eine reine Überprüfung der Rechtschreibleistung geht, nicht allein quantitativ ausge-\nwertet werden. Zu berücksichtigen sind über die Anzahl der Fehler hinaus: \n• \nder Grad der Beeinträchtigung des Leseflusses und der Verständlichkeit des Textes \nund  \n• \ndie Schwere der Fehler sowie die Anzahl und Art von Fehlertypen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7e) Deutsch"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7e) Deutsch",
+        "printed_page_range": "19–20"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

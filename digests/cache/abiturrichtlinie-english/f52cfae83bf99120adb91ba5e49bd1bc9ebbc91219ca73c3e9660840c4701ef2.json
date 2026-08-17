@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f52cfae83bf99120adb91ba5e49bd1bc9ebbc91219ca73c3e9660840c4701ef2"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Abiturrichtlinie, subject part English, sets out the requirements at basic level (grundlegendes Niveau) and raised level (erhöhtes Niveau).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "1 Fachliche Anforderungen und Inhalte",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Abiturrichtlinie, Fachteil Englisch, erläutert die Anforderungen auf grundlegendem \nund erhöhtem Niveau.",
+        "residual_flags": []
+      },
+      {
+        "content": "It also presents the three requirement areas (Anforderungsbereiche) in which candidates must perform.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "1 Fachliche Anforderungen und Inhalte",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Darüber hinaus werden die drei Anforderungsbereiche, in denen \ndie Prüflinge Leistungen zu erbringen haben, dargestellt.",
+        "residual_flags": []
+      },
+      {
+        "content": "It furthermore fixes the modalities for assessing exam performance.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "1 Fachliche Anforderungen und Inhalte",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Außerdem legt sie die Modali-\ntäten zur Bewertung der Prüfungsleistungen fest.",
+        "residual_flags": []
+      },
+      {
+        "content": "The competency-oriented requirements and contents for English are described in the Bildungsplan Gymnasiale Oberstufe/Rahmenplan Neuere Fremdsprachen, in the KMK Bildungsstandards for the continued foreign language (decision of 18.10.2012), and in the annually published booklet 'Regelungen für die zentralen schriftlichen Prüfungsaufgaben'.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "1 Fachliche Anforderungen und Inhalte",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die im Fach Englisch zu erreichenden \nkompetenzorientierten Anforderungen und zu erarbeitenden Inhalte sind im Bildungs-\nplan Gymnasiale Oberstufe/Rahmenplan Neuere Fremdsprachen, in den Bildungsstandards \nfür die fortgeführte Fremdsprache (Englisch / Französisch) für die Allgemeine Hochschulrei-\nfe (Beschluss der Kultusministerkonferenz vom 18.10.2012) sowie darüber hinaus in dem \njährlich herausgegebenen Heft Regelungen für die zentralen schriftlichen Prüfungsaufgaben \nbeschrieben.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Fachliche Anforderungen und Inhalte"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "1 Fachliche Anforderungen und Inhalte",
+        "printed_page_range": "4"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

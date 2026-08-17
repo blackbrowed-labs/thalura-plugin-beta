@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:9323dbd12d9356ab2089af96f63880b0681e5d169d42e7541fa6b29db20f3d63"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie",
+      "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Referent develops the task and a first grading rubric (Erwartungshorizont) from the examination areas; the underlying requirement level must be appropriately taken into account and the candidate must be left creative scope in the solution approach.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der Referent bzw. die Referentin entwickelt aus den Prüfungsbereichen die Aufgaben-\nstellung sowie einen ersten Erwartungshorizont. Das zugrunde liegende Anforderungs-\nniveau ist dabei angemessen zu berücksichtigen. Dem Prüfling ist in seinem Lösungsan-\nsatz ein Gestaltungsraum zu lassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The task ensures that the presentation covers content/competence areas of at least two semesters of the Studienstufe, of which one may predominate in the presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Aufgabenstellung gewährleistet, dass die Präsentation unterschiedliche Inhalts- \nbzw. Kompetenzbereiche mindestens zweier Semester der Studienstufe beinhaltet, von \ndenen einer in der Präsentation überwiegen darf.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates receive the task in writing two weeks before the examination date and submit, one week before, a written documentation of at most two DIN-A4 pages plus sources and bibliography to the chair of the subject examination board.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Prüflinge erhalten die Aufgabenstellung für die Prüfung zwei Wochen vor dem Prü-\nfungstermin schriftlich und geben eine Woche vor dem Prüfungstermin eine schriftliche \nDokumentation im Umfang von maximal zwei DIN-A4-Seiten zuzüglich des Quellen- und \nLiteraturverzeichnisses über den geplanten Ablauf sowie über die geplanten Inhalte der \nPräsentation bei der oder dem Vorsitzenden des Fachprüfungsausschusses ab.",
+        "residual_flags": []
+      },
+      {
+        "content": "The documentation is part of the examination performance.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Do-\nkumentation ist Teil der Prüfungsleistung.",
+        "residual_flags": []
+      },
+      {
+        "content": "A task that resembles one already worked on in class, such that the requirements reduce essentially to reproducing what was already covered, is not permitted; in particular, presentation-examination tasks must not already have been used as a presentation performance in class.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Eine Aufgabenstellung, die einer bereits im Unterricht bearbeiteten gleicht oder so äh-\nnelt, dass sich die Anforderungen an den Prüfling im Wesentlichen auf die Wiedergabe \nvon bereits Be- oder Erarbeitetem beschränken, ist nicht zulässig. Insbesondere dürfen \nAufgaben für die mündliche Prüfung als Präsentationsprüfung nicht bereits als Präsen-\ntationsleistung im Unterricht behandelt worden sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Präsentationsprüfung erfolgt grundsätzlich als Einzelprüfung gemäß § 26 Absatz 3 APO-AH.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Präsentationsprüfung erfolgt grundsätzlich als Einzelprüfung in der in § 26 Absatz 3",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie",
+        "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+        "printed_page_range": "8–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

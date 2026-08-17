@@ -2,7 +2,7 @@
   "document_id": "musteraufgaben-esa-religion",
   "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
   "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 18,
   "page_identity": {
     "model": "simple",
@@ -43,9 +43,9 @@
     {
       "section_anchor": "a. Themenbekanntgabe",
       "printed_page_start": 1,
-      "printed_page_end": 1,
+      "printed_page_end": 2,
       "physical_page_start": 6,
-      "physical_page_end": 6,
+      "physical_page_end": 7,
       "ordinance": null,
       "grades": null,
       "hazards": []

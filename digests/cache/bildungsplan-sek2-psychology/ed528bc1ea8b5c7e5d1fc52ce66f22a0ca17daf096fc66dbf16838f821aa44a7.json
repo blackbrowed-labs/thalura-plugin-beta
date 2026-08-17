@@ -1,0 +1,173 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ed528bc1ea8b5c7e5d1fc52ce66f22a0ca17daf096fc66dbf16838f821aa44a7"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The theme area S3 covers diagnostics and intervention.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3 Diagnostik und Intervention",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Themenbereich S3: Diagnostik und Intervention",
+        "residual_flags": [
+          "page-multi-match:physical-25-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "Basic questions of clinical psychology contrast health versus illness, covering features of mental disorders and concepts of normality.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3 Diagnostik und Intervention",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Gesundheit vs. Krankheit (Merkmale psychischer Störungen, \nNormalitätsbegriff: Ideal-, statistische, soziale, kulturelle, \nfunktionale Norm)",
+        "residual_flags": []
+      },
+      {
+        "content": "Classification and classification systems distinguish categorical from dimensional diagnostics and reference the DSM.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3 Diagnostik und Intervention",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Klassifikation und Klassifikationssysteme \no kategoriale vs. dimensionale Diagnostik \no DSM (Diagnostic and Statistical Manual",
+        "residual_flags": []
+      },
+      {
+        "content": "Mental disorders are deepened by choosing anxiety disorders or affective disorders per the current DSM edition.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3 Diagnostik und Intervention",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Vertiefung durch Auswahl von Angststörungen oder Affektive \nStörungen nach der aktuellen Fassung des DSM:",
+        "residual_flags": []
+      },
+      {
+        "content": "Health psychology addresses stress research fundamentals, including stress forms and types.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3 Diagnostik und Intervention",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Grundbegriffe der Stressforschung \n• Stress und Stressformen \n• Arten von Stress (akut/chronisch, Eustress/Disstress)",
+        "residual_flags": []
+      },
+      {
+        "content": "Physiological stress theories include Cannon's fight-or-flight and Selye's general adaptation syndrome.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3 Diagnostik und Intervention",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Physiologische Stresstheorien \n• Fight-or-Flight von Cannon \n• Allgemeines Adaptationssyndrom von Selye",
+        "residual_flags": []
+      },
+      {
+        "content": "Work and organizational psychology addresses its orientation in research and practice.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3 Diagnostik und Intervention",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Arbeits- und Organisationspsychologie \nin Forschung und Praxis \n• Untersuchungsfelder und Entwicklungstrends \n• Aufgabenfelder in der Praxis",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu den Psychotherapien zählt die Verhaltenstherapie mit Expositions- und Konfrontationsverfahren.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3 Diagnostik und Intervention",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Verhaltenstherapie: Expositions- und Konfrontationsverfahren",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S3 Diagnostik und Intervention"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S3 Diagnostik und Intervention",
+        "printed_page_range": "25–29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

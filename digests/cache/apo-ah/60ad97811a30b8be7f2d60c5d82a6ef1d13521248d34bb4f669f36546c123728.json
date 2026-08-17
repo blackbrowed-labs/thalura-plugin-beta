@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:60ad97811a30b8be7f2d60c5d82a6ef1d13521248d34bb4f669f36546c123728"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Minutes (Niederschriften) are kept of the examinations and of the deliberations of the examination bodies.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 30 Niederschriften",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Über die Prüfungen und über die Verhandlungen der Prüfungsgremien werden Nie-\nderschriften geführt.",
+        "residual_flags": []
+      },
+      {
+        "content": "The minutes of the oral and practical examination must show to what extent the candidate solved the set tasks independently or with assistance.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 30 Niederschriften",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die Niederschrift über die mündliche und praktische Prüfung muss erkennen lassen, \nin welchem Umfang der Prüfling die gestellten Aufgaben selbstständig oder mit Hilfe-\nstellungen lösen konnte.",
+        "residual_flags": []
+      },
+      {
+        "content": "The minutes of the examination bodies' deliberations must make clear how the assessment of the examination performances came about.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 30 Niederschriften",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die Niederschriften über die Verhandlungen der Prüfungsgremien lassen erkennen, \nwie die Bewertung der Prüfungsleistungen zustandegekommen ist.",
+        "residual_flags": [
+          "source-spelling-verbatim: original reads 'zustandegekommen' as one word"
+        ]
+      },
+      {
+        "content": "Written examination tasks, the candidate's drafts and the written documentation of the planned presentation are attached to the minutes as annexes.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 30 Niederschriften",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Schriftliche Prüfungsaufgaben und Texte, die Gegenstand der \nPrüfung waren, Entwürfe des Prüflings und die vom Prüfling verfasste schriftliche Do-\nkumentation über den geplanten Ablauf sowie alle Inhalte der Präsentation sind der \nNiederschrift als Anlagen beizufügen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 30 Niederschriften"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 30 Niederschriften",
+        "printed_page_range": "25"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

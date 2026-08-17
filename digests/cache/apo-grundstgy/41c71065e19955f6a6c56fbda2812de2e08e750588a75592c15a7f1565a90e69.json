@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:41c71065e19955f6a6c56fbda2812de2e08e750588a75592c15a7f1565a90e69"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students with special-educational-needs support receive certificates under the general examination ordinances unless the AO-SF provides otherwise.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 5 — Leistungsbewertung, Zeugnisse und Abschlüsse",
+          "printed_page": 71,
+          "physical_page": 71
+        },
+        "cited_text": "Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf erhalten Zeug-\nnisse nach den Vorgaben der geltenden allgemeinen Ausbildungs- und Prüfungs-\nordnungen, soweit diese Verordnung nichts anderes bestimmt.",
+        "residual_flags": []
+      },
+      {
+        "content": "For years 4 to 10, the teachers' conference may decide that the achievement level of students taught to differing goals (zieldifferent) is reported in a free-form report replacing the grade.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 5 — Leistungsbewertung, Zeugnisse und Abschlüsse",
+          "printed_page": 71,
+          "physical_page": 71
+        },
+        "cited_text": "Die Lehrerkonferenz kann beschließen, dass in den Jahrgangsstufen 4 bis 10 \nüber den Lernstand der Schülerinnen und Schüler mit sonderpädagogischem \n­Förderbedarf, die zieldifferent gemäß den Anforderungen des individuellen son-\nderpädagogischen Förderplans unterrichtet werden, ein frei formulierter Bericht \nangefertigt wird, der die Bewertung mit einer Note ersetzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "From the end of year 8, certificates of students taught to differing goals must contain information on the likely further course of the educational pathway.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 5 — Leistungsbewertung, Zeugnisse und Abschlüsse",
+          "printed_page": 71,
+          "physical_page": 71
+        },
+        "cited_text": "Ab dem Ende der Jahrgangsstufe 8 enthalten die Zeugnisse der zieldifferent \nunterrichteten Schülerinnen und Schülern Informationen über den voraussicht­\nlichen weiteren Verlauf des Bildungsgangs",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'der zieldifferent unterrichteten Schülerinnen und Schülern' (dative plural 'Schülern' instead of genitive 'Schüler')"
+        ]
+      },
+      {
+        "content": "If guardians demand grades under § 44 HmbSG, those grades refer to the requirements of the individual support plan, not to the general curriculum frameworks.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 5 — Leistungsbewertung, Zeugnisse und Abschlüsse",
+          "printed_page": 71,
+          "physical_page": 71
+        },
+        "cited_text": "Verlangen die Sorgeberechtigten gemäß § 44 HmbSG ergänzend oder alter-\nnativ zum Lernentwicklungsbericht die Ausweisung des Leistungsstands in ­Noten, \nso beziehen sich diese auf die Anforderungen des individuellen sonderpädago­\ngischen Förderplans.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 71,
+          "printed_page": 71
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "AO-SF Abschnitt 5 — Leistungsbewertung, Zeugnisse und Abschlüsse"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "AO-SF Abschnitt 5 — Leistungsbewertung, Zeugnisse und Abschlüsse",
+        "printed_page_range": "71"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

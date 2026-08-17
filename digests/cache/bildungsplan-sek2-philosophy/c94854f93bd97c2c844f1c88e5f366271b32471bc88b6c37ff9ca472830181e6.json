@@ -1,0 +1,135 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c94854f93bd97c2c844f1c88e5f366271b32471bc88b6c37ff9ca472830181e6"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Aim: clarifying the presuppositions and conditions of our thinking and acting, and of the concepts we use to refer to them.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Ziel ist das Klä-\nren von Voraussetzungen und Bedingungen unseres Denkens und Handels sowie von Begriff-\nlichkeiten, mit denen wir uns auf diese beziehen.",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'unseres Denkens und Handels' (expected 'Handelns')"
+        ]
+      },
+      {
+        "content": "Problem orientation: philosophical problems found and formulated in relation to students' life-world stand at the centre of teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Zentrum des Unterrichts stehen philosophische Probleme, die in Bezug auf die Lebenswelt \nder Schülerinnen und Schüler aufgefunden und formuliert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Jointly developing and formulating guiding questions that express philosophical problems is an essential task of teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die gemeinsame Entwicklung und Formulierung von \nLeitfragen, die philosophische Probleme ausdrücken, ist eine wesentliche Aufgabe des Unter-\nrichts.",
+        "residual_flags": []
+      },
+      {
+        "content": "The course of the inquiry depends on the experiences, questions, thoughts and perspectives students bring in.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Verlauf des For-\nschungsprozesses hängt ab von den Erfahrungen, Fragen, Gedanken und Perspektiven",
+        "residual_flags": []
+      },
+      {
+        "content": "Critical thinking: philosophy teaching fosters a critical attitude including awareness of one's own and others' ways of thinking and the capacity for self-criticism.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Philosophieunterricht fördert eine kritische Grundhaltung, die auch ein Bewusstsein für ei-\ngene und fremde Denkweisen sowie die Fähigkeit zur Selbstkritik impliziert.",
+        "residual_flags": []
+      },
+      {
+        "content": "In philosophy teaching, 'Kritik' and 'kritisieren' (from Greek krinein) mean precise distinguishing, not negative appraisal.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "ist im Philosophieunterricht mit „Kritik“ \nund „kritisieren“ (vom griechischen Verb krinein) das genaue Unterscheiden gemeint.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.1 Didaktische Grundsätze"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "1.1 Didaktische Grundsätze",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

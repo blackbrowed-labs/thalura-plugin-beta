@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:9d43aef210dc7c6deae2e9ecc1eac2147b975eda973d862c5ae8d613b69baa25"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Illness or another important reason must be reported without delay; the school decides whether an important reason exists.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 12 Bewertung bei fehlenden Leistungsnachweisen, Bewertung bei Täuschung und anderen Pflichtwidrigkeiten",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Eine Krankheit oder das Vorliegen eines sonstigen wichtigen Grundes ist unverzüg-\nlich anzuzeigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A required proof of achievement not delivered without an important reason counts as the mark 'ungenügend' (0 points).",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 12 Bewertung bei fehlenden Leistungsnachweisen, Bewertung bei Täuschung und anderen Pflichtwidrigkeiten",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Wird ein im Unterricht geforderter Leistungsnachweis ohne wichtigen Grund nicht \nerbracht, so entspricht dies der Note „ungenügend“ (0 Punkte).",
+        "residual_flags": []
+      },
+      {
+        "content": "Cheating or attempting to cheat in a test, and accepting help from third parties in producing it, count as breaches of duty (Pflichtwidrigkeiten).",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 12 Bewertung bei fehlenden Leistungsnachweisen, Bewertung bei Täuschung und anderen Pflichtwidrigkeiten",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "bei einer Lernerfolgskontrolle täuscht oder zu täuschen versucht oder bei \nihrer Anfertigung Hilfe von Dritten annimmt",
+        "residual_flags": []
+      },
+      {
+        "content": "On a breach of duty, repetition of the test may be ordered or the work graded 0 points, regardless of when it is discovered.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 12 Bewertung bei fehlenden Leistungsnachweisen, Bewertung bei Täuschung und anderen Pflichtwidrigkeiten",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Bei pflichtwidrigem Handeln kann unabhängig vom Zeitpunkt der Entdeckung die Wie-\nderholung der Lernerfolgskontrolle angeordnet oder die Leistung mit 0 Punkten bewer-\ntet werden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 12 Bewertung bei fehlenden Leistungsnachweisen, Bewertung bei Täuschung und anderen Pflichtwidrigkeiten"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 12 Bewertung bei fehlenden Leistungsnachweisen, Bewertung bei Täuschung und anderen Pflichtwidrigkeiten",
+        "printed_page_range": "14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

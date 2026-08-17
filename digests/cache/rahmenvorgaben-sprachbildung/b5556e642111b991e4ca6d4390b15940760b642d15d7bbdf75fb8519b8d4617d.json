@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b5556e642111b991e4ca6d4390b15940760b642d15d7bbdf75fb8519b8d4617d"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Competence area D SCHREIBEN — descriptor 1: use and further develop writing skills in subject teaching — develop writing fluency with subject-typical texts, spell and use subject-typical terms and phrases correctly, enter subject information into forms, lists, illustrations or diagrams (or label these), use grammar, spelling and punctuation rules relevant to legibility, and use electronic media as a writing tool.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "D. SCHREIBEN (SACHTEXTE SCHREIBEN)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "ihre Schreibfähigkeiten im Fachunterricht nutzen und weiterentwickeln \n• \nSchreibflüssigkeit anhand fachtypischer Texte weiterentwickeln \n• \nfachtypische Begriffe und Wendungen richtig schreiben und angemessen verwenden \n• \nfachbezogene Informationen in Formulare, Listen, Abbildungen oder Diagramme eintragen bzw. diese beschriften \n• \nGrammatik-, Rechtschreib- und Zeichensetzungsregeln nutzen, die für die Lesbarkeit der Texte bedeutsam sind \n• \nelektronische Medien als Schreibwerkzeug benutzen",
+        "residual_flags": []
+      },
+      {
+        "content": "D SCHREIBEN — descriptor 2: plan texts — orient planning to the operators in the task, compile material on the subject topic, distinguish and purposefully use subject-typical text/action patterns and forms of representation (e.g. Steckbrief, Mindmap, Schlüsselfragen, Schreibrahmen), collect and order information and arguments with regard to content and formal requirements, choose suitable subject-specific forms of representation for an audience, and conceive subject texts in a goal-, addressee-, situation- and material-oriented way. NOTE: the source prints 'fachspezfische'.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "D. SCHREIBEN (SACHTEXTE SCHREIBEN)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Texte planen \n• \nsich bei der Textplanung an den Arbeitsanweisungen (Operatoren) in der Aufgabenstellung orientieren \n• \neine Stoffsammlung zum Fachthema erstellen \n• \nfachtypische Textmuster bzw. Handlungsmuster und Darstellungsformen unterscheiden und zweckgerichtet nutzen (z. B. Steckbrief, Mind-\nmap, Schlüsselfragen, Schreibrahmen) \n• \nfachbezogene Informationen und Argumente sammeln und ordnen im Hinblick auf inhaltliche und formale Vorgaben \n• \nadressatengerecht geeignete fachspezfische Darstellungsformen zu einem Thema auswählen \n• \nFachtexte ziel-, adressaten- und situationsbezogen und materialorientiert konzipieren",
+        "residual_flags": [
+          "source anomaly: 'adressatengerecht geeignete fachspezfische Darstellungsformen' — 'fachspezfische' misspelled"
+        ]
+      },
+      {
+        "content": "D SCHREIBEN — descriptor 3: write texts — write informative texts, summaries and protocols using suitable subject-typical text patterns and building blocks, use linguistic means (prepositions, conjunctions such as wenn …, dann …, bevor, nachdem, solange) to clarify connections, structure texts into sections with structuring building blocks, take account of addressee and writing occasion, apply citation techniques, and produce a joint writing product with others using collaborative media and web tools.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "D. SCHREIBEN (SACHTEXTE SCHREIBEN)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "informierende Texte, Zusammenfassungen, Protokolle unter Nutzung geeigneter fachtypischer Textmuster und -bausteine schreiben \n• \nsprachliche Mittel (z. B. Präpositionen, Konjunktionen wie wenn …, dann …, bevor, nachdem, solange) zur Verdeutlichung inhaltlicher Zusam-\nmenhänge anwenden \n• \nTexte in Abschnitte gliedern und dabei strukturierende Textbausteine verwenden \n• \nAdressaten und Schreibanlass berücksichtigen (z. B. durch den Schreibstil, die Wahl der sprachlichen Mittel) \n• \nZitiertechniken anwenden \n• \nim Austausch mit Anderen ein gemeinsames Schreibprodukt erstellen und dabei auch kollaborative Medien und Webtools nutzen",
+        "residual_flags": []
+      },
+      {
+        "content": "D SCHREIBEN — descriptor 4: revise texts linguistically and in terms of subject content, using revision aids (forms of feedback, dictionary, subject encyclopaedias).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "D. SCHREIBEN (SACHTEXTE SCHREIBEN)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Texte sprachlich und fachlich überarbeiten  \n• \nÜberarbeitungshilfen nutzen (Formen der Rückmeldung, Wörterbuch, Fachlexika)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "D. SCHREIBEN (SACHTEXTE SCHREIBEN)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "D. SCHREIBEN (SACHTEXTE SCHREIBEN)",
+        "printed_page_range": "17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

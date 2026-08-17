@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c99fe68f143d13fdbc9260e834472bb2de5e4ddf5c976b7e99b5235c640b653b"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students who attended the Studienstufe at least to the end of the second semester acquire the Fachhochschulreife if they meet the school requirements and complete a practical vocational training.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 33 Fachhochschulreife, mittlerer Schulabschluss",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Schülerinnen und Schüler, die die Studienstufe mindestens bis zum Ende des zweiten \nSemesters besucht haben, erwerben die Fachhochschulreife, wenn sie die in den Absät-\nzen 2 und 3 genannten schulischen Voraussetzungen erfüllen und eine fachpraktische \nAusbildung nach Absatz 4 abschließen oder abgeschlossen haben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Among the results submitted there must be two each in German and Mathematics as well as in a foreign language.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 33 Fachhochschulreife, mittlerer Schulabschluss",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Unter den nach Satz 1 einzubringenden Ergebnissen müssen sich je zwei \nErgebnisse in den Fächern Deutsch und Mathematik sowie in einer Fremdsprache",
+        "residual_flags": []
+      },
+      {
+        "content": "Overall at least 95 points must be achieved, with a maximum of 285 points.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 33 Fachhochschulreife, mittlerer Schulabschluss",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Insgesamt müssen die Schülerinnen und Schüler mindestens 95 Punkte erreichen, \nsie können höchstens 285 Punkte erreichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Subjects graded 0 points cannot be submitted, and repeated subjects can be submitted only once.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 33 Fachhochschulreife, mittlerer Schulabschluss",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Mit 0 Punkten bewertete Fächer können nicht eingebracht werden. Wiederholte \nFächer können nur einmal eingebracht werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Ueber den Erwerb der Fachhochschulreife erteilt die zustaendige Behoerde auf Antrag ein Zeugnis.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 33 Fachhochschulreife, mittlerer Schulabschluss",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Über den Erwerb der Fachhochschulreife erteilt die zuständige Behörde auf Antrag",
+        "residual_flags": []
+      },
+      {
+        "content": "Der mittlere Schulabschluss wird erworben, wenn im ersten und zweiten Semester in allen Faechern mindestens 2 Punkte erreicht wurden.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 33 Fachhochschulreife, mittlerer Schulabschluss",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "in allen Fächern mindestens 2 Punkte erreicht haben.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 33 Fachhochschulreife, mittlerer Schulabschluss"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 33 Fachhochschulreife, mittlerer Schulabschluss",
+        "printed_page_range": "28–29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

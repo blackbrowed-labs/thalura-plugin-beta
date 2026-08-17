@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:2ccb245458d7a078f9619983fe17e88250551c02773aaf95ec978f755f5a0d22"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Foreign-language teaching contributes to democratic education and to personal core competences such as tolerance, respect and solidarity.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.2 Beitrag der Neueren Fremdsprachen zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Somit leistet der Fremdsprachenunterricht \neinen wertvollen Beitrag zur Demokratieerziehung und zur Ausbildung personaler Grundkom-\npetenzen wie Toleranz, Respekt und Solidarität.",
+        "residual_flags": []
+      },
+      {
+        "content": "Education for sustainable development has gained worldwide importance and now permeates all areas of life.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.2 Beitrag der Neueren Fremdsprachen zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Erziehung und Bildung für eine nachhaltige Entwicklung hat in den vergangenen Jahren \nweltweit an Bedeutung gewonnen und durchdringt inzwischen alle Lebensbereiche.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students engage with globally relevant topics from ecology, economy and society from the perspective of people in the target cultures.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.2 Beitrag der Neueren Fremdsprachen zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Sie beschäftigen sich mit zahlreichen global relevanten \nThemen der Bereiche Ökologie, Ökonomie und Gesellschaft aus der Perspektive der Men-\nschen aus diesen Ländern.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language teaching benefits from learning in a digitally shaped world.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.2 Beitrag der Neueren Fremdsprachen zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Sprachunterricht profitiert vom Lernen in einer digital geprägten Welt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Working with authentic target-language digital sources and producing their own digital products lets students acquire digital competences in the target language.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.2 Beitrag der Neueren Fremdsprachen zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Arbeit mit authentischen zielsprachlichen digitalen Quellen sowie die Erstellung eigener \ndigitaler Produkte ermöglichen den Schülerinnen und Schülern den Erwerb digitaler Kompe-\ntenzen auch in der Zielsprache.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.2 Beitrag der Neueren Fremdsprachen zu den Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "1.2 Beitrag der Neueren Fremdsprachen zu den Leitperspektiven",
+        "printed_page_range": "9–10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

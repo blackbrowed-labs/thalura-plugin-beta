@@ -1,0 +1,211 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:122ef6c39b527b1cad8670b33d1359be0a24d708aa13641d3e3544f35b044703"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "(p. 9, continuation of Schreiben) In subject teaching students are required to present subject-specific matters precisely, as far as possible in Bildungssprache and using technical terms, and to produce coherent subject-related texts; weaker writers depend on targeted support such as writing frames (Schreibrahmen).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Schülerinnen und Schüler sind im Fachunterricht dazu aufgefordert, fachspezifische Sachver-\nhalte präzise, möglichst bildungssprachlich und unter Verwendung von Fachbegriffen darzu-\nstellen und kohärente, fachbezogene Texte zu produzieren. Schreibschwächere Schülerinnen \nund Schüler sind auf gezielte Hilfestellungen, wie zum Beispiel Schreibrahmen, angewiesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "(p. 9) To write texts in subject teaching, students are taught skills for planning, putting into writing and revising a text (das Planen, Verschriftlichen und Überarbeiten eines Textes); since each subject foregrounds different text patterns and text types, writing strategies are also fostered and extended in subject teaching within subject-specific writing tasks.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Um Texte im Fachunterricht zu verfassen, werden Schülerinnen und Schülern Fertigkeiten für \ndas Planen, Verschriftlichen und Überarbeiten eines Textes vermittelt. Da in jedem Fachun-\nterricht unterschiedliche spezifische Textmuster und Textsorten im Vordergrund stehen, wer-\nden Schreibstrategien auch im Fachunterricht im Rahmen fachspezifischer Schreibaufgaben \ngefördert und ausgebaut.",
+        "residual_flags": []
+      },
+      {
+        "content": "(p. 9) The teacher gives students sufficient opportunity to learn how to write different subject-typical texts and how to shape their formal and linguistic form according to the subject requirements of the context.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Lehrkraft gibt den Schülerinnen und Schülern im Fachunterricht \nausreichend Gelegenheit zu lernen, wie man unterschiedliche fachtypische Texte verfasst und \ndabei die formale und sprachliche Form je nach fachlichen Anforderungen im Fachkontext \ngestaltet.",
+        "residual_flags": []
+      },
+      {
+        "content": "(p. 9) To create enough writing opportunities, meaningful writing occasions (Schreibanlässe) should be used as often as possible, since writing supports the processing and understanding of subject content.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Um ausreichend Schreibgelegenheiten zu schaffen, sollten möglichst häufig sinn-\nvolle Schreibanlässe genutzt werden, da das Schreiben die Verarbeitung und das Verständnis \nder Fachinhalte unterstützt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language awareness (Sprachbewusstheit) is the ability to make language and language use an object of thought; it comprises knowledge and subjective theories about language (metalinguistic knowledge) and the ability to adapt language use consciously and intentionally to the communicative situation and the communication partners.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Unter dem Begriff „Sprachbewusstheit“ wird die Fähigkeit verstanden, Sprache und Sprach-\ngebrauch zum Gegenstand des Denkens zu machen. Diese umfassen Wissen und subjektive \nTheorien über Sprache (metasprachliches Wissen) und darüber hinaus die Fähigkeit, bewusst \nund intentional den Sprachgebrauch an die kommunikative Situation und die Kommunikations-\npartner und -partnerinnen anzupassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Fostering awareness of word structure (morphology) and sentence structure (syntax) correlates with higher spelling achievement and better reading comprehension; it is primarily an object of German lessons.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Förderung der Entwicklung von Bewusstheit über den Bau von Wörtern (Morphologie) und \nden Bau von Sätzen (Syntax) steht im Zusammenhang mit höheren Rechtschreibleistungen \nsowie höherem Leseverständnis. Sie ist in erster Linie Gegenstand des Deutschunterrichts.",
+        "residual_flags": []
+      },
+      {
+        "content": "In subject teaching too students are prompted to think and talk explicitly about language and its use; Sprachbewusstheit is fostered in a subject- and topic-related way.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Auch im Fachunterricht werden Schülerinnen und Schüler dazu angeregt, über Sprache und \nihren Gebrauch ausdrücklich nachzudenken und zu sprechen. Im Fachunterricht wird die \nSprachbewusstheit fach- und themenbezogen gefördert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students learn in all subjects to use linguistic registers consciously and purposefully and adapt their language use to the communicative situation by switching increasingly consciously between everyday, academic and technical language. NOTE: the source prints 'zwischen von Alltagssprache'.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Schülerinnen und Schüler lernen im \nFachunterricht aller Fächer sprachliche Register bewusst und zielgerichtet zu verwenden. Sie \npassen den eigenen Sprachgebrauch an die Kommunikationssituation an, indem sie zuneh-\nmend bewusst zwischen von Alltagssprache, Bildungs- und Fachsprache wechseln.",
+        "residual_flags": [
+          "source anomaly: 'indem sie zunehmend bewusst zwischen von Alltagssprache, Bildungs- und Fachsprache wechseln' — stray 'von'"
+        ]
+      },
+      {
+        "content": "They become able to communicate about an increasing range of subjects in an increasingly abstract and impersonal way and in a conceptually and medially written way (acquisition of academic and technical language competences; use of technical terms).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Sie sind \nin der Lage, über eine zunehmende Spannweite von Gegenständen in zunehmend abstrakter \nund unpersönlicher Weise sowie auf konzeptionell und medial schriftliche Weise zu verständi-\ngen (Erwerb bildungssprachlicher und fachsprachlicher Kompetenzen; Verwendung von Fach-\nbegriffen).",
+        "residual_flags": []
+      },
+      {
+        "content": "The teacher supports this, e.g. by prompting students to identify linguistic particularities and differences between everyday, academic and technical formulations in texts, to compare the use of terms in different contexts, to weigh formulations, to take on self- and peer corrections (Selbst- und Fremdkorrekturen zu übernehmen) and to revise texts.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Dabei werden sie durch die Lehrkraft unterstützt, z.B. indem sie dazu angeregt wer-\nden, sprachliche Besonderheiten sowie Unterschiede zwischen alltagssprachlichen, bildungs- \nund fachsprachlichen Formulierungen in Texten zu identifizieren, die Verwendung von Begrif-\nfen in unterschiedlichen Kontexten zu vergleichen, Formulierungen abzuwägen, Selbst- und \nFremdkorrekturen zu übernehmen und Texte zu überarbeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Engaging with linguistic registers awakens interest, curiosity and sensitivity for languages and language learning; emotional and social aspects of language use are also taken into account.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Rahmen der Auseinander-\nsetzung mit sprachlichen Registern wird Interesse, Neugierde und Sensibilität für Sprachen \nund Sprachenlernen geweckt. Dabei werden auch emotionale und soziale Aspekte der \nSprachverwendung berücksichtigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Multilingualism is also used for language comparison — depending on the subject context and the composition of the learning group — in order to develop Sprachbewusstheit; both multilingual and monolingual German students benefit from this. NOTE: the source has an unbalanced closing bracket after 'Lerngruppe'.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Auch Mehrsprachigkeit wird im Unterricht in Abhängigkeit \nvom fachlichen Kontext und der Zusammensetzung der Lerngruppe) zum Sprachvergleich ge-\nnutzt, um Sprachbewusstheit zu entwickeln. Davon profitieren sowohl mehrsprachige als auch \neinsprachig deutsche Schülerinnen und Schüler.",
+        "residual_flags": [
+          "source anomaly: 'und der Zusammensetzung der Lerngruppe) zum Sprachvergleich genutzt' — unbalanced closing parenthesis (no opening bracket)"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.4 Sprachbewusstheit"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "2.4 Sprachbewusstheit",
+        "printed_page_range": "9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

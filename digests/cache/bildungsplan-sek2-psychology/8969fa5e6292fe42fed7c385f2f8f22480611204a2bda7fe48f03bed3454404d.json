@@ -1,0 +1,159 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8969fa5e6292fe42fed7c385f2f8f22480611204a2bda7fe48f03bed3454404d"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "It is expressly emphasised that psychology teaching may not and does not want to be psychotherapy.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "ausdrücklich betont, dass Psychologieunter",
+        "residual_flags": []
+      },
+      {
+        "content": "A personal involvement must be assumed and considered in lesson planning.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "muss vorausgesetzt und bei der unterrichtlichen Planung berück",
+        "residual_flags": []
+      },
+      {
+        "content": "Content is selected by the principle of exemplary learning since the field cannot be conveyed in full breadth.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "eine Auswahl der Inhalte nach dem Prinzip des exemplarischen Lernens",
+        "residual_flags": []
+      },
+      {
+        "content": "Discovery learning should be fostered with selected subject-methodical approaches.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Das entdeckende Lernen sollte mithilfe",
+        "residual_flags": []
+      },
+      {
+        "content": "Under value education, psychology supports students in developing their own value system.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "unterstützt sie in der Entwicklung eines eigenen Wertesystems",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are encouraged to actively engage with their attitudes toward value plurality.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "sich aktiv mit ihren Haltun",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Fach Psychologie orientiert sich an der Fachwissenschaft Psychologie.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Das Fach Psychologie orientiert sich an der Fachwissenschaft Psychologie, deren Gegen-",
+        "residual_flags": []
+      },
+      {
+        "content": "Ein digital unterstützender Psychologieunterricht erhöht die Medienkompetenz der Schülerinnen und Schüler.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Ein digital unterstützender Psychologieunterricht erhöht die Medienkompetenz der Schülerin-",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+        "printed_page_range": "6–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

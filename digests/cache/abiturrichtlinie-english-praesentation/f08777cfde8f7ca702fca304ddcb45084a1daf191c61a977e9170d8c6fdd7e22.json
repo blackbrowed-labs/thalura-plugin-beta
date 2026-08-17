@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f08777cfde8f7ca702fca304ddcb45084a1daf191c61a977e9170d8c6fdd7e22"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Task 1: analyse Canada's image of itself, based on Trudeau's Canada House address of 26 November 2015.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — I Aufgabenstellung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "1. Analyse Canada’s image of itself. Base your analysis on Justin Trudeau’s Address at \nthe Canada House in London on November 26th, 2015.",
+        "residual_flags": []
+      },
+      {
+        "content": "The candidate then picks one of two follow-up assignments.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — I Aufgabenstellung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Choose one of the two following assignments.",
+        "residual_flags": []
+      },
+      {
+        "content": "Option 2a is to assess Canada's self-image; option 2b is to deliver a speech in response to Trudeau from a self-chosen perspective.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — I Aufgabenstellung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "2. a) Assess Canada's image of itself. \nb) Deliver a speech in response to Justin Trudeau from a perspective of your own \nchoice.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Canada — I Aufgabenstellung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Canada — I Aufgabenstellung",
+        "printed_page_range": "13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

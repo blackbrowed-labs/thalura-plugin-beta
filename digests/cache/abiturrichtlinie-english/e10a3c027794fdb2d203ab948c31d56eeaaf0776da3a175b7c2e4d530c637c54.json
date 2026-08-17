@@ -1,0 +1,222 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e10a3c027794fdb2d203ab948c31d56eeaaf0776da3a175b7c2e4d530c637c54"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The correction-mark table lists assessment weight, mark, error type and example; error types are weighted 1 to 3 according to the severity of the impediment to the comprehension process.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Bewertung\nZeichen\nFehlerart\nBeispiel\nIn der folgenden Tabelle werden die Fehlerarten nach der Schwere der Behinderung des Verständnisprozesses von 1 – 3 \ngewichtet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Weight 1 (only underlined) covers slips (Flüchtigkeitsfehler): a violation counts as a slip when the same word appears several times in the text and is misspelt only once.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "1. [wird nur\nunterstrichen]\na) Flüchtigkeitsfehler\nEindeutig als Flüchtigkeitsfehler zu bewerten ist ein Verstoß\ndann, wenn dasselbe Wort mehrfach im Text erscheint und\nnur einmal falsch geschrieben ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "A slip also occurs when a letter is omitted in high-frequency words such as 'and' or 'they'.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Ein slip liegt auch vor, wenn bei hoch-frequenten Wörtern (wie \nand oder they) ein Buchstabe weggelassen wird.\nZeichen: s.a",
+        "residual_flags": []
+      },
+      {
+        "content": "Weight 1 also covers identical repetition errors, arising from the mistaken use of a word, phrase or structure in exactly the same context as before.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "b) identische Wiederholungsfehler\nentstehen aus der irrtümlichen Verwendung eines Wortes,\neiner Wendung oder einer Struktur in genau demselben Zu-\nsammenhang wie vorher",
+        "residual_flags": []
+      },
+      {
+        "content": "Weight 1 also covers consequential errors (Folgefehler) which follow directly from a first error, e.g. in a summary; for other tense errors the analogous repetition errors apply.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "c) Folgefehler\nergeben sich als direkte Konsequenz aus einem ersten Feh-\nler, z. B. in einer summary:\nFür andere Tempusfehler vgl. analoge Wiederholungsfehler.",
+        "residual_flags": []
+      },
+      {
+        "content": "Weight 2 covers spelling errors (mark: sp): a spelling error occurs when a word is misspelt in one place but remains unambiguous and easily recognisable in context. NOTE: the source misspells this as 'Ein Rechschreibfehler liegt vor'.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "2. \na) Rechtschreibfehler\nZeichen: sp\nEin Rechschreibfehler liegt vor, wenn ein Wort an einer Stelle \nfalsch geschrieben wurde, trotz dieses Fehlers aber im Kon-\ntext eindeutig und leicht zu erkennen ist.",
+        "residual_flags": [
+          "source-typo: 'Ein Rechschreibfehler liegt vor' (for 'Rechtschreibfehler') preserved verbatim"
+        ]
+      },
+      {
+        "content": "A spelling error also occurs when the faulty word has a deviating pronunciation or results from wrongly applied or unapplied rules.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Ein Rechtschreibfehler liegt auch vor, wenn das fehlerhafte \nWort eine abweichende Aussprache hat oder auf falsch bzw. \nnicht angewendete Regeln zurückzuführen ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Weight 2 also covers analogous repetition errors: violations of the same principle in a different context, traceable to incomplete mastery of a rule (e.g. if clauses, reported speech, adjective/adverb, definite article, tenses).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "b) Analoge Wiederholungsfehler sind Verstöße gegen\ndasselbe Prinzip in einem anderen Zusammenhang. Diese\nFehler sind darauf zurückzuführen, dass eine Regel nicht\nvollständig beherrscht wird, z. B. die einzelnen Regeln für\ndie Anwendung von if clauses, reported speech, adjective/\nadverb, definite article, etc. auch die für den Gebrauch der\ntenses.",
+        "residual_flags": []
+      },
+      {
+        "content": "Weight 2 also covers punctuation errors (mark: punc), which count as violations only if they grossly distort the sense.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "c) Zeichensetzungsfehler\nwerden als Verstöße gewertet, wenn sie grob sinnentstellend\nsind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Weight 3 covers all other errors, above all those impairing understanding.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Alle anderen Fehler, vor allem, wenn sie das Verstehen \nbeeinträchtigen",
+        "residual_flags": []
+      },
+      {
+        "content": "Further differentiating error marks: t = tense error, gr = grammar and syntax, voc = vocabulary, ex = expression.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Weitere differenzierende Zeichen für Fehler*\nt\nTempusfehler (tense)\ngr\nFehler im Bereich Grammatik und Syntax\nvoc\nFehler im Bereich Wortschatz\nex\nFehler im Bereich Ausdruck",
+        "residual_flags": []
+      },
+      {
+        "content": "Further differentiating marks may be used only if previously agreed in the subject department (Fachschaft) and already used when correcting Studienstufe exams.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "* Weitere differenzierende Zeichen können eingesetzt werden, sofern sie zuvor in der Fachschaft abge-\nstimmt und bei der Korrektur von Klausuren in der Studienstufe bereits verwendet wurden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Clear merits and defects in the areas of content and expressive ability are to be noted in the margin and briefly justified.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Deutliche Vorzüge und Mängel in den Bereichen Inhalt und Ausdrucksvermögen sind am \nRand zu vermerken und knapp zu begründen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "4.4.4 Korrekturzeichen und Anmerkungen",
+        "printed_page_range": "23"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

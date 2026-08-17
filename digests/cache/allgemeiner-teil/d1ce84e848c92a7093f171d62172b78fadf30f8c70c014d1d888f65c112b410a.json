@@ -1,0 +1,111 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:d1ce84e848c92a7093f171d62172b78fadf30f8c70c014d1d888f65c112b410a"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Teaching in the upper secondary level conveys deepened general education, general readiness for university study and propaedeutic-scientific education.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.4 Die Studienstufe der gymnasialen Oberstufe",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Der Unterricht in der gymnasialen Oberstufe vermittelt eine vertiefte Allgemeinbildung, allge-\nmeine Studierfähigkeit sowie wissenschaftspropädeutische Bildung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The core subjects (Kernfächer) must be taken continuously in the Studienstufe, two of them at the raised requirement level (erhöhtes Anforderungsniveau).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.4 Die Studienstufe der gymnasialen Oberstufe",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Diese Kernfächer \nmüssen von den Schülerinnen und Schülern in der Studienstufe durchgängig belegt werden, \nzwei von ihnen auf erhöhtem Anforderungsniveau.",
+        "residual_flags": []
+      },
+      {
+        "content": "The subject Sport is not assigned to any task field (Aufgabenfeld).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.4 Die Studienstufe der gymnasialen Oberstufe",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Das Fach Sport ist keinem Aufgabenfeld zugeordnet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Shared examination tasks of the states cover German, English, French and Mathematics, and from examination year 2025 also Biology, Chemistry and Physics.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.4 Die Studienstufe der gymnasialen Oberstufe",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Dies betrifft die \nFächer Deutsch, Englisch, Französisch, Mathematik und ab dem Prüfungsjahr 2025 außerdem \ndie Fächer Biologie, Chemie und Physik.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6.4 Die Studienstufe der gymnasialen Oberstufe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "6.4 Die Studienstufe der gymnasialen Oberstufe",
+        "printed_page_range": "33–35"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

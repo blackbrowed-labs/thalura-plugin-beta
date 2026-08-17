@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:be9bf6072774b6fd8a3ce7de2eeeb8823a2a3d723a1b522e51364a3eb9cfa391"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken of compulsory module 1 (grade 8, topic area 'Auf der Suche nach dem Guten'): normative claims (Sollensansprüche) and their validity are the focus; students ask for justifications of values and norms and distinguish binding principles from pluralistically conceivable domains.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 1: Werte und Normen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "In diesem Modul zur philosophischen Ethik stehen Sollensansprüche \nund ihre Gültigkeit im Fokus. Die Schülerinnen und Schüler fragen \nnach Begründungen und Rechtfertigungen für Werte und Normen \nund unterscheiden elementare Handlungsprinzipien, die für ein fried-\nliches und humanes Miteinander verbindlich sein sollten (z. B. Ge-\nrechtigkeit), von Bereichen, die pluralistisch gedacht werden können \n(z. B. religiöse Deutungen des Miteinanders). Dabei reflektieren sie \nKonsequenzen für ihr Selbstverständnis und ihre Verantwortung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Contents (Inhalte) of PM1: values and norms in our life; value conflicts; self-determination, responsibility and duty.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 1: Werte und Normen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "• Werte und Normen in unserem Leben \n• Wertekonflikte \n• Selbstbestimmung, Verantwortung und Pflicht",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to the guiding perspective 'W' (values): students examine their own and others' values, norms and value orientations underlying decisions and actions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 1: Werte und Normen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler prüfen eigene und fremde Werte und \nNormen sowie Wertorientierungen, die Entscheidungen und Hand-\nlungen zugrunde liegen. Sie reflektieren Konsequenzen, die sich hie-\nraus für ihr Selbstverständnis sowie für die Übernahme von Verant-\nwortung ergeben. Es wird ihnen ermöglicht, über die Bedeutung ei-\ngener Werte für sich und die Gemeinschaft nachzudenken.",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to the guiding perspective 'BNE' (education for sustainable development): students explain shared responsibility for people and the environment and reflect on social and cultural aspects of BNE.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 1: Werte und Normen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler erläutern Mitverantwortung für \nMensch und Umwelt und reflektieren auch soziale und kulturelle As-\npekte von BNE im Kontext von Werten an ausgewählten Beispielen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Pflichtmodul 1: Werte und Normen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Pflichtmodul 1: Werte und Normen",
+        "printed_page_range": "15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

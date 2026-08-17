@@ -1,0 +1,449 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6ddb659d19afab35caa2ea4105eae4616bd2c0c6765de6ac810ae3aac02d1a10"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Environmental education (Umwelterziehung) is part of Education for Sustainable Development (BNE) and aims to develop a sense of responsibility for nature and the environment and strengthen the willingness to act for their protection.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Die Umwelterziehung ist Teil der Bildung für nachhaltige Entwicklung (BNE) und zielt darauf, bei \nJugendlichen und jungen Erwachsenen ein Verantwortungsbewusstsein für Natur und Umwelt \nzu entwickeln sowie die Bereitschaft zu stärken, für deren Schutz und Erhalt engagiert einzu-\ntreten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are to acquire applicable knowledge about nature, environmental and climate protection and to reflect and adapt their own behaviour and lifestyle so that the natural bases of life are preserved.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Die Schülerinnen und Schüler sollen anwendbares Wissen über Natur-, Umwelt- und Klima-\nschutz erwerben und lernen, das eigene Verhalten sowie den eigenen Lebensstil hinsichtlich \neines verantwortlichen und nachhaltigen Umgangs mit Ressourcen und mit Blick auf dessen \nAuswirkungen auf das Klima zu reflektieren und so anzupassen, dass die natürlichen Lebens-\ngrundlagen erhalten bleiben.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Aufgabengebiet also offers the chance to engage critically with the use of digital and other technologies with respect to the environment and climate, and to judge sources on environmental and climate protection critically.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Die Themenbereiche des Aufgabengebiets Umwelterziehung bieten auch die Möglichkeit, sich \nkritisch mit der Nutzung digitaler und anderer Technologien in Bezug auf die Entwicklung der \nUmwelt und des Klimas auseinanderzusetzen sowie Quellen zum Thema Umwelt- und Klima-\nschutz kritisch zu beurteilen und eine eigene Haltung dazu zu entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Aufgabengebiet comprises three thematic areas: climate change and climate protection, biodiversity, and sustainable consumption and waste.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Zum Aufgabengebiet Umwelterziehung gehören die Themenbereiche Klimawandel und Klima-\nschutz, Biodiversität sowie Nachhaltiger Konsum und Abfall.",
+        "residual_flags": []
+      },
+      {
+        "content": "Climate change and climate protection: students learn to recognise causes, consequences and risks of climate change, to react sensitively to the challenges and to develop measures for sustainable climate protection.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Die Schülerinnen und Schüler lernen, Ursachen, Folgen und Risiken des Klimawandels zu \nerkennen, sensibel auf die Herausforderungen zu reagieren und Maßnahmen für nachhaltigen \nKlimaschutz zu entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Biodiversity comprises the variety of living organisms on earth — species diversity, ecosystem diversity and genetic diversity within species; its reduction threatens our bases of life, and students recognise the value of biological diversity including its economic and ecological dimension.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Biodiversität umfasst die Vielfalt lebender Organismen auf der Erde. Hierzu zählen die Arten-\nvielfalt, die Vielfalt der Ökosysteme sowie die genetische Vielfalt innerhalb einzelner Arten. \nDie Reduktion der Artenvielfalt und der Ökosysteme ist eine Bedrohung unserer Lebensgrund-\nlagen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sustainable consumption: producing consumer goods emits greenhouse gases and consumes finite resources and energy; consumption behaviour, waste avoidance and waste recycling play a central role for environmental, nature and climate protection.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Konsumverhalten, Abfallvermeidung und die Verwertung von Abfällen spielen eine zent-\nrale Rolle für den Umwelt-, Natur- und Klimaschutz. Diese Zusammenhänge sollen den Schü-\nlerinnen und Schülern bewusst werden und ihr Engagement positiv beeinflussen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Erkennen E: students take information from given, self-researched or self-generated sources (media, explorations, experiments), produce tables, graphics and diagrams with guidance, and select information to discuss questions and confirm or refute theories and opinions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 62,
+          "physical_page": 62
+        },
+        "cited_text": "a) entnehmen angeleitet Informationen aus vorgegebenen oder selbst recherchierten oder selbst er-\nzeugten Quellen, z. B. Medien, Erkundungen, Versuche.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, B1: students consciously perceive nature as a necessary basis of life, discuss the effects of their actions on nature, environment and climate, become aware of their own responsibility, and judge protective measures using gathered information and facts.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 62,
+          "physical_page": 62
+        },
+        "cited_text": "a) nehmen die Natur und die natürliche Umgebung als notwendige Lebensgrundlage bewusst wahr. \nb) diskutieren Auswirkungen ihres Handelns auf die Entwicklung von Natur, Umwelt und Klima.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, B2: students develop an attitude towards nature, environmental and climate protection for the good of all living beings, evaluate consumer goods against sustainability criteria with guidance, and reflect their own consumption and resource use.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 62,
+          "physical_page": 62
+        },
+        "cited_text": "a) entwickeln eine Haltung zu Natur-, Umwelt- und Klimaschutz zum Wohle aller Lebewesen und be-\ngründen diese unter Anleitung mit Fakten und Erfahrungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Handeln: students take part in prepared school and out-of-school actions to protect nature, environment and climate, act increasingly resource-oriented in everyday life, develop and try out climate-friendly alternatives for their school, and present results to the school public.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 62,
+          "physical_page": 62
+        },
+        "cited_text": "a) entwickeln und erproben klimafreundliche Handlungsalternativen für ihre Schule. \nb) präsentieren Ergebnisse ihrer Arbeit zum Natur-, Umwelt- und Klimaschutz der Schulöffentlichkeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sekundarstufe I, E: students take information from given, self-researched or self-generated sources including measurements, produce tables, graphics and diagrams independently, and select information to confirm or refute hypotheses, theories and opinions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 63,
+          "physical_page": 63
+        },
+        "cited_text": "c) wählen geeignete Informationen aus, um eigene oder vorgegebene Fragestellungen zu diskutieren \nund zu beantworten, Hypothesen, Theorien und Meinungen zu bestätigen oder zu widerlegen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, B1: students become aware of their own AND a societal responsibility regarding damage and destruction of nature, environment and climate, and judge measures and strategies by establishing connections.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 63,
+          "physical_page": 63
+        },
+        "cited_text": "a) werden sich ihrer eigenen und einer gesellschaftlichen Verantwortung bezüglich Schädigung und Zer-\nstörung der Natur, Umwelt und des Klimas bewusst.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, B2: students develop an attitude to nature, environmental and climate protection, argue for it and stand up for it, evaluate consumer goods and consumption behaviour by sustainability criteria and develop their own evaluation criteria, and reflect their personal resource use criteria-led.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 63,
+          "physical_page": 63
+        },
+        "cited_text": "a) entwickeln eine Haltung zu Natur-, Umwelt- und Klimaschutz, begründen diese argumentativ und set-\nzen sich dafür ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, Handeln: students take part in and initiate school and out-of-school protection actions, shape their everyday life resource-oriented, plan, carry out and evaluate their own actions, projects and lasting changes, and present results to activate the school community.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 63,
+          "physical_page": 63
+        },
+        "cited_text": "b) planen in der Klasse, der Schule oder dem schulischen Nahraum angeleitet eigene Aktionen, Pro-\njekte und dauerhafte Veränderungen zum Schutz von Natur, Umwelt und Klima, führen sie durch und \nevaluieren sie.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 1 (grades 5/6), waste: recognising waste as a problem (regional and global pollution, waste volume at school, individual consumption), waste recycling with the four fractions — recyclables, paper, bio-waste and residual waste — and waste avoidance.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 64,
+          "physical_page": 64
+        },
+        "cited_text": "• Wege des Abfalls und Recyclingmöglichkeiten der vier Fraktio-\nnen: Wertstoffe, Papier, Bioabfall und Restmüll",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.1 also asks students to draw up an eco-balance (Ökobilanz) for a self-chosen nutrition topic and develop climate-friendly alternatives, e.g. comparing drink packaging or household helpers.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 64,
+          "physical_page": 64
+        },
+        "cited_text": "• zu einem selbst gewählten Schwerpunkt aus dem Ernährungsbe-\nreich eine Ökobilanz erstellen und klimafreundliche Alternativen \nentwickeln",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.2 (grades 5/6): using the DGE standards of more sustainable nutrition (seasonal, regional, organic) — predominantly plant-based diet, seasonal and regional cultivation, organic farming — and the consequences of one's own eating habits for nature, environment and climate.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "• Nutzung der DGE-Standards einer nachhaltigeren Ernährung \n(saisonal, regional, ökologischer Anbau)",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 2 (grades 7–10), causes of climate change: difference between weather and climate, natural and anthropogenic greenhouse effect, use of CO2 calculators, the CO2 footprint and the pros and cons of that concept, and political, socioeconomic and psychological causes.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 66,
+          "physical_page": 66
+        },
+        "cited_text": "2.1.1 Ursachen des Klimawandels \n• Unterschied zwischen Wetter und Klima \n• natürlicher und anthropogener Treibhauseffekt",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.1.2/2.1.3: global consequences (wildfire risk, hurricanes, polar ice melt), climate tipping elements, regional consequences for Germany and Hamburg (drought, flooding, heavy rain), socioeconomic consequences (climate flight, hunger, poverty), and regional adaptations such as the Hamburger Klimaplan.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 66,
+          "physical_page": 66
+        },
+        "cited_text": "2.1.3 Regionale Anpassungen für Hamburg \n• Hamburger Klimaplan",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.1.4 'Aktiv werden für den Klimaschutz': climate-protection potential at one's own school and in everyday life, school-public action, the work of climate and environmental organisations, and political actors' programmes and projects.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 66,
+          "physical_page": 66
+        },
+        "cited_text": "2.1.4 Aktiv werden für den Klimaschutz \n• Klimaschutzpotenziale der eigenen Schule",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.2 (grades 7–10), energy: the energy transition (fossil fuels and nuclear energy up to 1990 and today, political and economic contexts), the contribution of natural ecosystems to climate protection, renewable energies, and legislative, judicial and executive obstacles and solutions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 67,
+          "physical_page": 67
+        },
+        "cited_text": "2.2.1 Energiewende \n• Rolle von fossilen Brennstoffen und Kernenergie in der Energie-\nversorgung bis 1990 und heute",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.2.2: reducing energy use through efficiency and sufficiency — appliance efficiency, room temperature and energy use, electricity saving at school and home, savings through digitalisation, building energy standards and energy-efficient refurbishment.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 67,
+          "physical_page": 67
+        },
+        "cited_text": "2.2.2 Energieeinsatz reduzieren (Effizienz und Suffizienz)",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 3 (grades 7–10), biodiversity: the city as habitat (species and their adaptation, consequences of sealing, sustainable urban development, urban adaptation to climate consequences, Hamburg biodiversity projects).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 68,
+          "physical_page": 68
+        },
+        "cited_text": "3.1 Die Stadt als Lebensraum \n• Tier- und Pflanzenarten in der Stadt (z. B. Singvögel, Laub-\nbäume) und ihre Anpassung an den Lebensraum \n• Folgen der Versiegelung",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 3.2/3.3: human intervention in biodiversity (value of biological diversity, problems of agriculture, forestry and fishery, sustainable plant protection, restoring structural diversity, the neoclassical vs. commons discourse on nature) and species protection as climate protection.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 68,
+          "physical_page": 68
+        },
+        "cited_text": "3.3 Artenschutz als Klimaschutz \n• Arten- und Biotopschutzprogramme in Deutschland",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 4 (grades 7–10), problematic consumption: consumption behaviour and lifestyles regarding resource use (throw-away and affluent society), plastic waste pollution (e.g. ocean ecosystem), initiatives against waste, and one's own lifestyle's impact.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "4.1 Problematischer Konsum \n• Konsumverhalten und Lebensstile in Bezug auf Natur- und Kli-\nmaschutz sowie die Beanspruchung natürlicher Ressourcen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 4.2 'Ressourcenschützender Konsum': the term 'klimaneutral' and its meaningfulness, eco-labels, renewable raw materials as plastic alternatives, criteria for buying environmentally friendly products, packaging-free shopping, zero-waste actions, second-hand and repairing instead of consuming.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "4.2 Ressourcenschützender Konsum \n• der Begriff „klimaneutral“ und seine Aussagekraft \n• Kenntnis von Ökosiegeln und deren Nutzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 4.4 'Nachhaltige Ernährung': the CO2 balance of one's favourite dish and climate-friendly alternatives, political/social/economic causes of eating styles, the CO2 balance of school catering, and the problem of food waste / the meaning of the best-before date.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "• Problem der Lebensmittelverschwendung / Bedeutung des Min-\ndesthaltbarkeitsdatums)",
+        "residual_flags": [
+          "source-typo-verbatim: original reads '… des Mindesthaltbarkeitsdatums)' with an unmatched closing parenthesis"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 61,
+          "printed_page": 61
+        },
+        {
+          "physical_page": 62,
+          "printed_page": 62
+        },
+        {
+          "physical_page": 63,
+          "printed_page": 63
+        },
+        {
+          "physical_page": 64,
+          "printed_page": 64
+        },
+        {
+          "physical_page": 65,
+          "printed_page": 65
+        },
+        {
+          "physical_page": 66,
+          "printed_page": 66
+        },
+        {
+          "physical_page": 67,
+          "printed_page": 67
+        },
+        {
+          "physical_page": 68,
+          "printed_page": 68
+        },
+        {
+          "physical_page": 69,
+          "printed_page": 69
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.8 Umwelterziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.8 Umwelterziehung",
+        "printed_page_range": "61–69"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

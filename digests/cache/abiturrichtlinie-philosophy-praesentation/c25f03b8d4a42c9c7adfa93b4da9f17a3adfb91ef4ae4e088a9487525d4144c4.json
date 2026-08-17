@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c25f03b8d4a42c9c7adfa93b4da9f17a3adfb91ef4ae4e088a9487525d4144c4"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy-praesentation",
+      "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A 'good' performance is defined as 11 points.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "IV Bewertungskriterien [Feuerbach]",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Eine „gute“ Leistung (11 Punkte) liegt vor, wenn der Prüfling",
+        "residual_flags": []
+      },
+      {
+        "content": "An 'adequate' performance is defined as 05 points.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "IV Bewertungskriterien [Feuerbach]",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Eine „ausreichende“ Leistung (05 Punkte) liegt vor, wenn der Prüfling",
+        "residual_flags": []
+      },
+      {
+        "content": "For a 'good' performance the presentation is convincingly structured in content and form and delivered with technical skill.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "IV Bewertungskriterien [Feuerbach]",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "die Präsentation inhaltlich und formal überzeugend aufgebaut hat und technisch versiert darbietet,",
+        "residual_flags": []
+      },
+      {
+        "content": "For a 'good' performance the candidate visibly commands the subject-specific register (Fachsprache).",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "IV Bewertungskriterien [Feuerbach]",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "sich erkennbar geübt der Fachsprache bedient,",
+        "residual_flags": []
+      },
+      {
+        "content": "For an 'adequate' performance, Feuerbach's critical position on religion is presented only in rudimentary form.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "IV Bewertungskriterien [Feuerbach]",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "die religionskritische Position Feuerbachs im Ansatz präsentiert,",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "IV Bewertungskriterien [Feuerbach]"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy-praesentation",
+        "section_anchor": "IV Bewertungskriterien [Feuerbach]",
+        "printed_page_range": "8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:81582ee1ad249d9b71b1262ccd522d29ef215e3893796c36feb961c8d8ccd4ee"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The correction and assessment (Gutachten) of the writing and mediation task shows what value is attached to the student's solutions, findings or arguments and how far the student advanced the solution through successful contributions or impaired it through factual, logical or linguistic errors.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.1 Allgemeine Hinweise",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Aus der Korrektur und Beurteilung der Schreibaufgabe und der Sprachmittlungsaufgabe \n(Gutachten) geht hervor, welcher Wert den von der Schülerin bzw. dem Schüler vor-\ngebrachten Lösungen, Untersuchungsergebnissen oder Argumenten beigemessen wird \nund wie weit die Schülerin bzw. der Schüler die Lösung der gestellten Aufgaben durch \ngelungene Beiträge gefördert oder durch sachliche, logische oder sprachliche Fehler be-\neinträchtigt hat.",
+        "residual_flags": []
+      },
+      {
+        "content": "To appreciate the level of demand and the autonomy of the student's performance, all elements relevant to assessment — the task, the requirement description in the Erwartungshorizont, the marginal correction and the Gutachten — must be clearly related to one another; defects and merits are to be marked equally.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.1 Allgemeine Hinweise",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Um die Anspruchshöhe der Anforderungen und die Selbstständigkeit der Schülerleistung \nwürdigen zu können, müssen alle für die Bewertung relevanten Elemente – die Aufgaben-\nstellung, die Beschreibung der Anforderungen im Erwartungshorizont, die Randkorrek-\ntur und das Gutachten zur Begründung der Leistungsbewertung – deutlich aufeinander \nbezogen sein. Mängel und Vorzüge sind gleichermaßen zu kennzeichnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The marking must characterise the type and severity of the defect or the significance of the merit and relate to the expected part-performances.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.1 Allgemeine Hinweise",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Kennzeich-\nnung muss dabei die Art und Schwere des Mangels oder die Bedeutung des Vorzuges \ncharakterisieren und sich auf die erwarteten Teilleistungen beziehen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.4.1 Allgemeine Hinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "4.4.1 Allgemeine Hinweise",
+        "printed_page_range": "14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

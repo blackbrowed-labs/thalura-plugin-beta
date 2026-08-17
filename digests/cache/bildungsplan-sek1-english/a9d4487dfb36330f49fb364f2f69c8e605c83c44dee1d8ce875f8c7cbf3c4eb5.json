@@ -1,0 +1,1062 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:a9d4487dfb36330f49fb364f2f69c8e605c83c44dee1d8ce875f8c7cbf3c4eb5"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "D Fachbezogene digitale Kompetenz",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "D Fachbezogene digitale Kompetenz ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Einzelstandards werden hier nicht formuliert, finden sich jedoch teilweise in den Kompetenzbeschreibungen anderer Bereiche.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Einzelstandards werden hier nicht formuliert, finden sich jedoch teilweise in den Kompetenzbeschreibungen an-\nderer Bereiche. ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "nutzen digitale Möglichkeiten für den Sprachlernprozess,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• nutzen digitale Möglichkeiten für den Sprachlernprozess, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "verwenden digitale Hilfsmittel adressaten-, situations- und zweckangemessen, um die Kommunikation und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• verwenden digitale Hilfsmittel adressaten-, situations- und zweckangemessen, um die Kommunikation und ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Interaktion in der Fremdsprache zu unterstützen bzw. zu ermöglichen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Interaktion in der Fremdsprache zu unterstützen bzw. zu ermöglichen, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "entwickeln ihre Kenntnisse über digitale Hilfsmittel und können deren Leistungsfähigkeit und Begrenzungen kritisch und reflektiert einschätzen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• entwickeln ihre Kenntnisse über digitale Hilfsmittel und können deren Leistungsfähigkeit und Begrenzungen \nkritisch und reflektiert einschätzen. ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "TM Text- und Medienkompetenz rezeptiv / analytisch",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "TM Text- und Medienkompetenz \nrezeptiv / analytisch ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Anforderungen am Ende der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Anforderungen am Ende der ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "verstehen Arbeitsanweisungen und Aufgabenstellungen zur Bearbeitung von Übungen und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• verstehen Arbeitsanweisungen \nund Aufgabenstellungen zur Be-\narbeitung von Übungen und ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "aktivieren Vorwissen (sammeln z. B. Assoziationen zu einem",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• aktivieren Vorwissen (sammeln \nz. B. Assoziationen zu einem ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Thema, einem Bild oder anderen Impulsen),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Thema, einem Bild oder ande-\nren Impulsen), ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "wenden einfache Worterschließungsstrategien an,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• wenden einfache Worterschlie-\nßungsstrategien an, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "bearbeiten eng führende Aufgaben zum selektiven und globalen Hören und Lesen und beherrschen einfache Übungs- und Testverfahren zum Hör- und Leseverstehen (true/false statements, multiple-choice),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• bearbeiten eng führende Aufga-\nben zum selektiven und globa-\nlen Hören und Lesen und be-\nherrschen einfache Übungs- \nund Testverfahren zum Hör- \nund Leseverstehen (true/false \nstatements, multiple-choice), ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "untersuchen einfache Texte bezogen auf wesentliche Informationen und typische Merkmale:",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• untersuchen einfache Texte be-\nzogen auf wesentliche Informa-\ntionen und typische Merkmale: ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "kurze Geschichten (Hauptfiguren, Handlung), Gespräche, Telefongespräche, Interviews (Teilnehmer, Handlungskontext,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "kurze Geschichten (Hauptfigu-\nren, Handlung), Gespräche, Te-\nlefongespräche, Interviews \n(Teilnehmer, Handlungskontext, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Thema), Anweisungen, Beschriftungen, Reklame, Anzeigen, Briefe (Handlungskontext,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Thema), Anweisungen, Be-\nschriftungen, Reklame, Anzei-\ngen, Briefe (Handlungskontext, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "setzen gezielt und zunehmend selbstständig Techniken zum selektiven bzw. globalen Verstehen von Texten ein,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• setzen gezielt und zunehmend \nselbstständig Techniken zum \nselektiven bzw. globalen Ver-\nstehen von Texten ein, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "nutzen Vorwissen und Kontextwissen, um auch implizit gegebene Informationen zu erschließen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• nutzen Vorwissen und Kontext-\nwissen, um auch implizit gege-\nbene Informationen zu erschlie-\nßen, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "wenden Vernetzungs- und Memorierungstechniken bewusst an,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• wenden Vernetzungs- und Me-\nmorierungstechniken bewusst \nan, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "erschließen den sachlogischen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• erschließen den sachlogischen ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Aufbau von Texten, z. B. durch eine Gliederung oder das Markieren von relevanten Textstellen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Aufbau von Texten, z. B. durch \neine Gliederung oder das Mar-\nkieren von relevanten Textstel-\nlen, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "markieren inhaltlich oder stilistisch wichtige Passagen und strukturieren die entnommenen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• markieren inhaltlich oder stilis-\ntisch wichtige Passagen und \nstrukturieren die entnommenen ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Informationen (z. B. durch Unterstreichung von Schlüsselwörtern und -passagen, in Mindmaps, Clustern),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Informationen (z. B. durch Un-\nterstreichung von Schlüsselwör-\ntern und -passagen, in Mind-\nmaps, Clustern), ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "erschließen die Bedeutung von unbekannten Wörtern aus dem",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• erschließen die Bedeutung von \nunbekannten Wörtern aus dem ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Kontext und / oder mithilfe eines (Online-)Wörterbuchs sowie von",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Kontext und / oder mithilfe eines \n(Online-)Wörterbuchs sowie von ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "führen ein Lesetagebuch bei der Lektüre eines längeren Textes, formulieren darin Eindrücke und sammeln Textelemente zu den Hauptfiguren und zum",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• führen ein Lesetagebuch bei \nder Lektüre eines längeren Tex-\ntes, formulieren darin Eindrücke \nund sammeln Textelemente zu \nden Hauptfiguren und zum ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "setzen unterschiedliche Arbeitstechniken zum Hör- und Leseverstehen ein,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• setzen unterschiedliche Arbeits-\ntechniken zum Hör- und Lese-\nverstehen ein, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "gliedern und strukturieren längere Texte aufgabenbezogen (finden z. B. Überschriften und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• gliedern und strukturieren län-\ngere Texte aufgabenbezogen \n(finden z. B. Überschriften und ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Inhalte in einem Schaubild dar) und fassen sie zusammen (z. B.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Inhalte in einem Schaubild dar) \nund fassen sie zusammen (z. B. ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "in einer Stichwortsammlung),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "in einer Stichwortsammlung), ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "identifizieren inhaltlich oder stilistisch relevante Passagen und machen sich dazu geordnete",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "• identifizieren inhaltlich oder sti-\nlistisch relevante Passagen und \nmachen sich dazu geordnete ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Ende der Jahrgangsstufe 6",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Ende der Jahrgangsstufe 6 ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified",
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Ende der Jahrgangsstufe 8",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Ende der Jahrgangsstufe 8 ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified",
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Mindestanforderungen für den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Mindestanforderungen für \nden Übergang in die Studien-\nstufe ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "verfassen kurze Texte nach einem vorgegebenen Muster selbst, formen sie um oder gestalten sie ggf. auch szenisch,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• verfassen kurze Texte nach ei-\nnem vorgegebenen Muster \nselbst, formen sie um oder ge-\nstalten sie ggf. auch szenisch, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "setzen unter Anleitung (digitale)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• setzen unter Anleitung (digitale) ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Medien zur Informationsbeschaffung, zur kommunikativen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Medien zur Informationsbe-\nschaffung, zur kommunikativen ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Interaktion und zum Lernen ein,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Interaktion und zum Lernen ein, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "verwenden aufgabenbezogen einfache Informationsquellen (z. B. Internet, Radio oder Fernsehen),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• verwenden aufgabenbezogen \neinfache Informationsquellen \n(z. B. Internet, Radio oder Fern-\nsehen), ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "erstellen unter Anleitung individuell oder in Gruppen einfache",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• erstellen unter Anleitung indivi-\nduell oder in Gruppen einfache ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Präsentationen (z. B. wählen sie geeignete Medien, gliedern den Inhalt, entscheiden sich für eine Form der Visualisierung).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Präsentationen (z. B. wählen \nsie geeignete Medien, gliedern \nden Inhalt, entscheiden sich für \neine Form der Visualisierung). ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "formen einfache Texte um, ergänzen sie oder nutzen sie als",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• formen einfache Texte um, er-\ngänzen sie oder nutzen sie als ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Vorlage für die eigene Textproduktion,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Vorlage für die eigene Textpro-\nduktion, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "führen Rollenspiele und Interviews zu einfachen Textvorlagen durch,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• führen Rollenspiele und Inter-\nviews zu einfachen Textvorla-\ngen durch, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "führen anhand ausgewählter",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• führen anhand ausgewählter ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Websites Recherchen zu einem",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Websites Recherchen zu einem ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Thema durch und erstellen kurze Präsentationen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Thema durch und erstellen \nkurze Präsentationen, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "nutzen zunehmend selbstständig digitale Werkzeuge zur Präsentation von Arbeitsergebnissen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• nutzen zunehmend selbststän-\ndig digitale Werkzeuge zur Prä-\nsentation von Arbeitsergebnis-\nsen, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "formen Texte um, ergänzen sie oder nutzen sie als Vorlage für die eigene Textproduktion,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• formen Texte um, ergänzen sie \noder nutzen sie als Vorlage für \ndie eigene Textproduktion, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "formulieren geeignete Texte von einer Textsorte in eine andere um,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• formulieren geeignete Texte \nvon einer Textsorte in eine an-\ndere um, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "analysieren das Zusammenspiel von Sprache, Bild und Ton in Filmausschnitten, die ihren sprachlichen Kompetenzen entsprechen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• analysieren das Zusammen-\nspiel von Sprache, Bild und Ton \nin Filmausschnitten, die ihren \nsprachlichen Kompetenzen ent-\nsprechen, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "beschaffen selbstständig Informationen aus analogen und digitalen Quellen, werten sie aus und bereiten sie angemessen auf, auch mit digitalen Werkzeugen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• beschaffen selbstständig Infor-\nmationen aus analogen und di-\ngitalen Quellen, werten sie aus \nund bereiten sie angemessen \nauf, auch mit digitalen Werkzeu-\ngen, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "setzen analoge und digitale",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• setzen analoge und digitale ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Präsentationstechniken weitgehend selbstständig zur Darstellung von Arbeitsergebnissen ein (z. B. wählen sie Medien aus oder wenden Gliederungs- und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Präsentationstechniken weitge-\nhend selbstständig zur Darstel-\nlung von Arbeitsergebnissen ein \n(z. B. wählen sie Medien aus \noder wenden Gliederungs- und ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Inhalte tragen wesentlich zur Motivation der Lernenden für den Erwerb der Fremdsprache bei.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Inhalte tragen wesentlich zur Motivation der Lernenden für den Erwerb der Fremdsprache bei. ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Die Schülerinnen und Schüler erwerben interkulturelle kommunikative Kompetenz in einem thematischen Kontext. Sie setzen sich mit Themen und Texten auseinander, die",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Die Schülerinnen und Schüler erwerben interkulturelle kommunikative Kompetenz in einem \nthematischen Kontext. Sie setzen sich mit Themen und Texten auseinander, die ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "für Kinder und Jugendliche von besonderem Interesse sind,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• \nfür Kinder und Jugendliche von besonderem Interesse sind, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "sich auf Problematiken beziehen, die zur persönlichen Stellungnahme und Diskussion herausfordern und für die Gestaltung der gegenwärtigen und zukünftigen Gesellschaft von Bedeutung sind,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• \nsich auf Problematiken beziehen, die zur persönlichen Stellungnahme und Diskussion \nherausfordern und für die Gestaltung der gegenwärtigen und zukünftigen Gesellschaft \nvon Bedeutung sind, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "die Grundlagen für ihren weiteren Bildungsgang schaffen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• \ndie Grundlagen für ihren weiteren Bildungsgang schaffen, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "für ihre Entwicklung und die Bewältigung von Alltagssituationen wichtig sind,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• \nfür ihre Entwicklung und die Bewältigung von Alltagssituationen wichtig sind, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "der Vorbereitung auf das Berufsleben dienen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• \nder Vorbereitung auf das Berufsleben dienen, ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "sich durch interessante Darstellungsformen auszeichnen, die zur Interaktion zwischen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "• \nsich durch interessante Darstellungsformen auszeichnen, die zur Interaktion zwischen ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Leser und Text anregen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Leser und Text anregen. ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Die Kerncurricula definieren bedeutsame Inhalte, die an die Lebens- und Erfahrungswelt der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Die Kerncurricula definieren bedeutsame Inhalte, die an die Lebens- und Erfahrungswelt der ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Kinder und Jugendlichen anknüpfen, ihr Vorwissen nutzen und es ihnen ermöglichen, die",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Kinder und Jugendlichen anknüpfen, ihr Vorwissen nutzen und es ihnen ermöglichen, die ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Fremdsprache in einer Vielzahl von Kommunikationssituationen einzusetzen. Besonderer",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Fremdsprache in einer Vielzahl von Kommunikationssituationen einzusetzen. Besonderer ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      },
+      {
+        "content": "Wert wird auf Einblicke in die Lebenswelt von Menschen in den anglophonen Bezugskulturen gelegt, um den Erwerb interkultureller kommunikativer Kompetenz zu fördern, das Verständnis",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "D Fachbezogene digitale Kompetenz",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Wert wird auf Einblicke in die Lebenswelt von Menschen in den anglophonen Bezugskulturen \ngelegt, um den Erwerb interkultureller kommunikativer Kompetenz zu fördern, das Verständnis ",
+        "residual_flags": [
+          "partial-verification:67-of-68-claims-verified"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 40,
+          "printed_page": 40
+        },
+        {
+          "physical_page": 41,
+          "printed_page": 41
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "D Fachbezogene digitale Kompetenz"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "D Fachbezogene digitale Kompetenz",
+        "printed_page_range": "40–41"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

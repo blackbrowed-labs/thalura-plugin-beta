@@ -1,0 +1,289 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b5282caed06828bc4edb7ab518fb6d449bef32ad5944434c7fddd305098748ad"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Aim: the school supports every student in reflecting on their own learning behaviour in order to improve future learning processes.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Schule unterstützt jede Schülerin und jeden Schüler darin, das eigene Lernverhalten zu \nreflektieren und auf diese Weise künftige Lernprozesse zu verbessern.",
+        "residual_flags": []
+      },
+      {
+        "content": "The school offers many opportunities to check one's own learning and achievement level and to measure oneself against prescribed and self-set goals as well as one's own learning progress.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Sie bietet den Lernen-\nden vielfältige Gelegenheiten, den eigenen Lern- und Leistungsstand zu prüfen und sich an \nvorgegebenen wie selbst gesetzten Zielen sowie am eigenen Lernfortschritt zu messen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Such reflection promotes students' self-regulation and motivation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Sol-\nche Reflexionen fördern die Selbststeuerung und die Motivation der Schülerinnen und Schüler.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teachers accompany the learning and working process with individual, comprehensible and constructive feedback; mistakes are treated as significant and necessary points of connection in the learning process.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Lehrkräfte begleiten den Lern- und Arbeitsprozess der Schülerinnen und Schüler durch \nindividuelles, verständliches und konstruktives Feedback. Dabei werden Fehler als bedeu-\ntende und notwendige Anknüpfungspunkte im Lernprozess gesehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Peer feedback, in which students give each other feedback, is an important complement.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Eine wichtige Ergänzung \nstellen Formen des Peer-Feedbacks dar, in denen Schülerinnen und Schüler sich gegenseitig \nRückmeldung geben.",
+        "residual_flags": []
+      },
+      {
+        "content": "A successful feedback culture rests on a constructive learning atmosphere and a relationship marked by respect and appreciation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Grundlage einer erfolgreichen Rückmeldekultur ist eine konstruktive Ler-\nnatmosphäre und eine von Respekt und Wertschätzung geprägte Beziehung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intensity and frequency of teacher feedback follow the individual learning situation and achievement development; anomalies in learning/working behaviour or achievement development require closer support by the teacher.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Intensität und \nHäufigkeit des Feedbacks durch die Lehrkraft orientieren sich an der individuellen Lernsitua-\ntion und Leistungsentwicklung der Schülerinnen und Schüler. Auffälligkeiten im Lern- und Ar-\nbeitsverhalten oder in der Leistungsentwicklung erfordern eine engere Begleitung durch die \nLehrkraft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning-outcome checks (Lernerfolgskontrollen) and learning-status surveys (Lernstandserhebungen) give both teachers and learners information about successes and deficits of the preceding process and for shaping the following teaching and learning process.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Lernerfolgskontrollen und Lernstandserhebungen bieten Lehrenden wie Lernenden Hinweise \nzu den Erfolgen und Defiziten des vorausgegangenen und zur Gestaltung des nachfolgenden \nLehr- und Lernprozesses",
+        "residual_flags": []
+      },
+      {
+        "content": "Teachers derive information about the effectiveness of their teaching and take it into account when designing subsequent lessons.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Lehrerinnen und Lehrer erhalten Hinweise auf die Effektivität \nihres Unterrichts und berücksichtigen diese bei der Gestaltung des sich anschließenden Un-\nterrichts.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students engage thoroughly with the results and the accompanying learning-supportive hints and use them for their further learning and working process.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Schülerinnen und Schüler setzen sich mit den Ergebnissen sowie ergänzenden \nlernförderlichen Hinweisen eingehend auseinander und nutzen diese für ihren weiteren Lern- \nund Arbeitsprozess.",
+        "residual_flags": []
+      },
+      {
+        "content": "Achievement appraisal (Leistungsbeurteilung) is carried out under pedagogical responsibility and rests on regular observation of learning; it fosters students' ability to reflect on and steer their learning progress and their learning/working behaviour.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Leistungsbeurteilung erfolgt in pädagogischer Verantwortung und stützt sich auf regelmä-\nßige Lernbeobachtung. Sie fördert die Fähigkeit der Schülerinnen und Schüler zur Reflexion \nund Steuerung ihres Lernfortschritts sowie ihres Lern- und Arbeitsverhaltens.",
+        "residual_flags": []
+      },
+      {
+        "content": "Three things are distinguished: assessment of the learning status (Leistungsbewertung), appraisal of cross-curricular competencies (überfachliche Kompetenzen), and appraisal of learning development (Lernentwicklung).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Es wird unterschieden zwischen: \n• \nder Bewertung des Lernstandes (Leistungsbewertung), \n• \nder Einschätzung der überfachlichen Kompetenzen und \n• \nder Beurteilung der Lernentwicklung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Achievement assessment (Leistungsbewertung) refers to the learning status actually reached and lets students and guardians judge that status against the requirements of the curriculum framework (Bildungsplan).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Leistungsbewertung bezieht sich auf den jeweils erreichten Lernstand und bietet Schüle-\nrinnen und Schülern wie Sorgeberechtigten die Möglichkeit, den Lernstand vor dem Hinter-\ngrund der Anforderungen des Bildungsplanes einzuschätzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "This orientation towards the Bildungsplan requirements is especially important where the report card decides on school-leaving qualifications or entitlements such as promotion, repetition or transfer.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Dieser Orientierung an den An-\nforderungen des Bildungsplans kommt eine besondere Bedeutung zu, wenn mit dem Zeugnis \nüber Schulabschlüsse oder Berechtigungen wie Versetzungen, Wiederholungen oder Über-\ngangsberechtigungen entschieden wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Cross-curricular competencies and learning development are the basis for successful learning and are the object of learning observation in all grade levels.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Überfachliche Kompetenzen und Lernentwicklung sind Grundlage für erfolgreiches Lernen \nund in allen Jahrgangsstufen Gegenstand der Lernbeobachtung.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are appraised in learning-development conversations (Lernentwicklungsgespräche) and, per the applicable legal rules, also on the report card; the appraisal is based on the guidance in the framework plans (Rahmenpläne).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Einschätzung erfolgt in \nLernentwicklungsgesprächen und nach Maßgabe der geltenden Rechtsvorschriften auch im \nZeugnis. Grundlage der Einschätzung überfachlicher Kompetenzen bilden die Hinweise in den \nRahmenplänen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The appraisal of cross-curricular competencies is particularly important in advice and decisions on the school career, class repetition, or special/gifted support.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Besondere Bedeutung erhält die Einschätzung der überfachlichen Kompeten-\nzen im Zusammenhang von Beratung und Entscheidung zur Schullaufbahn, zu Klassenwie-\nderholungen oder besonderer Förderung und Begabungsförderung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Appraisal of learning development compares the level reached with the level at the start of the appraisal period, covering both cross-curricular competencies and subject requirements.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Beurteilung der Lernentwicklung erfolgt durch einen Vergleich des erreichten Lern- und \nEntwicklungsstandes mit dem Lern- und Entwicklungsstand zu Beginn des Beurteilungszeit-\nraums. Sie bezieht sich sowohl auf die überfachlichen Kompetenzen als auch auf die fachli-\nchen Anforderungen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

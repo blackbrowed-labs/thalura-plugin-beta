@@ -1,0 +1,142 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ab278749b418fca86b7c535b3cc98b84c7f92ee465d5c484ddfcd4e258d7cb70"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The conceptual definition distinguishes aggression, aggressiveness and violence.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.5 Antisoziales Verhalten",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Begriffsunterscheidung Aggression, Aggressivität und Gewalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Forms of antisocial behavior distinguish instrumental from hostile aggression, physical from verbal, and direct from indirect aggression.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.5 Antisoziales Verhalten",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "instrumenteller und feindseliger Aggression \no physischer und verbaler Aggression \no direkter und indirekter Aggression",
+        "residual_flags": []
+      },
+      {
+        "content": "At least two, for the advanced level three, explanatory approaches are treated.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.5 Antisoziales Verhalten",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Hier sollen mindestens zwei, für eA mindestens drei Ansätze \nbehandelt werden:",
+        "residual_flags": []
+      },
+      {
+        "content": "Explanatory approaches include Freud's drive-theory approach and the catharsis hypothesis and Lorenz's biological approach.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.5 Antisoziales Verhalten",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "triebtheoretischer Ansatz (Freud) und die Katharsishypothese \n• biologischer Ansatz (Lorenz)",
+        "residual_flags": []
+      },
+      {
+        "content": "The frustration-aggression hypothesis by Dollard et al. or Miller and its further development by Berkowitz is covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.5 Antisoziales Verhalten",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Frustrations-Aggressions-Hypothese (u. a. Dollard et al. oder \nMiller) und deren Weiterentwicklung (z. B. Berkowitz)",
+        "residual_flags": []
+      },
+      {
+        "content": "Zillmann's excitation-transfer theory and Bandura's socio-cognitive approach are covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.5 Antisoziales Verhalten",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Theorie der Erregungsübertragung nach Zillmann \n• sozialkognitiver Ansatz (Bandura)",
+        "residual_flags": []
+      },
+      {
+        "content": "Research methods include the Bobo doll experiment and Zimbardo's Stanford prison experiment.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.5 Antisoziales Verhalten",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Bobo-Doll-Experiment \n• Stanford-Prison-Experiment (Zimbardo)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S4.5 Antisoziales Verhalten"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S4.5 Antisoziales Verhalten",
+        "printed_page_range": "36"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

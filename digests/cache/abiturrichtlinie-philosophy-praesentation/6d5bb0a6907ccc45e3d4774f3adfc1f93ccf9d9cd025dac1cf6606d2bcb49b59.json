@@ -1,0 +1,141 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6d5bb0a6907ccc45e3d4774f3adfc1f93ccf9d9cd025dac1cf6606d2bcb49b59"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy-praesentation",
+      "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The candidate names Metaphysics (critique of religion) as the chosen area; the examiner adds Ethics and Politics to secure the cross-semester requirement.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Thema: Die Feuerbach'sche Religionskritik (gA)",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Der Prüfling gibt als Bereich für die Präsentationsprüfung das Thema Metaphysik (Religionskritik) an;",
+        "residual_flags": []
+      },
+      {
+        "content": "The task asks the candidate to discuss ethical and political consequences in light of the historical context.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Thema: Die Feuerbach'sche Religionskritik (gA)",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Erörtern Sie unter Berücksichtigung des historischen Kontextes ethische und politische Konsequenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "All three requirement levels (Anforderungsbereiche) must be covered when working on the task.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Thema: Die Feuerbach'sche Religionskritik (gA)",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Bei der Bearbeitung der Aufgabe sind alle drei Anforderungsbereiche einzubeziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The task covers two content areas that were the subject of two semesters.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Thema: Die Feuerbach'sche Religionskritik (gA)",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Aufgabenstellung deckt zwei Inhaltsbereiche ab, die Thema zweier Semester",
+        "residual_flags": []
+      },
+      {
+        "content": "Grading anchors are defined for a 'good' (11 points) performance.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Thema: Die Feuerbach'sche Religionskritik (gA)",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Eine „gute“ Leistung (11 Punkte) liegt vor, wenn der Prüfling",
+        "residual_flags": []
+      },
+      {
+        "content": "Recommended primary literature includes Feuerbach's Das Wesen des Christentums.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Thema: Die Feuerbach'sche Religionskritik (gA)",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Feuerbach, Ludwig: Das Wesen des Christentums (1841).",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Thema: Die Feuerbach'sche Religionskritik (gA)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy-praesentation",
+        "section_anchor": "Thema: Die Feuerbach'sche Religionskritik (gA)",
+        "printed_page_range": "6–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

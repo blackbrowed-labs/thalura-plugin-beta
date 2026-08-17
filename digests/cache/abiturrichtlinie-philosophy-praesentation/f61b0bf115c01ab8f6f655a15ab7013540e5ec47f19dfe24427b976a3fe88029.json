@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f61b0bf115c01ab8f6f655a15ab7013540e5ec47f19dfe24427b976a3fe88029"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy-praesentation",
+      "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The revised sample tasks support the presentation exam (Präsentationsprüfung) under the newly worded § 26 of the APO-AH; the presentation now takes one third of the exam time, i.e. 10 minutes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Künftig ist für die Präsentation ein Drittel der Prüfungszeit, also 10 Minuten, vorgesehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The subject-matter discussion (Fachgespräch) is extended to two thirds of the exam time, i.e. 20 minutes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Das Fachgespräch wird auf zwei Drittel der Prüfungszeit, also 20 Minuten, ausgeweitet.",
+        "residual_flags": []
+      },
+      {
+        "content": "§ 26 para. 5 as newly worded caps the weight of the presentation in the exam grade.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Hinblick auf die veränderten Zeitanteile legt der neugefasste § 26 Absatz 5 fest,",
+        "residual_flags": []
+      },
+      {
+        "content": "The task must ensure the so-called cross-semester requirement (Semesterübergriff): the presentation must cover competence or content areas of at least two semesters of the Studienstufe.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "dass die Präsentation unterschiedliche Kompetenz- bzw. Inhaltsbereiche mindestens zweier Semester der Studienstufe beinhaltet",
+        "residual_flags": []
+      },
+      {
+        "content": "Across the exam as a whole, each of the two content/competence areas must be examined in all three requirement levels (Anforderungsbereiche).",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Hinsichtlich der Anforderungen ist zu beachten, dass mit Blick auf die gesamte Prüfung jeder der beiden Inhalts- bzw. Kompetenzbereiche in allen drei Anforderungsbereichen geprüft wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "An explicit task statement (Aufgabenstellung) must always be formulated; merely naming an exam topic as a heading is not sufficient.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "In jedem Fall muss eine explizite Aufgabenstellung formuliert sein;",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Einleitung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy-praesentation",
+        "section_anchor": "Einleitung",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

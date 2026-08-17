@@ -35,7 +35,14 @@ same structure-delimited, collision-safe parse.
 Malformed / no envelope -> prints nothing, exit 0 (the hook then no-ops).
 Every failure is swallowed: this is fail-open enforcement infra, never a teacher
 deliverable, and must never break the in-band answer.
+
+ONE THING IS NOT SWALLOWED, AND IT IS THE COORDINATE. A section whose identity and
+digest are well-shaped is ALWAYS emitted, even when ``cache.py`` cannot place the
+coordinate it names; the key it is emitted under then carries the helper's unresolved
+marker and ``cache.py put`` refuses it, loudly, where the caller can log the reason.
+Dropping it here instead would erase the whole firing -- see ``_section_key``.
 """
+import hashlib
 import json
 import os
 import sys
@@ -231,8 +238,78 @@ def _fenced_blocks(text):
         pos = end
 
 
+def _section_key(identity):
+    """The dedup/audit key for one well-shaped section — and NEVER a reason to drop it.
+
+    WHAT THIS EXISTS TO PREVENT. The key used to be computed inside the very ``try``
+    that guards the section's SHAPE, so any failure to compute it took that ``except``
+    and dropped the section with a bare ``continue`` — before a single TSV line was
+    emitted. Downstream that is not "one entry missing": the caller's
+    ``[ -n "$SECTIONS" ] || emit_noop`` returns before its audit log is ever opened, so
+    the WHOLE firing produced no entry, no diagnostic and no audit line, and exited 0 —
+    byte-identical to "this was not the firewall". A coordinate the cache helper cannot
+    place is precisely the case that most needs to be visible, and it was the case that
+    disappeared most completely. Same pathology as the ``LC_ALL=C`` bug documented in
+    ``main`` below, reached by a different door.
+
+    THE INVARIANT IS OWNED HERE, NOT BORROWED. ``cache.section_key`` answers an
+    unplaceable coordinate with a sentinel value rather than an exception, so on today's
+    tree the fallback below is not reached. That is a property of the helper, and this
+    module must not rest on it: what this file guarantees is that a section with a
+    well-shaped identity and digest ALWAYS reaches the caller, and that ``cache.py`` —
+    whose stderr the caller does capture and lift into the audit line — is what decides
+    its fate. A helper that starts raising again must not be able to make this hook go
+    silent.
+
+    THE FALLBACK KEY IS BUILT FOR THE ONE JOB THE EMITTED KEY ACTUALLY HAS ON THIS PATH:
+    it is printed in the audit line. Nothing compares it against a key ``cache.py``
+    computes — that re-derives its own from the identity file it is handed — so it need
+    only be deterministic and distinct per identity.
+
+    IT IS NOT ABOUT DEDUP, and an earlier draft of this docstring said it was. The caller
+    does name its dedup marker after this key, but it writes that marker ONLY after a
+    successful put; an unplaceable coordinate always exits non-zero, so no marker is ever
+    created under this prefix and the caller's dedup test cannot fire on this path at all.
+    Measured: a shared constant loses no audit line, and a repeated bad section is NOT
+    deduped. What distinctness actually buys is audit legibility — N refusals stay
+    individually identifiable instead of collapsing into one opaque key — and it keeps a
+    future caller that did mark failures correct by construction. The helper's own marker
+    prefix is reused so both kinds of key read alike in the audit log and classify alike
+    to its reader.
+    """
+    try:
+        key = cache.section_key(identity)
+    except Exception:  # noqa: BLE001 — an unplaceable coordinate is not a dropped section
+        key = None
+    if isinstance(key, str) and key:
+        return key
+    try:
+        canonical = json.dumps(identity, sort_keys=True, ensure_ascii=False,
+                               separators=(",", ":"), default=str)
+    except Exception:  # noqa: BLE001 — a value json cannot even repr must still key
+        canonical = repr(identity)
+    return cache.UNRESOLVED_KEY_PREFIX + hashlib.sha256(
+        canonical.encode("utf-8", "replace")).hexdigest()
+
+
 def main():
-    raw = sys.stdin.read()
+    # Read stdin as BYTES and decode UTF-8 explicitly — never ``sys.stdin.read()``.
+    # Under a non-UTF-8 locale (``LC_ALL=C``) CPython gives sys.stdin the ascii
+    # codec with ``surrogateescape``, so every German byte in the event arrives as
+    # a LONE SURROGATE. Those survive json.loads and the whole parse, and then die
+    # at the identity/digest writes below: the files are (correctly) opened
+    # ``encoding="utf-8"``, which is strict, and a lone surrogate is not encodable
+    # — ``UnicodeEncodeError`` — which the per-section ``except Exception:
+    # continue`` swallows. The section is dropped, stdout stays empty, and the
+    # caller's ``[ -n "$SECTIONS" ] || emit_noop`` skips the entire digest write
+    # with NO audit line at all: indistinguishable from "this was not the
+    # firewall". Measured: the same envelope emitted a TSV line under UTF-8 and
+    # nothing whatsoever — exit 0, empty stderr — under LC_ALL=C.
+    #
+    # Decoding here means the surrogates never exist, so the two writes below need
+    # no change: what reaches them is real text. Idiom matches the three gates
+    # hardened earlier (hooks/fanout-gate.sh:110, :145).
+    raw = sys.stdin.buffer.read().decode("utf-8", "replace")
     if cache is None:
         return 0
     try:
@@ -254,14 +331,20 @@ def main():
     tmpdir = None
     n = 0
     for obj in _fenced_blocks(text):
+        # THE SHAPE GUARD, AND ONLY THE SHAPE. A section that carries no identity or no
+        # digest, or carries them as something other than objects, is not a coordinate
+        # this hook can do anything with and is skipped — pre-existing behaviour, kept
+        # deliberately. What must NOT be skipped is a well-shaped section whose
+        # coordinate merely fails to resolve; the key for that one is computed OUTSIDE
+        # this guard, by ``_section_key``, which cannot fail the section.
         try:
             identity = obj["identity"]
             digest = obj["digest"]
-            if not isinstance(identity, dict) or not isinstance(digest, dict):
-                continue
-            key = cache.section_key(identity)
         except Exception:  # noqa: BLE001 — skip a malformed section, keep the rest
             continue
+        if not isinstance(identity, dict) or not isinstance(digest, dict):
+            continue
+        key = _section_key(identity)
         if tmpdir is None:
             tmpdir = tempfile.mkdtemp(prefix="thalura-env-")
         id_path = os.path.join(tmpdir, "id_%d.json" % n)
@@ -273,7 +356,19 @@ def main():
                 json.dump(digest, fh, ensure_ascii=False)
         except Exception:  # noqa: BLE001
             continue
-        sys.stdout.write("%s\t%s\t%s\n" % (key, id_path, dg_path))
+        # Emit the TSV line as BYTES too — the other end of the same boundary.
+        # ``key`` is ASCII (sha256 hex), but the two paths came from the
+        # FILESYSTEM: mkdtemp derives them from TMPDIR, so on a host whose TMPDIR
+        # is non-ASCII they carry either real characters (macOS forces a utf-8
+        # filesystem encoding) or lone surrogates (Linux under LC_ALL=C, where the
+        # filesystem encoding follows the locale). Writing real characters to an
+        # ascii stdout raises; writing surrogates to a utf-8 one raises. os.fsencode
+        # is the one form that recovers the EXACT bytes the filesystem holds under
+        # either, which is what the caller needs — it feeds these paths straight
+        # back to ``[ -f "$id_file" ]``, and the shell compares bytes.
+        sys.stdout.buffer.write(key.encode("utf-8", "replace") + b"\t"
+                                + os.fsencode(id_path) + b"\t"
+                                + os.fsencode(dg_path) + b"\n")
         n += 1
     return 0
 

@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:33f8822d213484900602f905da76c9ff5b894959a05f1e4d4f1cb03705c80313"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content: the influence of language on our thinking and our understanding of the world; language, world and worldview; acting through language.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Sprache, Denken, Handeln",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Der Einfluss der Sprache auf unser Denken und unser \nWeltverständnis \n• Sprache, Welt und Weltsicht \n• Handeln durch Sprache",
+        "residual_flags": []
+      },
+      {
+        "content": "Concept in brackets: the linguistic relativity principle.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Sprache, Denken, Handeln",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "(das linguistische Relativitätsprinzip)",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised requirement level: logic and argumentation (syllogisms, the Toulmin scheme).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Sprache, Denken, Handeln",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Zusätzlich im erhöhten Anforderungsniveau: \nLogik und Argumentation \n(Syllogismen, das Toulmin-Schema)",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective W: students reflect on how far linguistic imprints can create problems for living together in a multicultural society and discuss solutions.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Sprache, Denken, Handeln",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "reflektieren, inwieweit sprachliche Prägun-\ngen Probleme für das Zusammenleben in einer multikulturellen \nGesellschaft mit sich bringen können",
+        "residual_flags": []
+      },
+      {
+        "content": "Specialist terms: Begriff, Definition, Objektsprache, Metasprache.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Sprache, Denken, Handeln",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Begriff, Definition, Objekt-\nsprache, Metasprache",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 2 — Sprache, Denken, Handeln"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 2 — Sprache, Denken, Handeln",
+        "printed_page_range": "17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7671c37279696033eaa4fae47844d131e513f3a326044fb9ad66eadb7db521db"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Sprachhandlung 1 ANWEISUNGEN & AUFGABENSTELLUNGEN AUSFÜHREN UND ERTEILEN — purpose: among other things to call for the performance of language actions; it can therefore relate to the call to perform all the following Sprachhandlungen.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "1. ANWEISUNGEN & AUFGABENSTELLUNGEN AUSFÜHREN UND ERTEILEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Zweck dieser Handlung ist u.a. zur Durch-\nführung von Sprachhandlungen aufzufor-\ndern. Sie kann sich daher auf die Auffor-\nderung zur Ausführung aller folgenden \nSprachhandlungen beziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Descriptors 1.1–1.4: open up and implement orally or in writing formulated work orders or instructions for solving a task; understand and implement subject-related work instructions with the corresponding operator; ask when an instruction is not understood; formulate an instruction or task oneself following a model.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "1. ANWEISUNGEN & AUFGABENSTELLUNGEN AUSFÜHREN UND ERTEILEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "1.1 mündlich oder schriftlich formulierte Arbeitsaufträge oder Anweisungen zur Lösung einer Aufgabe \nerschließen und umsetzen \n1.2 fachbezogene mündlich oder schriftlich gestellte Arbeitsanweisungen mit dem entsprechenden Ope-\nrator verstehen und umsetzen \n1.3 nachfragen, wenn eine Anweisung nicht verstanden wird \n1.4 eine Anweisung oder Aufgabe nach Muster selbst formulieren",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1. ANWEISUNGEN & AUFGABENSTELLUNGEN AUSFÜHREN UND ERTEILEN"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "1. ANWEISUNGEN & AUFGABENSTELLUNGEN AUSFÜHREN UND ERTEILEN",
+        "printed_page_range": "19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

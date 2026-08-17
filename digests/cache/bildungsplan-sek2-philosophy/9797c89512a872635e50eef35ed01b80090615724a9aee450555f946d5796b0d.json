@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:9797c89512a872635e50eef35ed01b80090615724a9aee450555f946d5796b0d"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content: peace as a moral duty and a demand of reason; identity and the 'clash of civilisations'; transcultural perspectives.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Brücken in eine friedliche Zukunft",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Frieden als moralische Pflicht und Forderung der Ver-\nnunft",
+        "residual_flags": []
+      },
+      {
+        "content": "Concepts in brackets: sociocultural diversity, cultural relativism, tolerance, protection of minorities, human rights.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Brücken in eine friedliche Zukunft",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "(soziokulturelle Diversität, Kulturrelativismus, Toleranz, Minder-\nheitenschutz, Menschenrechte)",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised requirement level: global justice and international peace (climate justice, distribution of resources, freedom of movement, criticism of globalisation).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Brücken in eine friedliche Zukunft",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Zusätzlich im erhöhten Anforderungsniveau: \nGlobale Gerechtigkeit und internationaler Friede",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective W: the fundamental aim is a sensitive handling of diversity and the acquisition of moral judgement.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Brücken in eine friedliche Zukunft",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Grundlegendes Ziel ist ein sensibler Umgang mit Vielfalt und der \nErwerb moralischer Urteilsfähigkeit",
+        "residual_flags": []
+      },
+      {
+        "content": "Specialist terms: pluralistische Gesellschaft, Solidarität, Partizipation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Brücken in eine friedliche Zukunft",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "pluralistische Gesellschaft, \nSolidarität, Partizipation",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 4 — Brücken in eine friedliche Zukunft"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 4 — Brücken in eine friedliche Zukunft",
+        "printed_page_range": "20"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

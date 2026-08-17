@@ -1,0 +1,132 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:77a69dba205c4f26ca9867edbae856ffee051d830505d6df8405200e1f2f9aaa"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Requirement level I covers reproducing and presenting facts from a delimited field in the learned context.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Anforderungsbereich I umfasst das Wiedergeben und Darstellen von Sachverhalten aus einem abgegrenzten Gebiet und im gelernten Zusammenhang",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirement levels are interdependent: III includes I and II, and II includes I.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Anforderungsbereiche sind in ihrer wechselseitigen Abhängigkeit zu sehen",
+        "residual_flags": []
+      },
+      {
+        "content": "Reproduction of knowledge alone (level I) cannot yield an adequate ('ausreichend') performance.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Allein durch die Wiedergabe von Kenntnissen (Anforderungsbereich I) kann eine ausreichende Leistung nicht erbracht werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Operators used in the Abitur task statement must be known to candidates from teaching.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die in der Aufgabenstellung der Abiturprüfung verwendeten Operatoren müssen den Prüflingen aus dem Unterricht bekannt sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich III verlangt, das philosophische Problem inhaltlich und methodisch selbststaendig zu reflektieren.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "inhaltlich und methodisch selbstständig das philosophische Problem reflektieren",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3 Anforderungsbereiche"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "3 Anforderungsbereiche",
+        "printed_page_range": "5–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

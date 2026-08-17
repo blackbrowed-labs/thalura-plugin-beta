@@ -5,7 +5,16 @@ description: Run setup, create your teacher profile, and produce your first arti
 
 # Getting started
 
-> The English guide is being translated. See the German version: [`guide/de/erste-schritte.md`](../de/erste-schritte.md).
+> Only the sections below are translated so far. For the rest of this page, see the German version: [`guide/de/erste-schritte.md`](../de/erste-schritte.md).
+
+**One thing first:** in Claude Cowork, Thalura has to run on your own computer,
+not in the cloud — otherwise the references to the curriculum standards
+(Bildungsplan) in your documents are not clickable, the year overview
+(Schuljahresübersicht) is not written, and your documents are produced without
+your school's template. To set this, open **Settings → Cowork**, switch off
+**"Run new tasks in the cloud"** — the setting that starts new tasks in the cloud
+instead of on this computer — and then start a new task. How to check that it
+took effect is described under **[Installation](./installation.md)**.
 
 ## The school-year transition
 

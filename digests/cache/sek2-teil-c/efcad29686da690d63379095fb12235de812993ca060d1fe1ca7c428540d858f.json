@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:efcad29686da690d63379095fb12235de812993ca060d1fe1ca7c428540d858f"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Criteria for oral performance begin with relevance and factual correctness of the statements.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Für die mündlichen Leistungen gelten insbesondere folgende Bewertungskriterien: \n• \nRelevanz und sachliche Richtigkeit der Aussagen",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for written performance begin with task relatedness, substantive relevance and factual correctness.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Für die schriftlichen Leistungen gelten insbesondere folgende Bewertungskriterien: \n• \nAufgabenbezug, inhaltliche Relevanz und sachliche Richtigkeit",
+        "residual_flags": []
+      },
+      {
+        "content": "For practical performance, subject-specific grading criteria apply.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Für die praktischen Leistungen gelten fachspezifische Bewertungskriterien.",
+        "residual_flags": []
+      },
+      {
+        "content": "Additional criteria apply to phases of cooperative or collaborative learning, e.g. initiative and impulses for the joint work.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Phasen kooperativen bzw. kollaborativen Lernens (z. B. Partner- oder Gruppenarbeit): \n• \nInitiativen und Impulse für die gemeinsame Arbeit",
+        "residual_flags": []
+      },
+      {
+        "content": "For work products, criteria include delimiting the topic and developing one's own question.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Arbeitsprodukte: \n• \nEingrenzung des Themas, Entwicklung einer eigenen Fragestellung",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6 Bewertungskriterien"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "6 Bewertungskriterien",
+        "printed_page_range": "14–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

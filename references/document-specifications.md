@@ -89,7 +89,7 @@ Contents:
 - Cross-references to optional modules (Querbezüge zu Wahlmodulen) — if applicable
 - Core competency domains (Kompetenzbereiche) — with document name and page numbers
 
-APA citation format:
+APA citation format — the page component follows the canonical rule at `${CLAUDE_PLUGIN_ROOT}/references/regulation-naming.md` → *Teacher-Facing Citation Format*:
 > Behörde für Schule und Berufsbildung [BSB]. (2022). *Bildungsplan Gymnasiale Oberstufe: Philosophie* (S. 23–25). Freie und Hansestadt Hamburg.
 
 Items that do not apply (e.g., Schwerpunktthema for Sek I, Aufgabengebiete for Sek II) are omitted, not shown as empty.
@@ -489,6 +489,11 @@ lesson 1). No additional scaffolding required.
 
 ## Phase Table
 
+> The worked example below depicts a **German-language** document, so its page reference uses the German
+> abbreviation. The abbreviation always follows the language of the document being generated, per
+> `${CLAUDE_PLUGIN_ROOT}/references/regulation-naming.md` → *Teacher-Facing Citation Format* — an English-language
+> document renders the same reference with the English abbreviation.
+
 | Phase              | Time   | Content / Activity                                                                                    | Social Form | Media / Material   | Operators           | Differentiation   |
 |--------------------|--------|-------------------------------------------------------------------------------------------------------|-------------|--------------------|---------------------|-----------------  |
 | Opening            | 10 min | Image stimulus: migration routes. *Guiding question (Leitfrage): Are push factors more powerful than pull factors?* | PL          | Whiteboard, images | Beschreiben (AB I)  | —                 |
@@ -500,7 +505,7 @@ lesson 1). No additional scaffolding required.
 | → Reflection       |  5 min | Outer circle gives feedback. Plenary debrief.                                                         | PL          | Whiteboard         | Bewerten (AB III)   | —                 |
 | Buffer             | 10 min | Written reflection on key insight                                                                     | EA          | Notebook           | Erörtern (AB III)   | Extended time     |
 
-Curriculum Reference: Bildungsplan Englisch Gymnasium Sek II, pp. 23–25,
+Curriculum Reference: Bildungsplan Englisch Gymnasium Sek II, S. 23–25,
 Interkulturelle Kompetenz, Sprachbewusstheit
 
 ## Material Overview for this Lesson

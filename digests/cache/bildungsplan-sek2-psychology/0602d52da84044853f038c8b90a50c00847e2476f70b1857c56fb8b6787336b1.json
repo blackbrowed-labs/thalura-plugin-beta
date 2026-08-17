@@ -1,0 +1,159 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0602d52da84044853f038c8b90a50c00847e2476f70b1857c56fb8b6787336b1"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Basic terms of perception include sensation, perception and identification.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.2 Wahrnehmung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Grundbegriffe der Wahrnehmung \n• Empfindung, Perzeption, Identifikation",
+        "residual_flags": []
+      },
+      {
+        "content": "The perception process covers bottom-up and top-down processes.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.2 Wahrnehmung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Wahrnehmungsablauf (Bottom-up- und Top-down-Prozesse)",
+        "residual_flags": []
+      },
+      {
+        "content": "Gestalt laws such as figure-ground and closeness are covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.2 Wahrnehmung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Gestaltgesetze (z. B. Figur-Grund-Gesetz, Gesetz der Nähe, \nÄhnlichkeit, Geschlossenheit",
+        "residual_flags": []
+      },
+      {
+        "content": "Perception theory includes the theory of social perception by Bruner and Postman.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.2 Wahrnehmung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Theorie der sozialen Wahrnehmung nach Bruner und",
+        "residual_flags": []
+      },
+      {
+        "content": "Priming in perception belongs to reality construction.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.2 Wahrnehmung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Priming in der Wahrnehmung",
+        "residual_flags": []
+      },
+      {
+        "content": "Research method: color-word interference (Stroop effect).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.2 Wahrnehmung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Farb-Wort-Interferenz (sog. Stroop-Effekt)",
+        "residual_flags": []
+      },
+      {
+        "content": "Research method: experiment on the autokinetic effect by Sherif.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.2 Wahrnehmung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Experiment zum autokinetischen Effekt von Sherif",
+        "residual_flags": []
+      },
+      {
+        "content": "Research method: Rosenthal experiment by Rosenthal and Jacobson.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.2 Wahrnehmung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Rosenthal-Experiment von Rosenthal und Jacobson",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S1.2 Wahrnehmung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S1.2 Wahrnehmung",
+        "printed_page_range": "16–17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

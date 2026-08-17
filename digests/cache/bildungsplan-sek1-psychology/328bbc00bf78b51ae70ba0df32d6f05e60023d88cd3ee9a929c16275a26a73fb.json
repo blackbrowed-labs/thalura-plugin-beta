@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:328bbc00bf78b51ae70ba0df32d6f05e60023d88cd3ee9a929c16275a26a73fb"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-psychology",
+      "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In module M5 students learn exemplary forms of knowledge acquisition of behaviourist-oriented psychology.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M5 Das Paradigma des Behaviorismus (2. Lernjahr — Vertiefung der Paradigmen der Psychologie)",
+          "printed_page": 5,
+          "physical_page": 19
+        },
+        "cited_text": "lernen in diesem Modul exemplarisch \nFormen des Erkenntnisgewinns der behavioristisch orientierten Psy-\nchologie kennen",
+        "residual_flags": []
+      },
+      {
+        "content": "The deepening of the behaviourism paradigm is to be done via either 'Klassische Konditionierung' or 'Operante Konditionierung'.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M5 Das Paradigma des Behaviorismus (2. Lernjahr — Vertiefung der Paradigmen der Psychologie)",
+          "printed_page": 5,
+          "physical_page": 19
+        },
+        "cited_text": "entwe-\nder anhand des Themas „Klassische Konditionierung“ oder des The-\nmas „Operante Konditionierung“",
+        "residual_flags": []
+      },
+      {
+        "content": "Classical conditioning content includes associative (stimulus-response) learning, conditioned reflexes (Pawlow's dog experiment), the Watson and Rayner 'Little Albert' experiment, experimental critique and applications.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M5 Das Paradigma des Behaviorismus (2. Lernjahr — Vertiefung der Paradigmen der Psychologie)",
+          "printed_page": 5,
+          "physical_page": 19
+        },
+        "cited_text": "Konditionierte Reflexe (Pawlows Hundeexperiment)",
+        "residual_flags": []
+      },
+      {
+        "content": "Operant conditioning content includes reinforcement principles, Thorndike's puzzle box, the Skinner box and avoidance learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M5 Das Paradigma des Behaviorismus (2. Lernjahr — Vertiefung der Paradigmen der Psychologie)",
+          "printed_page": 5,
+          "physical_page": 19
+        },
+        "cited_text": "Thorndikes Vexierbox (Katzen-/Hunde-Experimente) \n• Skinner-Box (Skinners Ratten-/Taubenexperimente)",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to values orientation (W): considering classic experimental setups engages students with ethically grounded critiques, including animals as test objects and the moral justifiability of animal experiments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M5 Das Paradigma des Behaviorismus (2. Lernjahr — Vertiefung der Paradigmen der Psychologie)",
+          "printed_page": 5,
+          "physical_page": 19
+        },
+        "cited_text": "Diskussion z. B. zur Frage der moralischen Begründbarkeit \nvon Tierversuchen (Tierrechte vs. Menschenrechte)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "M5 Das Paradigma des Behaviorismus (2. Lernjahr — Vertiefung der Paradigmen der Psychologie)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-psychology",
+        "section_anchor": "M5 Das Paradigma des Behaviorismus (2. Lernjahr — Vertiefung der Paradigmen der Psychologie)",
+        "printed_page_range": "5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

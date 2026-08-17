@@ -1,0 +1,944 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0175ace94f441c6c7b77f671ede7ee75780b424cefe7c96f858318f26fdcd3a2"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The oral exam (mündliche Prüfung) is taken at the requirement level (Anforderungsniveau) the candidate took in English in the Studienstufe; the level-specific competence requirements and content are set out in the Bildungsplan Gymnasiale Oberstufe – Rahmenplan Neuere Fremdsprachen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die mündliche Prüfung erfolgt auf dem Anforderungsniveau, das der Prüfling in der Stu-\ndienstufe im Fach Englisch belegt hat. Die jeweils spezifischen kompetenzorientierten \nAnforderungen und die zu erarbeitenden Inhalte für grundlegendes und erhöhtes Niveau \nsind im Bildungsplan Gymnasiale Oberstufe – Rahmenplan Neuere Fremdsprachen beschrie-\nben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Oral communicative ability is decisive in a foreign language; the oral Abitur exam distinguishes two formats — the mündliche Prüfung and the Präsentationsprüfung — in which candidates demonstrate connected speaking and interactive conversation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die mündliche Kommunikationsfähigkeit spielt in der Fremdsprache eine entscheidende \nRolle. Die mündliche Abiturprüfung trägt dieser Anforderung in besonderem Maße Rech-\nnung. In diesem Prüfungsteil werden zwei Formate unterschieden, die mündliche Prüfung \nund die Präsentationsprüfung. Die Prüflinge stellen ihre Kompetenzen vor allem im zu-\nsammenhängenden Sprechen und im interaktiven Gespräch unter Beweis.",
+        "residual_flags": []
+      },
+      {
+        "content": "Format 1 (mündliche Prüfung): part one is a connected response to one or more texts plus a subject discussion (Fachgespräch); part two is a conversation on wider subject-related and cross-curricular connections, possibly based on a short stimulus text.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "In der mündlichen Prüfung nehmen sie im ersten Teil der Prüfung zu einem oder meh-\nreren Texten zusammenhängend Stellung und führen ein anschließendes Fachgespräch\nzur Thematik (zusammenhängendes und interaktives Sprechen). Im zweiten Teil der\nPrüfung führen sie, ggf. auf der Grundlage eines zuvor als Impuls präsentierten kurzen\nTextes, ein Gespräch zu größeren fachlichen und fachübergreifenden Zusammenhän-\ngen (interaktives Sprechen).",
+        "residual_flags": []
+      },
+      {
+        "content": "Format 2 (Präsentationsprüfung): candidates show language and method competence in a presentation (connected speaking) and then respond spontaneously and appropriately to impulses in a following Fachgespräch (interactive speaking).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "In der Präsentationsprüfung demonstrieren sie anhand einer gestellten Aufgabe\neinerseits ihre Sprach- und Methodenkompetenz in einer Präsentation (zusammen-\nhängendes Sprechen), andererseits reagieren sie in der Fremdsprache spontan und\nangemessen auf verschiedene Impulse (interaktives Sprechen) in einem sich an die\nPräsentation anschließenden Fachgespräch.",
+        "residual_flags": []
+      },
+      {
+        "content": "The exam is conducted exclusively in the foreign language.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die Prüfung wird ausschließlich in der Fremdsprache durchgeführt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Tasks must allow performance in all three requirement areas (Anforderungsbereiche); tasks already set in the Abitur paper or in Klausuren may not be used; across the whole oral exam all three areas must be covered so every grade is attainable. NOTE: the source sentence ends without a full stop ('jede Note erreichbar ist').",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die Aufgabenstellung ist so zu gestalten, dass Leistungen in allen drei Anforderungs-\nbereichen erbracht werden können. Die in der Abiturklausur gestellten Aufgaben sowie \nAufgaben, die in Klausuren gestellt worden sind, können nicht Gegenstand der Prüfung \nsein. Es muss gewährleistet sein, dass im Verlauf der gesamten mündlichen Prüfung alle \ndrei Anforderungsbereiche abgedeckt werden, so dass für den Prüfling jede Note er-\nreichbar ist",
+        "residual_flags": [
+          "source anomaly: missing full stop — 'so dass für den Prüfling jede Note er-\nreichbar ist' is followed directly by the next sentence"
+        ]
+      },
+      {
+        "content": "The candidates' performance is documented in an exam record (Prüfungsprotokoll).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die Leistung der Prüflinge wird in einem Prüfungsprotokoll dokumentiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "The oral exam in the continued foreign language must refer to content/competence areas of at least two semesters of the Studienstufe; despite a didactic focus it may not be restricted to only one semester.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die mündliche Prüfung der weitergeführten Fremdsprache bezieht sich auf Inhalts- bzw. \nKompetenzbereiche mindestens zweier Semester der Studienstufe. Die in der mündli-\nchen Prüfung der weitergeführten Fremdsprache zu bearbeitenden Aufgaben dürfen sich \ntrotz einer prüfungsdidaktischen Schwerpunktbildung nicht auf die Inhalts- bzw. Kom-\npetenzbereiche nur eines Semesters beschränken.",
+        "residual_flags": []
+      },
+      {
+        "content": "For a newly begun foreign language the tasks may be restricted to a single content/competence area.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die in der mündlichen Prüfung der \nneu aufgenommenen Fremdsprache zu bearbeitenden Aufgaben können sich auf einen \nInhalts- bzw. Kompetenzbereich beschränken.",
+        "residual_flags": []
+      },
+      {
+        "content": "By a school-set deadline candidates may name in writing only one content/competence area; if the chair of the subject exam board does not reject it as unsuitable within a reasonable time, it becomes subject of the exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die Prüflinge können dem Fachprüfungsausschuss bis zu einem von der Schule festge-\nsetzten Termin nur einen Inhalts- bzw. Kompetenzbereich schriftlich angeben. Lehnt die \noder der Vorsitzende des Fachprüfungsausschusses diesen nicht in angemessener Zeit \nals ungeeignet ab, ist er Gegenstand der Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "For the continued foreign language the Referent adds the content/competence area of a further semester and notifies the candidate of both areas in writing two weeks before the exam; naming the areas must not pre-empt the task.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Für die mündliche Prüfung der wei-\ntergeführten Fremdsprache ergänzt der Referent bzw. die Referentin den Vorschlag des \nPrüflings um den Inhalts- bzw. Kompetenzbereich eines weiteren Semesters und gibt bei-\nde Bereiche dem Prüfling zwei Wochen vor der Prüfung schriftlich bekannt. Die Angabe \nder Inhalts- bzw. Kompetenzbereiche darf die Aufgabenstellung nicht vorwegnehmen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The oral exam lasts 30 minutes, 15 minutes per part; candidates get 30 minutes of preparation immediately before the exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die mündliche Prüfung dauert 30 Minuten, jeweils 15 Minuten für einen Prüfungsteil. Den \nPrüflingen werden 30 Minuten zur Vorbereitung unmittelbar vor der Prüfung gegeben.",
+        "residual_flags": []
+      },
+      {
+        "content": "For the continued foreign language the preparation task need not (but may) cover both areas; if it covers only one, the second is brought in by an impulse from the examiner, and the exam as a whole must cover both areas in a balanced way.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Für die mündliche Prüfung der weitergeführten Fremdsprache ist es weder erforderlich \nnoch untersagt, schon die Aufgabenstellung für die Vorbereitungszeit auf zwei Inhalts- \nbzw. Kompetenzbereiche zu beziehen. Sofern sich für die mündliche Prüfung der weiter-\ngeführten Fremdsprache die Aufgabenstellung für die Vorbereitungszeit nur auf einen \nInhalts- bzw. Kompetenzbereich bezieht, wird der zweite Bereich durch einen entspre-\nchenden Impuls der Prüferin bzw. des Prüfers in die Prüfung eingebracht. Die mündliche \nPrüfung berücksichtigt in ihrer Gesamtheit beide Bereiche in einem möglichst ausgewo-\ngenen Verhältnis.",
+        "residual_flags": []
+      },
+      {
+        "content": "Part one uses analytic-interpretive work on one or more authentic source texts unknown to the candidates.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Für die Aufgabenstellung zum ersten Prüfungsteil kommt die analytisch-interpretieren-\nde Bearbeitung eines oder mehrerer authentischer, den Prüflingen nicht bekannter Aus-\ngangstexte zur Anwendung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Permitted exam bases: one or more texts of about 200–300 words (literary or non-fiction); visual material (image, cartoon, statistic, graphic, diagram), possibly with a text; or an auditory/audiovisual text of three to five minutes, possibly with supporting visuals.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Als Prüfungsgrundlage können dabei dienen\n•\nein oder mehrere Text(e) von insgesamt ca. 200-300 Wörtern (literarischer Text oder\nSachtext),\n•\nvisuelle Materialien (z. B. bildliche Darstellung, Karikatur, Statistik, Graphik, Dia-\ngramm), ggf. in Verbindung mit einem Text,\n•\nein auditiv bzw. audiovisuell vermittelter Text (Länge: drei bis fünf Minuten), ggf. in\nVerbindung mit ergänzenden visuellen Darstellungen,",
+        "residual_flags": []
+      },
+      {
+        "content": "Each base is accompanied by one or more work instructions that permit an independent approach and give the candidate the chance for an introductory connected presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "jeweils ergänzt durch eine oder mehrere Arbeitsanweisungen, die den Prüflingen ein ei-\ngenständiges Herangehen an die Aufgabe gestatten und ihnen Gelegenheit zu einer ein-\nleitenden zusammenhängenden Darstellung geben.",
+        "residual_flags": []
+      },
+      {
+        "content": "The same criteria for the level of demand apply to selecting the source texts as for the written exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Für die Auswahl der Vorlagen gelten bezüglich des Anspruchsniveaus der Texte dieselben \nKriterien wie für die Auswahl der Texte für die schriftliche Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "A key aim of this part is independent grasping and unlocking of the topic, topic-related selection of relevant aspects, and stringent, appropriate presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Ein wesentliches Ziel in diesem Prüfungsteil ist das selbstständige Erfassen und Auf-\nschlüsseln des Themas, die themenbezogene Auswahl der für das Thema relevanten \nAspekte und die Fähigkeit zur stringenten und sachgerechten Darstellung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Text length and task scope/complexity must be proportionate to the preparation and exam time; the type and extent of the expected performance must be recognizable to the candidates.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "der Textumfang steht auch die Aufgabenstellung nach Umfang und Komplexität in ei-\nnem angemessenen Verhältnis zur Vorbereitungs- und Prüfungszeit; Art und Umfang \nder erwarteten Leistung sind für die Prüflinge erkennbar.",
+        "residual_flags": []
+      },
+      {
+        "content": "The task must suit both longer connected utterances and the start of a conversation going beyond the source material.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die Aufgabe ist sowohl für die \nBearbeitung in Form längerer zusammenhängender Äußerungen geeignet als auch für \ndie Anknüpfung eines Gesprächs, das über die Vorlage hinausgeht.",
+        "residual_flags": []
+      },
+      {
+        "content": "The task must be designed so that a differentiated, criteria-led assessment is possible.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Sie muss so ange-\nlegt sein, dass eine differenzierte kriteriengeleitete Leistungsbewertung möglich ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Monolingual and bilingual dictionaries may be used during the preparation time.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die \nBenutzung von ein- und zweisprachigen Wörterbüchern während der Vorbereitungszeit \nist zulässig.",
+        "residual_flags": []
+      },
+      {
+        "content": "Words or terms not readily found in the dictionary used are additionally explained.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Darüber hinaus werden solche Wörter oder Begriffe erklärt, die nicht ohne \nWeiteres dem in der Prüfungsvorbereitung verwendeten Wörterbuch zu entnehmen sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Further aids supporting an effective presentation (e.g. transparencies, flipchart) are to be made available if needed.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Weitere Hilfsmittel, die eine wirkungsvolle Darstellung unterstützen (z. B. Folien, Flip-\nchart), sind den Prüflingen ggf. zur Verfügung zu stellen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Part two is a Fachgespräch which may again rest on a short text impulse; presenting a listening text again is not permitted.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Der zweite Teil der Prüfung besteht aus einem Fachgespräch, dem erneut ein kurzer Text \nals Impuls zugrunde liegen kann. Das erneute Vorlegen eines Hörtextes ist dabei nicht \nzulässig.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates should help shape the Fachgespräch by voicing their own opinions in the target language, defending positions with arguments and responding to questions from the exam board.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die Prüflinge sollen das Fachgespräch mitgestalten, indem sie unter Einbringung von \nSachkenntnissen zielsprachlich eigene Meinungen äußern, Positionen argumentierend \nvertreten und auf Fragen und Äußerungen von Mitgliedern der Prüfungskommission ein-\ngehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "At the latest on the day before the exam the Referent submits the task, the grading rubric (Erwartungshorizont), the assessment specifications and the teaching prerequisites to the members of the subject exam board.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 25,
+          "printed_page_end": 26,
+          "physical_page": 25
+        },
+        "cited_text": "Der Referent bzw. die Referentin legt den Mitgliedern des Fachprüfungsausschusses spä-\ntestens am Tag vor der Prüfung die Aufgabenstellung, den Erwartungshorizont und die \nVorgaben zur Bewertung der Prüfungsleistung sowie die unterrichtlichen Voraussetzun-\nEnglisch\n26\ngen vor. Der Erwartungshorizont enthält:",
+        "residual_flags": []
+      },
+      {
+        "content": "The Erwartungshorizont contains: assignment of the tasks to the requirement areas; the expected solutions and their assignment to the requirement areas; and if applicable a weighting of the sub-tasks.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Der Erwartungshorizont enthält:\n•\nAngaben zur Zuordnung der Aufgaben zu den Anforderungsbereichen,\n•\nAngaben zu den erwarteten Lösungen und deren Zuordnung zu den Anforderungsbe-\nreichen,\n•\nggf. eine Gewichtung der Teilaufgaben.",
+        "residual_flags": []
+      },
+      {
+        "content": "The assessment specifications state what constitutes a 'good' and an 'adequate' performance; Erwartungshorizont and assessment specifications are part of the exam record (Niederschrift).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Vorgaben zur Bewertung der Prüfungsleistung enthalten spezifische Aussagen über \ndie Anforderungen an eine „gute“ Leistung bzw. an eine „ausreichende“ Leistung. Der \nErwartungshorizont und die Vorgaben zur Bewertung der Prüfungsleistung sind Teil der \nNiederschrift über den Verlauf der mündlichen Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirement areas (Anforderungsbereiche) described under 3.2 apply in principle to the oral exam as well.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die unter 3.2 beschriebenen Anforderungsbereiche gelten grundsätzlich auch für die \nmündliche Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Both parts of this oral exam carry requirements in two areas; under Inhalt candidates must have secure structured orientation knowledge, reproduce and reorganize information from the sources, apply subject-specific analytical methods, establish connections within and beyond the subject, show understanding, problem awareness and judgement, and argue coherently and convincingly.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Für beide Teile dieser mündlichen Prüfung gelten Anforderungen in zwei Bereichen:\nInhalt\nDie Prüflinge \n•\nbesitzen gesichertes strukturiertes Orientierungswissen,\n•\nreproduzieren und reorganisieren Informationen aus der / den vorgelegten Quelle(n),\n•\nwenden fachspezifische analytische Methoden an,\n•\nstellen inhaltliche Zusammenhänge innerhalb des Fachbereichs und möglicherweise\ndarüber hinausgehend her,\n•\nzeigen Verständnis, Problembewusstsein und Urteilsfähigkeit,\n•\nargumentieren schlüssig und überzeugend.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Sprache candidates must present complex matters clearly and in detail, use a differentiated and apt vocabulary, choose suitable discourse means from a repertoire, participate actively and defend their views, react spontaneously (with slight loss of complexity and fluency) and speak audience-appropriately with a secure choice of register.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "stellen komplexe Sachverhalte klar und detailliert dar und verknüpfen verschiedene\nAspekte,\n•\nverwenden einen dem Thema angemessenen differenzierten und treffenden Wort-\nschatz,\n•\nwählen aus einem verfügbaren Repertoire von Diskursmitteln geeignete Wendungen\naus, um das Wort zu ergreifen, eine Äußerung einzuleiten oder eigene Beiträge mit\ndenen anderer Gesprächsteilnehmer zu verknüpfen (Zustimmung, Ablehnung, Wider-\nspruch etc.),\n•\nbeteiligen sich aktiv am Gespräch, begründen und verteidigen eigene Ansichten,\n•\nreagieren spontan auf Fragen, Impulse und Arbeitsanweisungen – allerdings unter\nleichtem Verlust an Komplexität und Flüssigkeit,\n•\nsprechen adressatengerecht und sind sicher in der Wahl des Registers und der Spra-\nchebene.",
+        "residual_flags": []
+      },
+      {
+        "content": "Descriptor tables for Inhalt, monologisches Sprechen and interaktives Sprechen are given under 5.3, taking up and differentiating the criteria of 4.4.2.1; in the overall impression the linguistic components must predominate.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Für die Bereiche Inhalt, monologisches Sprechen und interaktives Sprechen liegen unter \n5.3 Deskriptorentabellen vor, die die in 4.4.2.1 ausgeführten Kriterien aufnehmen und \ndifferenzieren. Bei der Bewertung des Gesamteindrucks müssen die sprachlichen Anteile \nüberwiegen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Präsentationsprüfung in the continued foreign language must relate to content/competence areas of at least two semesters and may not, despite a didactic focus, be limited to one semester; for a newly begun language one area may suffice.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Präsentationsprüfung der weitergeführten Fremdsprache bezieht sich auf Inhalts-\nbzw. Kompetenzbereiche mindestens zweier Semester der Studienstufe. Die in der Prä-\nsentationsprüfung der weitergeführten Fremdsprache zu bearbeitende Prüfungsaufgabe\ndarf sich trotz einer prüfungsdidaktischen Schwerpunktbildung nicht auf die Inhalts-\nbzw. Kompetenzbereiche nur eines Semesters beziehen. Die in der mündlichen Prüfung\nder neu aufgenommenen Fremdsprache zu bearbeitenden Aufgaben können sich auf ei-\nnen Inhalts- bzw. Kompetenzbereich beschränken.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Präsentationsprüfung is in principle an individual exam per § 26 (3) APO-AH; group exams must be justified in writing and applied for by a school-set deadline, comprise as a rule no more than three candidates (45 min for two, 60 min for three), and each candidate's individual share in talk and Fachgespräch must be recognizable.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Präsentationsprüfung erfolgt grundsätzlich als Einzelprüfung in der in § 26 Absatz\n3 APO-AH beschriebenen Form. Gruppenprüfungen müssen schriftlich begründet und\nbis zu einem von der Schule festgesetzten Termin bei der bzw. dem Vorsitzenden der\nPrüfungskommission beantragt werden. Die Gruppe darf in der Regel nicht mehr als drei\nPrüflinge umfassen. Gruppenprüfungen mit zwei Prüflingen dauern in der Regel 45 Minu-\nten, Gruppenprüfungen mit drei Prüflingen dauern in der Regel 60 Minuten. Dabei muss\nder individuelle Anteil jedes Prüflings sowohl im mediengestützten Vortrag als auch in\ndem anschließenden Fachgespräch erkennbar sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "A key aim of the Präsentationsprüfung is independent grasping and unlocking of the topic, topic-related selection of relevant aspects and stringent, appropriate presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Ein wesentliches Ziel der Präsentationsprüfung ist das selbstständige Erfassen und Auf-\nschlüsseln des Themas, die themenbezogene Auswahl der für das Thema relevanten As-\npekte und die Fähigkeit zur stringenten, sachgemäßen Darstellung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Of the 30-minute exam, part one is a self-prepared media-supported talk of about 10 minutes; part two is a 20-minute Fachgespräch starting from questions on the talk and covering further thematic aspects and wider subject connections.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Im ersten Teil der insgesamt 30-minütigen Prüfung präsentieren die Prüflinge einen\nselbstständig vorbereiteten mediengestützten Vortrag. Dieser umfasst etwa\n10 Minuten.\nDer Präsentation folgt in einem 20-minütigen zweiten Prüfungsteil ein Fachgespräch\ndes Prüflings mit dem Fachprüfungsausschuss, das von Rückfragen zum Vortrag seinen\nAusgang nimmt. In diesem Prüfungsgespräch sollen weitere thematische Aspekte im\nUmfeld der Prüfungsaufgabe berücksichtigt und größere fachliche Zusammenhänge\nerörtert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates may name only one content/competence area in writing, not the second; the Referent adds a further semester's area and develops the exam task from it including a first Erwartungshorizont, appropriate to the course level and leaving the candidate scope; both areas are stated in writing with the task, which must allow a reflected treatment including a personal evaluation, be workable in the time available, and demand performance in all three requirement areas.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Prüflinge können dem Fachprüfungsausschuss bis zu einem von der Schule zu be-\nstimmenden Termin nur einen Inhalts- bzw. Kompetenzbereich schriftlich angeben, den\nzweiten nicht. Lehnt die bzw. der Vorsitzende des Fachprüfungsausschusses diesen\nnicht in angemessener Zeit als ungeeignet ab, ist er Gegenstand der Prüfung. Für die\nmündliche Prüfung der weitergeführten Fremdsprache ergänzt der Referent bzw. die\nReferentin den Vorschlag des Prüflings um den Inhalts- bzw. Kompetenzbereich eines\nweiteren Semesters und entwickelt daraus die Prüfungsaufgabe einschließlich eines\nersten Erwartungshorizonts, die das Anforderungsniveau des Kurses angemessen\nberücksichtigt und dem Prüfling in seinem Lösungsansatz einen Gestaltungsraum lässt.\nBeide Inhalts- bzw. Kompetenzbereiche werden mit der Aufgabenstellung schriftlich\nangegeben. Die gestellte Aufgabe muss eine reflektierte Auseinandersetzung mit\neinem Thema einschließlich einer persönlichen Bewertung ermöglichen und in der zur\nVerfügung stehenden Zeit bearbeitbar sein. Bei ihrer Lösung werden Leistungen aus\nallen drei Anforderungsbereichen eingefordert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates receive the task two weeks before the exam; one week before they submit a documentation (max. two A4 pages plus bibliography) showing content, course and sources, which is part of the exam performance; the Referent refines the Erwartungshorizont on that basis and submits it with the task at the latest the day before; the rules of 5.1.1 apply and it is part of the Niederschrift. NOTE: the source prints 'Fachprüfungs-ausschusses' with a stray hyphen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 27,
+          "printed_page_end": 28,
+          "physical_page": 27
+        },
+        "cited_text": "Zwei Wochen vor dem Termin der Präsentationsprüfung erhalten die Prüflinge die Auf-\ngabenstellung von der zuständigen Fachlehrkraft. Eine Woche vor der Prüfung\ngeben die Prüflinge eine Dokumentation bei der oder dem Vorsitzenden des\nFachprüfungs-ausschusses ab, aus der die Inhalte, der Ablauf der Präsentation sowie\ndie verwendeten Quellen hervorgehen. Die Dokumentation umfasst maximal zwei DIN-\nA4-Seiten zuzüglich des Quellen- und Literaturverzeichnisses und ist Teil der\nPrüfungsleistung. Anhand der vorgelegten Dokumentation präzisiert der Referent bzw.\ndie Referentin den Erwartungshorizont in Hinblick auf Inhalt und Verlauf der\nPräsentationsprüfung und legt ihn\n27Englisch\n28\nden Mitgliedern des Prüfungsausschusses zusammen mit der Aufgabenstellung spätes-\ntens am Tag vor der Präsentationsprüfung vor. Im Übrigen gelten die Vorgaben zum Er-\nwartungshorizont aus Ziffer 5.1.1. Dieser Erwartungshorizont ist Teil der Niederschrift \nüber den Verlauf der Präsentationsprüfung.",
+        "residual_flags": [
+          "source anomaly: 'Fachprüfungs-ausschusses' printed with an intra-word hyphen; page artifact '27Englisch' inside the span"
+        ]
+      },
+      {
+        "content": "On the exam day candidates prepare their presentation independently (e.g. testing the technology) and give the talk without further preparation time.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Am Tag der Prüfung bereiten die Prüflinge ihre Präsentation selbstständig vor (ggf. durch \nErprobung der technischen Voraussetzungen) und tragen ihren Vortrag ohne weitere \nVorbereitungszeit dem Fachprüfungsausschuss vor.",
+        "residual_flags": []
+      },
+      {
+        "content": "Besides media-supported text and illustration elements candidates may use e.g. cue cards, but in no case fully formulated texts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Neben den medial gestützten Text- und Veranschaulichungselementen nutzen die Prüflin-\nge z. B. Karten mit Stichworten als Hilfsmittel, in keinem Fall aber ausformulierte Texte.",
+        "residual_flags": []
+      },
+      {
+        "content": "In part two the whole exam field is deepened in a Fachgespräch led mainly by the subject teacher; candidates reflect on the course of the presentation, answer deepening questions on content and media design, and meet requirements not confined to one semester's teaching.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Im zweiten Prüfungsteil wird das gesamte Prüfungsgebiet in einem Fachgespräch zwi-\nschen dem Prüfling und den Mitgliedern des Fachprüfungsausschusses vertieft. Das \nFachgespräch führt überwiegend die zuständige Fachlehrkraft. \nDie Prüflinge reflektieren in diesem Prüfungsteil den Verlauf der Präsentation, beant-\nworten vertiefende Fragen zum Inhalt und zur medialen Gestaltung der Präsentation \nund erfüllen in einem Gespräch Anforderungen, die sich in der mündlichen Prüfung der \nweitergeführten Fremdsprache nicht nur auf den Unterricht eines Semesters beziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A task that is so close to one already worked on, or so prepared in class, that the requirements amount essentially to reproducing what has been done, is not permitted.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Eine Aufgabenstellung, die einer bereits bearbeiteten so nahesteht oder deren Thema-\ntik bzw. Gegenstand im Unterricht so vorbereitet ist, dass sich die Anforderungen im \nWesentlichen lediglich auf die Wiedergabe von bereits Bearbeitetem oder Erarbeitetem \nbeschränken, ist nicht zulässig.",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirement areas described under 3.2 apply in principle to the Präsentationsprüfung as well.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Die unter 3.2 beschriebenen Anforderungsbereiche gelten grundsätzlich auch für die \nPräsentationsprüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Part one (the media-supported talk) carries requirements in three areas; under Präsentation candidates present the content appropriately for subject and audience, use the chosen medium competently, appear clearly and turned to the audience (posture, eye contact), speak clearly and modulated, give the presentation a clear ending and divide the time sensibly.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Für den ersten Teil der mündlichen Prüfung (mediengestützter Vortrag) gelten Anforde-\nrungen in drei Bereichen:\nPräsentation\nDie Prüflinge \n•\npräsentieren den Inhalt sach- und adressatengerecht,\n•\nnutzen die Möglichkeiten des gewählten Mediums angemessen und kompetent,\n•\ntreten klar und an das Publikum gewandt auf (z. B. Körperhaltung, Blickkontakt),\n•\nsprechen klar, deutlich und moduliert,\n•\ngeben der Präsentation einen deutlichen Abschluss,\n•\nteilen die Zeit sinnvoll ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Inhalt candidates have secure structured orientation knowledge, reproduce and reorganize information from various sources, establish connections within and beyond the subject, structure the talk transparently with clear priorities, apply subject-specific methods, show understanding, problem awareness and judgement, and argue coherently and convincingly.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "besitzen gesichertes strukturiertes Orientierungswissen,\n•\nreproduzieren und reorganisieren Informationen aus verschiedenen Quellen,\n•\nstellen Zusammenhänge innerhalb des Fachbereichs und darüber hinausgehend her,\n•\nstrukturieren den Vortrag transparent und setzen eindeutige Schwerpunkte,\n•\nwenden fachspezifische Methoden an,\n•\nzeigen Verständnis, Problembewusstsein und Urteilsfähigkeit,\n•\nargumentieren schlüssig und überzeugend.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Sprache candidates present complex matters clearly and in detail, choose topic-appropriate formulations from a range of Redemittel, use a broad vocabulary with paraphrase for gaps, use structuring and linking devices, speak at an even pace, are phonetically and intonationally largely correct, and may deviate spontaneously and fluently from the prepared text.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "stellen komplexe Sachverhalte klar und detailliert dar und verknüpfen verschiedene\nAspekte,\n•\nwählen aus einem Spektrum von Redemitteln Formulierungen aus, die dem Thema\nangemessen sind,\n•\nverwenden einen umfangreichen Wortschatz und können bei Wortschatzlücken Um-\nschreibungen gebrauchen,\n•\nverwenden sinn- und maßvoll Gliederungs- und Verknüpfungsmittel, um ihre Äußerun-\ngen zu einem längeren zusammenhängenden Beitrag zu verbinden,\n•\nsprechen in gleichmäßigem Tempo,\n•\nsprechen phonetisch und intonatorisch weitgehend korrekt,\n•\nweichen ggf. spontan vom vorbereiteten Text ab, häufig in gewandter und flüssiger\nWeise.",
+        "residual_flags": []
+      },
+      {
+        "content": "Part two (Fachgespräch) carries requirements in two areas; under Inhalt candidates reflect on their talk regarding content and media use, react appropriately to questions and impulses, take an arguing and commenting stance on further questions, and actively shape the Fachgespräch.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Für den zweiten Teil der mündlichen Prüfung (Fachgespräch) gelten Anforderungen in \nzwei Bereichen:\nInhalt \nDie Prüflinge\n•\nreflektieren ihren Vortrag hinsichtlich des Inhalts und des Medieneinsatzes,\n•\nreagieren fachlich angemessen auf Nachfragen und andere Impulse von Seiten der\nPrüfenden,\n•\nnehmen argumentierend und kommentierend Stellung zu weitergehenden Fragestel-\nlungen,\n•\ngestalten das Fachgespräch aktiv mit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Sprache for the Fachgespräch candidates participate actively, defend their views, choose apt discourse means, use a differentiated and apt vocabulary, react spontaneously (with slight loss of complexity and fluency) and speak audience-appropriately with secure register choice.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "beteiligen sich aktiv am Gespräch, begründen und verteidigen eigene Ansichten,\n•\nwählen aus einem verfügbaren Repertoire von Diskursmitteln geeignete Wendungen\naus, um das Wort zu ergreifen, eine Äußerung einzuleiten oder eigene Beiträge mit\ndenen anderer Gesprächsteilnehmer zu verknüpfen (Zustimmung, Ablehnung, Wider-\nspruch etc.),\n•\nverwenden einen dem Thema angemessenen differenzierten und treffenden Wort-\nschatz,\n•\nreagieren spontan auf Fragen, Impulse und Arbeitsanweisungen – allerdings unter\nleichtem Verlust an Komplexität und Flüssigkeit,\n•\nsprechen adressatengerecht und sind sicher in der Wahl des Registers und der Spra-\nchebene.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Präsentationsprüfung is assessed as a whole; serious deficits in the subject-related performance cannot be compensated by presentation or media competence; descriptor tables for Inhalt, monologisches Sprechen, interaktives Sprechen and Präsentation are under 5.3, and the linguistic components must predominate in the overall impression.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Die Präsentationsprüfung wird in ihrer Gesamtheit bewertet. Schwerwiegende Mängel \nder fachlichen Prüfungsleistungen können nicht durch Präsentations- oder Medienkom-\npetenz kompensiert werden. Für die Bereiche Inhalt, monologisches Sprechen, interak-\ntives Sprechen und Präsentation liegen unter 5.3 Deskriptorentabellen vor, die die in \n4.4.2.1 ausgeführten Kriterien aufnehmen und differenzieren. Bei der Bewertung des \nGesamteindrucks müssen die sprachlichen Anteile überwiegen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Section 5.3 gives the descriptors for grading oral exams; the tables follow on the next pages.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Deskriptoren für die Bewertung mündlicher Prüfungen\nTabellen siehe nächste Seiten:",
+        "residual_flags": []
+      },
+      {
+        "content": "Table 1 grades Part 1 (connected presentation / Präsentation) by grade band across the columns content/task fulfilment, language/monologic and presenting (Präsentationsprüfung only).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Mündliche Prüfung / Deskriptorentabelle für die Bewertung der mündlichen Leistung / Teil 1: Zusammenhängende Darstellung bzw. Präsentation\nNotenbereich\ninhaltlich / Aufgabenerfüllung\nsprachlich / monologisch\nPräsentieren (nur Präsentationsprüfung)",
+        "residual_flags": []
+      },
+      {
+        "content": "Table 1, 'sehr gute Leistung': grasps all essential aspects, analyses very competently and completely, shows differentiated methodological competence, comments in a well-founded, independent and coherent way, structures very clearly; has a very broad range of Redemittel, links arguments transparently, speaks fluently, paraphrases skilfully, makes very few errors; uses the medium appropriately, speaks freely with cue words, clearly and modulated, keeps eye contact and divides the time sensibly. NOTE: source prints 'ggf' without a full stop and 'spricht flüssig ohne unnötige Pausen' without a comma.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "erfasst alle wesentlichen Aspekte,\n• analysiert sehr sachkompetent und vollständig,\n• zeigt differenzierte fachmethodische Kompetenz,\n• kommentiert besonders fundiert, eigenständig und schlüssig,\n• strukturiert inhaltlich treffend und sehr klar.\n• verfügt über ein sehr breites Spektrum angemessener Rede-\nmittel,\n• verbindet Argumente sprachlich transparent,\n• spricht flüssig ohne unnötige Pausen\n• umschreibt sehr geschickt,\n• macht sehr wenig Fehler.\n• nutzt die Möglichkeiten des gewählten Mediums angemessen,\n• trägt frei vor, nutzt ggf Stichwörter sinnvoll,\n• spricht klar, deutlich und moduliert,\n• nimmt Blickkontakt mit den Zuhörern auf,\n• teilt die Zeit sinnvoll ein.",
+        "residual_flags": [
+          "source anomaly: 'nutzt ggf Stichwörter sinnvoll,' — abbreviation without full stop; 'spricht flüssig ohne unnötige Pausen' — missing comma"
+        ]
+      },
+      {
+        "content": "Table 1, 'gute Leistung': grasps most essential aspects, analyses competently and almost completely, appropriate methodological competence, differentiated and coherent commentary, largely clear structure; broad range of Redemittel, largely transparent linking, mostly fluent, skilful paraphrase, occasional errors not impeding comprehension; uses the medium almost throughout, largely free delivery, mostly clear speech, eye contact, largely sensible time management. NOTE: source prints 'Redemitteln ,' with a stray space before the comma.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "erfasst die Mehrzahl der wesentlichen Aspekte,\n• analysiert sachkompetent und nahezu vollständig,\n• demonstriert angemessene fachmethodische Kompetenz,\n• erfasst wichtige Aspekte in der Kommentierung, ist differenziert\nund schlüssig,\n• strukturiert inhaltlich weitgehend treffend und klar.\n• verfügt über ein breites Spektrum der Thematik angemessener\nRedemitteln ,\n• verbindet Argumente sprachlich weitgehend transparent und\nlogisch,\n• spricht überwiegend flüssig ohne unnötige Pausen,\n• umschreibt geschickt,\n• macht gelegentlich Fehler, die die Verständlichkeit nicht ein-\nschränken.\n• nutzt die Möglichkeiten des gewählten Mediums fast durchge-\nhend,\n• trägt weitgehend frei vor, nutzt ggf. Stichwörter sinnvoll,\n• spricht die meiste Zeit klar und deutlich,\n• nimmt Blickkontakt mit den Zuhörern auf,\n• teilt die Zeit weitgehend sinnvoll ein.",
+        "residual_flags": [
+          "source anomaly: 'der Thematik angemessener Redemitteln ,' — wrong inflection and stray space before the comma"
+        ]
+      },
+      {
+        "content": "Table 1, 'befriedigende Leistung': grasps some essential aspects, analyses important aspects essentially correctly, largely appropriate methodological competence, still coherent but not very detailed commentary, mostly clear structure; range of means to express thoughts intelligibly, transparency via repeated means, still fluent with occasional unnecessary pauses, hesitant but still apt paraphrase, some errors that hardly disturb communication; mostly uses the medium, relies noticeably on cue words, mostly clear speech, only occasional eye contact, mostly sensible time management.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "erfasst einige wesentliche Aspekte,\n• analysiert einige wichtige Aspekte im Wesentlichen richtig,\n• zeigt weitgehend angemessene fachmethodische Kompetenz,\n• kommentiert noch kohärent, allerdings wenig ausführlich und /\noder es sind nicht viele zentrale Aspekte erfasst,\n• strukturiert inhaltlich überwiegend treffend und klar.\n• verfügt über ein Spektrum sprachlicher Mittel, um Gedanken im\nWesentlichen verständlich und angemessen auszudrücken,\n• stellt Transparenz durch den Einsatz sich wiederholender\nsprachlicher Mittel her,\n• spricht noch flüssig mit gelegentlich unnötigen Pausen,\n• umschreibt zögerlich, aber noch zutreffend,\n• macht einige Fehler, die aber kaum zu Kommunikationsstörun-\ngen führen.\n• nutzt überwiegend die Möglichkeiten des gewählten Mediums,\n• verlässt sich an vielen Stellen auffällig auf die vorbereiteten\nStichwörter,\n• spricht überwiegend klar und deutlich,\n• nimmt nur gelegentlich Blickkontakt mit den Zuhörern auf,\n• teilt die Zeit überwiegend sinnvoll ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Table 1, 'ausreichende Leistung': grasps few essential aspects, analyses superficially and/or presents results with little coherence, rudimentary methodological competence, only partly appropriate commentary, structure still traceable in most passages; limited range of Redemittel, arguments only rudimentarily linked, hesitant with long unnecessary pauses, struggles to find paraphrases, errors that more often impede comprehension; uses the medium only rudimentarily, stays very close to pre-formulated material, at times unclear speech, loses track of time management.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "erfasst wenige wesentliche Aspekte,\n• analysiert oberflächlich und / oder stellt Ergebnisse in vielen\nPassagen wenig zusammenhängend dar,\n• zeigt in Ansätzen Elemente fachmethodischer Kompetenz,\n• kommentiert nur teilweise angemessen und zusammenhän-\ngend,\n• strukturiert inhaltlich in den meisten Passagen noch nachvoll-\nziehbar.\n• verfügt über ein begrenztes Spektrum angemessener Redemit-\ntel,\n• verbindet Argumente sprachlich nur in Ansätzen,\n• spricht zögerlich mit längeren unnötigen Pausen,\n• hat Mühe, Umschreibungen zu finden,\n• macht Fehler, die häufiger die Verständlichkeit einschränken.\n• nutzt die Möglichkeiten des gewählten Mediums nur in Ansät-\nzen,\n• bleibt sehr nahe an vorformulierten Unterlagen,\n• spricht passagenweise nicht klar und deutlich,\n• verliert die Zeiteinteilung aus den Augen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Table 1, 'mangelhafte Leistung': grasps only isolated essential aspects, analyses with gaps, results unclear and unconnected, hardly any methodological competence, sweeping unfounded commentary, no clearly recognizable structure; severely restricted linguistic means and compensation strategies, links arguments only with very simple means if at all, switches to German, frequent partly grave errors disturbing communication; hardly uses the medium, does not speak freely, remains unclear, no eye contact, no sensible time management. NOTE: source prints a double comma in 'wenn überhaupt,,'.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "erfasst nur vereinzelt wesentliche Aspekte,\n• analysiert lückenhaft, Ergebnisse bleiben unklar und ohne\nZusammenhang,\n• zeigt nur in geringen Ansätzen Elemente fachmethodischer\nKompetenz,\n• kommentiert pauschal ohne sachliche Fundierung,\n• strukturiert inhaltlich nicht klar erkennbar.\n• verfügt über stark eingeschränkte sprachliche Mittel und Kom-\npensationsstrategien,\n• verbindet Argumente mit sprachlich sehr einfachen Mitteln –\nwenn überhaupt,,\n• weicht ins Deutsche aus,\n• macht häufige, z.T. gravierende, die Kommunikation störende\nFehler.\n• nutzt die Möglichkeiten des gewählten Mediums kaum,\n• trägt nicht frei vor,\n• bleibt unklar und schwer verständlich,\n• nimmt keinen Blickkontakt mit den Zuhörern auf,\n• teilt die Zeit nicht sinnvoll ein.",
+        "residual_flags": [
+          "source anomaly: 'wenn überhaupt,,' — double comma"
+        ]
+      },
+      {
+        "content": "Table 1, 'ungenügende Leistung': grasps no essential aspects, no methodological competence, speaks incoherently, appears confused in content; utterances unintelligible, simple and disconnected; uses none of the possibilities of the medium, presents hardly anything, remains unclear and unintelligible.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "erfasst keine wesentlichen Aspekte,\n• verfügt nicht über fachmethodische Kompetenz,\n• äußert sich zusammenhanglos,\n• wirkt inhaltlich konfus.\n• äußert sich unverständlich, simpel und zusammenhanglos.\n• nutzt keine der Möglichkeiten des gewählten Mediums,\n• trägt kaum etwas vor,\n• bleibt unklar und unverständlich.",
+        "residual_flags": []
+      },
+      {
+        "content": "Table 2 grades Part 2 (Fachgespräch) by grade band across the columns content/task fulfilment and language/interactive.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Teil 2: Fachgespräch \nNotenbereich\ninhaltlich / Aufgabenerfüllung \nsprachlich / interaktiv",
+        "residual_flags": []
+      },
+      {
+        "content": "Table 2, 'sehr gute Leistung': grasps all essential aspects, analyses very competently and completely, differentiated methodological competence, well-founded independent coherent commentary, very clear structure; interacts very skilfully, formulates own contributions precisely and convincingly, links them aptly to the partner's utterances, reacts spontaneously even to differentiated demands.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "erfasst alle wesentlichen Aspekte,\n• analysiert sehr sachkompetent und vollständig,\n• zeigt differenzierte fachmethodische Kompetenz,\n• kommentiert besonders fundiert, eigenständig und schlüssig,\n• strukturiert inhaltlich treffend und sehr klar.\n• interagiert sprachlich sehr geschickt,\n• formuliert eigene Beiträge präzise und überzeugend,\n• verknüpft eigene Beiträge passend mit den Äußerungen des Gesprächspartners,\n• reagiert spontan, auch bei differenzierten inhaltlichen Anforderungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Table 2, 'gute Leistung': grasps most essential aspects, analyses competently and almost completely, appropriate methodological competence, differentiated and coherent commentary, largely clear structure; interacts largely skilfully, mostly convincing contributions, comprehensibly linked to the partner's utterances, mostly spontaneous reaction. NOTE: source ends the last bullet with a double full stop.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "erfasst die Mehrzahl der wesentlichen Aspekte,\n• analysiert sachkompetent und nahezu vollständig,\n• demonstriert angemessene fachmethodische Kompetenz,\n• erfasst wichtige Aspekte in der Kommentierung, ist differenziert und schlüssig,\n• strukturiert inhaltlich weitgehend treffend und klar.\n• interagiert sprachlich weitgehend geschickt,\n• formuliert eigene Beiträge meist überzeugend,\n• verknüpft eigene Beiträge nachvollziehbar mit den Äußerungen des Gesprächspartners,\n• reagiert meist spontan, auch bei differenzierten inhaltlichen Anforderungen..",
+        "residual_flags": [
+          "source anomaly: 'auch bei differenzierten inhaltlichen Anforderungen..' — double full stop"
+        ]
+      },
+      {
+        "content": "Table 2, 'befriedigende Leistung': grasps some essential aspects, analyses important aspects essentially correctly, largely appropriate methodological competence, still coherent though not detailed commentary, mostly clear structure; interacts so that a fluent conversation is largely maintained, contributions still coherent, linked with simple/repetitive means, still reacts directly but at times with pauses or hesitation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "erfasst einige wesentliche Aspekte,\n• analysiert einige wichtige Aspekte im Wesentlichen richtig,\n• zeigt weitgehend angemessene fachmethodische Kompetenz,\n• kommentiert noch kohärent, allerdings wenig ausführlich und /oder es sind nicht viele zentra-\nle Aspekte erfasst,\n• strukturiert inhaltlich überwiegend treffend und klar.\n• interagiert sprachlich so, dass ein flüssiges Gespräch überwiegend aufrecht erhalten bleibt,\n• formuliert eigene Beiträge noch kohärent,\n• verknüpft eigene Beiträge mit den Äußerungen des Gesprächspartners durch einfache / sich\nwiederholende sprachliche Mittel,\n• reagiert noch direkt auf den Gesprächspartner, aber gelegentlich mit Pausen / zögernd.",
+        "residual_flags": []
+      },
+      {
+        "content": "Table 2, 'ausreichende Leistung': grasps few essential aspects, analyses superficially, rudimentary methodological competence, only partly appropriate commentary, structure still traceable in most passages; interacts so that support is needed to keep the conversation going, contributions only rudimentarily purposeful, reacts with stereotyped means, struggles to react meaningfully. NOTE: the source's last bullet is ungrammatical ('Mühe, sinnvoll ... reagieren' — the 'zu' is missing).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "erfasst wenige wesentliche Aspekte,\n• analysiert oberflächlich und / oder stellt Ergebnisse in vielen Passagen wenig zusammenhän-\ngend dar,\n• zeigt in Ansätzen Elemente fachmethodischer Kompetenz,\n• kommentiert nur teilweise angemessen und zusammenhängend,\n• strukturiert inhaltlich in den meisten Passagen noch nachvollziehbar.\n• interagiert sprachlich so, dass Unterstützung erforderlich ist, um das Gespräch aufrecht zu\nerhalten,\n• formuliert eigene Beiträge nur in Ansätzen zielgerichtet und zusammenhängend,\n• reagiert mit stereotypen sprachlichen Mitteln auf die Äußerungen des Gesprächspartners,\n• hat Mühe, sinnvoll auf die Äußerungen des Gesprächspartners reagieren.",
+        "residual_flags": [
+          "source anomaly: 'hat Mühe, sinnvoll auf die Äußerungen des Gesprächspartners reagieren.' — missing 'zu' before 'reagieren'"
+        ]
+      },
+      {
+        "content": "Table 2, 'mangelhafte Leistung': grasps only isolated essential aspects, analyses with gaps, results unclear, hardly any methodological competence, sweeping unfounded commentary, no recognizable structure; maintains interaction only with great effort, only rudimentary means to take part, only fragmentary contributions, reacts insecurely and haltingly.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "erfasst nur vereinzelt wesentliche Aspekte,\n• analysiert lückenhaft, Ergebnisse bleiben unklar und ohne Zusammenhang,\n• zeigt nur in geringen Ansätzen Elemente fachmethodischer Kompetenz,\n• kommentiert pauschal ohne sachliche Fundierung,\n• strukturiert inhaltlich nicht klar erkennbar.\n• hält sprachlich Interaktion nur mit großer Mühe aufrecht,\n• verfügt nur über rudimentäre sprachliche Mittel, um am Gespräch teilzunehmen,\n• formuliert eigene Beiträge nur bruchstückhaft,\n• reagiert unsicher und stockend auf die Äußerungen des Gesprächspartners.",
+        "residual_flags": []
+      },
+      {
+        "content": "Table 2, 'ungenügende Leistung': grasps no essential aspects, no methodological competence, incoherent utterances, confused content; cannot establish or maintain linguistic interaction, only confused and almost unintelligible contributions, reacts almost entirely helplessly.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5 Mündliche Prüfung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "erfasst keine wesentlichen Aspekte,\n• verfügt nicht über fachmethodische Kompetenz,\n• äußert sich zusammenhanglos,\n• wirkt inhaltlich konfus.\n• kann sprachliche Interaktion nicht herstellen / aufrecht erhalten,\n• formuliert nur konfuse, fast unverständliche Beiträge,\n• reagiert sprachlich fast ausschließlich hilflos.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5 Mündliche Prüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "5 Mündliche Prüfung",
+        "printed_page_range": "24–32"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:9365292f645a67e9b23feda85fd6881533e8cbe0e70a314a024232ce8a1983b5"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-psychologie",
+      "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Definition of Bewerten / Stellung nehmen: advocate one's own position according to stated norms or values.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Eine eigene Position nach ausgewiesenen Normen oder \nWerten vertreten",
+        "residual_flags": []
+      },
+      {
+        "content": "The example task instruction: take a position, from the view of a behaviorally oriented psychologist, on the emergence and maintenance of Jonas's school anxiety.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Nehmen Sie aus Sicht eines behavioristisch orientierten \nPsychologen Stellung zur Entstehung und Aufrechterhaltung \nder im Text geschilderten Schulangst von Jonas.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction) instruction: present the problem (question, matter, fact) and briefly explain it.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Problemstellung (Frage, Sachverhalt, Tatsache …) darstellen und kurz",
+        "residual_flags": []
+      },
+      {
+        "content": "Applying the framing: in this context the emergence and maintenance of the school anxiety can be explained purely at the behavioral level.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "In diesem Zusammenhang kann die Entstehung und die Aufrechterhaltung der \nSchulangst rein auf Verhaltensebene erkl",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (naming criteria): the underlying image of the human of the paradigm and the applicability of the theories in question.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Zugrundeliegendes Menschenbild des Paradigmas \n• \nAnwendbarkeit der in Frage kommenden Theorien",
+        "residual_flags": []
+      },
+      {
+        "content": "Argument (classical conditioning): the anxiety-triggering experience with a teacher led to an anxiety reaction that Jonas learned via classical conditioning.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "mit einer Lehrkraft führte zu einer Angstreaktion (gemäß \nden Erkenntnissen des klassischen Konditionierens hat Jonas die Angstreaktion erlernt",
+        "residual_flags": []
+      },
+      {
+        "content": "Argument (operant conditioning): the reaction is stabilized; the expectation of meeting a conditioned anxiety trigger leads to a rapid, stable avoidance reaction — Jonas avoids going to school and reacts with somatic symptoms.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Im Weiteren kommt es zur Stabilisierung der Reaktion; diese wird in einem zweiten \nSchritt nach den Gesetzmäßigkeiten des operanten Konditionierens erlernt. Die \nErwartung, auf einen konditionierten Angstauslöser zu treffen, führt zu einer raschen \nund stabilen Vermeidungsreaktion, d. h. – bezogen auf Jonas – er vermeidet, in die Schule \nzu gehen und reagiert mit somatischen Symptomen",
+        "residual_flags": []
+      },
+      {
+        "content": "The negative reinforcer: the expected aversive reaction in the form of anxiety fails to appear (negative reinforcer), and the mother reinforces this behavior.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die erwartete aversive Reaktion in \nForm von Angstgefühlen bleibt aus (negativer Verstärker). Die Mutter verst",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 4 (conclusion): Jonas's school anxiety with its somatic symptoms can be explained by behaviorist learning models; the theories have high plausibility and offer at least a partial explanation of emergence and maintenance.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Schulangst, die sich in somatischen Symptomen äußert, kann durch Lernmodelle \ndes Behaviorismus in ihrer Entstehung und Aufrechterhaltung erklärt werden. Die \nTheorien besitzen eine hohe Plausibilität und man muss den Theorien zubilligen, dass sie \nfür die Entstehung und Aufrechterhaltung zumindest eine partielle Erkl",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 5 (reflection): alternative, cognitively shaped approaches can additionally illustrate inner processes but offer no added value for intervention, since the anxiety can be reduced purely at the behavioral level.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Alternative, kognitivistisch geprägte Erklärungsansätze sind zwar ergänzend in der \nLage auch „innere Prozesse“ zu veranschaulichen, für eine mögliche Intervention bzgl. \nder Schulangst von Jonas bieten diese aber keinen Mehrwert, da auch rein auf \nVerhaltensebene die Angst gemindert werden kann",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-psychologie",
+        "section_anchor": "Bewerten — Stellung nehmen (aus der Sicht von…)",
+        "printed_page_range": "16–17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

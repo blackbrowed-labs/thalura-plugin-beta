@@ -1,0 +1,122 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:487b4a5f237c7212ae01f770b078a180ee3731870df6340bf3d6db889b4d1049"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Foreign-language teaching in the Studienstufe builds on CEFR level B1 in continued languages (A2/A2+ in Chinese) and on A2 in newly started languages (A1+ in Chinese).",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8h) Neuere Fremdsprachen",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Der Fremdsprachenunterricht in der Studienstufe baut in den weitergeführten Fremdsprachen \nauf dem bis dahin erworbenen Kompetenzniveau B1 des Gemeinsamen Europäischen Refe-\nrenzrahmens für Sprachen auf, in Chinesisch auf dem Kompetenzniveau A2/A2+; in den neu \naufgenommenen Fremdsprachen auf dem Kompetenzniveau A2, in Chinesisch auf dem Kom-\npetenzniveau A1+.",
+        "residual_flags": []
+      },
+      {
+        "content": "Listening, audio-visual comprehension, reading, speaking, writing and mediation (Sprachmittlung) are all assessed.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8h) Neuere Fremdsprachen",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Es werden das Hörverstehen sowie das Hör-/Sehverstehen, das Leseverstehen, das Spre-\nchen, das Schreiben und die Sprachmittlung überprüft.",
+        "residual_flags": []
+      },
+      {
+        "content": "In functional communicative competence, communicative success and successful expression are weighted higher than linguistic correctness.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8h) Neuere Fremdsprachen",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Im Bereich der funktionalen kommunikativen Kompetenz werden kommunikativer Erfolg und \ngelungener sprachlicher Ausdruck höher gewichtet als sprachliche Korrektheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "In intercultural competence, orientation knowledge is assessed alongside reflection and action competence.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8h) Neuere Fremdsprachen",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Im Bereich der interkulturellen Kompetenz wird neben Reflexions- und Handlungskompetenz \nauch Orientierungswissen der Schülerinnen und Schüler überprüft.",
+        "residual_flags": []
+      },
+      {
+        "content": "A central intercultural criterion is the accuracy and scope of socio-cultural orientation knowledge.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8h) Neuere Fremdsprachen",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "die Genauigkeit und der Umfang der soziokulturellen Orientierungswissens",
+        "residual_flags": [
+          "source anomaly preserved: 'der Umfang der soziokulturellen Orientierungswissens' — genitive 'des' expected"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "8h) Neuere Fremdsprachen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "8h) Neuere Fremdsprachen",
+        "printed_page_range": "24–25"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

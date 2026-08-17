@@ -1,0 +1,486 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0634b91bd060518606eac8dd0d5437ae2e64b0f425dc87f82c7fd519778241d3"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Verkehrserziehung ermoeglicht Schuelern, sich mit den Anforderungen des heutigen Verkehrs in allen Formen auseinanderzusetzen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "sich mit den Anforderungen \ndes heutigen Verkehrs in allen Formen",
+        "residual_flags": []
+      },
+      {
+        "content": "Verkehrserziehung umfasst eine Mobilitaetserziehung, die sich an nachhaltiger Entwicklung orientiert, um die oekologische Belastbarkeit der Erde nicht zu ueberfordern, den Klimaschutz zu staerken und negative Auswirkungen des Verkehrs zu reduzieren.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "orientiert, welche wiederum zum Ziel hat, die ökologische Belastbarkeit der Erde nicht zu über-\nfordern, den Klimaschutz zu stärken und negative Auswirkungen des Verkehrs auf das Leben \nder Menschen zu reduzieren",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "Die Schueler erwerben Wissen ueber Verkehrsmittel und Mobilitaetsangebote, deren sichere Benutzung, Vor- und Nachteile fuer Mensch und Umwelt sowie die Motive der Verkehrsmittelwahl.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "erwerben in diesem Aufgabengebiet Wissen über die unter-\nschiedlichen Verkehrsmittel und Mobilitätsangebote, ihre sichere Benutzung im Straßenver-\nkehr, ihre Vor- und Nachteile für Mensch und Umwelt sowie die verschiedenen Motive der \nVerkehrsmittelwahl",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "Die zunehmende Digitalisierung zeigt sich auch in der Mobilitaet: fuer Routenplanung, Erwerb von Fahrkarten und Sharingsysteme werden digitale Medien benoetigt.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "Routenplanung, das Erwerben von Fahrkarten",
+        "residual_flags": []
+      },
+      {
+        "content": "Werte wie Ruecksichtnahme, Respekt, Fairness und Sicherheit spielen eine bedeutende Rolle; die Schueler entwickeln ihre Wertekompetenz weiter.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "Respekt, Fairness und Sicherheit spielen daher eine bedeutende",
+        "residual_flags": []
+      },
+      {
+        "content": "Bei der Umsetzung ist eine Zusammenarbeit mit Polizei, Verkehrsunternehmen, Verbaenden und Institutionen moeglich.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "sammenarbeit mit Polizei, Verkehrsunternehmen, Verbänden und Institutionen ist",
+        "residual_flags": []
+      },
+      {
+        "content": "In den Jahrgangsstufen 5 und 6 starten die Schueler mit dem Themenbereich In Hamburg unterwegs, erkunden ihren Schulstadtteil und verbessern das Radfahren.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "Sie erkunden ihren Schulstadtteil, verbessern",
+        "residual_flags": []
+      },
+      {
+        "content": "In den Jahrgangsstufen 7 bis 11 geht es um Zukunftsfaehige Mobilitaet; der Blick weitet sich auf ganz Hamburg und auf das Umland.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "Hier weitet sich der Blick auf ganz Hamburg und auf das Umland",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (Erkennen): Schueler benennen Verkehrszeichen und Verkehrsregeln.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 74,
+          "physical_page": 74
+        },
+        "cited_text": "benennen Verkehrszeichen und Verkehrsregeln",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (Bewerten): Schueler bewerten das Verhalten verschiedener Verkehrsteilnehmerinnen und -nehmer.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 74,
+          "physical_page": 74
+        },
+        "cited_text": "bewerten das Verhalten verschiedener Verkehrsteilnehmerinnen und",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (Handeln): Schueler fahren mit dem Rad sicher, regelbewusst und umsichtig im Stadtteil und bei Ausfluegen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 74,
+          "physical_page": 74
+        },
+        "cited_text": "fahren mit dem Rad sicher, regelbewusst und umsichtig im Stadtteil und bei",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (Erkennen): Schueler nutzen statistische Daten zur Darstellung der Verkehrssituation und des Mobilitaetsverhaltens.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 75,
+          "physical_page": 75
+        },
+        "cited_text": "nutzen statistische Daten zur Darstellung der Verkehrssituation und des",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (Bewerten): Schueler analysieren Verkehr als soziales Miteinander.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 75,
+          "physical_page": 75
+        },
+        "cited_text": "analysieren Verkehr als soziales Miteinander",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (Handeln): Schueler nutzen umweltschonende Verkehrsmittel sowie Pooling- und Sharingangebote sicher und regelkonform.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 75,
+          "physical_page": 75
+        },
+        "cited_text": "Pooling- und Sharingangebote",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 5/6: Themenbereich In Hamburg unterwegs.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "In Hamburg unterwegs",
+        "residual_flags": [
+          "page-multi-match:physical-73-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Inhalt 1.1 Stadtteilerkundung mit Verkehrszeichen und Vorfahrtsregeln sowie eigenen Ideen zur Verkehrsgestaltung im Schulumfeld.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 76,
+          "physical_page": 76
+        },
+        "cited_text": "Verkehrszeichen und Vorfahrtsregeln",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.2 Fahrradfahren in Hamburg: verkehrssicheres Fahrrad, Schutzfunktion des Helms, toter Winkel und Fahrradreparatur.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 76,
+          "physical_page": 76
+        },
+        "cited_text": "Fahrradfahren in Hamburg",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.3 Mit dem OePNV durch Hamburg: Streckennetz des hvv, hvv-App, Routenplanung und Barrierefreiheit.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 76,
+          "physical_page": 76
+        },
+        "cited_text": "Streckennetz des hvv",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.4 Soziales Miteinander im Strassenverkehr mit Verhalten in Gefahren- und Konfliktsituationen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 76,
+          "physical_page": 76
+        },
+        "cited_text": "Verhalten in Gefahren- und Konfliktsituationen",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 7-11 (2.1.1) Was ist Mobilitaet: Verkehrsarten und Modal Split in Hamburg und deutschlandweit.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 77,
+          "physical_page": 77
+        },
+        "cited_text": "Modal Split in Hamburg und deutschlandweit",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.1.2 Verkehrsmittelwahl mit Verkehrsmittelvergleich nach Kosten, Flaechenverbrauch, CO2-Bilanz, Zeitbedarf, Gesundheit und Barrierefreiheit.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 77,
+          "physical_page": 77
+        },
+        "cited_text": "Verkehrsmittelvergleich (Kosten, Flächenverbrauch, CO2-Bilanz, \nZeitbedarf, Gesundheit, Barrierefreiheit",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.1.3 Alternative Mobilitaetsangebote: Nutzung digitaler Medien im Verkehr.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 77,
+          "physical_page": 77
+        },
+        "cited_text": "Nutzung digitaler Medien im Verkehr",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.1.4 Stadtentwicklung und Verkehrskonzepte mit Flaechenaufteilung und Flaechengerechtigkeit in Hamburg.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 77,
+          "physical_page": 77
+        },
+        "cited_text": "Stadtentwicklung und Verkehrskonzepte",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.1.5 Berufsbilder: Ausbildungsberufe im Bereich der Mobilitaet, z. B. beim hvv oder im Strassenbau.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 77,
+          "physical_page": 77
+        },
+        "cited_text": "Ausbildungsberufe im Bereich der Mobilität (z. B. beim hvv, im \nStraßenbau",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.2.1 Verkehr und Klima: CO2-Emissionen nach Verursachern und Klimabilanz von Verkehrsmitteln.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 78,
+          "physical_page": 78
+        },
+        "cited_text": "CO2-Emissionen nach Verursachern",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.2.2 Verkehr und Umwelt: Auswirkungen der Bodenversiegelung, Luftverschmutzung und Ressourcenverbrauch.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 78,
+          "physical_page": 78
+        },
+        "cited_text": "Auswirkungen der Bodenversiegelung",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.2.3 Aktiv werden: Entwicklung von Ideen und Aktionen fuer eine klimafreundliche Schulmobilitaet.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 78,
+          "physical_page": 78
+        },
+        "cited_text": "Entwicklung von Ideen",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.3.1 Verkehrsverhalten und soziale Verantwortung mit Vorbildfunktion, Ruecksichtnahme sowie Unfaellen, Notruf und Erster Hilfe.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 79,
+          "physical_page": 79
+        },
+        "cited_text": "Verkehrsverhalten und soziale Verantwortung",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.3.2 Verkehrsverhalten und -sicherheit mit Risikobereitschaft, Gefaehrdung durch Ablenkung und Einfluss berauschender Mittel.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 79,
+          "physical_page": 79
+        },
+        "cited_text": "Verkehrsverhalten und -sicherheit",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.3.3 Einstieg in den motorisierten Individualverkehr: Voraussetzungen fuer Elektro-Tretroller und Mofa sowie Bremswege.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 79,
+          "physical_page": 79
+        },
+        "cited_text": "Einstieg in den motorisierten Individualverkehr",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.3.4 Verkehr und Recht: Eignung und Voraussetzungen fuer die Teilnahme am Strassenverkehr sowie Strassenverkehrsordnung.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 79,
+          "physical_page": 79
+        },
+        "cited_text": "Eignung und Voraussetzungen für die Teilnahme am Straßen-\nverkehr \n• Straßenverkehrsordnung  \n• Entstehung von Unfällen und Unfallursachen/Meldung und Be-\nschreibung von Unfallhergängen \n• Kontrolle und Ahndung von Verkehr",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 73,
+          "printed_page": 73
+        },
+        {
+          "physical_page": 74,
+          "printed_page": 74
+        },
+        {
+          "physical_page": 75,
+          "printed_page": 75
+        },
+        {
+          "physical_page": 76,
+          "printed_page": 76
+        },
+        {
+          "physical_page": 77,
+          "printed_page": 77
+        },
+        {
+          "physical_page": 78,
+          "printed_page": 78
+        },
+        {
+          "physical_page": 79,
+          "printed_page": 79
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+        "printed_page_range": "73–79"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

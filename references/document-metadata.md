@@ -169,7 +169,7 @@ Emitting a clickable relative-path hyperlink uses whatever hyperlink capability 
 
 When a generated document or a chat reply **cites an official regulation** — a curriculum framework (Bildungsplan), an abitur guideline (Abiturrichtlinie), an operator list (Operatorenliste), or any regulation behind the firewall — that citation is rendered as a **clickable link to the official published source**, opened at (or near) the cited page, so the teacher checks the quote and reads its context in one click. Where no resolvable link exists, the citation stays exactly as it is today (plain text). This is a **sibling gate** to *Referenced-file hyperlinks* above — the same verify-resolvable-then-degrade philosophy — but a **different target**: an *online* source URL, not a workspace-relative path. A workspace-relative path structurally cannot reach a regulation source (it lives under `${CLAUDE_PLUGIN_ROOT}/regulations/{federal_state}/…`, a different root, and is host-unreachable in a sandboxed runtime), so this gate is decoupled from the referenced-file gate, not an extension of it.
 
-The regulation citation carries these fields from the regulation firewall's digest: a human-facing `document_title` + `printed_page` (the citation prose the teacher reads), and — internal-only — `source_pdf_sha256` and `physical_page`. The **citation text is unchanged**; the link is layered onto it.
+The regulation citation carries fields from the regulation firewall's digest: the human-facing citation prose itself, rendered per the canonical form at `${CLAUDE_PLUGIN_ROOT}/references/regulation-naming.md` → *Teacher-Facing Citation Format*, and — internal-only — `source_pdf_sha256` and `physical_page`. The **citation text is unchanged**; the link is layered onto it.
 
 ### The emission gate
 
@@ -189,7 +189,7 @@ The join key is the citation's `source_pdf_sha256`, **not** its `document_id`. T
 
 ### Best-effort page anchor
 
-`#page=<physical_page>` uses the digest's `physical_page` **verbatim** — the firewall already resolved printed→physical via the page-map, so the gate **does not recompute or invent it**. `physical_page` is used **only** to build the `#page` fragment; it never surfaces as visible text.
+`#page=<physical_page>` uses the digest's `physical_page` **verbatim** — the firewall already resolved that page **per claim**, so the gate **does not recompute or invent it**. Either of the two ways an entry is produced resolves it: a read that opens the document resolves the page while it is reading it, and a pre-generated entry resolves it by locating the claim's `cited_text` in the source PDF's per-page text. What the value names in both cases is the page the cited passage **begins** on — never the first page of its section, and never a number the gate is free to adjust. `physical_page` is used **only** to build the `#page` fragment; it never surfaces as visible text.
 
 The anchor is **best-effort**. The bundled PDF is sha-pinned; the document served at `canonical_url` is whatever the authority currently publishes and **can drift** (re-pagination, a new edition). When the hosted edition's pagination matches the bundled one (the common case), the `#page` anchor lands correctly; where an `edition`/`url_note` flag marks a mismatch, the gate **degrades to the whole-document link**. The URL never claims byte-fidelity to the bundled PDF — it points the teacher at the *authoritative published source* for context.
 

@@ -1,0 +1,191 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:72e157a8935edb44d83310e6a79ee6d08ef98a51a1cbdca583ed352f8539f918"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "At the latest in the pre-stage (Vorstufe) of the upper school, assessments (Klausuren) must also be set that contain tasks on text analysis and guided text interpretation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Spätestens in der Vorstufe der gymnasialen Oberstufe sind auch Klausuren zu stellen, die \nAufgaben zur Textanalyse und gelenkten Textinterpretation enthalten.",
+        "residual_flags": []
+      },
+      {
+        "content": "In intercultural competence, besides reflection and action competence, students' orientation knowledge is also assessed.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Im Bereich der interkulturellen Kompetenz wird neben der Reflexions- und Handlungskompe-\ntenz auch das Orientierungswissen der Schülerinnen und Schüler überprüft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural criteria include accuracy and scope of sociocultural orientation knowledge, differentiation in presenting cultural phenomena and own viewpoints, and suitable strategies in situations of linguistic and cultural diversity.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Genauigkeit und Umfang des soziokulturellen Orientierungswissens \n• \nDifferenziertheit bei der Darstellung kultureller Phänomene und eigener Standpunkte \n• \nEinsatz geeigneter Strategien in Kommunikationssituationen, die von sprachlicher und \nkultureller Diversität geprägt sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "In functional communicative competence, communicative success and successful expression are weighted more highly than linguistic correctness.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Im Bereich der funktionalen kommunikativen Kompetenz werden kommunikativer Erfolg und \ngelungener sprachlicher Ausdruck höher gewichtet als sprachliche Korrektheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language-production criteria include task and subject relevance, independence and originality, and linguistic clarity and coherence.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Aufgaben- und Sachbezogenheit \n• \nSelbstständigkeit und Originalität \n• \nsprachliche Klarheit und gedankliche Stringenz",
+        "residual_flags": []
+      },
+      {
+        "content": "Interaction criteria include successful participation in conversations and debates, and successful mediation in bilingual or multilingual situations.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 23,
+          "printed_page_end": 24,
+          "physical_page": 23
+        },
+        "cited_text": "erfolgreiche Beteiligung an Gesprächen, Diskussionen und Debatten \n\n24 \n• \nVerwendung von themenspezifischen, situationsangemessenen und adressatenge-\nrechten Redemitteln \n• \nSpontaneität und Originalität des sprachlichen Agierens und Reagierens \n• \nerfolgreiche Vermittlung in zwei- oder mehrsprachigen Situationen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language-awareness criteria include conscious adaptation of language use and metalinguistic engagement and articulation of knowledge about language-related concepts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "bewusste und intentionale Anpassung des Sprachgebrauchs an die kommunikative Si-\ntuation, d. h. Abwägen von Formulierungen, Selbst- und Fremdkorrektur sowie Über-\narbeitung von Texten \n• \nmetasprachliche Auseinandersetzung und Formulierung von Wissen über sprachbezo-\ngene Konzepte.",
+        "residual_flags": []
+      },
+      {
+        "content": "Text-analysis/interpretation criteria include choosing appropriate tools, finding indirect statements and the cogency of their interpretation, and recognising design features of texts and their effect.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Wahl angemessener Werkzeuge, Techniken und Strategien zur Erschließung von Tex-\nten \n• \nAuffinden indirekter Aussagen und Schlüssigkeit ihrer Deutung \n• \nErkennen von Gestaltungsmerkmalen von Texten und ihrer Wirkung",
+        "residual_flags": []
+      },
+      {
+        "content": "Text-production criteria include selection and reorganisation of information, choice of appropriate text types, and thoroughness, accuracy and independence in presenting content and problem substance.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 24,
+          "printed_page_end": 25,
+          "physical_page": 24
+        },
+        "cited_text": "Selektion und Reorganisation von Einzelinformationen gemäß der Aufgabenstellung \n• \nWahl angemessener Textsorten gemäß der Aufgabenstellung \n• \nverständliches, strukturiertes und anschauliches Präsentieren von Inhalten \n\n25 \n• \nGründlichkeit, Genauigkeit und Selbstständigkeit bei der Darstellung von Inhalten und \nProblemgehalten",
+        "residual_flags": []
+      },
+      {
+        "content": "A further text-production criterion is the appropriate use of digital and analogue media and tools for presenting texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7g) Englisch und Neuere Sprachen",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "angemessener Einsatz von digitalen und analogen Medien und Werkzeugen zur Prä-\nsentation von Texten.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7g) Englisch und Neuere Sprachen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7g) Englisch und Neuere Sprachen",
+        "printed_page_range": "23–25"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

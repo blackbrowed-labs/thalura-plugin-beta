@@ -1,0 +1,228 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:441e8263f204548e7e7668b546bde1910804f255851af9327fb8dc12e5aef0e6"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The presentation exam (Präsentationsprüfung) refers to content/competence areas of at least two semesters of the Studienstufe.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Präsentationsprüfung bezieht sich auf Inhalts- bzw. Kompetenzbereiche mindestens \nzweier Semester der Studienstufe.",
+        "residual_flags": []
+      },
+      {
+        "content": "The presentation exam aims at the verbal and media-supported presentation of results of investigative learning (forschendes Lernen), e.g. expert interviews or unfolding a scientific controversy.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Präsentationsprüfung zielt auf die verbale und mediale Darstellung von Ergebnissen \ndes forschenden Lernens",
+        "residual_flags": []
+      },
+      {
+        "content": "It consists of two parts: a roughly 10-minute media-supported presentation of the solution, and a 20-minute subject discussion (Fachgespräch) with the committee.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Der etwa 10-minütige erste  Teil ist \nein medienunterstützter Vortrag",
+        "residual_flags": []
+      },
+      {
+        "content": "The second part is a 20-minute Fachgespräch starting from questions on the presentation and drawing in further thematic aspects around the task.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Der \nzweite Teil ist ein 20-minütiges Fachgespräch mit dem Fachprüfungsausschuss",
+        "residual_flags": []
+      },
+      {
+        "content": "The required discussion character forbids a disconnected quizzing of knowledge; total exam time is about 30 minutes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "verbietet \nein \nzusammenhangloses Abfragen von Kenntnissen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates demonstrate they can convert the task into a structured work plan and research information in a targeted way.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "die gestellte Aufgabe in ein strukturiertes Arbeitsvorhaben umzusetzen,",
+        "residual_flags": []
+      },
+      {
+        "content": "The referent develops the task including a first Erwartungshorizont that appropriately reflects the instructional achievement level and leaves the candidate scope in their solution approach.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "entwickelt daraus die Aufgabenstellung einschließlich eines ersten Erwar-\ntungshorizonts, die das Anforderungsniveau des Unterrichts angemessen berücksichtigt",
+        "residual_flags": []
+      },
+      {
+        "content": "The task enables reflective engagement with a psychological problem including a personal evaluation, and demands performance across all three requirement areas.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "werden \nLeistungen \naus \nallen \ndrei \nAnforderungsbereichen eingefordert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates receive the task two weeks before the exam; one week before, they submit a documentation of contents, course, and sources to the chairperson.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Zwei Wochen vor dem Termin der Präsentationsprüfung erhalten die Prüflinge die Auf-\ngabenstellung von dem Referenten bzw. der Referentin.",
+        "residual_flags": []
+      },
+      {
+        "content": "The documentation comprises at most two DIN-A4 pages plus a list of sources and literature and is part of the exam performance.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Dokumentation umfasst maximal zwei DIN-A4-\nSeiten zuzüglich des Quellen- und Literaturverzeichnisses",
+        "residual_flags": []
+      },
+      {
+        "content": "The presentation exam is in principle an individual exam; group exams must be justified in writing and applied for by a school-set deadline.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die Präsentationsprüfung erfolgt grundsätzlich als Einzelprüfung in der in § 26 Absatz \n3 APO-AH beschriebenen Form.",
+        "residual_flags": []
+      },
+      {
+        "content": "A group may generally have no more than three candidates; two-candidate groups run about 45 minutes, three-candidate groups about 60 minutes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Gruppenprüfungen mit zwei Prüflingen dauern in der Regel 45 Minu-\nten, Gruppenprüfungen mit drei Prüflingen dauern in der Regel 60 Minuten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The presentation exam is assessed as a whole, with subject-matter performance central; serious deficiencies in subject performance cannot be compensated by presentation or media competence.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Schwerwiegende Mängel der fachlichen Prüfungsleistungen \nkönnen nicht durch Präsentations- oder Medienkompetenz kompensiert werden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+        "printed_page_range": "16–18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

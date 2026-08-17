@@ -1,0 +1,77 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:992b82a3f23dd12486713e469800292d3696f595804ee047f99c9369cd1192ac"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "At the latest one week before the written examination begins, the report conference decides on admission to the written part of the Abitur.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 21 Zulassung zur schriftlichen Prüfung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Spätestens eine Woche vor Beginn der schriftlichen Prüfung entscheidet die Zeugnis-\nkonferenz über die Zulassung der Schülerinnen und Schüler zum schriftlichen Teil der \nAbiturprüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The decision is noted in the half-year report; a refusal of admission is justified in the remarks on achievement.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 21 Zulassung zur schriftlichen Prüfung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Die Entscheidung wird im Halbjahreszeugnis zur Schullaufbahn vermerkt. Die Nichtzu-\nlassung wird in den Bemerkungen zu den Leistungen begründet.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 21 Zulassung zur schriftlichen Prüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 21 Zulassung zur schriftlichen Prüfung",
+        "printed_page_range": "19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

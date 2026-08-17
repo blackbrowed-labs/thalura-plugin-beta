@@ -1,0 +1,1322 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6d7d05c51cf3997694d035fb0438921f005449a8e8e10cebb10b476b72536353"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Alte Sprachen — primacy of work on the text: performance shown in dealing with Latin/Greek texts carries the greatest weight and cannot be replaced by performance delivered in other contexts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die im Umgang mit lateinischen bzw. griechischen Texten gezeigten Leistungen haben das \ngrößte Gewicht und können nicht durch in anderen Zusammenhängen erbrachte Leistungen \nersetzt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for text work (part 1): knowledge of Latin/Greek (vocabulary, morphology, syntax, technical terms); reliability in accessing linguistic knowledge; capacity for language and text reflection (rendering words, concepts and phrases in accordance with sense; grasping formal and syntactic structures; overall text comprehension); structured and systematic approach to translating; inclusion of the results of pre-translation text exploration.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Für die Textarbeit gelten insbesondere folgende Bewertungskriterien: \n• \nKenntnisse in der lateinischen bzw. griechischen Sprache (Wortschatz, Formenlehre, \nSyntax, Fachtermini) \n• \nSicherheit in der Verfügbarkeit sprachlicher Kenntnisse \n• \nFähigkeit zur Sprach- und Textreflexion (sinngemäß richtige Wiedergabe von Wörtern, \nBegriffen und Wendungen; Erfassen formaler und syntaktischer Strukturen; Textver-\nständnis insgesamt) \n• \nstrukturiertes und systematisches Vorgehen beim Übersetzen \n• \nEinbeziehung der Ergebnisse der Textvorerschließung",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for text work (part 2): ability to use subject aids (textbook, grammar, dictionary if applicable); to express oneself appropriately and aptly in the target language; to draw on basic knowledge of areas of Greco-Roman antiquity; to establish links between Greco-Roman antiquity and the present.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "• \nFähigkeit, fachliche Hilfsmittel (Lehrbuch, Grammatik; ggf. Wörterbuch) zu benutzen \n• \nFähigkeit, sich angemessen und treffend in der Zielsprache auszudrücken \n• \nFähigkeit, auf Grundkenntnisse in verschiedenen Bereichen der griechisch-römischen \nAntike zurückzugreifen \n• \nFähigkeit, Bezüge zwischen der griechischen-römischen Antike und der Gegenwart \nherzustellen",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'der griechischen-römischen Antike' (elsewhere 'griechisch-römischen'); kept as printed"
+        ]
+      },
+      {
+        "content": "Criteria for text work (part 3): ability to establish text references in interpretation or comment; correct use of technical language and terms; originality in creative interpretation tasks; ability to develop understanding and openness through engagement with other cultural values.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "• \nFähigkeit, Textbezüge bei der Interpretation oder Stellungnahme herzustellen \n• \nkorrekter Gebrauch von Fachsprache und Fachausdrücken \n• \nOriginalität bei kreativen Aufgabenstellungen zur Textinterpretation \n• \nFähigkeit, durch die Auseinandersetzung mit anderen kulturellen Wertvorstellungen \nVerständnis und Offenheit zu entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessed written performance checks are written regularly in Latin and Greek lessons to check knowledge of the language (vocabulary, morphology, syntax, technical terms) and competencies in handling isolated grammatical phenomena.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Zur Überprüfung der Kenntnisse in der lateinischen bzw. griechischen Sprache (Wortschatz, \nFormenlehre, Syntax, Fachtermini) sowie der Kompetenzen im Umgang mit isolierten gram-\nmatischen Phänomenen werden im Latein- und Griechischunterricht regelmäßig bewertete \nLeistungsfeststellungen geschrieben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Class tests in the classical languages consist of two parts: a translation task and a task part; the translation task proves comprehension of an unknown Latin/Greek text.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Klassenarbeiten bestehen in den Alten Sprachen aus zwei Teilen: einer Übersetzungsaufgabe \nund einem Aufgabenteil. In der Übersetzungsaufgabe wird das Verständnis eines unbekann-\nten lateinischen bzw. griechischen Textes nachgewiesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The task part checks competencies and knowledge not already captured by the translation (grammar, cultural context, possibly metre); from the third year of learning at the latest it contains at least one task aimed at interpreting the translated text.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Der Aufgabenteil dient insbeson-\ndere der Überprüfung von Kompetenzen und Kenntnissen, die nicht bereits durch die Über-\nsetzungsaufgabe erfasst wurden. Insbesondere kann er Aufgaben zur Grammatik, zum kultu-\nrellen Kontext und ggf. zur Metrik enthalten. Spätestens ab dem dritten Lernjahr umfasst er \nmindestens eine Aufgabe, die auf die Interpretation des übersetzten Textes zielt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Class tests must be designed so the task part does not predominate either in the required working time or in the assessment.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Klassenarbeiten sind so anzulegen, dass der Aufgabenteil in der erforderlichen Bearbeitungs-\nzeit und in der Bewertung nicht überwiegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Threshold for 'ausreichend' on the translation part: it may only be given if the overall sense of the text is still understood; as a rule that is no longer the case if the translation has more than TEN (whole) errors per hundred words of the Latin/Greek text.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "In Klassenarbeiten darf für den Übersetzungsteil die Note „ausreichend“ nur dann erteilt wer-\nden, wenn der vorgelegte Text in seinem Gesamtsinn noch verstanden ist. Davon kann in der \nRegel nicht mehr ausgegangen werden, wenn die Übersetzung auf je hundert Wörter des la-\nteinischen bzw. griechischen Textes in der Summe mehr als zehn (ganze) Fehler aufweist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Threshold for 'gut': as a rule it may be given if the translation has no more than FIVE (whole) errors per hundred words of the Latin/Greek text.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die \nNote „gut“ kann in der Regel dann erteilt werden, wenn die Übersetzung auf je hundert Wörter \ndes lateinischen bzw. griechischen Textes in der Summe nicht mehr als fünf (ganze) Fehler \naufweist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Error weighting: comprehension is judged by how far the German translation succeeded; an error's weight follows above all the disturbance of sense it causes in the German text, NOT the degree of violation of the Latin/Greek grammatical or lexical system.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Das Verständnis des lateinischen bzw. griechischen Textes wird danach bewertet, inwieweit \ndie Übersetzung ins Deutsche gelungen ist. Für die Gewichtung eines Fehlers bedeutet dies: \n• \nSie richtet sich vor allem nach der Störung des Sinns, die im deutschen Text von dem \nFehler verursacht wird, und nicht nach dem Grad des Verstoßes gegen das gramma-\ntische oder lexikalische System der lateinischen bzw. griechischen Sprache.",
+        "residual_flags": []
+      },
+      {
+        "content": "Deviations in grammar and vocabulary from the source text are NOT counted as errors if they hit the sense of the source text or represent only slight inaccuracies.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "• \nIn Grammatik und Vokabular kann es Abweichungen vom lateinischen bzw. griechi-\nschen Ausgangstext geben, die nicht als Fehler gewertet werden, wenn sie den Sinn \ndes Ausgangstextes treffen oder nur leichte Ungenauigkeiten darstellen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Bildende Kunst — work produced in art lessons often creates something new and possibly unforeseeable; divergent results arise that may lie beyond normed expectations, which is precisely a substantial part of their quality.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Mit Arbeiten, die im Kunstunterricht entstehen, wird häufig etwas Neues, unter Umständen \nnicht Vorhersehbares geschaffen. Es entstehen divergierende Ergebnisse, die möglicherweise \njenseits genormter Vorstellungen liegen, was jedoch einen erheblichen Teil ihrer Qualität aus-\nmacht.",
+        "residual_flags": []
+      },
+      {
+        "content": "In appraisal, such differences arising from students' individuality must be perceived and reflected upon.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Bei der Beurteilung müssen derartige, aus der Individualität der Schülerinnen und \nSchüler resultierende Unterschiede wahrgenommen und reflektiert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art teaching is predominantly practical, so practical performance carries particular weight; in assessing ongoing classwork, alongside finished products, interim results of work processes, sketches and oral and written contributions must be taken into account.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Der Unterricht im Fach Bildende Kunst ist vorwiegend praktisch orientiert. Somit kommt den \npraktischen Leistungen der Schülerinnen und Schüler besonderes Gewicht zu. Bei der Bewer-\ntung der in der laufenden Unterrichtsarbeit erbrachten Leistungen sind neben fertigen Produk-\nten auch Zwischenergebnisse der Arbeitsprozesse, Skizzen sowie mündliche und schriftliche \nBeiträge zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — openness (Aufgeschlossenheit): students engage with the unknown (a question, a phenomenon, an artwork), ask further questions, try out materials and techniques, and are open to developing different solutions and variations in the practical and theoretical field.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nAufgeschlossenheit: Die Schülerinnen und Schüler lassen sich auf Unbekanntes – sei \nes z. B. eine Fragestellung, ein Phänomen oder ein Kunstwerk – ein, stellen weiterfüh-\nrende Fragen, erproben Materialien und Techniken und sind offen für die Entwicklung \nverschiedener Lösungen und Variationen im praktischen und theoretischen Bereich.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — skills and knowledge: students command the expected skills in handling material, techniques and methods as well as the expected subject knowledge about works, procedures and phenomena.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nFertigkeiten, Kenntnisse: Die Schülerinnen und Schüler verfügen über die erwarteten \nFertigkeiten bezogen auf den Umgang mit Material, Techniken und Methoden sowie \nüber die erwarteten fachlichen Kenntnisse über Werke, Verfahren und Phänomene.",
+        "residual_flags": []
+      },
+      {
+        "content": "They incorporate specific properties of media and materials into practical work and into the examination of works and phenomena, and handle material and time appropriately in an economical or experimental sense.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Sie beziehen spezifische Eigenschaften und Eigenarten von Medien und Materialien in \ndie praktische Arbeit und die Untersuchung von Werken und Phänomenen des Faches \nein. Im ökonomischen oder im experimentellen Sinne gehen sie angemessen mit Ma-\nterial und Zeit um.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — inventiveness and variety: students work inventively and with variety on the topic; inventiveness covers creativity, originality and richness of ideas and also shows in the independent, further-reaching use of existing knowledge and skills.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nEinfalls- und Variantenreichtum: Die Schülerinnen und Schüler arbeiten einfalls- und \nvariantenreich zu der Themenstellung. Einfallsreichtum umfasst Kreativität, Originalität \nund Reichhaltigkeit von Ideen, die zu einer Fragestellung entwickelt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — self-reliance (Selbstständigkeit): students develop their ideas independently, i.e. largely without instructions and guiding prompts; they obtain materials and information themselves and judge their suitability appropriately.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nSelbstständigkeit: Die Schülerinnen und Schüler entwickeln ihre Einfälle selbstständig, \nd. h. weitgehend ohne Anweisungen und lenkende Anstöße. Sie beschaffen Materia-\nlien stofflicher und theoretischer Natur sowie Informationen selbstständig und schätzen \nderen Eignung für das jeweilige Vorhaben sachgemäß ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — originality (Eigenständigkeit): students explore and use the latitude of questions and tasks, and the results rest on independent, original thoughts, ideas and solutions.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nEigenständigkeit: Die Schülerinnen und Schüler erforschen und nutzen die Spielräume \nvon Frage- und Aufgabenstellungen und die Ergebnisse beruhen auf eigenständigen, \noriginären Gedanken, Ideen und Lösungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — capacity for presentation, curation and exhibition: students bring practical and theoretical results coherently to bear, e.g. in presentations, exhibitions and guided tours.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nFähigkeit zur Präsentation, Kuration und Ausstellung: Die Schülerinnen und Schüler \nbringen die praktischen und theoretischen Arbeitsergebnisse stimmig zur Geltung, z. B. \nin Form von Präsentationen, Ausstellungen und Führungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Biologie — achievement assessment covers all four competency areas of the science subjects: Sachkompetenz, Erkenntnisgewinnungskompetenz, Kommunikationskompetenz, Bewertungskompetenz.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Die Leistungsbewertung im Biologieunterricht bezieht sich auf alle vier Kompetenzbereiche \nder naturwissenschaftlichen Fächer: \n• \nSachkompetenz \n• \nErkenntnisgewinnungskompetenz \n• \nKommunikationskompetenz \n• \nBewertungskompetenz.",
+        "residual_flags": []
+      },
+      {
+        "content": "Practical subject aspects of the abilities, skills and knowledge acquired in lessons are also taken into account in particular; the areas of performance in Biology include the formulation of research questions and hypotheses.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Berücksichtigung finden dabei insbesondere auch fachpraktische Aspekte der im Unterricht \nvon den Schülerinnen und Schülern erworbenen Fähigkeiten, Fertigkeiten und Kenntnisse. \nZu den Bereichen der Leistungserbringung im Fach Biologie gehören insbesondere: \n• \nFormulierung von Fragestellungen und Hypothesen",
+        "residual_flags": []
+      },
+      {
+        "content": "Further areas of performance in Biology: planning, carrying out and recording investigations and experiments; preparing and analysing data; evaluating, interpreting and reflecting on investigations; observing safety rules; proper handling of laboratory and field equipment and chemicals; applying biological working techniques (microscopy, drawing, identification with keys, measuring, observing, comparing, modelling).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "• \nPlanung, Durchführung und Protokollierung von Untersuchungen und Experimenten \n• \nAufbereitung und Analyse von Daten \n• \nAuswertung, Interpretation und Reflexion von Untersuchungen und Experimenten \n• \nEinhaltung von Sicherheitsregeln \n• \nsachgerechter Umgang mit Labor- und freibiologischen Geräten sowie Chemikalien \n• \nAnwendung fachbiologischer Arbeitstechniken (u. a. Mikroskopieren, Zeichnen, Be-\nstimmen mit Bestimmungshilfen, Messen, Beobachten, Vergleichen, Modellieren).",
+        "residual_flags": []
+      },
+      {
+        "content": "Chemie — achievement assessment covers all four competency areas of the science subjects: Sachkompetenz, Erkenntnisgewinnungskompetenz, Kommunikationskompetenz, Bewertungskompetenz.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Die Leistungsbewertung im Chemieunterricht bezieht sich auf alle vier Kompetenzbereiche der \nnaturwissenschaftlichen Fächer: \n• \nSachkompetenz \n• \nErkenntnisgewinnungskompetenz \n• \nKommunikationskompetenz \n• \nBewertungskompetenz.",
+        "residual_flags": []
+      },
+      {
+        "content": "Tasks relating to experiments are particularly suited to achievement assessment in Chemistry.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Experimente beziehen, sind zur Leistungsbewertung im Che-\nmieunterricht besonders geeignet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Areas of performance in Chemistry: formulating questions and hypotheses; observing safety rules; planning, carrying out and recording experiments; forward-looking work organisation when experimenting; proper handling of lab equipment and chemicals; applying chemical working and measuring techniques; preparing and analysing data; interpreting and reflecting on experiments.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Zu den Bereichen der Leistungserbringung im Fach Chemie gehören insbesondere: \n• \nFormulierung von Fragestellungen und Hypothesen \n• \nEinhaltung von Sicherheitsregeln \n• \nPlanung, Durchführung und Protokollierung von Experimenten \n• \nvorausschauende Arbeitsorganisation beim Experimentieren \n• \nsachgerechter Umgang mit Laborgeräten sowie Chemikalien \n• \nAnwendung fachchemischer Arbeits- und Messtechniken  \n• \nAufbereitung und Analyse von Daten \n• \nInterpretation und Reflexion von Experimenten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Deutsch — for class tests checking spelling performance, suitable formats include tasks on finding and correcting errors in given texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Für die Klassenarbeiten, die der Überprüfung der Rechtschreibleistung dienen, eignen sich \ninsbesondere: \n• \nAufgaben zur Fehlersuche und -korrektur an vorgegebenen Texten",
+        "residual_flags": []
+      },
+      {
+        "content": "Further suitable spelling-test formats: tasks reflecting on the spelling of words or on punctuation; dictionary-use tasks; dictations (Diktate).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "• \nAufgaben zum Nachdenken über die Schreibweise von Wörtern bzw. die Zeichenset-\nzung \n• \nAufgaben zur Wörterbuchnutzung \n• \nDiktate.",
+        "residual_flags": []
+      },
+      {
+        "content": "If a dictation is used to check spelling performance it must not be the sole instrument of performance assessment; students must have adequate time before handing in to check the dictated text, and as a rule the use of a dictionary should be permitted.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Wird ein Diktat zur Überprüfung der Rechtschreibleistung eingesetzt, ist dies nicht das alleinige \nInstrument der Leistungsfeststellung. Außerdem muss gewährleistet sein, dass den Schüle-\nrinnen und Schülern vor Abgabe der Klassenarbeit eine angemessene Zeit zur Verfügung \nsteht, den diktierten Text zu prüfen. Dabei soll in der Regel die Nutzung eines Wörterbuchs \nzulässig sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "In spelling-check class tests, errors are marked and corrected by the students.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In Klassenarbeiten zur Überprüfung der Rechtschreibleistung werden die Fehler markiert und \nvon den Schülerinnen und Schülern berichtigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "In all German class tests the teacher gives error-differentiated feedback on spelling and grammar errors, oriented on students' spelling competencies and on the demands of the lessons.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In allen Klassenarbeiten im Fach Deutsch gibt die Lehrkraft den Schülerinnen und Schülern \neine fehlerdifferenzierende Rückmeldung zu Rechtschreib- und Grammatikfehlern, die sich an \nderen Rechtschreibkompetenzen sowie an den unterrichtlichen Anforderungen orientiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Only those areas of spelling and punctuation that have already been worked on in class enter the assessment of spelling performance.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In die Bewertung der Rechtschreibleistung fließen nur diejenigen Bereiche der Rechtschrei-\nbung und Zeichensetzung ein, die bereits im Unterricht erarbeitet wurden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Except in a pure spelling check, errors must NOT be evaluated purely quantitatively; beyond the number of errors, the degree of impairment of reading flow and text comprehensibility and the severity of the errors plus the number and type of error types must be considered.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Bei der Bewertung von Texten hinsichtlich der Rechtschreibleistung dürfen Fehler, insofern es \nnicht um eine reine Überprüfung der Rechtschreibleistung geht, nicht allein quantitativ ausge-\nwertet werden. Zu berücksichtigen sind über die Anzahl der Fehler hinaus: \n• \nder Grad der Beeinträchtigung des Leseflusses und der Verständlichkeit des Textes \nund  \n• \ndie Schwere der Fehler sowie die Anzahl und Art von Fehlertypen.",
+        "residual_flags": []
+      },
+      {
+        "content": "DaZ in preparatory classes (Vorbereitungsklassen) — the number of class tests follows the specifications for the subject German; because students are admitted on a rolling basis, expected learning levels differ so much that identical tasks for all students of a learning group are as a rule not possible.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Die Anzahl der Klassenarbeiten orientiert sich an den Vorgaben für das Fach Deutsch. Infolge \nder fortlaufenden Aufnahme von Schülerinnen und Schülern in Vorbereitungsklassen unter-\nscheiden sich die zu erwartenden Lern- und Leistungsstände in der Regel so, dass identische \nAufgabenstellungen für alle Schülerinnen und Schüler einer Lerngruppe nicht möglich sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Beyond setting different tasks, students may be granted different aids/support measures matched to their expected level — e.g. sentence scaffolds (Wortgeländer), picture dictionaries, word clusters, vocabulary books or learning posters.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Über die Stellung unterschiedlicher Aufgabenstellungen hinaus können den Schülerinnen und \nSchülern auch unterschiedliche, am jeweils zu erwartenden Lern- und Leistungsstand ausge-\nrichtete Hilfsmittel bzw. Unterstützungsmaßnahmen gewährt werden. Hierzu zählen z. B. \nWortgeländer, Bildwörterbücher, Wort-Cluster, Vokabelhefte oder Lernplakate.",
+        "residual_flags": []
+      },
+      {
+        "content": "Basically identical tasks may be modified, e.g. by adding illustrations, picture sequences, (picture) legends, sample solutions, word lists or explanations, by using cloze texts or text puzzles, by visual support (e.g. enlarging the font or other font adaptation), or by reading aloud.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Eine Modifika-\ntion grundsätzlich gleicher Aufgabenstellungen kann z. B. durch die Aufnahme zusätzlicher \nAbbildungen, Bildsequenzen, (Bild-)Legenden, Beispiellösungen, Wortlisten oder Erläuterun-\ngen, durch die Verwendung von Lückentexten oder Textpuzzles, durch eine visuelle Unterstüt-\nzung (z. B. die Vergrößerung der Schrift oder andere Schriftanpassung), durch das Vorlesen",
+        "residual_flags": []
+      },
+      {
+        "content": "A further modification option is additionally formulating the tasks in the student's language of origin (Herkunftssprache).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "oder durch die zusätzliche Formulierung von Aufgaben-\nstellungen in der Herkunftssprache erfolgen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural competency: alongside reflective and action competency, students' orientation knowledge is also checked.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Bereich der interkulturellen Kompetenz wird neben der Reflexions- und Handlungskompe-\ntenz auch das Orientierungswissen der Schülerinnen und Schüler überprüft.",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Intercultural criteria: accuracy and scope of socio-cultural orientation knowledge; differentiation in presenting cultural phenomena and one's own standpoints; use of suitable strategies in communication situations marked by linguistic and cultural diversity.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Es gelten insbesondere folgende Bewertungskriterien: \n• \nGenauigkeit und Umfang des soziokulturellen Orientierungswissens \n• \nDifferenziertheit bei der Darstellung kultureller Phänomene und eigener Standpunkte \n• \nEinsatz geeigneter Strategien in Kommunikationssituationen, die von sprachlicher und \nkultureller Diversität geprägt sind.",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Functional communicative competency: communicative success and successful linguistic expression are weighted HIGHER than linguistic correctness.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Bereich der funktionalen kommunikativen Kompetenz werden kommunikativer Erfolg und \ngelungener sprachlicher Ausdruck höher gewichtet als sprachliche Korrektheit.",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Criteria for reception and production: completeness and accuracy of information extraction from a spoken contribution or text (also auditory/audio-visual); and, for production, task and subject relatedness, independence and originality, linguistic clarity and cogency of thought, comprehensibility, length and complexity of the utterance, appropriate differentiation of vocabulary and structures, linguistic correctness, and genre-appropriate or situation-appropriate shaping of the text/contribution.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "im Bereich Sprachrezeption \n• \nVollständigkeit und Genauigkeit der Informationsentnahme aus einem Redebeitrag  \noder Text (auch auditiv oder audiovisuell) \nim Bereich Sprachproduktion \n• \nAufgaben- und Sachbezogenheit \n• \nSelbstständigkeit und Originalität \n• \nsprachliche Klarheit und gedankliche Stringenz \n• \nVerständlichkeit der Aussage \n• \nLänge und Komplexität der Äußerung \n• \nangemessene Differenziertheit von Wortschatz und Strukturen \n• \nsprachliche Richtigkeit \n• \ntextsortenspezifische Gestaltung des Textes bzw. situationsangemessene Gestaltung \ndes Redebeitrags",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Criteria for interaction: successful participation in conversations, discussions and debates; use of topic-specific, situation-appropriate and addressee-appropriate language means; spontaneity and originality of linguistic acting and reacting.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "im Bereich Interaktion \n• \nerfolgreiche Beteiligung an Gesprächen, Diskussionen und Debatten \n• \nVerwendung von themenspezifischen, situationsangemessenen und adressatenge-\nrechten Redemitteln \n• \nSpontaneität und Originalität des sprachlichen Agierens und Reagierens.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language-learning competency (Sprachlernkompetenz) criteria: targeted use of analogue and digital media and tools for language learning; targeted reflection on and use of techniques, strategies and all previous language-learning experience for the individual learning process.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Sprachlernkompetenz \nEs gelten insbesondere folgende Bewertungskriterien: \n• \nzielgerichtete Nutzung analoger sowie digitaler Medien und Werkzeuge für das Spra-\nchenlernen \n• \nzielgerichtete Reflexion und Nutzung von Techniken und Strategien sowie aller bishe-\nrigen Erfahrungen mit dem Lernen von Sprachen für den individuellen Sprachlernpro-\nzess.",
+        "residual_flags": [
+          "section-tail: closes 7f) Deutsch als Zweitsprache but sits physically on page 22, inside this section's page range",
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Language awareness (Sprachbewusstheit) criterion: conscious and intentional adaptation of language use to the communicative situation, i.e. weighing formulations, self- and peer-correction, and revising texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Sprachbewusstheit \nEs gilt insbesondere folgendes Bewertungskriterium: \n• \nbewusste und intentionale Anpassung des Sprachgebrauchs an die kommunikative Si-\ntuation, d. h. Abwägen von Formulierungen, Selbst- und Fremdkorrektur sowie Über-\narbeitung von Texten.",
+        "residual_flags": [
+          "section-tail: closes 7f) Deutsch als Zweitsprache but sits physically on page 22, inside this section's page range"
+        ]
+      },
+      {
+        "content": "Subject-related digital competency criteria: addressee-, situation- and purpose-appropriate use of subject-specific digital aids (dictionaries, translation programs, other tools) for communication and interaction in the target language; appropriate reflection on the potential and limits of digital aids.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Fachbezogene digitale Kompetenz \nEs gelten insbesondere folgende Bewertungskriterien: \n• \nadressaten-, situations- und zweckangemessene Nutzung fachspezifischer digitaler \nHilfsmittel (z. B. Wörterbücher, Übersetzungsprogramme oder andere Tools) zur Kom-\nmunikation und Interaktion in der Zielsprache \n• \nangemessene Reflexion der Potenziale und Grenzen digitaler Hilfsmittel.",
+        "residual_flags": [
+          "section-tail: closes 7f) Deutsch als Zweitsprache but sits physically on page 22, inside this section's page range",
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Text and media competency criteria: for text analysis/interpretation — choice of appropriate tools, techniques and strategies for opening up texts; for text production — selection and reorganisation of individual pieces of information per the task, choice of appropriate text types, comprehensible, structured and vivid presentation of content, thoroughness, accuracy and independence in presenting content, and appropriate use of digital and analogue media and tools for presenting texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Text- und Medienkompetenz \nEs gelten insbesondere folgende Bewertungskriterien: \nTextanalyse/Textinterpretation \n• \nWahl angemessener Werkzeuge, Techniken und Strategien zur Erschließung von Tex-\nten \nTextproduktion \n• \nSelektion und Reorganisation von Einzelinformationen gemäß der Aufgabenstellung \n• \nWahl angemessener Textsorten gemäß der Aufgabenstellung \n• \nverständliches, strukturiertes und anschauliches Präsentieren von Inhalten \n• \nGründlichkeit, Genauigkeit und Selbstständigkeit bei der Darstellung von Inhalten \n• \nangemessener Einsatz von digitalen und analogen Medien und Werkzeugen zur Prä-\nsentation von Texten.",
+        "residual_flags": [
+          "section-tail: closes 7f) Deutsch als Zweitsprache but sits physically on page 22, inside this section's page range"
+        ]
+      },
+      {
+        "content": "Englisch und Neuere Sprachen — at the latest in grade 10, class tests must also be set that contain tasks on text analysis and guided text interpretation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Spätestens in der Jahrgangsstufe 10 sind auch Klassenarbeiten zu stellen, die Aufgaben zur \nTextanalyse und gelenkten Textinterpretation enthalten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural competency: alongside reflective and action competency, students' orientation knowledge is also checked; criteria are accuracy and scope of socio-cultural orientation knowledge, differentiation in presenting cultural phenomena and one's own standpoints, and use of suitable strategies in situations marked by linguistic and cultural diversity.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Bereich der interkulturellen Kompetenz wird neben der Reflexions- und Handlungskompe-\ntenz auch das Orientierungswissen der Schülerinnen und Schüler überprüft. \nEs gelten insbesondere folgende Bewertungskriterien: \n• \nGenauigkeit und Umfang des soziokulturellen Orientierungswissens \n• \nDifferenziertheit bei der Darstellung kultureller Phänomene und eigener Standpunkte \n• \nEinsatz geeigneter Strategien in Kommunikationssituationen, die von sprachlicher und \nkultureller Diversität geprägt sind.",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Functional communicative competency: communicative success and successful linguistic expression are weighted HIGHER than linguistic correctness.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Bereich der funktionalen kommunikativen Kompetenz werden kommunikativer Erfolg und \ngelungener sprachlicher Ausdruck höher gewichtet als sprachliche Korrektheit.",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Criteria for language reception and production: completeness and accuracy of information extraction from a spoken contribution or text (also auditory/audio-visual); task and subject relatedness; independence and originality; linguistic clarity and cogency of thought; comprehensibility; length and complexity of the utterance; appropriate differentiation of vocabulary and structures; linguistic correctness; genre- or situation-appropriate shaping.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "im Bereich Sprachrezeption \n• \nVollständigkeit und Genauigkeit der Informationsentnahme aus einem Redebeitrag  \noder Text (auch auditiv oder audiovisuell) \nim Bereich Sprachproduktion \n• \nAufgaben- und Sachbezogenheit \n• \nSelbstständigkeit und Originalität \n• \nsprachliche Klarheit und gedankliche Stringenz \n• \nVerständlichkeit der Aussage \n• \nLänge und Komplexität der Äußerung \n• \nangemessene Differenziertheit von Wortschatz und Strukturen \n• \nsprachliche Richtigkeit \n• \ntextsortenspezifische Gestaltung des Textes bzw. situationsangemessene Gestaltung \ndes Redebeitrags",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Criteria for interaction (English/modern languages): successful participation in conversations, discussions and debates; use of topic-specific, situation- and addressee-appropriate language means; spontaneity and originality of linguistic acting and reacting; AND successful mediation in bilingual or multilingual situations.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "im Bereich Interaktion \n• \nerfolgreiche Beteiligung an Gesprächen, Diskussionen und Debatten \n• \nVerwendung von themenspezifischen, situationsangemessenen und adressatenge-\nrechten Redemitteln \n• \nSpontaneität und Originalität des sprachlichen Agierens und Reagierens \n• \nerfolgreiche Vermittlung in zwei- oder mehrsprachigen Situationen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachlernkompetenz criteria: targeted use of analogue and digital media and tools for language learning; targeted reflection on and use of techniques, strategies and all previous language-learning experience for the individual language-learning process.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "• \nzielgerichtete Nutzung analoger sowie digitaler Medien und Werkzeuge für das Spra-\nchenlernen \n• \nzielgerichtete Reflexion und Nutzung von Techniken und Strategien sowie aller bishe-\nrigen Erfahrungen mit dem Lernen von Sprachen für den individuellen Sprachlernpro-\nzess.",
+        "residual_flags": [
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Sprachbewusstheit criteria (English/modern languages): conscious, intentional adaptation of language use to the communicative situation (weighing formulations, self- and peer-correction, revising texts); AND metalinguistic engagement with and formulation of knowledge about language-related concepts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "• \nbewusste und intentionale Anpassung des Sprachgebrauchs an die kommunikative Si-\ntuation, d. h. Abwägen von Formulierungen, Selbst- und Fremdkorrektur sowie Über-\narbeitung von Texten \n• \nmetasprachliche Auseinandersetzung und Formulierung von Wissen über sprachbezo-\ngene Konzepte.",
+        "residual_flags": []
+      },
+      {
+        "content": "Subject-related digital competency criteria: addressee-, situation- and purpose-appropriate use of subject-specific digital aids (dictionaries, translation programs, other tools) for communication and interaction in the target language; appropriate reflection on the potential and limits of digital aids.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Fachbezogene digitale Kompetenz \nEs gelten insbesondere folgende Bewertungskriterien: \n• \nadressaten-, situations- und zweckangemessene Nutzung fachspezifischer digitaler \nHilfsmittel (z. B. Wörterbücher, Übersetzungsprogramme oder andere Tools) zur Kom-\nmunikation und Interaktion in der Zielsprache \n• \nangemessene Reflexion der Potenziale und Grenzen digitaler Hilfsmittel.",
+        "residual_flags": [
+          "page-multi-match:physical-22-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Text and media competency — text analysis/interpretation criteria (English/modern languages): choice of appropriate tools, techniques and strategies for opening up texts; finding indirect statements and the cogency of their interpretation; recognising texts' design features and their effect.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Textanalyse/Textinterpretation \n• \nWahl angemessener Werkzeuge, Techniken und Strategien zur Erschließung von Tex-\nten \n• \nAuffinden indirekter Aussagen und Schlüssigkeit ihrer Deutung \n• \nErkennen von Gestaltungsmerkmalen von Texten und ihrer Wirkung",
+        "residual_flags": []
+      },
+      {
+        "content": "Text production criteria: selection and reorganisation of individual information per the task; choice of appropriate text types; comprehensible, structured and vivid presentation of content; thoroughness, accuracy and independence in presenting contents and problem substance; appropriate use of digital and analogue media and tools for presenting texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Textproduktion \n• \nSelektion und Reorganisation von Einzelinformationen gemäß der Aufgabenstellung \n• \nWahl angemessener Textsorten gemäß der Aufgabenstellung \n• \nverständliches, strukturiertes und anschauliches Präsentieren von Inhalten \n• \nGründlichkeit, Genauigkeit und Selbstständigkeit bei der Darstellung von Inhalten und \nProblemgehalten \n• \nangemessener Einsatz von digitalen und analogen Medien und Werkzeugen zur Prä-\nsentation von Texten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Informatik — achievement assessment refers to the FIVE competency areas: analysing and understanding informatics systems; designing informatics systems; representing and interpreting; justifying and evaluating; communicating and cooperating.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die Leistungsbewertung im Fach Informatik bezieht sich auf die fünf Kompetenzbereiche: \n• \nInformatiksysteme analysieren und verstehen \n• \nInformatiksysteme gestalten \n• \nDarstellen und Interpretieren \n• \nBegründen und Bewerten \n• \nKommunizieren und Kooperieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Tasks relating to products, projects and their documentation are particularly suited to achievement assessment in Informatics.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Produkte sowie Projekte und deren Dokumentation beziehen, \nsind zur Leistungsbewertung im Informatikunterricht besonders geeignet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Areas of performance in Informatics (part 1): handling and transferring basic informatics competencies plus applying subject-specific working techniques; solving informatics problems; planning, carrying out, evaluating and documenting projects, especially in software development; project management.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Zu den Bereichen der Leistungserbringung im Fach Informatik gehören insbesondere: \n• \nUmgang mit Basiskompetenzen der Informatik und deren Transfer sowie Anwendung \nfachspezifischer Arbeitstechniken \n• \nLösung informatischer Probleme \n• \nPlanung, Durchführung, Evaluation und Dokumentation von Projekten, insbesondere \nim Zusammenhang mit der Entwicklung von Software \n• \nProjektmanagement",
+        "residual_flags": []
+      },
+      {
+        "content": "Areas of performance (part 2): use of digital and analogue tools for communication, documentation, planning, development and evaluation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "• \nEinsatz von digitalen und analogen Werkzeugen zur Kommunikation, Dokumentation \nPlanung, Entwicklung und Evaluation",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'Kommunikation, Dokumentation Planung' — comma after 'Dokumentation' missing; kept as printed"
+        ]
+      },
+      {
+        "content": "Areas of performance (part 3): preparing and presenting data plus evaluating and interpreting it; using and commanding theoretical and applied mathematics to investigate informatics questions and solve informatics problems; transfer between theoretical and applied informatics; cross-subject exploring, communicating and problem solving.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "• \nAufbereitung und Darstellung von Daten sowie deren Auswertung und Interpretation \n• \nNutzung und Beherrschung von theoretischer und angewandter Mathematik zur Unter-\nsuchung informatischer Fragestellungen und zum Lösen informatischer Probleme \n• \nTransfer von theoretischer zu angewandter Informatik und umgekehrt \n• \nfachübergreifendes Erkunden, Kommunizieren und Problemlösen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Mathematik — class tests take account of BOTH content-related and process-related mathematical competencies; process-related competencies are checked in connection with concrete content. A general part with tasks securing the basic competencies (Basiskompetenzen) must be integrated into EVERY class test.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Klassenarbeiten berücksichtigen sowohl die inhaltsbezogenen als auch die prozessbezoge-\nnen mathematischen Kompetenzen. Die prozessbezogenen Kompetenzen werden in Verbin-\ndung mit den konkreten Inhalten überprüft, da sie auch im Zusammenhang mit diesen erwor-\nben werden. In jede Klassenarbeit ist ein allgemeiner Teil mit Aufgaben zur Sicherung der \nBasiskompetenzen zu integrieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Class tests must be designed so that requirement areas (Anforderungsbereiche) I to III — reproducing, establishing connections, generalising and reflecting — are appropriately represented, with the emphasis on requirement area II.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Klassenarbeiten sind so zu gestalten, dass in den Aufgaben die Anforderungsbereiche I bis III \n(Reproduzieren, Zusammenhänge herstellen sowie Verallgemeinern und Reflektieren) ange-\nmessen repräsentiert sind und der Schwerpunkt auf dem Anforderungsbereich II liegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Suitable task types (part 1): tasks in which a known problem or fact must be handled in different presentation forms (amount of text, supporting illustrations, auxiliary tasks or examples); tasks of differing difficulty on one mathematical topic.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Für Klassenarbeiten eignen sich insbesondere: \n• \nAufgaben, bei denen ein bekanntes Problem oder ein bekannter Sachverhalt in unter-\nschiedlichen Präsentationsformen (Textmenge, unterstützende Abbildungen, Hilfsauf-\ngaben oder Beispiele) zu bearbeiten bzw. zu lösen ist \n• \nAufgaben mit unterschiedlichen Schwierigkeitsgraden zu einem mathematischen \nSachverhalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Suitable task types (part 2): additional tasks on generalising, thinking further, describing regularities, or requiring transfer; tasks demanding verbalisation or explanation of mathematical facts; tasks demanding justification why solution paths cannot succeed or why certain conclusions must be false; open tasks requiring students to develop questions or offering different solution paths.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "• \nZusatzaufgaben zum Verallgemeinern, zum Weiterdenken, zum Beschreiben von Ge-\nsetzmäßigkeiten oder Aufgaben, die Transferleistungen erfordern \n• \nAufgaben, die die Versprachlichung oder Erklärung mathematischer Sachverhalte ver-\nlangen \n• \nAufgaben, die Begründungen fordern, warum Lösungswege nicht erfolgreich sein kön-\nnen oder warum bestimmte Schlussfolgerungen falsch sein müssen \n• \noffene Aufgaben, die verlangen, Fragestellungen zu entwickeln, oder die Gelegenheit \nbieten, unterschiedliche Lösungswege zu wählen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Musik — beyond the activities and products named under No. 4, assessment of ongoing classwork also considers: vocal and instrumental music-making; movement presentations and dance; scenic designs; arranging and inventing music; participation in school performances.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Bewertung der in der laufenden Unterrichtsarbeit erbrachten Leistungen berücksichtigt im \nFach Musik über die unter Nr. 4 genannten Aktivitäten und Produkte hinaus die folgenden \nAktivitäten sowie ggf. aus ihnen entstandene Produkte: \n• \nvokales und instrumentales Musizieren \n• \nBewegungsdarstellungen, Tanz \n• \nszenische Gestaltungen \n• \nArrangieren und Erfinden von Musik \n• \nMitwirkung bei Schulaufführungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Music-related abilities acquired outside school are drawn on for assessment to the extent that they are constructively brought into the lessons.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Musikbezogene Fähigkeiten, die Schülerinnen und Schüler im außerschulischen Bereich er-\nworben haben, werden in dem Maße zur Bewertung herangezogen, wie sie konstruktiv in den \nUnterricht eingebracht werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Music criteria (part 1), alongside the general criteria: handling instruments appropriately; realising and steering musical parameters such as pitch and rhythm precisely; listening to others and playing attentively and consciously together when making music jointly; developing and realising expressive designs from original ideas.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Bei der Bewertung von Leistungen im Fach Musik ist neben den allgemeinen Kriterien zu be-\nrücksichtigen, ob und inwieweit die Schülerin oder der Schüler: \n• \nfachgerecht mit Musikinstrumenten umgeht \n• \ndie verschiedenen musikalischen Parameter wie Tonhöhe, Rhythmus usw. präzise um-\nsetzt und gezielt steuert \n• \nbeim gemeinsamen Musizieren auf andere hört und aufmerksam und bewusst mit an-\nderen zusammenspielt \n• \naus originellen Einfällen ausdrucksvolle Gestaltungen entwickelt und umsetzt",
+        "residual_flags": []
+      },
+      {
+        "content": "Music criteria (part 2): bringing different musical design elements together coherently; shaping presentations appropriately for the audience; expressing musical content appropriately; achieving reliability of execution in musical activities; performing in a concentrated and committed way.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "• \nunterschiedliche musikalische Gestaltungselemente in schlüssiger Weise zusammen-\nführt \n• \nPräsentationen adressatengerecht gestaltet \n• \nmusikalische Gehalte angemessen zum Ausdruck bringt \n• \nbei musikalischen Tätigkeiten Sicherheit in der Ausführung erreicht \n• \nin Aufführungen konzentriert und engagiert auftritt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Physik — achievement assessment covers all four competency areas of the science subjects: Sachkompetenz, Erkenntnisgewinnungskompetenz, Kommunikationskompetenz, Bewertungskompetenz.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Leistungsbewertung im Physikunterricht bezieht sich auf alle vier Kompetenzbereiche der \nnaturwissenschaftlichen Fächer: \n• \nSachkompetenz \n• \nErkenntnisgewinnungskompetenz \n• \nKommunikationskompetenz  \n• \nBewertungskompetenz.",
+        "residual_flags": []
+      },
+      {
+        "content": "Tasks relating to experiments are particularly suited to achievement assessment in Physics.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Experimente beziehen, sind zur Leistungsbewertung im Phy-\nsikunterricht besonders geeignet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Specific Physics criteria (part 1): handling and transferring the basic concepts of physics; describing and explaining physical phenomena appropriately and for the audience; formulating and testing questions, hypotheses and theoretical models; planning, carrying out and recording investigations for exploration (exploratory experimenting) and explanation (explanatory experimenting).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Zu den spezifischen Bewertungskriterien im Fach Physik gehören: \n• \nUmgang mit den Basiskonzepten der Physik und deren Transfer \n• \nBeschreibung und Erläuterung physikalischer Phänomene (sachgerecht und adressa-\ntengemäß)  \n• \nFormulierung und Prüfung von Fragestellungen, Hypothesen und theoretischen Mo-\ndellen \n• \nPlanung, Durchführung und Protokollierung von Untersuchungen zwecks Erkundung \n(exploratives Experimentieren) und Erklärung (explanatives Experimentieren)",
+        "residual_flags": []
+      },
+      {
+        "content": "Specific Physics criteria (part 2): preparing and presenting data plus evaluating, interpreting and estimating error; judging the suitability of investigations and experiments; testing data series for trends and regularities and evaluating data to generate hypotheses; applying physical working techniques (measuring physical quantities); mathematising and calculating physical relationships; predicting and justifying an event or result on the basis of a theoretical model.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "• \nAufbereitung und Darstellung von Daten sowie deren Auswertung, Interpretation und \nFehlerabschätzung \n• \nBeurteilung der Eignung von Untersuchungen und Experimenten \n• \nPrüfen von Datenreihen auf Trends und Gesetzmäßigkeiten und Auswertung von Da-\nten zur Hypothesengenerierung \n• \nAnwendung fachphysikalischer Arbeitstechniken (u. a. Messung physikalischer Grö-\nßen) \n• \nMathematisierung und Berechnung physikalischer Zusammenhänge \n• \nVorhersage und Begründung eines Ereignisses oder Ergebnisses aufgrund eines the-\noretischen Modells",
+        "residual_flags": []
+      },
+      {
+        "content": "Final Physics criterion: deductive derivation of a known or new relationship by means of theoretical considerations.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "• \ndeduktive Herleitung eines bekannten oder neuen Zusammenhangs mithilfe theoreti-\nscher Überlegungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sport — performance delivered in connection with lessons is assessed on the motor, cognitive and social level; observation/assessment refers to the abilities, skills and knowledge shown in lessons. In sports practice mainly the motor performances are considered, and also the willingness to perform (Leistungsbereitschaft).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Bewertet werden die von Schülerinnen und Schülern im Zusammenhang mit dem Unterricht \nerbrachten Leistungen auf motorischer, kognitiver und sozialer Ebene. Die Leistungsbeobach-\ntung bzw. -bewertung bezieht sich auf die im Unterricht gezeigten Fähigkeiten, Fertigkeiten \nund Kenntnisse. In der Sportpraxis werden hauptsächlich die motorischen Leistungen berück-\nsichtigt und auch die Leistungsbereitschaft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Within the required close practice-theory link, theoretical and reflective parts enter the assessment to the extent that they were taken into account in the lessons.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Im Rahmen der geforderten engen Praxis-Theorie-Verbindung fließen theoretische und refle-\nxive Anteile in dem Maße in die Leistungsbewertung ein, in dem sie im Unterricht Berücksich-\ntigung gefunden haben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Where no class tests are written, assessment rests exclusively on ongoing classwork; practical performance carries particular weight; written performance is NOT compulsory but is permissible on occasion.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Sofern keine Klassenarbeiten geschrieben werden, bezieht sich die Bewertung ausschließlich \nauf die laufende Unterrichtsarbeit. Bewertet werden hierbei erworbene Kompetenzen und \nKenntnisse, die sowohl in unterrichtlichen Lern- und Arbeitsprozessen gezeigt als auch in \npunktuellen Lernerfolgskontrollen nachgewiesen werden. Bei der Bewertung kommt den prak-\ntischen Leistungen besonderes Gewicht zu. Die Erbringung schriftlicher Leistungen ist nicht \nverpflichtend, jedoch anlassbezogen zulässig.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment-free phases must be especially safeguarded in Sport, to give room to processes of experiencing, learning, practising and training movement, play and sport.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Bewertungsfreie Phasen sind in besonderem Maße zu sichern, um Prozesse des Erfahrens, \nErlernens, Übens und Trainierens von Bewegung, Spiel und Sport Raum zu geben.",
+        "residual_flags": []
+      },
+      {
+        "content": "For both non-assessed and assessed working phases, varied suitable feedback/assessment formats (learning diaries, learning agreements, students' independent work with observation sheets and competency grids) are of particular importance and can structure process support and individual goal setting.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Sowohl \nfür nicht bewertete als auch für bewertete Arbeitsphasen kommt dem Einsatz vielfältiger ge-\neigneter Rückmelde- bzw. Bewertungsformate (z. B. Lerntagebücher, Lernvereinbarungen, \nselbstständige Arbeit der Schülerinnen und Schüler mit Beobachtungsbögen und Kompetenz-\nrastern) besondere Bedeutung zu.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for sports-practical action: process quality of sport-related movements regarding functionality and selected qualitative movement features; measurable results; variety and variance of movements; difficulty of movement/sport skills; situational appropriateness of creative and productive handling of movement and play; aesthetic-creative expression; commitment and willingness to go to the limits of one's capacity.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "In Bezug auf das sportpraktische Handeln (fachliche und bewegungsfeldspezifische Kompe-\ntenzen) gelten insbesondere folgende Bewertungskriterien: \n• \nVerlaufsqualität sportbezogener Bewegungen in Bezug auf Funktionalität sowie aus-\ngewählte qualitative Bewegungsmerkmale \n• \nmessbare Ergebnisse \n• \nVielfalt und Varianz sportbezogener Bewegungen \n• \nSchwierigkeitsgrad bewegungs- und sportbezogener Fertigkeiten \n• \nsituative Angemessenheit des kreativen und produktiven Umgangs mit der Bewegung \nund dem Spiel \n• \nästhetisch-gestalterischer Ausdruck \n• \nEinsatzbereitschaft und Bereitschaft, an die Grenzen der Leistungsfähigkeit zu gehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for SOCIAL action in Sport: cooperativeness and reliability in playing and doing sport together; responding to others' impulses, signals and learning needs; capacity to take responsibility; fairness, consideration and helpfulness; capacity to reflect on one's own sport-related action and its effects on others, especially in handling performance differences and victory/defeat; capacity to analyse conflicts, endure them and take part in forms of problem solving.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "• \nKooperationsfähigkeit und Zuverlässigkeit beim gemeinsamen Spielen und Sporttrei-\nben \n• \nEingehen auf Impulse, Signale und Lernbedürfnisse anderer \n• \nFähigkeit zur Verantwortungsübernahme \n• \nFairness, Rücksichtnahme und Hilfsbereitschaft \n• \nFähigkeit zur Reflexion des eigenen sportbezogenen Handelns und seiner Auswirkun-\ngen auf andere, insbesondere im Umgang mit Leistungsdifferenzen sowie Sieg und \nNiederlage \n• \nFähigkeit, Konflikte zu analysieren, sie auszuhalten und an Formen der Problemlösung \nmitzuwirken.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for KNOWLEDGE and REFLECTION in Sport: command and application of subject knowledge; understanding and correct use of basic technical terms; understanding the contents, conditions and motives of doing sport and formulating one's own position; subject-related judgement; capacity to analyse one's own sporting development and capacity; understanding of sport, play, rules; understanding of basic principles of learning, practising and training movements and being able to apply them; making cross-subject connections; capacity for creative engagement with movement.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "In Bezug auf Kenntnisse und Reflexion gelten insbesondere folgende Bewertungskriterien: \n• \nVerfügung und Anwendung fachlicher Kenntnisse \n• \nVerständnis und korrekte Anwendung grundlegender Fachbegriffe \n• \nVerständnis der Inhalte, Rahmenbedingungen und Motive des Sporttreibens und For-\nmulierung einer eigenen Position dazu \n• \nfachbezogene Urteilsfähigkeit \n• \nFähigkeit zur Analyse der eigenen sportlichen Entwicklung und Leistungsfähigkeit \n• \nSport- und Spielverständnis, Regelkenntnis und Regelverstehen \n• \nVerständnis basaler Prinzipien des Erlernens, Übens und Trainierens von Bewegun-\ngen und Fähigkeit zu deren Umsetzung \n• \nHerstellung fächerverbindender und fachübergreifender Verknüpfungen \n• \nFähigkeit zum kreativen Umgang in der Auseinandersetzung mit Bewegung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Theater — students always shape something of their own and new, possibly unforeseeable; as a rule there are no uniform, unambiguous solutions to play tasks. Divergent results arise that may lie beyond normed expectations, which can be a substantial part of their quality.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Die Schülerinnen und Schüler gestalten im Theaterunterricht immer etwas Eigenes und Neues, \nunter Umständen auch etwas nicht Vorhersehbares. Es gibt in der Regel keine gleichartigen, \neindeutigen Lösungen von Spielaufgaben. Vielmehr entstehen divergierende Ergebnisse, die \nmöglicherweise jenseits genormter Vorstellungen liegen, was jedoch einen erheblichen Teil \nihrer Qualität ausmachen kann.",
+        "residual_flags": []
+      },
+      {
+        "content": "In assessment, such differences arising from students' individuality must be perceived and appropriately taken into account.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Bei der Bewertung sind derartige, aus der Individualität der \nSchülerinnen und Schüler resultierende Unterschiede wahrzunehmen und angemessen zu \nberücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment of ongoing classwork in Theater considers in particular: warm-ups, play-practical exercises and training.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Die Bewertung der in der laufenden Unterrichtsarbeit erbrachten Leistungen berücksichtigt im \nFach Theater insbesondere folgende Aktivitäten und Produkte: \n• \nWarm-ups, spielpraktische Übungen und Trainings",
+        "residual_flags": []
+      },
+      {
+        "content": "Further Theater activities/products: working out and presenting play-practical tasks; contributions in reflection processes, feedback phases and communicative group processes in projects; participation in organisational and other project tasks (choosing/designing props and costumes, choosing or producing music, designing posters, producing photo and film contributions); written tasks (monologues, dialogues, role interviews, rehearsal diaries).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• \nErarbeitung spielpraktischer Aufgaben und Präsentation \n• \nBeiträge in Reflexionsprozessen, Feedbackphasen und kommunikativen Gruppenpro-\nzessen in Projekten \n• \nBeteiligung an Organisations- und anderen Aufgaben in einem Projekt (z. B. Auswäh-\nlen und Gestalten von Requisiten und Kostümen, Auswählen oder Produzieren von \nMusik, Gestalten von Plakaten, Produzieren von Foto- und Filmbeiträgen u. v. m.) \n• \nschriftliche Aufgaben (z. B. Verfassen von Monologen, Dialogen, Rollenbefragungen, \nProbentagebüchern u. v. m.).",
+        "residual_flags": []
+      },
+      {
+        "content": "In assessing theatrical design and reflection processes and their results it must be considered whether and to what extent the student: advances the working process in the fields of body, space and time; solves theatrical design, reflection and reception tasks; contributes to the success of a theatrical presentation or project; establishes socio-cultural references or brings in theatre-theoretical or theatre-historical knowledge.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Bei der Bewertung theatraler Gestaltungs- und Reflexionsprozesse und ihrer Ergebnisse ist \ninsbesondere zu berücksichtigen, ob und inwieweit die Schülerin oder der Schüler: \n• \nden Erarbeitungsprozess in den Handlungsfeldern Körper, Raum und Zeit fördert \n• \ntheatrale Gestaltungs-, Reflexions- und Rezeptionsaufgaben löst \n• \nzum Gelingen einer theatralen Präsentation bzw. eines theatralen Projekts beiträgt \n• \nsoziokulturelle Bezüge herstellt bzw. theatertheoretische oder -geschichtliche Kennt-\nnisse einbezieht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Detailed Theater criteria (part 1): presence in play; perception and attention for oneself and the group; variety and purposefulness in using theatrical design means when working out and presenting play-practical tasks; creativity and originality in play-practical acting, experimenting and improvising.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Im Einzelnen gelten insbesondere folgende Kriterien: \n• \nPräsenz im Spiel \n• \nWahrnehmung und Aufmerksamkeit für sich und die Gruppe \n• \nVielfalt und Zielgerichtetheit des Einsatzes theatraler Gestaltungsmittel bei der Erar-\nbeitung und Präsentation spielpraktischer Aufgaben \n• \nKreativität und Originalität beim spielpraktischen Agieren, Experimentieren und Impro-\nvisieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Detailed Theater criteria (part 2): differentiation in observing and reflecting on theatrical forms of expression and in giving feedback on play-practical presentations; constructiveness in giving and taking feedback for productive further work; differentiation of project-related theatre-theoretical/historical knowledge and purposefulness in applying it; constructiveness in the rehearsal process (independence, stamina, openness, committed group collaboration, effective time management, reliable adherence to agreements, taking responsibility for the success of the joint production).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• \nDifferenziertheit bei der Beobachtung und Reflexion theatraler Ausdrucksformen sowie \nbeim Geben von Feedback zu spielpraktischen Präsentationen \n• \nKonstruktivität beim Geben und Nehmen von Feedback zur produktiven Weiterarbeit \nam Projekt \n• \nDifferenziertheit projektbezogener theatertheoretischer bzw. -geschichtlicher Kennt-\nnisse sowie Zielgerichtetheit in der Anwendung der Kenntnisse bei spielpraktischer \nGestaltung, Reflexion und Analyse \n• \nKonstruktivität im Probenprozess: Selbstständigkeit, Ausdauer, Aufgeschlossenheit, \nengagierte Zusammenarbeit in der Gruppe, effektives Zeitmanagement bei der Bear-\nbeitung spielpraktischer Aufgaben, verlässliche Einhaltung von Vereinbarungen, Über-\nnahme von Verantwortung für das gute Gelingen der gemeinsamen Produktion.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+        "printed_page_range": "16–30"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

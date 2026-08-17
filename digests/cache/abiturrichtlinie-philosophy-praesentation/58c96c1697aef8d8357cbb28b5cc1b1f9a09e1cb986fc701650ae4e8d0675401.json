@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:58c96c1697aef8d8357cbb28b5cc1b1f9a09e1cb986fc701650ae4e8d0675401"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy-praesentation",
+      "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A 'good' performance is defined as 11 points.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "IV Bewertungshinweise [Magritte]",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Eine „gute“ Leistung (11 Punkte) liegt vor, wenn der Prüfling",
+        "residual_flags": []
+      },
+      {
+        "content": "An 'adequate' performance is defined as 05 points.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "IV Bewertungshinweise [Magritte]",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Eine „ausreichende“ Leistung (05 Punkte) liegt vor, wenn der Prüfling",
+        "residual_flags": []
+      },
+      {
+        "content": "A 'good' performance requires a suitable presentation format to have been chosen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "IV Bewertungshinweise [Magritte]",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "eine geeignete Präsentationsform ausgewählt hat,",
+        "residual_flags": []
+      },
+      {
+        "content": "An 'adequate' performance requires a presentation format that is on the whole still suitable.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "IV Bewertungshinweise [Magritte]",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "eine im Ganzen noch geeignete Präsentationsform ausgewählt hat,",
+        "residual_flags": []
+      },
+      {
+        "content": "An 'adequate' performance uses key subject-specific formulations mostly correctly and renders the lines of thought mostly in the candidate's own words.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "IV Bewertungshinweise [Magritte]",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "wichtige fachsprachliche Formulierungen überwiegend richtig verwendet und die Gedankengänge zumeist in eigener Sprache nachvollziehbar formuliert.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "IV Bewertungshinweise [Magritte]"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy-praesentation",
+        "section_anchor": "IV Bewertungshinweise [Magritte]",
+        "printed_page_range": "12–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

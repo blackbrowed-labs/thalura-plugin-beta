@@ -1,0 +1,159 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:96fde98bfaeef3f2587633e1caa36bb8ff6dbf606d66bfd72015e0bb4706edf3"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The revised sample tasks support the presentation exam (Präsentationsprüfung) under the newly worded § 26 of the APO-AH.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "mit den hier vorgelegten, überarbeiteten Beispielaufgaben möchten wir Sie bei der Ge-\nstaltung der Präsentationsprüfung nach den Vorgaben des neugefassten § 26 der Aus-\nbildungs- und Prüfungsordnung zum Erwerb der allgemeinen Hochschulreife (APO-AH) \nunterstützen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Time shares under the new § 26 (3): one third of the exam time (10 minutes) for the presentation, two thirds (20 minutes) for the subject discussion (Fachgespräch).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Künftig ist für die Präsentation ein Drittel der Prüfungszeit, also 10 Minuten, \nvorgesehen. Das Fachgespräch wird auf zwei Drittel der Prüfungszeit, also 20 Minuten, \nausgeweitet.",
+        "residual_flags": []
+      },
+      {
+        "content": "§ 26 (5) caps the presentation's weight: it may count for no more than one third of the exam grade.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Hinblick auf die veränderten Zeitanteile legt der neugefasste § 26 Absatz 5 fest, dass \ndie Bewertung der Präsentation zu nicht mehr als einem Drittel in die Prüfungsnote ein-\ngehen darf.",
+        "residual_flags": []
+      },
+      {
+        "content": "The task must guarantee that the presentation covers competence/content areas of at least two semesters of the Studienstufe (the so-called Semesterübergriff).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Wie bisher muss die Aufgabenstellung für die Präsentationsprüfung gewährleisten, dass \ndie Präsentation unterschiedliche Kompetenz- bzw. Inhaltsbereiche mindestens zweier \nSemester der Studienstufe beinhaltet (sog. „Semesterübergriff“).",
+        "residual_flags": []
+      },
+      {
+        "content": "One of the two areas may dominate the presentation, but both must be balanced in the Fachgespräch.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "sondern einer der beiden Bereiche darf in der Präsentation überwiegen; im \nFachgespräch sollen sodann beide Inhalts- bzw. Kompetenzbereiche in einem ausgewo-\ngenen Verhältnis zur Geltung kommen",
+        "residual_flags": []
+      },
+      {
+        "content": "Both exam parts — presentation and Fachgespräch — must each cover all three requirement levels (Anforderungsbereiche).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Auch sind in beiden Prüfungsteilen, Präsentation und Fachgespräch, je-\nweils alle drei Anforderungsbereiche abzudecken.",
+        "residual_flags": []
+      },
+      {
+        "content": "An explicit task statement is mandatory; merely naming a topic as a heading is not sufficient, and the task must enable work in all three requirement levels.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "In jedem Fall muss eine explizite Aufgabenstellung formuliert sein; die \nbloße Nennung eines Prüfungsthemas in Form einer Überschrift genügt nicht, um dem \nPrüfling die Komplexität der Anforderungen an die von ihm erwartete Prüfungsleistung \nzu verdeutlichen. Die Aufgabenstellung muss die Bearbeitung in allen drei Anforderungs-\nbereichen ermöglichen und anregen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The candidate must retain scope for their own solution approach (Gestaltungsraum), per Abiturrichtlinie Ziff. 5.2.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Außerdem ist darauf zu achten, dass dem Prüfling in seinem Lösungsansatz ein Gestal-\ntungsraum bleibt (vgl. Abiturrichtlinie, Ziff. 5.2).",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Einleitung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Einleitung",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

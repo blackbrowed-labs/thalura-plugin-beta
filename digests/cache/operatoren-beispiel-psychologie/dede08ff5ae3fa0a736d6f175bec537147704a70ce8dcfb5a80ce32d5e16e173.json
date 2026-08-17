@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:dede08ff5ae3fa0a736d6f175bec537147704a70ce8dcfb5a80ce32d5e16e173"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-psychologie",
+      "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Definition of Erörtern: recognize and present an assessment or evaluation problem, weigh different positions and pro/contra arguments, and conclude with one's own judgment.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Erörtern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Ein Beurteilungs- oder Bewertungsproblem erkennen und \ndarstellen, unterschiedliche Positionen und Pro- und Kontra-\nArgumente abwägen und mit einem eigenen Urteil als \nErgebnis abschlie",
+        "residual_flags": []
+      },
+      {
+        "content": "Note on the example: the operator is currently not in use (no worked example provided).",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Erörtern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Operator zur Zeit nicht in Verwendung",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction) instruction: describe the problem and its relevance and name at least two possible positions for answering it.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Erörtern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Problemstellung beschreiben und ihre Relevanz darstellen, (mindestens zwei) mögliche \nPositionen zu deren Beantwortung benennen",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (argumentation) instruction: formulate and order the arguments, referring to material, background knowledge or examples.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Erörtern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Argumente formulieren und geordnet aufführen, dabei auf Material, Hintergrundwissen oder \nBeispiele verweisen",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (weighing) instruction: weigh the arguments against each other, possibly develop a compromise or synthesis, and make the decisive criterion clear.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Erörtern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Argumente gegeneinander abwägen, ggf. Kompromissposition oder Synthese entwickeln, \ndabei das ausschlaggebende Kriterium deutlich machen (bei Sachurteilen z. B. Triftigkeit oder \nPlausibilität; bei Werturteilen z. B. die Hierarchie der persönlichen Werte und Normen)",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 4 (conclusion) instruction: formulate one's own plausible judgment containing differentiations and, where appropriate, further problematizations, possibly leaving it justifiably open.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Erörtern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Eigenes plausibles Urteil formulieren, das Differenzierungen und gegebenenfalls weitere \nProblematisierungen enthält, ggf. begründet offenlassen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Erörtern"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-psychologie",
+        "section_anchor": "Erörtern",
+        "printed_page_range": "18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

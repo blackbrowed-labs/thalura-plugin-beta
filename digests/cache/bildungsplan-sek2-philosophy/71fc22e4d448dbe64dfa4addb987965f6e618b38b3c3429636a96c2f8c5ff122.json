@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:71fc22e4d448dbe64dfa4addb987965f6e618b38b3c3429636a96c2f8c5ff122"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content: faith and rationality; religion in the context of contemporary history and culture; proofs of God.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Religionsphilosophie",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Glaube und Rationalität \n• Religion im Kontext von Zeitgeschichte und Kultur \n• Gottesbeweise",
+        "residual_flags": []
+      },
+      {
+        "content": "Concepts in brackets: creationism and the theory of evolution, ontological, cosmological and teleological proofs of God, myth and logos, critique of religion.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Religionsphilosophie",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "(Kreationismus und Evolutionstheorie, ontologischer, kosmologi-\nscher und teleologischer Gottesbeweis, Mythos und Logos, Reli-\ngionskritik)",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised requirement level: religious myths/narratives and critique of language (logical analysis of language, nonsensical and senseless sentences, sense and reference).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Religionsphilosophie",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Zusätzlich im erhöhten Anforderungsniveau: \nReligiöse Mythen/Erzählungen und Sprachkritik",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective W: students reflect on how far religion can contribute to shared values and thus to social cohesion.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Religionsphilosophie",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Sie reflektieren, inwiefern Re-\nligion zu geteilten Werten und damit auch zu gesellschaftlichem \nZusammenhalt beitragen kann.",
+        "residual_flags": []
+      },
+      {
+        "content": "Specialist terms: Theismus, Atheismus, Agnostizismus.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Religionsphilosophie",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Theismus, Atheismus, Ag-\nnostizismus",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 2 — Religionsphilosophie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 2 — Religionsphilosophie",
+        "printed_page_range": "17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

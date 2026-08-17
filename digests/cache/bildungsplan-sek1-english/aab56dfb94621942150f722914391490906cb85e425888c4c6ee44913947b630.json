@@ -1,0 +1,607 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:aab56dfb94621942150f722914391490906cb85e425888c4c6ee44913947b630"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "K6 Sprachmittlung (Interaktion)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "K6 Sprachmittlung (Interaktion) ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den ersten allgemeinbildenden Schulabschluss",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Mindestanforderungen für \nden ersten allgemeinbilden-\nden Schulabschluss ",
+        "residual_flags": []
+      },
+      {
+        "content": "Ende der Jahrgangsstufe 8 mit Blick auf den mittleren",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Ende der Jahrgangsstufe 8 \nmit Blick auf den mittleren ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den mittleren Schulabschluss",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Mindestanforderungen für \nden mittleren Schulab-\nschluss ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler vermitteln in vertrauten Situationen (z. B. beim Einkaufen, Fragen nach dem Weg oder Öffnungszeiten) kurze Äußerungen in die jeweils andere Sprache, sodass ein allgemeines Verständnis gesichert ist.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Die Schülerinnen und Schüler ver-\nmitteln in vertrauten Situationen \n(z. B. beim Einkaufen, Fragen \nnach dem Weg oder Öffnungszei-\nten) kurze Äußerungen in die je-\nweils andere Sprache, sodass ein \nallgemeines Verständnis gesichert \nist. ",
+        "residual_flags": []
+      },
+      {
+        "content": "übertragen in vertrauten Situationen und aus einfach strukturierten",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "übertragen in vertrauten Situatio-\nnen und aus einfach strukturierten ",
+        "residual_flags": []
+      },
+      {
+        "content": "Texten Äußerungen vom Englischen ins Deutsche und vom Deutschen ins Englische so, dass ein allgemeines Verständnis gesichert ist.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Texten Äußerungen vom Engli-\nschen ins Deutsche und vom Deut-\nschen ins Englische so, dass ein \nallgemeines Verständnis gesichert \nist. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler geben in Alltagssituationen Äußerungen von der einen in die andere",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Die Schülerinnen und Schüler ge-\nben in Alltagssituationen Äußerun-\ngen von der einen in die andere ",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprache wieder, wobei sie unbekannte, aber aus dem Kontext leicht erschließbare Wörter so umschreiben, dass ein allgemeines",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Sprache wieder, wobei sie unbe-\nkannte, aber aus dem Kontext \nleicht erschließbare Wörter so um-\nschreiben, dass ein allgemeines ",
+        "residual_flags": []
+      },
+      {
+        "content": "Verständnis gesichert ist.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Verständnis gesichert ist. ",
+        "residual_flags": [
+          "page-multi-match:physical-30-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "vermitteln mündlich sinngemäß einfache Informationen mit überwiegend bekanntem Vokabular von der einen in die andere",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• vermitteln mündlich sinngemäß \neinfache Informationen mit über-\nwiegend bekanntem Vokabular \nvon der einen in die andere ",
+        "residual_flags": []
+      },
+      {
+        "content": "vermitteln schriftlich sinngemäß einfache Informationen aus nicht linearen, überschaubaren Texten (z. B. Schildern, Veranstaltungsprogrammen und digitalen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• vermitteln schriftlich sinngemäß \neinfache Informationen aus nicht \nlinearen, überschaubaren Tex-\nten (z. B. Schildern, Veranstal-\ntungsprogrammen und digitalen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Informationsquellen) mit überwiegend bekanntem Vokabular in die deutsche Sprache.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Informationsquellen) mit über-\nwiegend bekanntem Vokabular \nin die deutsche Sprache. ",
+        "residual_flags": []
+      },
+      {
+        "content": "vermitteln (mündlich) in zweisprachigen Alltagssituationen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• vermitteln (mündlich) in zwei-\nsprachigen Alltagssituationen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "übertragen wesentliche Informationen aus strukturierten Texten (z. B. E-Mails, Postkarten und digitalen Informationsquellen) aus dem Englischen ins Deutsche,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• übertragen wesentliche Informa-\ntionen aus strukturierten Texten \n(z. B. E-Mails, Postkarten und di-\ngitalen Informationsquellen) aus \ndem Englischen ins Deutsche, ",
+        "residual_flags": []
+      },
+      {
+        "content": "übertragen mündlich einfache, auf Deutsch vorgebrachte Sachverhalte sinngemäß ins Englische.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• übertragen mündlich einfache, \nauf Deutsch vorgebrachte Sach-\nverhalte sinngemäß ins Engli-\nsche. ",
+        "residual_flags": []
+      },
+      {
+        "content": "erfassen aus kurzen Gebrauchstexten (z. B. Speisekarten, Fahrplänen, Prospekten und digitalen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• erfassen aus kurzen Gebrauchs-\ntexten (z. B. Speisekarten, Fahr-\nplänen, Prospekten und digitalen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Informationsquellen) mit teilweise unbekanntem, aber aus dem Kontext leicht erschließbarem Vokabular gezielt Informationen und geben diese in der jeweils anderen Sprache wieder,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Informationsquellen) mit teil-\nweise unbekanntem, aber aus \ndem Kontext leicht erschließba-\nrem Vokabular gezielt Informati-\nonen und geben diese in der je-\nweils anderen Sprache wieder, ",
+        "residual_flags": []
+      },
+      {
+        "content": "vermitteln in Begegnungssituationen aus einem kurzen Gespräch (z. B. zu Personen oder",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• vermitteln in Begegnungssitua-\ntionen aus einem kurzen Ge-\nspräch (z. B. zu Personen oder ",
+        "residual_flags": []
+      },
+      {
+        "content": "Informationen und Sachverhalte sinngemäß in die jeweils andere",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Informationen und Sachverhalte \nsinngemäß in die jeweils andere ",
+        "residual_flags": [
+          "page-multi-match:physical-30-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Anforderungsniveaus mit Blick auf die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Anforderungsniveaus mit Blick auf die Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "K6 Sprachmittlung (Rezeption)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "K6 Sprachmittlung (Rezeption) ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen am Ende der Jahrgangsstufe 9 mit Blick auf den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Mindestanforderungen am Ende der Jahr-\ngangsstufe 9 mit Blick auf den Übergang in \ndie Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Mindestanforderungen für den Übergang in \ndie Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler geben in Alltagssituationen Äußerungen von der einen in die andere Sprache wieder, wobei sie unbekannte, aber aus dem",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Die Schülerinnen und Schüler geben in Alltagssitua-\ntionen Äußerungen von der einen in die andere Spra-\nche wieder, wobei sie unbekannte, aber aus dem ",
+        "residual_flags": []
+      },
+      {
+        "content": "Kontext leicht erschließbare Wörter so umschreiben, dass ein allgemeines Verständnis gesichert ist.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Kontext leicht erschließbare Wörter so umschreiben, \ndass ein allgemeines Verständnis gesichert ist. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler geben als Mittler zwischen deutsch- und fremdsprachigen Sprecherinnen und Sprechern schriftliche und mündliche Äußerungen bzw. Texte in der jeweils anderen Sprache so wieder, dass ein durchgängiges Verständnis gesichert ist.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Die Schülerinnen und Schüler geben als Mittler zwi-\nschen deutsch- und fremdsprachigen Sprecherinnen \nund Sprechern schriftliche und mündliche Äußerun-\ngen bzw. Texte in der jeweils anderen Sprache so \nwieder, dass ein durchgängiges Verständnis gesichert \nist. ",
+        "residual_flags": []
+      },
+      {
+        "content": "erfassen aus kurzen Gebrauchstexten (z. B. Speisekarten, Fahrplänen, Prospekten und digitalen Informationsquellen) mit teilweise unbekanntem, aber aus dem Kontext leicht erschließbarem Vokabular gezielt Informationen und geben diese in der jeweils anderen Sprache wieder,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "• erfassen aus kurzen Gebrauchstexten (z. B. Spei-\nsekarten, Fahrplänen, Prospekten und digitalen In-\nformationsquellen) mit teilweise unbekanntem, aber \naus dem Kontext leicht erschließbarem Vokabular \ngezielt Informationen und geben diese in der jeweils \nanderen Sprache wieder, ",
+        "residual_flags": []
+      },
+      {
+        "content": "vermitteln in Begegnungssituationen aus einem kurzen Gespräch (z. B. zu Personen oder Verabredungen) grundlegende Informationen und Sachverhalte sinngemäß in die jeweils andere Sprache.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "• vermitteln in Begegnungssituationen aus einem kur-\nzen Gespräch (z. B. zu Personen oder Verabredun-\ngen) grundlegende Informationen und Sachverhalte \nsinngemäß in die jeweils andere Sprache. ",
+        "residual_flags": []
+      },
+      {
+        "content": "entnehmen aus einem Alltagsgespräch (z. B. Diskussion zu einem vertrauten Thema) die wesentlichen Informationen und geben sie in der jeweils anderen Sprache wieder,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "• entnehmen aus einem Alltagsgespräch (z. B. Dis-\nkussion zu einem vertrauten Thema) die wesentli-\nchen Informationen und geben sie in der jeweils an-\nderen Sprache wieder, ",
+        "residual_flags": []
+      },
+      {
+        "content": "geben den Inhalt von Gebrauchstexten und gesellschaftlich relevanten Sachtexten (z. B. weniger komplexen Zeitungsartikeln) in der jeweils anderen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "• geben den Inhalt von Gebrauchstexten und gesell-\nschaftlich relevanten Sachtexten (z. B. weniger \nkomplexen Zeitungsartikeln) in der jeweils anderen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprache sinngemäß wieder.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Sprache sinngemäß wieder. ",
+        "residual_flags": []
+      },
+      {
+        "content": "L Linguistische Kompetenzen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "L Linguistische Kompetenzen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen am Ende der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Mindestanforderungen am Ende der  ",
+        "residual_flags": [
+          "page-multi-match:physical-30-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Erhöhte Anforderungen am Ende der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Erhöhte Anforderungen am Ende der  ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über einen elementaren Wortschatz im mündlichen und schriftlichen Bereich.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Die Schülerinnen und Schüler verfügen über einen \nelementaren Wortschatz im mündlichen und schriftli-\nchen Bereich. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über einen ausreichenden Wortschatz für einfache Alltagsgespräche.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Die Schülerinnen und Schüler verfügen über einen \nausreichenden Wortschatz für einfache Alltagsge-\nspräche. ",
+        "residual_flags": []
+      },
+      {
+        "content": "verständigen sich mithilfe von memorierten Sätzen, kurzen Wortgruppen und Redeformeln,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "• verständigen sich mithilfe von memorierten Sätzen, \nkurzen Wortgruppen und Redeformeln, ",
+        "residual_flags": []
+      },
+      {
+        "content": "werden elementaren Kommunikationsbedürfnissen gerecht; dabei kommt es aufgrund des sehr begrenzten Wortschatzes noch zu einem häufigeren",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "• werden elementaren Kommunikationsbedürfnissen \ngerecht; dabei kommt es aufgrund des sehr be-\ngrenzten Wortschatzes noch zu einem häufigeren ",
+        "residual_flags": []
+      },
+      {
+        "content": "Ausweichen in die Erstsprache sowie zu Abbrüchen und Missverständnissen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Ausweichen in die Erstsprache sowie zu Abbrüchen \nund Missverständnissen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "verwenden gebräuchliche Ausdrücke und Satzmuster, um konkrete Bedürfnisse in vertrauten Situationen zu formulieren (z. B. Informationen geben / erfragen),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "• verwenden gebräuchliche Ausdrücke und Satzmus-\nter, um konkrete Bedürfnisse in vertrauten Situatio-\nnen zu formulieren (z. B. Informationen geben / er-\nfragen), ",
+        "residual_flags": []
+      },
+      {
+        "content": "bewältigen Alltagssituationen mit vertrauten Inhalten, müssen aber noch nach Wörtern suchen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K6 Sprachmittlung (Interaktion)",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "• bewältigen Alltagssituationen mit vertrauten Inhal-\nten, müssen aber noch nach Wörtern suchen. ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K6 Sprachmittlung (Interaktion)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "K6 Sprachmittlung (Interaktion)",
+        "printed_page_range": "30–31"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

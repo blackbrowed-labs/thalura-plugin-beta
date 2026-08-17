@@ -1,0 +1,272 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:502435b161825dbd3e2ced6d456539213d30500d76b6073cf5dcfef349c33931"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Themenbereich 1: Persönliche Lebensgestaltung",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "Themenbereich 1: Persönliche Lebensgestaltung ",
+        "residual_flags": []
+      },
+      {
+        "content": "Sozial- und Rechtserziehung",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "• Sozial- und Rechts-\nerziehung ",
+        "residual_flags": []
+      },
+      {
+        "content": "In diesem Themenbereich geht es um das Lebensumfeld, die Beziehungen und Wünsche von Jugendlichen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "In diesem Themenbereich geht es um das Lebensumfeld, die Beziehun-\ngen und Wünsche von Jugendlichen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verständigen sich in zunehmend offeneren und komplexeren Situationen über Themen, die ihre eigene Person und die unmittelbare Lebenswelt betreffen, z. B. Erfahrungen und Ereignisse, eigene Gefühle und Reaktionen, Pläne, Wünsche und Absichten.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "Die Schülerinnen und Schüler verständigen sich in zunehmend offene-\nren und komplexeren Situationen über Themen, die ihre eigene Person \nund die unmittelbare Lebenswelt betreffen, z. B. Erfahrungen und Ereig-\nnisse, eigene Gefühle und Reaktionen, Pläne, Wünsche und Absichten. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Dieses Thema lässt sich gut über Lektüren und Filme erschließen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "Dieses Thema lässt sich gut über Lektüren und Filme erschließen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die fettgedruckten Themen und Aspekte sind verpflichtend zu behandeln. Sofern mehrere Unterpunkte genannt sind, wird mindestens ein weiterer ausgewählt.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "Die fettgedruckten Themen und Aspekte sind verpflichtend zu be-\nhandeln. Sofern mehrere Unterpunkte genannt sind, wird mindestens \nein weiterer ausgewählt. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Vielfalt von Freundschafts- und Familienbeziehungen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "Vielfalt von Freundschafts- und Familienbeziehungen ",
+        "residual_flags": []
+      },
+      {
+        "content": "love and friendship",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "• love and friendship  ",
+        "residual_flags": []
+      },
+      {
+        "content": "peer groups and peer pressure",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "• peer groups and peer pressure ",
+        "residual_flags": []
+      },
+      {
+        "content": "growing up and becoming increasingly independent",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "• growing up and becoming increasingly independent ",
+        "residual_flags": []
+      },
+      {
+        "content": "importance of peers and friends",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "• importance of peers and friends ",
+        "residual_flags": []
+      },
+      {
+        "content": "importance of looks and fashion",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "• importance of looks and fashion ",
+        "residual_flags": []
+      },
+      {
+        "content": "teenage hopes, fears and realities",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "• teenage hopes, fears and realities ",
+        "residual_flags": []
+      },
+      {
+        "content": "Beitrag zur Leitperspektive W:",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "Beitrag zur Leitperspektive W: ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler setzen sich mit Identität und Rollen unter",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "Die Schülerinnen und Schüler setzen sich mit Identität und Rollen unter ",
+        "residual_flags": []
+      },
+      {
+        "content": "7/8 Leben in der digitalen Welt",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "7/8 Leben in der \ndigitalen Welt ",
+        "residual_flags": []
+      },
+      {
+        "content": "[bleibt zunächst leer]",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "[bleibt zunächst \nleer] ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 49,
+          "printed_page": 49
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 7/8 Family and friends",
+        "printed_page_range": "49"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7e7b625891605abd275ff633beea4269c4303819fcc87cde7903f1371e3e4c95"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The base grammar provides an overview of grammatical structures students should know by the end of grade 6.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Die Basisgrammatik bietet eine Übersicht über grammatische",
+        "residual_flags": []
+      },
+      {
+        "content": "Students understand the structures but may not yet always apply them confidently.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "kennengelernt haben sollen, d. h., sie verstehen die Strukturen,",
+        "residual_flags": []
+      },
+      {
+        "content": "A goal is to present states and actions as present, past and future.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Sachverhalte und Handlungen als gegenwärtig, vergangen",
+        "residual_flags": []
+      },
+      {
+        "content": "Formation and use of the following active tenses is covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Bildung und Gebrauch der folgenden Zeitformen im Aktiv:",
+        "residual_flags": []
+      },
+      {
+        "content": "Active tenses include the present tenses for the future.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "present tenses for the future",
+        "residual_flags": []
+      },
+      {
+        "content": "A goal is to name and describe persons, things, states and activities.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Personen, Sachen, Sachverhalte und Tätigkeiten bezeichnen",
+        "residual_flags": []
+      },
+      {
+        "content": "Structures include singular and plural forms of nouns.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Singular- und Pluralformen der Nomina",
+        "residual_flags": []
+      },
+      {
+        "content": "Structures include countable and uncountable nouns.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "zählbare und nicht zählbare Nomina",
+        "residual_flags": []
+      },
+      {
+        "content": "Structures include definite and indefinite articles.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "bestimmter und unbestimmter Artikel",
+        "residual_flags": []
+      },
+      {
+        "content": "Structures include adjectives and adverbs.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Adjektive und Adverbien",
+        "residual_flags": []
+      },
+      {
+        "content": "Word order in statements and questions is covered for giving and requesting information.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Wortstellung in Aussage- und Fragesätzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Time, place and direction are indicated via adverbial expressions of time and place.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "adverbiale Bestimmungen der Zeit und des Ortes",
+        "residual_flags": []
+      },
+      {
+        "content": "Comparison covers the gradation of regular and irregular adjectives and adverbs.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 5/6",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Steigerung der regelmäßigen und unregelmäßigen Adjektive und",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 59,
+          "printed_page": 59
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Basisgrammatik 5/6"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Basisgrammatik 5/6",
+        "printed_page_range": "59"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

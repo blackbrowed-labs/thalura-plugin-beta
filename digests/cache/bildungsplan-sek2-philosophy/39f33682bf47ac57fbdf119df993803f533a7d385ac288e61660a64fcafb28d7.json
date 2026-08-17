@@ -1,0 +1,115 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:39f33682bf47ac57fbdf119df993803f533a7d385ac288e61660a64fcafb28d7"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Compulsory module 'Brücken in eine friedliche Zukunft': peace as a moral duty and a demand of reason.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4: Welche Zukunft wollen wir?",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Frieden als moralische Pflicht und Forderung der Ver-\nnunft",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 1 'Herausforderungen im Umgang mit Künstlicher Intelligenz': theoretical and practical problems of artificial intelligence.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4: Welche Zukunft wollen wir?",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Theoretische und praktische Probleme der Künstlichen \nIntelligenz",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 2 'Wissenschaft im 21. Jahrhundert': the future in science and the future of science.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4: Welche Zukunft wollen wir?",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Zukunft in der Wissenschaft und Zukunft der Wissen-\nschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 3 'Fortschrittsglaube und Fortschrittspessimismus': from the Enlightenment to the Anthropocene.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4: Welche Zukunft wollen wir?",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Von der Aufklärung zum Anthropozän \n• Fortschrittsglaube und Fortschrittspessimismus",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 4: Welche Zukunft wollen wir?"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 4: Welche Zukunft wollen wir?",
+        "printed_page_range": "20–23"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

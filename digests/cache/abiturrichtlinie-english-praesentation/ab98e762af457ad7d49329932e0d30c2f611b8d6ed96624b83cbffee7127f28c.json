@@ -1,0 +1,64 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ab98e762af457ad7d49329932e0d30c2f611b8d6ed96624b83cbffee7127f28c"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The listed material is Dave Eggers, The Circle, New York 2013.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — II Literaturhinweise, Material",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Dave Eggers, The Circle, New York 2013",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Crime — II Literaturhinweise, Material"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Crime — II Literaturhinweise, Material",
+        "printed_page_range": "19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6f46c0c083bb7b5933b6fafb4ac8f042afade05f566a7a826b9919dd732f1000"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-psychologie",
+      "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Definition of Vergleichen: determine commonalities, similarities and differences according to given or self-chosen viewpoints and present them in a structured way.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Nach vorgegebenen oder selbst gewählten \nGesichtspunkten Gemeinsamkeiten, Ähnlichkeiten und \nUnterschiede ermitteln und gegliedert \ndarstellen",
+        "residual_flags": []
+      },
+      {
+        "content": "The example task instruction: compare the differences and similarities of the term 'Grit' with the concept of motivation and the features of motivation.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Vergleichen Sie die Unterschiede und Ähnlichkeiten des \nAusdrucks ‚Grit‘1  mit dem Motivationsbegriff und den \nMerkmalen von Motivation.",
+        "residual_flags": []
+      },
+      {
+        "content": "On the concept of motivation: it is not a fixed unit of experience and behavior but a mental construct, accessible only via experience and behavior.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Beim Motivationsbegriff handelt es sich nicht um eine fest umrissene \nErlebens- und Verhaltenseinheit, sondern um eine gedankliche Konstruktion. \nMotivation kann daher immer nur über das Erleben und Verhalten erschlossen",
+        "residual_flags": []
+      },
+      {
+        "content": "Definition of motivation: the activating orientation of the current course of life toward a positively evaluated target state, comprising both approach and avoidance goals.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Motivation bezeichnet die aktivierende Ausrichtung des momentanen \nLebensvollzuges auf einen positiv bewerteten Zielzustand. Der Motivationsbegriff \nbeinhaltet dabei sowohl aufsuchende als auch vermeidende Ziele (Annäherungs- und \nVermeidungsziele)",
+        "residual_flags": []
+      },
+      {
+        "content": "On interaction: the interaction between the person side (motives) and situation factors (incentive/value) characterizes the current motivation, expressed in experience and behavior.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Interaktion zwischen Personenseite (Motive) und Situationsfaktoren \n(Anreiz / Wert) kennzeichnet dabei die aktuelle Motivation, die ihren Ausdruck im \nErleben und Verhalten findet",
+        "residual_flags": []
+      },
+      {
+        "content": "Feature of motivated behavior - activation: motivation is a process in which behavior is set in motion.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Aktivierung: Motivation ist ein Prozess, in welchem Verhalten in Bewegung gesetzt",
+        "residual_flags": []
+      },
+      {
+        "content": "Feature - direction: an activity is steered toward a specific goal and usually persists until that goal is reached or another motive takes priority.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Richtung: Eine Aktivität wird auf ein bestimmtes Ziel hin gesteuert und bleibt i. d. R. \nso lange bestehen, bis dieses Ziel erreicht ist oder auch bis ein anderes Motiv \nvorrangig wird",
+        "residual_flags": []
+      },
+      {
+        "content": "Feature - intensity: an activity can be carried out more or less strongly or thoroughly (intensively).",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "kann mehr oder weniger stark oder gründlich (intensiv)",
+        "residual_flags": []
+      },
+      {
+        "content": "Footnote defining Grit: a combination of perseverance and passion whose central feature is the constancy of effort and interest over longer periods, from which school intervention programs have been derived.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Der Ausdruck Grit wird als Kombination aus Beharrlichkeit und Leidenschaftlichkeit bestimmt, deren zentrales \nMerkmal die Beständigkeit von Anstrengung und Interesse über längere Zeiträume ist. Aus dem Grit-Konzept \nsind Schulinterventionsprogramme abgeleitet worden, die Hartnäckigkeit als Lernziel in den Mittelpunkt \nrücken. Dabei würden SchülerInnen Techniken des überlegten Übens erwerben, die zu mehr Übungszeit und \nbesseren Schulnoten",
+        "residual_flags": [
+          "page-multi-match:physical-11-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Feature - endurance: goal-directed behavior can have higher or lower persistence; as a rule the activity is maintained even when difficulties arise.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Ausdauer: Zielstrebiges Verhalten kann mehr oder weniger hohe Beständigkeit \naufweisen. I. d. R. wird die Aktivität aufrechterhalten, auch wenn sich Schwierigkeiten \nergeben",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (main part) instruction: present commonalities one after another, each with its comparison criterion, then repeat the step for the differences.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Gemeinsamkeiten nacheinander darstellen und jeweils das Vergleichskriterium aufzeigen, \nanschließend bezüglich der Unterschiede den Arbeitsschritt wiederholen",
+        "residual_flags": []
+      },
+      {
+        "content": "A commonality: by their respective definitions, both the motivation concept and the Grit concept are mental constructions dealing with the underlying processes of human behavior.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Bezogen auf ihre jeweilige Definition sind der Motivations- sowie der Grit-Begriff \ngedankliche Konstruktionen, die sich mit den zugrundliegenden Prozessen des \nmenschlichen Verhaltens besch",
+        "residual_flags": []
+      },
+      {
+        "content": "A difference: regarding applicability, the concept of motivation also accounts for the difference between approach and avoidance goals.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Hinsichtlich der Anwendbarkeit ist zu erkennen, dass der Motivationsbegriff auch \ndie Differenz zwischen Annäherungs- und Vermeidungszielen berücksichtigt",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (conclusion): the constructs motivation and Grit show clear overlaps, though the motivation concept is more cognitively oriented and can also explain and predict aspects such as health and school-performance behavior.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Vergleichen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Konstrukte Motivation und Grit weisen deutliche Überschneidungen auf, wobei der \nMotivationsbegriff kognitiver ausgerichtet ist als das Grit-Konzept. Der \nMotivationsbegriff kann im Gegensatz zum Grit-Konzept auch Aspekte wie \nGesundheits- und Schulleistungsverhalten erklären und vorhersagen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Vergleichen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-psychologie",
+        "section_anchor": "Vergleichen",
+        "printed_page_range": "11–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

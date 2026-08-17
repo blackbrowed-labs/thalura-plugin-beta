@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:49a7b66723f00efca7b174d599eb17b11e1ea3a5940b1bf4727c0360376e3b73"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy-praesentation",
+      "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Task statement: discuss how far a self-understanding of man is expressed in Magritte's art.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "I Aufgabenstellung [Magritte]",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Diskutieren Sie, inwiefern sich in der Kunst René Magrittes ein Selbstverständnis des Menschen ausdrückt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Epistemological problems addressed in Magritte's pictures are to be considered.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "I Aufgabenstellung [Magritte]",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Berücksichtigen Sie dabei erkenntnistheoretische Probleme, die in Bildern Magrittes angesprochen werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "All three requirement levels must be included.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "I Aufgabenstellung [Magritte]",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Bei der Bearbeitung der Aufgabe sind alle drei Anforderungsbereiche einzubeziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The content/competence area chosen by the candidate is Anthropology and Culture.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "I Aufgabenstellung [Magritte]",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Durch den Prüfling gewählter Inhalts- /Kompetenzbereich: Anthropologie und Kultur",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I Aufgabenstellung [Magritte]"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy-praesentation",
+        "section_anchor": "I Aufgabenstellung [Magritte]",
+        "printed_page_range": "10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

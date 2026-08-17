@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:638e271639fef67b4d6eddd86fcf92e283e6998498bdda78c611f31e14803a11"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Interrelated statements on the expected exam performance and the assessment criteria are indispensable for understanding a task's requirement level and securing transparency of assessment.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.3 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizonte und Lösungsschlüssel)",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Zum Verständnis des Anforderungsniveaus einer Prüfungsaufgabe und zur Sicherung der \nTransparenz von Bewertungen sind aufeinander bezogene Angaben zu der erwarteten \nPrüfungsleistung und den Bewertungskriterien unverzichtbar.",
+        "residual_flags": []
+      },
+      {
+        "content": "The listening task is accompanied by a solution key (Lösungsschlüssel); the writing and mediation tasks are accompanied by grading rubrics (Erwartungshorizonte) describing the expected student performance concretely, criterion-oriented and with reference to the requirement areas.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.3 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizonte und Lösungsschlüssel)",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Der Höraufgabe wird ein \nLösungsschlüssel beigefügt, den Schreib- und Sprachmittlungsaufgaben werden Erwar-\ntungshorizonte beigefügt, in denen die für die Lösung vorauszusehenden Schülerleistun-\ngen konkret und kriterienorientiert auf die Anforderungsbereiche bezogen beschrieben \nwerden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Erwartungshorizonte additionally state the weight with which the sub-tasks enter the assessment of the overall performance of the respective exam part.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.3 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizonte und Lösungsschlüssel)",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Erwartungshorizonte weisen darüber hinaus aus, mit welchem Gewicht die \nTeilaufgaben in die Bewertung der Gesamtleistung des jeweiligen Prüfungsteils eingehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The explanations contain essential aspects of the expected performance so that task complexity, the demand on autonomy, and the requirements for a 'good' and a 'sufficient' performance become clear.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.3 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizonte und Lösungsschlüssel)",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Erläuterungen enthalten wesentliche Aspekte der erwarteten Leistung, sodass die \nKomplexität der Aufgabenstellung, der Anspruch an die Selbstständigkeit der Prüfungs-",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.3 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizonte und Lösungsschlüssel)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "4.3 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizonte und Lösungsschlüssel)",
+        "printed_page_range": "13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

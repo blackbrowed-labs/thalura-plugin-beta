@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5d7f4dfafc391e828681ef2a770756e5bfe81a6fac177924581f85db9892a5db"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students draw on their intercultural communicative knowledge and observe culturally shaped conventions.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Schülerinnen und Schüler greifen dazu auf ihr interkulturelles kommunikatives Wis-\nsen zurück und beachten kulturell geprägte Konventionen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They can apply their orientation knowledge about the target cultures in a wide range of situations.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "ihr Orientierungswissen über die Zielkulturen in vielfältigen Situationen anwenden",
+        "residual_flags": []
+      },
+      {
+        "content": "They can carry out a change of perspective and compare and weigh different perspectives.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "einen Perspektivenwechsel vollziehen sowie verschiedene Perspektiven vergleichen und abwägen",
+        "residual_flags": []
+      },
+      {
+        "content": "They can situate foreign and own values and attitudes with reference to internationally valid conventions such as human rights.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "fremde und eigene Werte, Haltungen und Einstellungen im Hinblick auf international gültige Konventionen (z. \nB. die Menschenrechte) einordnen",
+        "residual_flags": []
+      },
+      {
+        "content": "For this competence area the differentiation into basic and raised requirement level is dropped.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "I Interkulturelle Kompetenz",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Aus diesem Grunde \nentfällt die Differenzierung nach grundlegendem und erhöhtem Niveau.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I Interkulturelle Kompetenz"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "I Interkulturelle Kompetenz",
+        "printed_page_range": "13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

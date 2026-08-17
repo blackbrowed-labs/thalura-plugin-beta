@@ -1,0 +1,246 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:834f5bd5dd080a33b70012c6594bc5ad0c2886f7feeeec39470d246356b77ad0"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum ",
+        "residual_flags": []
+      },
+      {
+        "content": "Great Britain and the English-speaking world",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Great Britain and the English-speaking world ",
+        "residual_flags": []
+      },
+      {
+        "content": "In diesem Themenbereich erhalten die Schülerinnen und Schüler Einblicke in Alltag und Lebenswelt, kulturelle Identität, Traditionen und Geographie Großbritanniens. Sie werden sich auch der globalen Verbreitung des Englischen bewusst. Die eigene Lebens- und Erfahrungswelt der Schülerinnen und Schüler wird erweitert, indem sie sich mit der Lebenswirklichkeit britischer Jugendlicher beschäftigen und beispielsweise",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "In diesem Themenbereich erhalten die Schülerinnen und Schüler Einbli-\ncke in Alltag und Lebenswelt, kulturelle Identität, Traditionen und Geo-\ngraphie Großbritanniens.  Sie werden sich auch der globalen Verbrei-\ntung des Englischen bewusst. Die eigene Lebens- und Erfahrungswelt \nder Schülerinnen und Schüler wird erweitert, indem sie sich mit der Le-\nbenswirklichkeit britischer Jugendlicher beschäftigen und beispielsweise ",
+        "residual_flags": []
+      },
+      {
+        "content": "Alltag und Gebräuche Großbritanniens mit der eigenen Lebenswelt vergleichen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Alltag und Gebräuche Großbritanniens mit der eigenen Lebenswelt ver-\ngleichen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die fettgedruckten Themen sind verpflichtend zu behandeln.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Die fettgedruckten Themen sind verpflichtend zu behandeln.  ",
+        "residual_flags": []
+      },
+      {
+        "content": "Across Cultures: Kulturelle Identität im Vergleich von Heimatregion und anglophonem Sprach- und Kulturraum",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Across Cultures: Kulturelle Identität im Vergleich von Heimat-\nregion und anglophonem Sprach- und Kulturraum ",
+        "residual_flags": []
+      },
+      {
+        "content": "school life (e.g. a typical school day in Britain, school uniforms)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "• school life (e.g. a typical school day in Britain, school uniforms) ",
+        "residual_flags": []
+      },
+      {
+        "content": "London: sights, getting around the city, living together",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "• London: sights, getting around the city, living together ",
+        "residual_flags": []
+      },
+      {
+        "content": "British stories and legends",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "• British stories and legends ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die englischsprachige Welt",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Die englischsprachige Welt ",
+        "residual_flags": []
+      },
+      {
+        "content": "Beitrag zur Leitperspektive W:",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Beitrag zur Leitperspektive W: ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler erhalten Einblicke in das Alltagsleben von",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Die Schülerinnen und Schüler erhalten Einblicke in das Alltagsleben von ",
+        "residual_flags": []
+      },
+      {
+        "content": "Kindern und Jugendlichen in Großbritannien und entwickeln Interesse an deren Werten, Denk- und Lebensweise.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "Kindern und Jugendlichen in Großbritannien und entwickeln Interesse \nan deren Werten, Denk- und Lebensweise. ",
+        "residual_flags": []
+      },
+      {
+        "content": "5/6 Schule, Ausbildung, Beruf",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "5/6 Schule, Ausbil-\ndung, Beruf ",
+        "residual_flags": []
+      },
+      {
+        "content": "[bleibt zunächst leer]",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "[bleibt zunächst \nleer] ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 48,
+          "printed_page": 48
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 5/6 Great Britain and the English-speaking world",
+        "printed_page_range": "48"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

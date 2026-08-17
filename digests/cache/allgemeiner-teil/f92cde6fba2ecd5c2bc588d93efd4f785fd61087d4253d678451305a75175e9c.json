@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f92cde6fba2ecd5c2bc588d93efd4f785fd61087d4253d678451305a75175e9c"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Language education (Sprachbildung) is integrated as a cross-cutting task and continuous teaching principle in all subjects and year groups and anchored in the core curricula (Kerncurricula).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "4 Sprachbildung als Querschnittsaufgabe in allen Fächern",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Sprachbildung ist daher als Quer-\nschnittsaufgabe und durchgängiges Unterrichtsprinzip in allen Fächern und Jahrgangsstufen \nintegriert und in den Kerncurricula verankert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Linguistic competences are not acquired automatically but must be built up systematically in language-sensitive subject teaching (sprachsensibler Fachunterricht).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "4 Sprachbildung als Querschnittsaufgabe in allen Fächern",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Sprachliche Kompetenzen werden nicht automatisch erworben, sondern müssen im Rahmen \neines sprachsensiblen Fachunterrichts systematisch aufgebaut werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students learn to use academic language (Bildungssprache) and to distinguish between the linguistic registers of everyday language, academic language and technical language.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "4 Sprachbildung als Querschnittsaufgabe in allen Fächern",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen \nund Schüler erlernen den Gebrauch der Bildungssprache und unterscheiden zwischen den \nsprachlichen Registern (Alltagssprache, Bildungssprache und Fachsprache).",
+        "residual_flags": []
+      },
+      {
+        "content": "Correct spelling is attended to in all subjects and learning areas in order to secure precision and comprehensibility of language.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "4 Sprachbildung als Querschnittsaufgabe in allen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Auf die korrekte Rechtschreibung wird in allen Fächern und Lernbe-\nreichen geachtet, um Genauigkeit und Verständlichkeit der Sprache zu sichern.",
+        "residual_flags": []
+      },
+      {
+        "content": "For students learning German as a second language (Deutsch als Zweitsprache), all subject content and requirements are equally binding.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "4 Sprachbildung als Querschnittsaufgabe in allen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Für Schülerinnen und Schüler, die Deutsch als Zweitsprache erlernen, sind alle fachlichen \nInhalte und Anforderungen ebenfalls verbindlich.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachförderung, in contrast to Sprachbildung, denotes targeted support measures, based on standardised as well as informal diagnostic procedures.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "4 Sprachbildung als Querschnittsaufgabe in allen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Sprachförderung bezeichnet in Abgrenzung zur Sprachbildung gezielte Fördermaßnahmen. \nSie richtet sich insbesondere an Kinder und Jugendliche mit besonderen Schwierigkeiten im \nLesen und Richtigschreiben oder sprachlichen Entwicklungsverzögerungen sowie an Schüle-\nrinnen und Schüler, die Deutsch als Zweitsprache lernen. Sprachförderung basiert sowohl auf \nstandardisierten als auch auf informellen Diagnoseverfahren. Sie erfolgt innerhalb des Unter-\nrichts und je nach Ausmaß des Förderbedarfs auch additiv.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Sprachbildung als Querschnittsaufgabe in allen Fächern"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "4 Sprachbildung als Querschnittsaufgabe in allen Fächern",
+        "printed_page_range": "15–16"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

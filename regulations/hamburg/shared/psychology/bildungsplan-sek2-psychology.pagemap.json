@@ -2,7 +2,7 @@
   "document_id": "bildungsplan-sek2-psychology",
   "document_title": "Bildungsplan Studienstufe Psychologie",
   "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 37,
   "page_identity": {
     "offset": 0,
@@ -62,9 +62,9 @@
     {
       "section_anchor": "1.1 Didaktische Grundsätze",
       "printed_page_start": 4,
-      "printed_page_end": 5,
+      "printed_page_end": 6,
       "physical_page_start": 4,
-      "physical_page_end": 5,
+      "physical_page_end": 6,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -72,9 +72,9 @@
     {
       "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
       "printed_page_start": 6,
-      "printed_page_end": 6,
+      "printed_page_end": 7,
       "physical_page_start": 6,
-      "physical_page_end": 6,
+      "physical_page_end": 7,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -102,9 +102,9 @@
     {
       "section_anchor": "2.1 Überfachliche Kompetenzen",
       "printed_page_start": 8,
-      "printed_page_end": 8,
+      "printed_page_end": 9,
       "physical_page_start": 8,
-      "physical_page_end": 8,
+      "physical_page_end": 9,
       "ordinance": null,
       "grades": null,
       "hazards": [],
@@ -113,9 +113,9 @@
     {
       "section_anchor": "2.2 Fachliche Kompetenzen",
       "printed_page_start": 9,
-      "printed_page_end": 12,
+      "printed_page_end": 13,
       "physical_page_start": 9,
-      "physical_page_end": 12,
+      "physical_page_end": 13,
       "ordinance": null,
       "grades": null,
       "hazards": [],

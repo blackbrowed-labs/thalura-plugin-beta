@@ -1,0 +1,198 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:65e6c32ba7ec4767ffed038a79d262bb1bfa84b0b70900c1e2724ee506bf7030"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Questions from requirement areas II and III should only be asked once the candidate has answered the lower-level questions with sufficient confidence.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "Fragen zu den Anforderungsbereichen II und III sollen \ndaher erst gestellt werden",
+        "residual_flags": []
+      },
+      {
+        "content": "The question catalogue contains impulses for the exam conversation across all three requirement levels.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "Der folgende Fragenkatalog enthält Impulse für das Prüfungsgespräch und für alle drei \nAnforderungsebenen",
+        "residual_flags": []
+      },
+      {
+        "content": "After the initial presentation of the two persons a dialogue between the candidates is expected.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "durch jeweils einen Prüfling \nwird ein Dialog der",
+        "residual_flags": []
+      },
+      {
+        "content": "A requirement-area I example: describe how Jesus, Muhammed or Ali dealt with other people.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Beschreibt, wie Jesus / Muhammed / Ali o. a. mit anderen Menschen",
+        "residual_flags": []
+      },
+      {
+        "content": "A requirement-area I example: describe the situation in Mecca into which Muhammed came with his message.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Beschreibe die Situation in Mekka, in die Muhammed mit seiner Botschaft kam",
+        "residual_flags": []
+      },
+      {
+        "content": "A requirement-area I example: sketch the political and social circumstances of Jesus's time.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Skizziere die politischen und gesellschaftlichen Verhältnisse der Zeit Jesu",
+        "residual_flags": []
+      },
+      {
+        "content": "A requirement-area II example: compare Jesus, Muhammed and Ali.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Vergleicht Jesus, Muhammed und Ali (o. a.)",
+        "residual_flags": []
+      },
+      {
+        "content": "A requirement-area II example: explain why Muhammed was persecuted by the Meccans.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "warum Muhammed von Mekkanern verfolgt wurde",
+        "residual_flags": []
+      },
+      {
+        "content": "A requirement-area III example: jointly discuss whether Jesus, Muhammed or Ali can be a role model for the present.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "gemeinsam im Dialog die Frage: Können Jesus, Muhammed, Ali (o. a.) \nein Vorbild für die Gegenwart sein",
+        "residual_flags": []
+      },
+      {
+        "content": "A requirement-area III example: judge whether people today actually need role models.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Brauchen Menschen heute eigentlich Vorbilder",
+        "residual_flags": []
+      },
+      {
+        "content": "A requirement-area III example: consider whether one must be religious to have Jesus, Muhammed or Ali as a role model.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "um Jesus / Muhammed / Ali als Vorbild zu haben",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 3
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 4
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "ii. Fragen und Impulse für das Prüfungsgespräch",
+        "printed_page_range": "3–4"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

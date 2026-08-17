@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:d636dd36f6fdee68686429b8848e5c334a68823300b6af994b2f8e99266f246c"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Aufgabe erfordert die Gestaltung einer Kurzpräsentation und eines Dialogs und umfasst damit fachpraktische Anteile.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Hinweise zur Durchführung der Prüfung",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "Die Aufgabe erfordert die Gestaltung einer Kurzpräsentation und eines Dialogs und um-\nfasst in diesem Sinne fachpraktische Anteile",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Vorbereitungszeit inklusive Einlesezeit beträgt 30 Minuten plus 30 Minuten zur Umsetzung des fachpraktischen Formats, insgesamt also 60 Minuten.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Hinweise zur Durchführung der Prüfung",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "Die Vorbereitungszeit inklusive Einlesezeit beträgt 30 Minuten plus 30 Minu-\nten zur Umsetzung des fachpraktischen Formats; insgesamt steht also eine Vorberei-\ntungszeit von 60 Minuten zur Verfügung",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Kern der mündlichen Prüfung ist das dialogische Prüfungsgespräch.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Hinweise zur Durchführung der Prüfung",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Der Kern der mündlichen Prüfung ist das dialogische Prüfungsgespräch",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Prüfung ist so zu gestalten, dass jeder Prüfling etwa 15 Minuten Redezeit erhält.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Hinweise zur Durchführung der Prüfung",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Die Prüfung ist so zu gestalten, dass jeder Prüfling etwa 15 Minuten Redezeit",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "c. Hinweise zur Durchführung der Prüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "c. Hinweise zur Durchführung der Prüfung",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

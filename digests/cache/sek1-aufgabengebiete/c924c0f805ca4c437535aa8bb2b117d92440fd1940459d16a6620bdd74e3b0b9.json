@@ -1,0 +1,146 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c924c0f805ca4c437535aa8bb2b117d92440fd1940459d16a6620bdd74e3b0b9"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The non-subject-bound cross-cutting themes are located in the following Aufgabengebiete.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "sind in den folgenden Aufgabengebieten verortet",
+        "residual_flags": []
+      },
+      {
+        "content": "The themes offer special opportunities to establish a connection to students' life-worlds.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "bieten besondere Möglichkeiten, einen Bezug zu den",
+        "residual_flags": []
+      },
+      {
+        "content": "The topics enable interdisciplinary work and promote networked thinking as well as meaningful, self-effective action.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "vernetztes Denken zu fördern sowie sinnstiftendes",
+        "residual_flags": []
+      },
+      {
+        "content": "In the competence area Erkennen the focus is on acquiring orientation and foundational knowledge.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "geht es um den Erwerb von Orientierungs- und Grundlagenwissen",
+        "residual_flags": []
+      },
+      {
+        "content": "Cooperative learning settings promote the development of cross-curricular and personal competencies.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Kooperative Lernsettings fördern die Entwicklung überfachlicher und personaler",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Kompetenzbereich Bewerten stehen die kritische Reflexion und das bewusste Einnehmen anderer Perspektiven im Vordergrund.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "stehen die kritische Reflexion und das bewusste Einnehmen",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Kompetenzbereich Handeln erwerben die Schuelerinnen und Schueler Handlungskompetenz.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Im Kompetenzbereich Handeln erwerben die Schülerinnen und Schüler Handlungskompetenz",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.1 Didaktische Grundsätze"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "1.1 Didaktische Grundsätze",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

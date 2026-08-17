@@ -1,0 +1,600 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e59599b1583b7c6ae1046d62b64499f57121fc2d7b2d0eb683158772e6d21725"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Umwelterziehung ist Teil der Bildung fuer nachhaltige Entwicklung (BNE) und zielt darauf, ein Verantwortungsbewusstsein fuer Natur und Umwelt zu entwickeln.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "Die Umwelterziehung ist Teil der Bildung für nachhaltige Entwicklung (BNE) und zielt darauf, bei \nJugendlichen und jungen Erwachsenen ein Verantwortungsbewusstsein für Natur und Umwelt",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schueler sollen ihr eigenes Verhalten und ihren Lebensstil hinsichtlich eines nachhaltigen Umgangs mit Ressourcen und mit Blick auf das Klima reflektieren und anpassen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "das eigene Verhalten sowie den eigenen Lebensstil",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Aufgabengebiet bietet die Moeglichkeit, sich kritisch mit der Nutzung digitaler und anderer Technologien in Bezug auf Umwelt und Klima auseinanderzusetzen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "kritisch mit der Nutzung digitaler und anderer Technologien",
+        "residual_flags": []
+      },
+      {
+        "content": "Zum Aufgabengebiet gehoeren die Themenbereiche Klimawandel und Klimaschutz, Biodiversitaet sowie Nachhaltiger Konsum und Abfall.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "die Themenbereiche Klimawandel und Klima-\nschutz, Biodiversität sowie Nachhaltiger Konsum und Abfall",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "Themenbereich Klimawandel: Schueler lernen Ursachen, Folgen und Risiken des Klimawandels zu erkennen und Massnahmen fuer nachhaltigen Klimaschutz zu entwickeln.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "Ursachen, Folgen und Risiken des Klimawandels zu",
+        "residual_flags": []
+      },
+      {
+        "content": "Themenbereich Biodiversitaet: Biodiversitaet umfasst die Vielfalt lebender Organismen auf der Erde.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "umfasst die Vielfalt lebender Organismen auf der Erde",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schueler erkennen den Wert der biologischen Vielfalt, u. a. deren oekonomische und oekologische Dimension, und lernen Schutzmassnahmen kennen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "erkennen den Wert der biologischen Vielfalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Themenbereich Nachhaltiger Konsum: Bei der Herstellung unserer Konsumgueter entstehen Treibhausgasemissionen und es werden endliche Ressourcen sowie Energie beansprucht.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "Bei der Herstellung unserer Konsum",
+        "residual_flags": []
+      },
+      {
+        "content": "Konsumverhalten, Abfallvermeidung und die Verwertung von Abfaellen spielen eine zentrale Rolle fuer den Umwelt-, Natur- und Klimaschutz.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "Konsumverhalten, Abfallvermeidung und die Verwertung von Abf",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (Erkennen E): Informationen beschaffen und verarbeiten - Informationen aus Quellen entnehmen und Tabellen, Grafiken und Schaubilder anfertigen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 66,
+          "physical_page": 66
+        },
+        "cited_text": "Informationen beschaffen und verarbeiten",
+        "residual_flags": [
+          "page-multi-match:physical-66-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (B1): Schueler nehmen Natur als notwendige Lebensgrundlage bewusst wahr und beurteilen Schutzmassnahmen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 66,
+          "physical_page": 66
+        },
+        "cited_text": "notwendige Lebensgrundlage bewusst wahr",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (B2): Schueler entwickeln eine Haltung zu Natur-, Umwelt- und Klimaschutz und reflektieren ihr Konsumverhalten.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 66,
+          "physical_page": 66
+        },
+        "cited_text": "entwickeln eine Haltung zu Natur",
+        "residual_flags": [
+          "page-multi-match:physical-66-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (H1): Schueler beteiligen sich an vorbereiteten schulischen und ausserschulischen Aktionen zum Schutz von Natur, Umwelt und Klima.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 66,
+          "physical_page": 66
+        },
+        "cited_text": "beteiligen sich an vorbereiteten schulischen und",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (H2): Schueler entwickeln und erproben klimafreundliche Handlungsalternativen fuer ihre Schule.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 66,
+          "physical_page": 66
+        },
+        "cited_text": "entwickeln und erproben klimafreundliche Handlungsalternativen",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (E): Schueler entnehmen Informationen aus vorgegebenen oder selbst recherchierten oder selbst erzeugten Quellen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 67,
+          "physical_page": 67
+        },
+        "cited_text": "entnehmen Informationen aus vorgegebenen oder selbst recherchierten",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (B1): Schueler diskutieren Auswirkungen ihres Handelns auf die Entwicklung von Natur, Umwelt und Klima.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 66,
+          "physical_page": 66
+        },
+        "cited_text": "diskutieren Auswirkungen ihres Handelns auf die Entwicklung von Natur",
+        "residual_flags": [
+          "page-multi-match:physical-66-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Anforderung Ende Sek I (B2): Schueler bewerten Konsumgueter und Konsumverhalten und entwickeln eigene Bewertungskriterien.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 67,
+          "physical_page": 67
+        },
+        "cited_text": "und entwickeln eigene Bewertungskriterien",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (H1): Schueler beteiligen sich an Aktionen zum Schutz von Natur, Umwelt und Klima und initiieren diese.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 67,
+          "physical_page": 67
+        },
+        "cited_text": "Klima und initiieren diese",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (H2): Schueler entwickeln umwelt- und klimafreundliche Handlungsalternativen fuer ihre Schule.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 67,
+          "physical_page": 67
+        },
+        "cited_text": "umwelt- und klimafreundliche Handlungsalternativen",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt Nachhaltiger Konsum 5/6 (1.1): Abfall vermeiden, trennen, verwerten.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 68,
+          "physical_page": 68
+        },
+        "cited_text": "Abfall vermeiden, trennen, verwerten",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.1.1: Abfall als Problem erkennen - Umweltverschmutzung, Abfallaufkommen in der Schule und individuelles Konsumverhalten.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 68,
+          "physical_page": 68
+        },
+        "cited_text": "Abfall als Problem erkennen",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.1.2 Abfall verwerten: fraktionierte Abfalltrennung in der Schule und Recyclingwege der Fraktionen Wertstoffe, Papier, Bioabfall und Restmuell.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 68,
+          "physical_page": 68
+        },
+        "cited_text": "fraktionierte Abfalltrennung in der Schule",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.1.3 Abfall vermeiden: Massnahmen zur Reduktion, u. a. Oekobilanz und Vergleich von Getraenkeverpackungen oder Vergleich von Haushaltshelfern.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 68,
+          "physical_page": 68
+        },
+        "cited_text": "Vergleich von Haushaltshelfern",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.2 (5/6): Ernaehrung im Sinne des Natur- und Klimaschutzes unter Nutzung der DGE-Standards einer nachhaltigeren Ernaehrung.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 68,
+          "physical_page": 68
+        },
+        "cited_text": "Nutzung der DGE-Standards einer nachhaltigeren",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.2: Einfluss der Ernaehrung mit Treibhausgasemissionen durch Anbau, Lagerung und Transport.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 68,
+          "physical_page": 68
+        },
+        "cited_text": "Treibhausgasemissionen durch den",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt Klimawandel 7-11 (2.1.1): Ursachen des Klimawandels - Unterschied Wetter/Klima, Treibhauseffekt, CO2-Rechner und CO2-Fussabdruck.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "Ursachen des Klimawandels",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.1.2: Folgen des Klimawandels - globale und regionale Naturfolgen sowie Klima-Kippelemente.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "Folgen des Klimawandels",
+        "residual_flags": [
+          "page-multi-match:physical-69-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Inhalt 2.1.3: Regionale Anpassungen fuer Hamburg mit Hamburger Klimaplan und Anpassungsmassnahmen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "Regionale Anpassungen für Hamburg \n• Hamburger Klimaplan",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.1.4 Aktiv werden fuer den Klimaschutz: Klimaschutzpotenziale der Schule und im Alltag sowie Aufgaben von Klima- und Umweltschutzorganisationen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "Aufgaben und Wirksamkeit von Klima- und Umweltschutzorgani",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.2: Energie zukunftsorientiert nutzen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Energie zukunftsorientiert nutzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.2.1 Energiewende: Rolle fossiler Brennstoffe und Kernenergie in der Energieversorgung sowie erneuerbare Energien.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Rolle von fossilen Brennstoffen und Kernenergie in der Energie",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.2.2 Energieeinsatz reduzieren: Energiesparpotenziale auf technischer Ebene und Verhaltensebene.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Energiesparpotenziale auf technischer Ebene und Verhaltens",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt Biodiversitaet 7-11 (3.1): Die Stadt als Lebensraum mit Tier- und Pflanzenarten, Folgen der Versiegelung und nachhaltiger Stadtentwicklung.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 71,
+          "physical_page": 71
+        },
+        "cited_text": "Die Stadt als Lebensraum",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 3.2 Menschliche Eingriffe in die Biodiversitaet: Wert der biologischen Vielfalt sowie Probleme der Land- und Forstwirtschaft und der Fischerei.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 65,
+          "physical_page": 65
+        },
+        "cited_text": "Wert der biologischen Vielfalt",
+        "residual_flags": [
+          "page-multi-match:physical-65-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Inhalt 3.3 Artenschutz als Klimaschutz: Arten- und Biotopschutzprogramme sowie Naturschutzgebiete anhand konkreter Beispiele.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 71,
+          "physical_page": 71
+        },
+        "cited_text": "Artenschutz als Klimaschutz",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt Nachhaltiger Konsum 7-11 (4.1) Problematischer Konsum: Konsumverhalten und Lebensstile in Bezug auf Natur- und Klimaschutz.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 72,
+          "physical_page": 72
+        },
+        "cited_text": "Konsumverhalten und Lebensstile in Bezug auf Natur",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 4.2 Ressourcenschuetzender Konsum mit Kriterien zum Kauf umweltfreundlicher Produkte, unverpacktem Einkaufen und Zero-Waste.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 72,
+          "physical_page": 72
+        },
+        "cited_text": "Kriterien zum Kauf umweltfreundlicher Produkte",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 4.3 Alltaegliche Konsumgueter: Herstellung und Entsorgung mobiler Endgeraete vom Rohstoff bis zum Export als Elektroschrott.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 72,
+          "physical_page": 72
+        },
+        "cited_text": "Herstellung und Entsorgung mobiler Endgeräte (etwa Smart-\nphone – von der Gewinnung der Rohstoffe bis zum Export als \nElektroschrott",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "Inhalt 4.4 Nachhaltige Ernaehrung mit dem Problem der Lebensmittelverschwendung und der Bedeutung des Mindesthaltbarkeitsdatums.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.8 Umwelterziehung",
+          "printed_page": 72,
+          "physical_page": 72
+        },
+        "cited_text": "Problem der Lebensmittelverschwendung",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 65,
+          "printed_page": 65
+        },
+        {
+          "physical_page": 66,
+          "printed_page": 66
+        },
+        {
+          "physical_page": 67,
+          "printed_page": 67
+        },
+        {
+          "physical_page": 68,
+          "printed_page": 68
+        },
+        {
+          "physical_page": 69,
+          "printed_page": 69
+        },
+        {
+          "physical_page": 70,
+          "printed_page": 70
+        },
+        {
+          "physical_page": 71,
+          "printed_page": 71
+        },
+        {
+          "physical_page": 72,
+          "printed_page": 72
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.8 Umwelterziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.8 Umwelterziehung",
+        "printed_page_range": "65–72"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

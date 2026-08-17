@@ -13,6 +13,7 @@
 #   scaffold=complete | scaffold=incomplete | scaffold=unknown | scaffold=no-profile
 #   dir=missing:<rel-path>            config_default=missing:<file>
 #   exam_template=missing             library_index=missing:<subject_id>
+#   cache_seed=missing                (the pre-read digest pack was NEVER seeded)
 #   sic_readme=missing                readme=missing
 #   output_root=missing:<subject>:<year>   year_scaffold=missing:<year>
 #   plan_skeleton=missing:<year>      profile_shell=missing:<file>
@@ -64,6 +65,39 @@ def main():
                 tokens.append('config_default=missing:%s' % f)
     if not os.path.isfile(os.path.join(ws, 'data/exam-formats/_template.md')):
         tokens.append('exam_template=missing')
+
+    # 2b) Pre-read digest pack (setup Phase 6.1c). ONE token, and ONLY for a
+    #     workspace where the pack was NEVER seeded at all — i.e. the install ships
+    #     a pack and not a single one of its document directories is present under
+    #     data/.cache/. Deliberately NOT a per-entry or per-document diff:
+    #       * data/.cache/ is runtime-owned and lazily created, and its entries are
+    #         regenerable by contract (a republished PDF invalidates one document
+    #         wholesale). "Some entries absent" is a NORMAL cache state, not a
+    #         scaffold defect, so a per-entry diff would nag forever and would turn
+    #         an optimization into a correctness signal.
+    #       * "cache root absent" alone would be a false alarm on a lazily-created
+    #         directory, and would miss the workspace whose root exists because the
+    #         runtime wrote into it but which was never seeded.
+    #     The predicate that IS right is "never seeded": it fires exactly on the two
+    #     routes the version-migration seed cannot reach — a restored workspace (a
+    #     backup deliberately excludes the cache and the restore screen refuses to
+    #     land it) and a repair of a workspace stamped at the current version by a
+    #     pre-pack build. As soon as ANY packed document is present, the token is
+    #     silent, so a pruned or partly invalidated cache never reports incomplete.
+    #     Bounded output: at most one line, ever. Fail-soft in its own right — an
+    #     unreadable pack directory skips the check rather than flipping the whole
+    #     detector to scaffold=unknown over an optimization.
+    try:
+        pack = os.path.join(plug, 'digests/cache')
+        if os.path.isdir(pack):
+            packed = [d for d in sorted(os.listdir(pack))
+                      if not d.startswith('.')
+                      and os.path.isdir(os.path.join(pack, d))]
+            if packed and not [d for d in packed
+                               if os.path.isdir(os.path.join(ws, 'data/.cache', d))]:
+                tokens.append('cache_seed=missing')
+    except Exception:
+        pass
 
     # 3) Per-subject scaffold (setup Phases 5.2 / 6.7)
     for s in subjects:

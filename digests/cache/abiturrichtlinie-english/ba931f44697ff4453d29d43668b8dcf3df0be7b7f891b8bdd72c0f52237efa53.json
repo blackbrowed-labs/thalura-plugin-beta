@@ -1,0 +1,155 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ba931f44697ff4453d29d43668b8dcf3df0be7b7f891b8bdd72c0f52237efa53"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In the listening part different partial competences are tested depending on the task.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.3 Hörverstehen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Im Prüfungsteil Hörverstehen werden je nach Aufgabenstellung unterschiedliche Teil-\nkompetenzen überprüft.",
+        "residual_flags": []
+      },
+      {
+        "content": "The tasks test different listening styles and intentions: global listening (gist), detailed, selective and inferential listening (inferencing/deducing meaning).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.3 Hörverstehen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Aufgaben testen verschiedene Hörstile und -intentionen:\n•\nglobales Hören (gist),\n•\ndetailliertes Hören,\n•\nselektives Hören,\n•\nschlussfolgerndes Hören (inferencing/deducing meaning).",
+        "residual_flags": []
+      },
+      {
+        "content": "Audio sources are as a rule no longer than five minutes each and are presented once or twice; total listening time is max. 10 minutes for single listening and can rise to 20 minutes with double listening.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.3 Hörverstehen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Als auditive Textvorlage dienen Texte, die in der Regel nicht mehr als jeweils fünf Minuten \nlang sind. Sie werden den Prüflingen über einen Tonträger ein- oder zweimal dargeboten. \nDie Gesamtdauer der Hörbeispiele beträgt bei einfachem Hören maximal 10 Minuten. \nDurch ggf. zweimaliges Hören kann sich die Gesamthörzeit auf bis zu 20 Minuten erhöhen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Suitable sources are e.g. podcasts or radio/TV recordings of interviews, speeches, conversations, discussions, dialogues, talk shows and background reports.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.3 Hörverstehen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Als Vorlagen geeignet sind beispielsweise:\n•\nPodcasts oder Radio-/Fernseh-Mitschnitte von Interviews, Reden, Gesprächen, Dis-\nkussionen, Dialogen, Talkshows, Hintergrundberichten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The speech tempo may vary and corresponds to native-level speakers; at raised requirement level standard varieties are possible; the source should contain a short situational embedding, and before listening candidates must have enough time to read the tasks.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.3 Hörverstehen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Das Sprechtempo der Hörvorlage kann variieren und entspricht der Sprechweise von \nSprechern auf muttersprachlichem Niveau, wobei auf erhöhtem Anforderungsniveau \nStandardvarietäten möglich sind. Die Hörvorlage sollte eine kurze situative Einbettung \nenthalten. Vor dem Hören sollen die Prüflinge über ausreichend Zeit verfügen, die Aufga-\nbenstellung(en) zu lesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Possible task formats are closed tasks (e.g. matching, multiple choice) and semi-open tasks (e.g. short answers, gap filling, table completion, note taking).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.3 Hörverstehen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Mögliche Formate für die Aufgaben zum Hörverstehen sind:\n•\ngeschlossene Aufgaben (z. B. matching, multiple choice)\n•\nhalboffene Aufgaben (z. B. short answers, gap filling, table completion, note taking)",
+        "residual_flags": []
+      },
+      {
+        "content": "The listening task requires performance in requirement areas I and II.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.3 Hörverstehen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Aufgabenstellung erfordert Leistungen in den Anforderungsbereichen I und II.",
+        "residual_flags": []
+      },
+      {
+        "content": "Decisive for level assignment are the complexity of the listening text, its degree of encoding, the speed of speech and any background noise.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.3 Hörverstehen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Entscheidend für die Zuordnung einer Aufgabe zum grundlegenden oder erhöhten An-\nforderungsniveau sind die Komplexität des Hörtextes, der Grad seiner Verschlüsselung, \ndie Geschwindigkeit des Gesprochenen und ggf. vorhandene Hintergrundgeräusche.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.2.3 Hörverstehen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "4.2.3 Hörverstehen",
+        "printed_page_range": "13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

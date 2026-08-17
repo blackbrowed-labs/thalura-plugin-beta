@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:384bfa216ead5cafed683aaed956f17dc4ceed5073b866d55c35b6a9d0236e90"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In competency area B (Lesen) students can further develop reading fluency using technical texts with their subject-specific vocabulary (SEK I Unterstufe).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Leseflüssigkeit anhand von Fachtexten mit ihrem fachspezifischen Vokabular weiterentwickeln",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can identify subject-related terms and single information in continuous and non-continuous representation forms and infer them from context.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "in kontinuierlichen und nicht kontinuierlichen fachbezogenen Darstellungsformen identifizieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can decode sentence structures typical of technical texts (relative clauses, passive, main/subordinate clause constructions with conjunctions).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Satzstrukturen erschließen, die für Fachtexte typisch sind",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can apply reading techniques and strategies including selective, orienting, cursory and detailed reading.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "selektives Lesen, orientierendes Lesen, kursorisches Lesen, detailliertes Lesen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can handle technical texts in print and electronic media, research subject topics, and evaluate content, discovering and marking contradictions.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "mit Fachtexten in Druckmedien und elektronischen Medien umgehen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can assess the quality and credibility of technical texts and sources in a reasoned way.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Qualität und Glaubwürdigkeit von Fachtexten und Quellen begründet einschätzen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Kompetenzmatrix — B. LESEN (SACHTEXTE LESEND VERSTEHEN)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "4 Kompetenzmatrix — B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+        "printed_page_range": "15–16"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

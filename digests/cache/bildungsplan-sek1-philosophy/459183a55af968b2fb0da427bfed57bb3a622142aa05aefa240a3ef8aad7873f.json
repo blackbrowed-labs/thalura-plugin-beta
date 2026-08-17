@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:459183a55af968b2fb0da427bfed57bb3a622142aa05aefa240a3ef8aad7873f"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken WM4 (grade 9): the question of a successful, meaningful life of the individual within a community.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 4: Glück und Sinn im Leben",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "In diesem Modul geht es um die Frage nach einem gelingenden, \nsinnvollen Leben des Einzelnen in einer Gemeinschaft.",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      },
+      {
+        "content": "Contents of WM4: life goals and life paths; a successful life and happiness in community; personal identity and a self-determined life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 4: Glück und Sinn im Leben",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "• Lebensziele und Lebenswege \n• Gelingendes Leben und Glück in der Gemeinschaft \n• Personale Identität und selbstbestimmtes Leben",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': students examine how far values are bound up with individual life paths and can create meaning and identity.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 4: Glück und Sinn im Leben",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Die Schülerinnen und Schüler untersuchen, inwiefern Werte mit in-\ndividuellen Lebenswegen verbunden sind und sinn- sowie identi-\ntätsstiftend wirken können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'D': students reflect on the influence of social networks and entertainment media on their own well-being.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 4: Glück und Sinn im Leben",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Die Schülerinnen und Schüler können in diesem Zusammenhang \nden Einfluss und die Bedeutung von sozialen Netzwerken und Un-\nterhaltungsmedien für ihr eigenes Wohlbefinden",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Wahlmodul 4: Glück und Sinn im Leben"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Wahlmodul 4: Glück und Sinn im Leben",
+        "printed_page_range": "22"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

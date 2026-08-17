@@ -1,0 +1,93 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:377a93031557059fe45818251e1bf825d153d43f993d0700b42bbfe0c8f9a036"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken WM5 (grade 9): fundamental distinctions between rational and non-rational ways of explaining the world and its connections are discussed.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 5: Mythos und Logos",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "In diesem Modul werden grundsätzliche Unterscheidungen von rati-\nonalen und nichtrationalen Erklärungsweisen der Welt und ihrer Zu-\nsammenhänge diskutiert.",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'",
+          "source-anomaly: this module sheet lists no 'Aufgabengebiete' entries, unlike the surrounding module sheets"
+        ]
+      },
+      {
+        "content": "Contents of WM5: mythological and religious conceptions of the origin of the world; function and limits of mythical narration; aims and methods of scientific research.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 5: Mythos und Logos",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "• Mythologische und religiöse Vorstellungen der Weltentstehung \n• Funktion und Grenzen mythischen Erzählens \n• Ziele und Methoden wissenschaftlichen Forschens",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': students recognise values and their function in mythical and religious concepts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 5: Mythos und Logos",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die Schülerinnen und Schüler erkennen Werte und deren Funktion \nin mythischen und religiösen Konzepten.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Wahlmodul 5: Mythos und Logos"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Wahlmodul 5: Mythos und Logos",
+        "printed_page_range": "24"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

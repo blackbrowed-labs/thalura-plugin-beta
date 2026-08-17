@@ -1,0 +1,1083 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7b13f60691b574d7f999415585df4003dd0ff16e68a84e349447c5a79c44bfdb"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Ueberfachliche (cross-curricular) competencies are the basis for successful learning development and the acquisition of subject competencies.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "bilden die Grundlage für erfolgreiche Lernentwicklungen und den \nErwerb fachlicher Kompetenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching cross-curricular competencies is the shared task and goal of all subjects and of school life as a whole.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "die gemeinsame Aufgabe und gemeinsames Ziel aller \nUnterrichtsfächer sowie des gesamten Schullebens",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competencies can be assigned to four areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "sich vier Bereichen zuordnen",
+        "residual_flags": []
+      },
+      {
+        "content": "Personal competencies (Personale Kompetenzen) concern attitudes toward oneself; students should develop trust in their own abilities and the effectiveness of their action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegen-\nüber. Die Schülerinnen und Schüler sollen Vertrauen in die eigenen Fähigkeiten und \ndie Wirksamkeit des eigenen Handelns",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivational attitudes describe the ability and willingness to commit to and engage in things.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für \nDinge einzusetzen und zu engagieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning-method competencies are the basis for a conscious acquisition of knowledge and thus for goal-directed, self-directed learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Grundlage für einen bewussten Erwerb \nvon Wissen und Kompetenzen und damit für ein zielgerichtetes",
+        "residual_flags": []
+      },
+      {
+        "content": "Social competencies are required to interact appropriately and cooperate with other people.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "sind erforderlich, um mit anderen Menschen angemessen um-\ngehen und zusammenarbeiten zu",
+        "residual_flags": []
+      },
+      {
+        "content": "Unlike subject competencies in the framework plans, cross-curricular competencies are cross-grade and are not differentiated by grade level.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nachfolgenden Tabelle genannten überfachlichen Kompetenzen sind jahrgangs-\nübergreifend zu verstehen, d. h., sie werden anders als die fachlichen Kompetenzen in den \nRahmenplänen nicht für unterschiedliche Jahrgangsstufen differenziert ausgewiesen",
+        "residual_flags": []
+      },
+      {
+        "content": "Cross-curricular competencies are to be considered in developing the school-internal curriculum.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Erarbeitung des schulinternen Curriculums",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Selbstwirksamkeit, the student has trust in their own abilities and believes in the effectiveness of their own action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "hat Vertrauen in die eigenen",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Medienkompetenz, the student can gather, prepare, evaluate and present information.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "kann Informationen sammeln",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Kooperationsfaehigkeit, the student works well with others and takes on tasks and responsibility in groups.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "arbeitet gut mit anderen zusammen, übernimmt \nAufgaben und Verantwortung in Gruppen",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural competencies are acquired in thematic contexts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "werden in thematischen Kontexten erworben",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural competence includes sociocultural orientation knowledge and successful communication in intercultural encounter situations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "soziokulturelles Orientierungswissen \n• gelingende Kommunikation in interkulturellen Begegnungssituationen",
+        "residual_flags": []
+      },
+      {
+        "content": "It includes respectful, appreciative handling of linguistic and cultural diversity.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Umgang mit sprachlicher und kultureller",
+        "residual_flags": []
+      },
+      {
+        "content": "By the end of grade 6, students explore and compare Great Britain with their own environment (e.g. everyday life, customs).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "erkunden und vergleichen Groß-\nbritannien mit der eigenen Le",
+        "residual_flags": []
+      },
+      {
+        "content": "By the end of grade 10, students have basic knowledge of geographic, historical, political, social and cultural aspects of anglophone areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "zu geografischen, geschichtli-\nchen, politischen, sozialen und \nkulturellen Aspekten",
+        "residual_flags": []
+      },
+      {
+        "content": "Students describe stereotypes and prejudices and name effects such as discrimination or exclusion for individuals and groups.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "beschreiben Stereotypen und \nVorurteile, benennen Auswirkun-\ngen wie Diskriminierung oder \nAusgrenzung",
+        "residual_flags": []
+      },
+      {
+        "content": "Section K covers communicative skills (Kommunikative Fertigkeiten).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "K Kommunikative Fertigkeiten",
+        "residual_flags": []
+      },
+      {
+        "content": "At A1 (grade 6), students understand simple, lesson-related work instructions (classroom discourse) directed clearly at them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "verstehen einfache und auf den Unterricht bezo-\ngene Arbeitsanweisungen (classroom discourse)",
+        "residual_flags": []
+      },
+      {
+        "content": "At A1, students follow short TV programs, films or listening texts on familiar topics held in very simple language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "folgen kurzen Fernsehsendungen, Filmen oder Hör-\ntexten zu vertrauten Themen, die in sehr einfacher \nSprache gehalten sind",
+        "residual_flags": []
+      },
+      {
+        "content": "At A2- level, students follow individual sequences of linguistically simple video clips and understand individual statements.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "folgen einzelnen Sequenzen von \nsprachlich einfachen Videoclips",
+        "residual_flags": []
+      },
+      {
+        "content": "Students extract targeted key information such as directions, departure times and TV announcements.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Wegbeschreibungen, Ab-\nfahrtzeiten, Fernsehansagen",
+        "residual_flags": []
+      },
+      {
+        "content": "For K2 (taking part in conversations), students express agreement/rejection using simple phrases such as good idea, great or no way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "good idea, great oder no way",
+        "residual_flags": []
+      },
+      {
+        "content": "For K3 (connected speaking), at A1 students speak about familiar topics: people, animals, actions as well as objects and places.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Personen, Tiere, Handlungen",
+        "residual_flags": []
+      },
+      {
+        "content": "For K4 (reading comprehension), at A1 students read and understand short, simple texts with known names and words.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "einfache Texte mit bekannten Namen",
+        "residual_flags": []
+      },
+      {
+        "content": "For K5 (writing), at A1 students write lists or label pictures (e.g. at the market, in the house).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "schreiben Listen oder beschriften Bilder",
+        "residual_flags": []
+      },
+      {
+        "content": "For K6 (mediation), at A1 students transfer utterances from English into German so that a rough understanding is secured.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "aus einfach strukturierten Texten \nÄußerungen vom Englischen ins Deutsche so",
+        "residual_flags": []
+      },
+      {
+        "content": "Section L covers linguistic competencies (Linguistische Kompetenzen).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "L Linguistische Kompetenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "For L2 (grammar), at A1 students recognize and express actions and states as present, past or future (simple present, simple past, going-to future).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "simple present, simple past, going-to future",
+        "residual_flags": []
+      },
+      {
+        "content": "The grammar competency refers to chapter 2.4 Basisgrammatik.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Vgl. auch Kapitel 2.4 Basisgrammatik",
+        "residual_flags": [
+          "page-multi-match:physical-33-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "For SB (language awareness), students recognize linguistic errors in familiar structures, phrases and idioms.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "erkennen sprachliche Fehler in \nvertrauten Strukturen",
+        "residual_flags": []
+      },
+      {
+        "content": "For SL (language-learning competency), students apply listening and reading techniques such as scanning and skimming in a task-related way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "scanning, skimming) aufgaben-\nbezogen ein",
+        "residual_flags": []
+      },
+      {
+        "content": "For D (subject-related digital competency), no individual standards are formulated here, though they appear partly in other areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Einzelstandards werden hier nicht formuliert",
+        "residual_flags": []
+      },
+      {
+        "content": "For TM (text and media competency), students master simple exercise and test procedures such as true/false statements and multiple-choice.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "true/false \nstatements, multiple-choice",
+        "residual_flags": []
+      },
+      {
+        "content": "Content contributes substantially to learners' motivation for acquiring the foreign language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Inhalte tragen wesentlich zur Motivation",
+        "residual_flags": []
+      },
+      {
+        "content": "Students acquire intercultural communicative competence in a thematic context.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "erwerben interkulturelle kommunikative Kompetenz in einem \nthematischen Kontext",
+        "residual_flags": []
+      },
+      {
+        "content": "The core curricula define meaningful content connected to the life and experience world of the children and young people.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Kerncurricula definieren bedeutsame Inhalte, die an die Lebens- und Erfahrungswelt der",
+        "residual_flags": []
+      },
+      {
+        "content": "The six thematic areas are taught modularly in the double grade levels and revisited and deepened across secondary level I in a spiral curriculum.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "Doppeljahrgangsstufen modular unterrichtet und im \nVerlauf der Sekundarstufe I im Spiralcurriculum wiederholt aufgenommen und vertieft werden",
+        "residual_flags": []
+      },
+      {
+        "content": "The six thematic areas include Schule/Ausbildung/Beruf, Gesellschaftliches Zusammenleben, Leben in der digitalen Welt, Natur/Gesundheit/Wissenschaft/Umwelt, and Unterschiedliche Kulturen im englischsprachigen Raum.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "Schule, Ausbildung und Beruf \n3. Gesellschaftliches Zusammenleben \n4. Leben in der digitalen Welt \n5. Natur, Gesundheit, Wissenschaft und Umwelt \n6. Unterschiedliche Kulturen im englischsprachigen Raum",
+        "residual_flags": []
+      },
+      {
+        "content": "The Fachkonferenz Englisch develops the school-internal curriculum on the basis of the core curriculum.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "Fachkonferenz Englisch entwickelt auf Basis des Kerncurriculums das schulinterne Curri",
+        "residual_flags": []
+      },
+      {
+        "content": "Differentiation of requirement levels is done as a rule via the language level as set out in the competency tables.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "erfolgt in der Regel über das sprachliche Niveau",
+        "residual_flags": []
+      },
+      {
+        "content": "Beyond that, quantitative differentiation is also applied.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "wird auch quantitativ differenziert",
+        "residual_flags": []
+      },
+      {
+        "content": "The bold-printed themes in the core curricula are mandatory to treat.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "fettgedruckten Themen sind verpflichtend zu behandeln",
+        "residual_flags": [
+          "page-multi-match:physical-42-earliest-of-13-candidate-pages"
+        ]
+      },
+      {
+        "content": "As a rule, two of the named subtopics each must be treated.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "zwei der genannten Unterthemen behandelt werden",
+        "residual_flags": []
+      },
+      {
+        "content": "In grades 5/6 a selection of several short texts must be treated: poems, nursery rhymes, lyrics, stories, short scenes, tongue twisters, legends, comics, cartoons.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "poems, nursery rhymes, lyrics, \nstories, short scenes, tongue twisters, legends, comics, cartoons",
+        "residual_flags": []
+      },
+      {
+        "content": "In grades 7/8 a deepening project is mandatory (e.g. from the compulsory theme area: selected US states), also digital.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "ein vertiefendes Projekt (z. B. aus dem Pflichtthemenbereich: ausgewählte Bundes-\nstaaten der USA), auch digital",
+        "residual_flags": []
+      },
+      {
+        "content": "In grades 9/10/11 a digital project is required, e.g. creating a podcast, book- or film-tubes, or explainer videos.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "ein digitales Projekt, z. B. Erstellen eines Podcasts, Book- oder Film-Tubes",
+        "residual_flags": []
+      },
+      {
+        "content": "In grade 11 at least one reference culture is treated in depth.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "mindestens eine Bezugskultur vertie-\nfend behandelt",
+        "residual_flags": []
+      },
+      {
+        "content": "Theme 1 (grades 5/6, Living together) subtopics include family relations, roles in the family and family rules.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "family relations \n• roles in the family \n• family rules",
+        "residual_flags": []
+      },
+      {
+        "content": "The contribution to Leitperspektive D has students reflect on effects of digital media use on shaping social relationships.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Auswirkungen der Nutzung \ndigitaler Medien auf die Gestaltung sozialer Beziehungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Theme 2 (grades 5/6, school) subtopics include subjects and timetable, school rules and clubs and activities.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "subjects and timetable \n• school rules \n• clubs and activities",
+        "residual_flags": []
+      },
+      {
+        "content": "Theme 3 (grades 5/6) includes asking for and giving directions and means of transport.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "asking for and giving directions \n• means of transport",
+        "residual_flags": []
+      },
+      {
+        "content": "Theme 4 (grades 5/6, nature and health) subtopics include healthy food and keeping fit; sports and fun.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "healthy food \n• keeping fit; sports and fun",
+        "residual_flags": []
+      },
+      {
+        "content": "Theme 5 (grades 5/6) covers anglophone countries and geographical orientation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "anglophone countries \n• geographical orientation",
+        "residual_flags": []
+      },
+      {
+        "content": "Theme 3 (grades 7/8) covers migrating to a different country (reasons, consequences, integration).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "migrating to a different country (reasons, consequences, integration)",
+        "residual_flags": []
+      },
+      {
+        "content": "Theme 3 (grades 9/10/11, current issues) covers topics such as climate change, consumerism, racism, poverty and gender equality.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "climate change \n• consumerism \n• racism \n• poverty \n• gender equality",
+        "residual_flags": []
+      },
+      {
+        "content": "It names public figures such as Martin Luther King, Nelson Mandela and Malala Yousafzai.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Martin Luther King, Nelson Mandela, Malala Yousafzai",
+        "residual_flags": []
+      },
+      {
+        "content": "Theme 5 (grades 9/10/11) is titled English as a world language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "English as a world language",
+        "residual_flags": []
+      },
+      {
+        "content": "The 5/6 Basisgrammatik active tenses include present tenses for the future.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "present tenses for the future",
+        "residual_flags": []
+      },
+      {
+        "content": "The 5/6 Basisgrammatik covers personal, demonstrative and relative pronouns (plus adjectives and adverbs).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Personalpronomen \n• Demonstrativpronomen \n• Adjektive und Adverbien \n• Relativpronomen",
+        "residual_flags": []
+      },
+      {
+        "content": "The 7/8 Basisgrammatik introduces formation and use of the passive voice tenses.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "folgenden Zeitformen im Passiv",
+        "residual_flags": []
+      },
+      {
+        "content": "The 7/8 Basisgrammatik includes modal verbs and their substitute forms.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Modalverben und ihre Ersatzformen",
+        "residual_flags": []
+      },
+      {
+        "content": "The 9/10 Basisgrammatik covers participial, infinitive and gerund constructions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Partizipialkonstruktionen \n• Infinitivkonstruktionen \n• Gerundialkonstruktionen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        },
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        },
+        {
+          "physical_page": 37,
+          "printed_page": 37
+        },
+        {
+          "physical_page": 38,
+          "printed_page": 38
+        },
+        {
+          "physical_page": 39,
+          "printed_page": 39
+        },
+        {
+          "physical_page": 40,
+          "printed_page": 40
+        },
+        {
+          "physical_page": 41,
+          "printed_page": 41
+        },
+        {
+          "physical_page": 42,
+          "printed_page": 42
+        },
+        {
+          "physical_page": 43,
+          "printed_page": 43
+        },
+        {
+          "physical_page": 44,
+          "printed_page": 44
+        },
+        {
+          "physical_page": 45,
+          "printed_page": 45
+        },
+        {
+          "physical_page": 46,
+          "printed_page": 46
+        },
+        {
+          "physical_page": 47,
+          "printed_page": 47
+        },
+        {
+          "physical_page": 48,
+          "printed_page": 48
+        },
+        {
+          "physical_page": 49,
+          "printed_page": 49
+        },
+        {
+          "physical_page": 50,
+          "printed_page": 50
+        },
+        {
+          "physical_page": 51,
+          "printed_page": 51
+        },
+        {
+          "physical_page": 52,
+          "printed_page": 52
+        },
+        {
+          "physical_page": 53,
+          "printed_page": 53
+        },
+        {
+          "physical_page": 54,
+          "printed_page": 54
+        },
+        {
+          "physical_page": 55,
+          "printed_page": 55
+        },
+        {
+          "physical_page": 56,
+          "printed_page": 56
+        },
+        {
+          "physical_page": 57,
+          "printed_page": 57
+        },
+        {
+          "physical_page": 58,
+          "printed_page": 58
+        },
+        {
+          "physical_page": 59,
+          "printed_page": 59
+        },
+        {
+          "physical_page": 60,
+          "printed_page": 60
+        },
+        {
+          "physical_page": 61,
+          "printed_page": 61
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "2 Kompetenzen und Inhalte im Fach Englisch",
+        "printed_page_range": "12–61"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

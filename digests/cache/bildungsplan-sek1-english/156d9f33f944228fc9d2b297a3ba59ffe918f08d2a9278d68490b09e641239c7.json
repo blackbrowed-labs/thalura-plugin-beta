@@ -1,0 +1,232 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:156d9f33f944228fc9d2b297a3ba59ffe918f08d2a9278d68490b09e641239c7"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A1 (end of grade 6): students write very short, simple texts and messages about themselves and things of personal interest, often with templates and digital tools.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "einfache Texte und Mitteilungen über sich und Dinge",
+        "residual_flags": []
+      },
+      {
+        "content": "A1 competency: students write lists or label pictures (e.g. at the market, in the house).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "schreiben Listen oder beschriften Bilder",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 competency: students fill in simple (online) forms with personal details.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "füllen einfache (Online-)Formulare mit persönlichen",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 competency: students write short, simple notes and messages on everyday situations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "schreiben kurze, einfache Notizen und Mitteilungen",
+        "residual_flags": []
+      },
+      {
+        "content": "A2- (first general leaving qualification): students write short, simple texts on familiar everyday topics, also with digital tools.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "schreiben kurze, einfache Texte zu",
+        "residual_flags": []
+      },
+      {
+        "content": "A2+ (grade 8): students write and revise simple sentences, also joined with common connectors, about their own family, circumstances and school.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Konnektoren verbundene Sätze",
+        "residual_flags": []
+      },
+      {
+        "content": "B1- competency: students record heard, read and media-conveyed information in note form.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "halten gehörte, gelesene und",
+        "residual_flags": [
+          "page-multi-match:physical-28-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "B1- competency: students describe experiences, feelings and events in personal letters, emails and blogs.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "beschreiben in persönlichen",
+        "residual_flags": [
+          "page-multi-match:physical-28-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "B1- competency: students write application-oriented factual texts such as readers' letters, CV, application letter.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "tierte Sachtexte wie Leserbriefe,",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ (transition to Studienstufe): students compose and revise largely independently coherent texts on topics of personal and societal significance.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "beiten weitgehend selbstständig zusammenhängende",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ competency: students describe states of affairs in a linguistically differentiated way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "beschreiben Sachverhalte sprachlich differenziert,",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ competency: students summarise factual and literary texts (summary), analyse (analysis) and comment on them (comment).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "fassen Sachtexte und literarische Texte zusammen",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ competency: students write their own stories, poems, song lyrics, dramatic scenes (creative writing).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K5 Schreiben (Produktion)",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "schreiben eigene Geschichten, Gedichte, Liedtexte,",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K5 Schreiben (Produktion)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "K5 Schreiben (Produktion)",
+        "printed_page_range": "27–29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

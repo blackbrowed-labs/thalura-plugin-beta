@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:848b3216530b6307313098d92fda162d3664e99e87b7d52fa1f5ea8ce1cfc3eb"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Im Fach Bildende Kunst entsteht häufig etwas Neues und nicht Vorhersehbares mit divergierenden Ergebnissen; solche aus der Individualität resultierenden Unterschiede müssen wahrgenommen und reflektiert werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Mit Arbeiten, die im Kunstunterricht entstehen, wird häufig etwas Neues, unter Umständen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Klausuren in der Vorstufe der gymnasialen Oberstufe sind so zu gestalten, dass die Schülerinnen und Schüler auf die Aufgabenformate der Studienstufe vorbereitet werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die Klausuren in der Vorstufe der gymnasialen Oberstufe sind so zu gestalten, dass die Schü-",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Kunstunterricht ist vorwiegend praktisch orientiert; neben fertigen Produkten sind auch Zwischenergebnisse, Skizzen sowie mündliche und schriftliche Beiträge zu berücksichtigen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Der Unterricht im Fach Bildende Kunst ist vorwiegend praktisch orientiert. Somit kommt den ",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu den spezifischen Kriterien im Fach Bildende Kunst zählen Aufgeschlossenheit sowie Fertigkeiten und Kenntnisse im Umgang mit Material, Techniken und Methoden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Aufgeschlossenheit: Die Schülerinnen und Schüler lassen sich auf Unbekanntes – sei \nes z. B. eine Fragestellung, ein Phänomen oder ein Kunstwerk – ein, stellen weiterfüh-\nrende Fragen, erproben Materialien und Techniken und sind offen für die Entwicklung \nverschiedener Lösungen und Variationen im praktischen und theoretischen Bereich. \n• \nFertigkeiten, Kenntnisse: Die Schülerinnen und Schüler verfügen über die erwarteten \nFertigkeiten bezogen auf den Umgang mit Material, Techniken und Methoden sowie \nüber die erwarteten fachlichen Kenntnisse über Werke, Verfahren und Phänomene. \nSie beziehen spezifische Eigenschaften und Eigenarten von Medien und Materialien in \ndie praktische Arbeit und die Untersuchung von Werken und Phänomenen des Faches \nein. Im ökonomischen oder im experimentellen Sinne gehen sie angemessen mit Ma-\nterial und Zeit um. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Weitere Kriterien im Fach Bildende Kunst sind Einfalls- und Variantenreichtum, Selbstständigkeit, Eigenständigkeit sowie die Fähigkeit zur Präsentation, Kuration und Ausstellung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Einfalls- und Variantenreichtum: Die Schülerinnen und Schüler arbeiten einfalls- und \nvariantenreich zu der Themenstellung. Einfallsreichtum umfasst Kreativität, Originalität \nund Reichhaltigkeit von Ideen, die zu einer Fragestellung entwickelt werden. Er zeigt \nsich auch im selbstständigen, weiterführenden Einsatz vorhandener Kenntnisse und \nFertigkeiten. \n• \nSelbstständigkeit: Die Schülerinnen und Schüler entwickeln ihre Einfälle selbstständig, \nd. h. weitgehend ohne Anweisungen und lenkende Anstöße. Sie beschaffen Materia-\nlien stofflicher und theoretischer Natur sowie Informationen selbstständig und schätzen \nderen Eignung für das jeweilige Vorhaben sachgemäß ein. \n• \nEigenständigkeit: Die Schülerinnen und Schüler erforschen und nutzen die Spielräume \nvon Frage- und Aufgabenstellungen und die Ergebnisse beruhen auf eigenständigen, \noriginären Gedanken, Ideen und Lösungen. \n• \nFähigkeit zur Präsentation, Kuration und Ausstellung: Die Schülerinnen und Schüler \nbringen die praktischen und theoretischen Arbeitsergebnisse stimmig zur Geltung, z. B. \nin Form von Präsentationen, Ausstellungen und Führungen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Leistungsbewertung im Biologieunterricht bezieht sich auf alle vier Kompetenzbereiche der naturwissenschaftlichen Fächer.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Die Leistungsbewertung im Biologieunterricht bezieht sich auf alle vier Kompetenzbereiche ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7b) Bildende Kunst"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7b) Bildende Kunst",
+        "printed_page_range": "17–18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

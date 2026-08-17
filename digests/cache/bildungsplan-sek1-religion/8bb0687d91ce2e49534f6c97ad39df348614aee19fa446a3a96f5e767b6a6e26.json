@@ -1,0 +1,250 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8bb0687d91ce2e49534f6c97ad39df348614aee19fa446a3a96f5e767b6a6e26"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-religion",
+      "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitperspektive Wertebildung/Werteorientierung (W): Der Religionsunterricht greift menschliche Grundfragen nach Wuerde, Gerechtigkeit und Frieden sowie nach Kriterien und Normen fuer verantwortliches Handeln auf.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "greift die menschlichen Grundfragen nach Würde, nach Gerechtigkeit \nund Frieden, nach Kriterien und Normen für verantwortliches Handeln auf",
+        "residual_flags": []
+      },
+      {
+        "content": "Er vermittelt die notwendigen Dialog-, Urteils- und Orientierungskompetenzen, damit sich Schuelerinnen und Schueler selbststaendig und verantwortungsvoll bewegen koennen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "vermittelt die notwendigen Dialog-, Urteils- und \nOrientierungskompetenzen, um sich",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Religionsunterricht zielt auf eine lebensfreundliche, freiheitliche und menschenwuerdige Zukunft fuer alle in einer endlichen Welt.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der Religionsunterricht zielt auf \neine lebensfreundliche, freiheitliche und",
+        "residual_flags": []
+      },
+      {
+        "content": "Wertebildung setzt Selbstbewusstsein und Selbstreflexion voraus; der Religionsunterricht uebt in eine Kultur der Selbstwahrnehmung ein.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Wertebildung setzt Selbstbewusstsein und Selbstreflexion voraus. Der Religionsunterricht übt \nin eine Kultur der Selbstwahrnehmung",
+        "residual_flags": []
+      },
+      {
+        "content": "Wertebildung und Werteorientierung erfolgen im Religionsunterricht im Dialog.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Wertebildung und Werteorientierung erfolgen im Religionsunterricht im Dialog",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schuelerinnen und Schueler ueben eine Kultur des dialogischen Miteinanders ohne gruppenbezogene Menschenfeindlichkeit ein.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Kultur des dialogischen Miteinanders ohne gruppen-\nbezogene Menschenfeindlichkeit ein",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Lehrkraft lebt in exemplarischer Positionalitaet vor, wie individuelle Selbstbestimmung und religioese Ueberzeugung mit respektvoller Achtung anderer Lebens- und Denkweisen verbunden werden kann.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "lebt die Lehrkraft in „exemplarischer Positionalität“ vor, wie individuelle",
+        "residual_flags": []
+      },
+      {
+        "content": "Leitperspektive Bildung fuer nachhaltige Entwicklung (BNE): Die Schuelerinnen und Schueler suchen gemeinsam nach Orientierungen fuer ein zukunftsfaehiges und gerechtes Zusammenleben in unserer Welt.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "gemeinsam nach Orientierungen \nfür ein zukunftsfähiges und gerechtes Zusammenleben in unserer Welt",
+        "residual_flags": []
+      },
+      {
+        "content": "Sie koennen sich als Teil der Schoepfung und als Mitglied einer solidarischen Weltgemeinschaft erfahren, fuer die sie Verantwortung tragen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "als Mitglied einer solidarischen Weltgemeinschaft erfahren und reflek-\ntieren, für die sie Verantwortung tragen",
+        "residual_flags": []
+      },
+      {
+        "content": "Angesichts der Endlichkeit der Ressourcen und der Grenzen planetarer Tragfaehigkeit thematisiert der Religionsunterricht Grundhaltungen des Menschen gegenueber der Natur sowie Sinn und Ziel wirtschaftlichen und gesellschaftlichen Handelns.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Angesichts der Endlichkeit der Ressourcen und der Grenzen planetarer Tragfähigkeit thema-\ntisiert der Religionsunterricht Grundhaltungen des Menschen gegenüber der Natur sowie Sinn \nund Ziel wirtschaftlichen und gesellschaftlichen Handelns",
+        "residual_flags": []
+      },
+      {
+        "content": "Gerechtigkeit und Frieden sind wichtige Kategorien in allen Religionen und dienen als zentrale Leitbegriffe ethischen und theologischen Nachdenkens.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Gerechtigkeit und Frieden sind wichtige Kategorien in allen Religionen. Im Religionsunterricht \ndienen sie als zentrale Leitbegriffe ethischen und theologischen Nachdenkens",
+        "residual_flags": []
+      },
+      {
+        "content": "Leitperspektive Leben und Lernen in einer digital gepraegten Welt (D): Die Schuelerinnen und Schueler lernen mit digitalen Werkzeugen und Medien und reflektieren ihr Leben in einer digital gepraegten Welt.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "nen in ihm mit digitalen Werkzeugen und Medien und reflektieren ihr Leben in einer digital",
+        "residual_flags": []
+      },
+      {
+        "content": "Digital gestuetzte Lernformen erleichtern religionendifferenzierte Lernarrangements, die fuer den Kompetenzerwerb und die Umsetzung der Kerncurricula (insbesondere der B-Teile) unerlaesslich sind.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "erleichtern religionendifferenzierte Lernarrangements, \ndie für den Kompetenzerwerb und die Umsetzung der Kerncurricula (insbesondere der B",
+        "residual_flags": []
+      },
+      {
+        "content": "Digitale Medien koennen und sollen den direkten persoenlichen Dialog im Klassenzimmer nicht ersetzen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "und sollen jedoch den direkten persönlichen Dialog im Klassenzimmer nicht ersetzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Der besondere Fokus des Fachs im Bereich digitaler Bildung liegt im Analysieren und Reflektieren der Digitalitaet.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Der besondere Fokus des Fachs im Bereich digitaler Bildung liegt im Analysieren und Reflek",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-religion",
+        "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+        "printed_page_range": "8–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5678d0262e92b27007a07037f40470c0cadf3bb5fd05646decbda1c356db9ac6"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Each task forms a thematic unit and must be unambiguously worded.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Jede Aufgabe bildet eine thematische Einheit und muss eindeutig formuliert sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "It may be divided into sub-tasks; unconnected individual questions are not permitted.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Sie kann in Teilaufgaben gegliedert sein. Unzusammenhängende Einzelfragen dürfen nicht gestellt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Task type (a): tasks based on discursive-argumentative texts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "a) Aufgaben auf der Basis diskursiv-argumentativ formulierter Texte,",
+        "residual_flags": []
+      },
+      {
+        "content": "Working instructions such as explanations, suggestions and weighting information for sub-tasks are permitted.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Arbeitshinweise wie notwendige Erläuterungen, Bearbeitungsvorschläge und Angaben zur Gewichtung der Teilaufgaben sind zulässig.",
+        "residual_flags": []
+      },
+      {
+        "content": "Permitted aids are stated.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Zugelassene Hilfsmittel werden angegeben.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.2 Aufgabenarten"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "4.2 Aufgabenarten",
+        "printed_page_range": "10–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

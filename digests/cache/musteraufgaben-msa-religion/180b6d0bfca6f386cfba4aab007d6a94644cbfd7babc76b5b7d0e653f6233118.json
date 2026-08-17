@@ -1,0 +1,157 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:180b6d0bfca6f386cfba4aab007d6a94644cbfd7babc76b5b7d0e653f6233118"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Prüfungsunterlagen umfassen die Themenbekanntgabe, die zwei Wochen vor der Prüfung erfolgt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "Themenbekanntgabe (zwei Wochen vor der",
+        "residual_flags": []
+      },
+      {
+        "content": "Das gewählte Prüfungsformat ist eine Gruppenprüfung mit gemeinsamer Vorbereitungszeit und mit fachpraktischem Anteil.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "mit fachpraktischem Anteil",
+        "residual_flags": []
+      },
+      {
+        "content": "Die genaue Aufgabenstellung wird den Prüflingen erst am Prüfungstag ausgehändigt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Teil 1: Stellt mindestens drei zentrale Personen der Religionen eurer Wahl kurz dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Prüfungsaufgabe bezieht sich auf das Pflichtmodul 4.1 zu den zentralen Personen der Religionen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "bezieht sich auf das Pflichtmodul 4.1",
+        "residual_flags": []
+      },
+      {
+        "content": "Für jeden Prüfling beginnt das Prüfungsgespräch mit Fragen aus dem Anforderungsbereich I.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "mit Fragen aus dem Anforderungsbe",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Dokumentationsbogen ist ein Strukturvorschlag für das Protokoll der Prüfung.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 8,
+          "physical_page": 13
+        },
+        "cited_text": "Bei der nachfolgenden Tabelle handelt es sich um einen Strukturvorschlag",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 1
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 2
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 3
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I. Prüfungsunterlagen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "I. Prüfungsunterlagen",
+        "printed_page_range": "1–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

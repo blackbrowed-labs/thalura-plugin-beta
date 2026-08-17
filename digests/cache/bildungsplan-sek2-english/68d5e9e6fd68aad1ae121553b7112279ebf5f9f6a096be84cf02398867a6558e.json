@@ -1,0 +1,140 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:68d5e9e6fd68aad1ae121553b7112279ebf5f9f6a096be84cf02398867a6558e"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Developing linguistic and intercultural competence is a cross-cutting task of school and society, expressed particularly in language teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1 Lernen in den Neueren Fremdsprachen",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Entwicklung sprachlicher und interkultureller Kompetenz ist eine übergreifende Auf-\ngabe von Schule und Gesellschaft, was besonders im Sprachenunterricht zum Ausdruck \nkommt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural competence (interkulturelle Kompetenz) is central to foreign-language teaching and rests on the interplay of knowledge, attitudes and awareness.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1 Lernen in den Neueren Fremdsprachen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der interkulturellen Kompetenz kommt im Fremdsprachenunterricht eine zentrale Bedeutung \nzu. Sie beruht auf dem Zusammenwirken von Wissen, Einstellungen und Bewusstheit",
+        "residual_flags": []
+      },
+      {
+        "content": "Language awareness and language-learning competence act as transversal competences supporting learning across all competence areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1 Lernen in den Neueren Fremdsprachen",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Sprachbewusstheit und Sprachlernkompetenz unterstützen als transversale Kompetenzen \ndas erfolgreiche Erlernen der Fremdsprache in allen Kompetenzbereichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The foreign language is both the language of instruction and the working language.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1 Lernen in den Neueren Fremdsprachen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Fremdsprache ist Unterrichts- und Arbeitssprache.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students further develop listening/viewing, reading, speaking, writing and mediation (Sprachmittlung) skills.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1 Lernen in den Neueren Fremdsprachen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Schülerinnen und Schüler entwickeln ihre kommunikativen Fähigkeiten im Hör-(Seh-)ver-\nstehen, im Leseverstehen, im Sprechen, Schreiben und in der Sprachmittlung weiter",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Lernen in den Neueren Fremdsprachen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "1 Lernen in den Neueren Fremdsprachen",
+        "printed_page_range": "4–10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

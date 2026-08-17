@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f7a20e4b4c37d7731ac4cafa15280f38f7e85feb4c95e4afab3e03c0c122775f"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The requirement areas at basic and raised level in the Abitur exam differ in type and complexity and in the degree of autonomy of the required performance; they demand different working methods.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Anforderungsbereiche auf grundlegendem und erhöhtem Niveau in der Abiturprü-\nfung unterscheiden sich nach der Art und Komplexität sowie dem Grad der Selbststän-\ndigkeit der geforderten Leistung; sie verlangen unterschiedliche Arbeitsweisen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The focus of the requirements in the Abitur exam lies in requirement area II.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Schwerpunkt der Anforderungen liegt in der Abiturprüfung im Anforderungsbereich II.",
+        "residual_flags": []
+      },
+      {
+        "content": "Three requirement areas can be described for both levels, to increase transparency and comparability.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Zur Erhöhung der Transparenz und Vergleichbarkeit lassen sich für beide Niveaus drei \nAnforderungsbereiche beschreiben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Footnote 1: English may only be newly taken up in the year before the Studienstufe if the student was never taught English before in their educational path.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "1 Englisch kann im Schuljahr vor Beginn der Studienstufe nur dann neu aufgenommen werden, wenn der \nSchüler oder die Schülerin zuvor zu keinem Zeitpunkt in seinem bzw. ihrem Bildungsgang im Fach Eng-\nlisch unterrichtet wurde.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3.1 Allgemeine Hinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "3.1 Allgemeine Hinweise",
+        "printed_page_range": "5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

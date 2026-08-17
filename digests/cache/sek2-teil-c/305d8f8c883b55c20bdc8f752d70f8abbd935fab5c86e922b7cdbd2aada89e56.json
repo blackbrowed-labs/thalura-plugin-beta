@@ -1,0 +1,92 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:305d8f8c883b55c20bdc8f752d70f8abbd935fab5c86e922b7cdbd2aada89e56"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "For written examinations, tasks, dates, grading rubrics (Erwartungshorizonte) and correction/grading specifications are set or approved by the competent authority.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "5 Prüfungen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Für schriftliche Prüfungen werden die Aufgaben und Termine sowie die Erwartungshorizonte \nund Vorgaben für die Korrektur und Bewertung von der zuständigen Behörde festgesetzt bzw. \ngenehmigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guidance and rules for examination papers are to be taken from the ordinances, directives and official circulars.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "5 Prüfungen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Hinweise und Reglungen für Prüfungsarbeiten bzw. -klausuren sind den Verordnungen, \nRichtlinien und behördlichen Rundschreiben zu entnehmen.",
+        "residual_flags": [
+          "source anomaly preserved: 'Reglungen' (typo for 'Regelungen')"
+        ]
+      },
+      {
+        "content": "The principles and criteria of this Teil C apply as a rule to oral and practical examinations as well.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "5 Prüfungen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die im vorliegenden Teil C des Bildungsplans formulierten Grundsätze und Kriterien sind auf \nmündliche und praktische Prüfungen i. d. R. ebenfalls anzuwenden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5 Prüfungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "5 Prüfungen",
+        "printed_page_range": "13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

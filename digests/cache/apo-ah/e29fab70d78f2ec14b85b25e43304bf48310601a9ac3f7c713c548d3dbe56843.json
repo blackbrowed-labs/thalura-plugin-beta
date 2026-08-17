@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e29fab70d78f2ec14b85b25e43304bf48310601a9ac3f7c713c548d3dbe56843"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Whoever does not reach the Allgemeine Hochschulreife after admission to the written examination may repeat the third and fourth semester of the Studienstufe including the Abitur examination.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 31 Wiederholung der Abiturprüfung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Wer nach der Zulassung zur schriftlichen Prüfung die allgemeine Hochschulreife \nnicht erreicht, ohne dass ein Fall des § 28 vorliegt, kann das dritte und vierte Semester \nder Studienstufe einschließlich der Abiturprüfung wiederholen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The admission requirements must be met again, and the Abitur examination can only be repeated as a whole.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 31 Wiederholung der Abiturprüfung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Der Prüfling muss die Voraussetzungen für die Zulassung zur schriftlichen und zur \nmündlichen Prüfung erneut erfüllen. Die Abiturprüfung kann nur im Ganzen wiederholt \nwerden.",
+        "residual_flags": []
+      },
+      {
+        "content": "A repeat is permitted only once; whoever still fails to reach the required total qualification must leave the school.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 31 Wiederholung der Abiturprüfung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Eine Wiederholung ist nur einmal zulässig. Wer nach der Wiederholung die erforder-\nliche Gesamtqualifikation nicht erreicht hat, muss die Schule verlassen und wird in keine \nandere gymnasiale Oberstufe aufgenommen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A passed examination cannot be repeated.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 31 Wiederholung der Abiturprüfung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Eine bestandene Prüfung kann nicht wiederholt werden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 31 Wiederholung der Abiturprüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 31 Wiederholung der Abiturprüfung",
+        "printed_page_range": "26–27"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

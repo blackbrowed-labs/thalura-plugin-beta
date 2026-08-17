@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c2cea706fc24cf7ccaf0235324c265bfabe8414e19d151e4f526d80389963c01"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The promotion decision is based on the grades and points of the Vorstufe year certificate (Jahreszeugnis).",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 37 Versetzung in die Studienstufe, mittlerer Schulabschluss",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Grundlage der Entscheidung über die Versetzung in die Studienstufe sind die Noten \nbeziehungsweise Punkte des Jahreszeugnisses der Vorstufe.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are promoted if they achieved at least sufficient performance (4 points) in all subjects.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 37 Versetzung in die Studienstufe, mittlerer Schulabschluss",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Schülerinnen oder Schüler \nwerden versetzt, wenn sie in allen Fächern mindestens ausreichende Leistungen (4 \nPunkte) erbracht haben",
+        "residual_flags": []
+      },
+      {
+        "content": "Poor performance (3, 2 or 1 point) in one subject is compensated by at least good performance (10 points) in another subject or satisfactory performance in two others.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 37 Versetzung in die Studienstufe, mittlerer Schulabschluss",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "mangelhafte Leistungen (3 oder 2 Punkte oder 1 Punkt) in einem Fach \ndurch mindestens gute Leistungen (10 Punkte) in einem anderen Fach oder \ndurch befriedigende Leistungen (9, 8 oder 7 Punkte) in zwei anderen \nFächern",
+        "residual_flags": []
+      },
+      {
+        "content": "Compensation is excluded in case of insufficient performance (0 points) in one subject.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 37 Versetzung in die Studienstufe, mittlerer Schulabschluss",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "bei ungenügenden Leistungen (0 Punkte) in einem Fach",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 37 Versetzung in die Studienstufe, mittlerer Schulabschluss"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 37 Versetzung in die Studienstufe, mittlerer Schulabschluss",
+        "printed_page_range": "33–34"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

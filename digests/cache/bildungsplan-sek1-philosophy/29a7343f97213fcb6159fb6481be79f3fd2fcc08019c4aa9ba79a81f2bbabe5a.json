@@ -1,0 +1,118 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:29a7343f97213fcb6159fb6481be79f3fd2fcc08019c4aa9ba79a81f2bbabe5a"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken of elective module 9 (grade 10, topic area 'Zukunftsfragen'): from the assumption that we are free in our will it follows that we bear responsibility for our actions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 9: Verantwortung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Aus der Annahme, dass wir als Menschen in unserem Willen frei \nsind, ergibt sich, dass wir Verantwortung für unser Handeln tragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The module examines how far this responsibility reaches and whether it also holds towards animals, nature and people of future generations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 9: Verantwortung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "In diesem Modul wird untersucht, wie weit diese Verantwortung reicht \nund ob sie auch gegenüber Tieren, der Natur und Menschen zukünf-\ntiger Generationen gilt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Contents of WM9: freedom as a precondition of responsible action; responsibility for humans, animals and nature; responsibility for future generations in the context of our way of life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 9: Verantwortung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "• Freiheit als Voraussetzung verantwortlichen Handelns \n• Verantwortung für Menschen, Tiere und Natur \n• Verantwortung für zukünftige Generationen im Kontext unserer \nLebensführung",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': taking responsibility for other people, animals, nature and future generations requires the recognition of values.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 9: Verantwortung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren, inwiefern die Übernahme \nvon Verantwortung für andere Menschen, Tiere, Natur und zukünf-\ntige Generationen die Anerkennung von Werten erfordert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'D' (digitalisation): students also reflect on their responsibility in the digital sphere.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 9: Verantwortung",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren auch ihre Verantwortung \nim digitalen Raum",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Wahlmodul 9: Verantwortung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Wahlmodul 9: Verantwortung",
+        "printed_page_range": "32"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

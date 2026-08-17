@@ -1,0 +1,155 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:d90af1943f78c60682012d7aeb3555fb32cb7b2e01221203a8fbbb4e8f675357"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Classical conditioning (Pavlov, Watson) is a content of this module.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.1 Lernen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Klassische Konditionierung (Pawlow, Watson)",
+        "residual_flags": []
+      },
+      {
+        "content": "Conditioning of the 1st and 2nd order is covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.1 Lernen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Konditionierung 1. und 2. Ordnung",
+        "residual_flags": []
+      },
+      {
+        "content": "Instrumental conditioning (Thorndike) is an eA content.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.1 Lernen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Instrumentelle Konditionierung (Thorndike)",
+        "residual_flags": []
+      },
+      {
+        "content": "Operant conditioning (Skinner) is covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.1 Lernen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Operante Konditionierung (Skinner)",
+        "residual_flags": []
+      },
+      {
+        "content": "A typical lab experiment is Little Albert by Watson and Rayner.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.1 Lernen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Der kleine Albert von Watson und Rayner",
+        "residual_flags": []
+      },
+      {
+        "content": "Skinner's puzzle-box is a typical lab experiment.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.1 Lernen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Puzzle-Box von Skinner",
+        "residual_flags": []
+      },
+      {
+        "content": "Everyday relevance of learning theories includes advertising and upbringing.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.1 Lernen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Rolle der Lerntheorien bzgl. z. B. Werbung, Erziehung",
+        "residual_flags": []
+      },
+      {
+        "content": "Media education relates to influence through advertising.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.1 Lernen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Medienerziehung: Beeinflussung durch Werbung",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S1.1 Lernen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S1.1 Lernen",
+        "printed_page_range": "15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

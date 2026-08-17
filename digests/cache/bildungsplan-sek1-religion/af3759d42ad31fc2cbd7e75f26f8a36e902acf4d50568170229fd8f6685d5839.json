@@ -1,0 +1,380 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:af3759d42ad31fc2cbd7e75f26f8a36e902acf4d50568170229fd8f6685d5839"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-religion",
+      "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Cross-curricular competences form the basis for successful learning development and for the acquisition of subject competences; they are relevant across subjects and of central importance for coping with different demands and problems.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Überfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den \nErwerb fachlicher Kompetenzen. Sie sind fächerübergreifend relevant und bei der Bewältigung \nunterschiedlicher Anforderungen und Probleme von zentraler Bedeutung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Conveying cross-curricular competences is the joint task and joint goal of all school subjects as well as of school life as a whole.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Vermittlung \nüberfachlicher Kompetenzen ist somit die gemeinsame Aufgabe und gemeinsames Ziel aller \nUnterrichtsfächer sowie des gesamten Schullebens.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competences are assigned to four areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die überfachlichen Kompetenzen lassen \nsich vier Bereichen zuordnen:",
+        "residual_flags": []
+      },
+      {
+        "content": "Personal competences comprise attitudes and stances towards oneself; pupils are to develop trust in their own abilities and in the effectiveness of their own action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegen-\nüber. Die Schülerinnen und Schüler sollen Vertrauen in die eigenen Fähigkeiten und \ndie Wirksamkeit des eigenen Handelns entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Pupils are to learn to assess their own abilities realistically, to reflect on their behaviour, to deal appropriately with criticism, and to represent their own opinions and take decisions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Sie sollen lernen, die eigenen Fä-\nhigkeiten realistisch einzuschätzen, ihr Verhalten zu reflektieren und mit Kritik ange-\nmessen umzugehen. Ebenso sollen sie lernen, eigene Meinungen zu vertreten und \nEntscheidungen zu treffen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivational attitudes describe the ability and willingness to commit oneself to things and to become engaged.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für \nDinge einzusetzen und zu engagieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Pupils are to learn to show initiative and to work persistently and with concentration, developing interests and experiencing that goals can be reached through effort.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Schülerinnen und Schüler sollen lernen, \nInitiative zu zeigen und ausdauernd und konzentriert zu arbeiten. Dabei sollen sie In-\nteressen entwickeln und die Erfahrung machen, dass sich Ziele durch Anstrengung \nerreichen lassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning-method competences form the basis for a conscious acquisition of knowledge and competences and thus for goal-directed, self-regulated learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Lernmethodische Kompetenzen bilden die Grundlage für einen bewussten Erwerb \nvon Wissen und Kompetenzen und damit für ein zielgerichtetes, selbstgesteuertes Ler-\nnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Pupils are to learn to use learning strategies effectively and media sensibly, and to develop the ability to solve different kinds of problems appropriately.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Schülerinnen und Schüler sollen lernen, Lernstrategien effektiv einzusetzen \nund Medien sinnvoll zu nutzen. Sie sollen die Fähigkeit entwickeln, unterschiedliche \nArten von Problemen in angemessener Weise zu lösen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Social competences are needed in order to deal and cooperate appropriately with other people; they include cooperating successfully, behaving constructively in conflicts, and showing tolerance, empathy and respect towards others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen um-\ngehen und zusammenarbeiten zu können. Dazu zählen die Fähigkeiten, erfolgreich zu \nkooperieren, sich in Konflikten konstruktiv zu verhalten sowie Toleranz, Empathie und \nRespekt gegenüber anderen zu zeigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competences are to be understood across year groups: unlike the subject competences, they are not set out differentiated by year level in the framework plans.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die in der nachfolgenden Tabelle genannten überfachlichen Kompetenzen sind jahrgangs-\nübergreifend zu verstehen, d. h., sie werden anders als die fachlichen Kompetenzen in den \nRahmenplänen nicht für unterschiedliche Jahrgangsstufen differenziert ausgewiesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Pupils' development in the described areas is continuously accompanied and fostered by the teachers.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Ent-\nwicklung der Schülerinnen und Schüler in den beschriebenen Bereichen wird von den Lehr-\nkräften kontinuierlich begleitet und gefördert.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competences must be taken into account when developing the school-internal curriculum.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die überfachlichen Kompetenzen sind bei der \nErarbeitung des schulinternen Curriculums zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under personal competences, self-efficacy means the pupil trusts their own abilities and believes in the effectiveness of their own action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Selbstwirksamkeit \n… hat Vertrauen in die eigenen Fähigkeiten und \nglaubt an die Wirksamkeit des eigenen Handelns",
+        "residual_flags": []
+      },
+      {
+        "content": "Self-assertion means the pupil develops an opinion of their own, takes their own decisions and represents them towards others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Selbstbehauptung \n… entwickelt eine eigene Meinung, trifft eigene Ent-\nscheidungen und vertritt diese gegenüber anderen",
+        "residual_flags": []
+      },
+      {
+        "content": "Self-reflection means the pupil assesses their own abilities realistically and uses their own potential.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Selbstreflexion \n… schätzt eigene Fähigkeiten realistisch ein und nutzt \neigene Potenziale",
+        "residual_flags": []
+      },
+      {
+        "content": "Under learning-method competences, learning strategies means the pupil proceeds in a structured and systematic way and plans and organises their own work processes.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Lernstrategien \n… geht beim Lernen strukturiert und systematisch vor, \nplant und organisiert eigene Arbeitsprozesse",
+        "residual_flags": []
+      },
+      {
+        "content": "Problem-solving ability means the pupil knows and uses different ways of solving problems.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Problemlösefähigkeit \n… kennt und nutzt unterschiedliche Wege, um Prob-\nleme zu lösen",
+        "residual_flags": []
+      },
+      {
+        "content": "Media competence means the pupil can collect, process, evaluate and present information.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Medienkompetenz \n… kann Informationen sammeln, aufbereiten, bewer-\nten und präsentieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Under motivational attitudes, commitment means the pupil stands up for things that matter to them and shows effort and initiative.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Engagement \n… setzt sich für Dinge ein, die ihr/ihm wichtig sind, \nzeigt Einsatz und Initiative",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning motivation means the pupil is motivated to learn new things and to understand, and makes an effort in order to improve.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Lernmotivation \n… ist motiviert, Neues zu lernen und Dinge zu verste-\nhen, strengt sich an, um sich zu verbessern",
+        "residual_flags": []
+      },
+      {
+        "content": "Perseverance means the pupil works with stamina and concentration and does not give up even when facing difficulties.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Ausdauer \n… arbeitet ausdauernd und konzentriert, gibt auch bei \nSchwierigkeiten nicht auf",
+        "residual_flags": []
+      },
+      {
+        "content": "Under social competences, the ability to cooperate means the pupil works well with others and takes on tasks and responsibility in groups.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Kooperationsfähigkeit \n… arbeitet gut mit anderen zusammen, übernimmt \nAufgaben und Verantwortung in Gruppen",
+        "residual_flags": []
+      },
+      {
+        "content": "Constructive handling of conflicts means the pupil behaves appropriately in conflicts, understands the viewpoints of others and responds to them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Konstruktiver Umgang mit Konflikten \n… verhält sich in Konflikten angemessen, versteht die \nSichtweisen anderer und geht darauf ein",
+        "residual_flags": []
+      },
+      {
+        "content": "Constructive handling of diversity means the pupil shows tolerance and respect towards others and deals appropriately with contradictions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Konstruktiver Umgang mit Vielfalt \n… zeigt Toleranz und Respekt gegenüber anderen \nund geht angemessen mit Widersprüchen um",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Überfachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-religion",
+        "section_anchor": "2.1 Überfachliche Kompetenzen",
+        "printed_page_range": "10–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

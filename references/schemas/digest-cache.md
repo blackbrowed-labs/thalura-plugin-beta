@@ -62,14 +62,30 @@ Each cache entry is a JSON object. The canonical field names and their types are
 | `digest` | `object` | The regulation firewall digest itself — the result of the heavy read. |
 | `digest.claims` | `object[]` | Extracted regulation claims, each with a full citation and the verbatim cited text. |
 | `digest.claims[].content` | `string` | The claim derived from the regulation passage. |
-| `digest.claims[].citation` | `object` | Full citation: `document_id`, `document_title`, `source_pdf_sha256`, `section_anchor`, `printed_page`, `physical_page`. Joins back to the page-map sidecar via `(source_pdf_sha256, index_version)`. |
+| `digest.claims[].citation` | `object` | Full citation: `document_id`, `document_title`, `source_pdf_sha256`, `section_anchor`, `printed_page`, `physical_page`, plus the optional `printed_page_end`. Joins back to the page-map sidecar via `(source_pdf_sha256, index_version)`. The page fields describe **this claim's own quotation**, not the section it was read from — see "Per-claim page semantics" below. |
+| `digest.claims[].citation.printed_page` | `integer` | The printed page number of the page on which this claim's `cited_text` **begins** — the number a reader sees on that page. Always read from the page-map's `page_table` for that claim's own physical page; never derived by arithmetic and never inherited from the section's first page. |
+| `digest.claims[].citation.physical_page` | `integer` | The page of the source PDF, in PDF page order, on which this claim's `cited_text` **begins** — the same page `printed_page` names. Internal join and audit field; it builds the deep-link page anchor and never surfaces as visible text. |
+| `digest.claims[].citation.printed_page_end` | `integer` (optional) | Present **only** when the quotation continues past the end of the page it begins on: the printed number — again read from the `page_table` — of the following page it runs onto. A consumer renders the pair as a **continuation**, which is a distinct form from a cited span — see `${CLAUDE_PLUGIN_ROOT}/references/regulation-naming.md` → *Teacher-Facing Citation Format*. Its absence means the quotation sits entirely on `printed_page`, so an entry that omits the field is complete, not deficient. |
 | `digest.claims[].cited_text` | `string` | The verbatim regulation text the claim is derived from. |
-| `digest.claims[].residual_flags` | `string[]` | Any quality-gate flags raised during extraction that were not fully resolved (e.g. an unverified diagram). Empty array means no residual flags. |
+| `digest.claims[].residual_flags` | `string[]` | Quality-gate notes recorded during extraction. Two kinds share the array: a gate that was **not fully resolved** (e.g. an unverified diagram), and a **provenance note** — something correct but noteworthy that a later reader should otherwise have to re-derive (e.g. a quotation occurring verbatim on several pages of its section, where the earliest of them is the one cited). A flag is therefore not by itself a defect marker. Empty array means neither kind applies. |
 | `digest.page_map_fragment` | `object` | A subset of the page-map covering the sections the digest was built from. Shape mirrors the `page-map.md` schema: `{ "page_table": [], "sections": [] }`. Carried forward so downstream tasks can resolve printed → physical pages without re-reading the full page-map. |
 | `digest.section_pointers` | `object[]` | Registry-style pointers to the sections the digest covers: `document_id`, `section_anchor`, `printed_page_range`. Carries **one pointer per distinct `section_anchor`** present in `claims[]` — every section the rendered range covers, not only the dispatched one — so a lookup can recognise a section is already covered by this entry (a coverage check) without re-parsing the claims. Lets downstream tasks identify the source range without re-parsing the digest claims. |
 | `digest.hierarchy` | `object` | The document-precedence order that was active when the digest was built, preserved in the cache so it is not recomputed on reuse. `order` is an array of generic descriptors (e.g. `["curriculum-framework", "abitur-supplement", "school-internal-curriculum"]`); `note` records that precedence is preserved, not flattened. |
 
 **Hierarchy precedence note (state-agnostic):** the framework document type outranks the abitur supplement for the upper-secondary level, which in turn outranks the school-internal curriculum. Generic descriptor names are used in `hierarchy.order` — no issuer or state name is encoded.
+
+### Per-claim page semantics
+
+A claim's page fields identify **the page its own `cited_text` begins on**. They are not the section's first page, and they are not arrived at by arithmetic:
+
+- **`physical_page`** is the page of the source PDF where the quoted text starts.
+- **`printed_page`** is that same page's printed number, **read from the page-map's `page_table`**. Printed numbering is not reliably an offset of the physical order — a document may restart, duplicate, or omit printed numbers — so the number is always looked up for the claim's own physical page, never computed from it.
+- A quotation may run past the end of the page it starts on. It is still cited on the page it **begins** on, so a reader who opens the named page finds the passage starting there; the continuation is recorded in the optional **`printed_page_end`**, resolved in the same direction — the following physical page first, then its printed number looked up in the `page_table`. The reverse direction (printed → physical) is never used: printed numbers are not unique across a document.
+- `printed_page_end` appears only in that case. The example above therefore carries no such field: it shows a claim whose quotation sits on a single page, which is the ordinary case.
+
+Both ways an entry can be produced emit this same shape — a read that opens the pages resolves the page while reading it, and a pre-generated entry resolves it by locating the claim's `cited_text` in the source PDF's per-page text. A consumer never has to know which produced the entry, and one produced before `printed_page_end` existed stays valid unchanged.
+
+**The page fields are required, and the requirement is enforced in both directions.** The cache helper's schema check refuses a claim whose `printed_page` or `physical_page` is missing, null, non-integer or below `1` — and `printed_page_end`, when it is present, on the same terms. One check governs both directions: **writing** such an entry fails loudly, naming the offending field, and stores nothing; an entry **already stored** in that shape reads as a **miss**, so the section is re-derived on the next read instead of being served. That is a floor on **shape**, never on truth — it guarantees a claim names a place in a document, not that the place it names is the right one.
 
 ---
 
@@ -119,6 +135,16 @@ The version stamp is layered **on top of** the key: the key selects an entry; th
 
 **SiC changes** are caught at the key level via `sic_fingerprint`, not by the version stamp. A changed SiC PDF set changes the fingerprint, which selects a different (or absent) cache entry, triggering a full re-extraction.
 
+### Caller-initiated re-read — the third route to a rebuild
+
+The key selects an entry and the version stamp decides whether it is still valid. Both are properties of the **entry**; neither can see the **request**. An entry can therefore be current by every stamp the system tracks and still be the wrong answer to the question asked — it may cover a section the request did not want, or the right section without the passage that would settle it. No freshness dimension detects that, because nothing is stale.
+
+A caller that has received such an entry may therefore **request an invalidating read**: a dispatch-level override that suppresses the lookup, reads the section from the source, and **overwrites the entry in place** through the ordinary write path. Three properties define it:
+
+- **Caller-initiated and exceptional.** The lookup is authoritative by default; the override exists for the case a consumer has inspected the served digest and judged it insufficient. A request that does not ask for it behaves exactly as it always has.
+- **It rebuilds the section it reads, not the section it was served.** Where the two coincide — a correctly-selected but incomplete entry — the overwrite repairs it and the repair is permanent. Where they differ — a selection that resolved to the wrong section — the read produces the *requested* section's entry and leaves the wrongly-selected one untouched, so the override is a per-request bypass there rather than a repair.
+- **It is not eviction.** Nothing is deleted; a rebuilt entry replaces its predecessor at the same key by the same atomic write any read uses. The leave-and-gate policy below is unchanged.
+
 ---
 
 ## Operator-cache entry
@@ -139,7 +165,7 @@ The operator table is the highest-reuse, Private-Use-Area-glyph-sensitive (PUA-g
 
 **Leave-and-gate — no active eviction in v1** (ruling 2).
 
-Stale entries are never deleted proactively. They are invalidated on read via the version-stamp gate: a stale entry is never served — it triggers a re-extraction that overwrites it. The gate is the safety net; eviction is not the safety net.
+Stale entries are never deleted proactively. They are invalidated on read via the version-stamp gate: a stale entry is never served — it triggers a re-extraction that overwrites it. The gate is the safety net; eviction is not the safety net. The caller-initiated re-read described above is the same shape and no exception to this ruling: it overwrites one entry in place and deletes nothing.
 
 Rationale: active eviction adds complexity (scheduling, startup cost, partial-eviction races) with no correctness benefit, because the gate already guarantees a stale entry is never served. Disk growth from accumulating superseded entries is expected to be negligible for the volume of regulation documents in scope.
 

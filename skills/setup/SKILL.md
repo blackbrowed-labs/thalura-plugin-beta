@@ -543,6 +543,18 @@ Copy the exam format template to the user-defined format directory:
 
 This directory is where teachers can create custom exam format definitions. User-defined formats with the same filename as a plugin-bundled format take full precedence (no partial merge).
 
+### 6.1c Pre-Read Regulation Digests (Two-Tier System)
+
+Seed the pre-read regulation digests that ship with the plugin into the workspace cache, so the first planning request finds the covered passages already read instead of reading every PDF from scratch: run `${CLAUDE_PLUGIN_ROOT}/scripts/seed-digest-cache.sh <PLUGIN_ROOT> <WORKSPACE_ROOT>` (both roots already resolved by the setup preamble — passed in, never re-resolved here).
+
+The script copies `${CLAUDE_PLUGIN_ROOT}/digests/cache/{document_id}/` → `<WORKSPACE_ROOT>/data/.cache/{document_id}/`, one entry file at a time:
+- If no corresponding entry exists in `<WORKSPACE_ROOT>/data/.cache/{document_id}/` → copy it.
+- If the entry already exists → **skip** (same two-tier rule as config — an entry the runtime itself wrote is always the newer one and is never overwritten).
+
+It creates `<WORKSPACE_ROOT>/data/.cache/` and the per-document directories as needed, and prints one `seeded={document_id} entries={n}` line per document that received entries — nothing for a document that was already complete, so a re-run is silent.
+
+Seeding is an **optimization, never a precondition**: the script is fail-open and exits 0 on every failure path (no digests in this install, an unwritable cache root). A workspace that was not seeded is fully correct — Thalura simply reads the regulation itself the first time it needs it. Do not report a failed seed to the teacher and do not retry it.
+
 ### 6.2 School Config
 
 Write `<WORKSPACE_ROOT>/data/profiles/school-config.json`:

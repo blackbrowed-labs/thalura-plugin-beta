@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1054248e2d41e9d03c4758bf54854dafa0dd6366449a5c926d832a35de97d60e"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Physik — achievement assessment covers all four competency areas of the science subjects: Sachkompetenz, Erkenntnisgewinnungskompetenz, Kommunikationskompetenz, Bewertungskompetenz.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7k) Physik",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Leistungsbewertung im Physikunterricht bezieht sich auf alle vier Kompetenzbereiche der \nnaturwissenschaftlichen Fächer: \n• \nSachkompetenz \n• \nErkenntnisgewinnungskompetenz \n• \nKommunikationskompetenz  \n• \nBewertungskompetenz.",
+        "residual_flags": []
+      },
+      {
+        "content": "Tasks relating to experiments are particularly suited to achievement assessment in Physics.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7k) Physik",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Experimente beziehen, sind zur Leistungsbewertung im Phy-\nsikunterricht besonders geeignet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Specific Physics criteria (part 1): handling and transferring the basic concepts of physics; describing and explaining physical phenomena appropriately and for the audience; formulating and testing questions, hypotheses and theoretical models; planning, carrying out and recording investigations for exploration (exploratory experimenting) and explanation (explanatory experimenting).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7k) Physik",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Zu den spezifischen Bewertungskriterien im Fach Physik gehören: \n• \nUmgang mit den Basiskonzepten der Physik und deren Transfer \n• \nBeschreibung und Erläuterung physikalischer Phänomene (sachgerecht und adressa-\ntengemäß)  \n• \nFormulierung und Prüfung von Fragestellungen, Hypothesen und theoretischen Mo-\ndellen \n• \nPlanung, Durchführung und Protokollierung von Untersuchungen zwecks Erkundung \n(exploratives Experimentieren) und Erklärung (explanatives Experimentieren)",
+        "residual_flags": []
+      },
+      {
+        "content": "Specific Physics criteria (part 2): preparing and presenting data plus evaluating, interpreting and estimating error; judging the suitability of investigations and experiments; testing data series for trends and regularities and evaluating data to generate hypotheses; applying physical working techniques (measuring physical quantities); mathematising and calculating physical relationships; predicting and justifying an event or result on the basis of a theoretical model.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7k) Physik",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "• \nAufbereitung und Darstellung von Daten sowie deren Auswertung, Interpretation und \nFehlerabschätzung \n• \nBeurteilung der Eignung von Untersuchungen und Experimenten \n• \nPrüfen von Datenreihen auf Trends und Gesetzmäßigkeiten und Auswertung von Da-\nten zur Hypothesengenerierung \n• \nAnwendung fachphysikalischer Arbeitstechniken (u. a. Messung physikalischer Grö-\nßen) \n• \nMathematisierung und Berechnung physikalischer Zusammenhänge \n• \nVorhersage und Begründung eines Ereignisses oder Ergebnisses aufgrund eines the-\noretischen Modells",
+        "residual_flags": []
+      },
+      {
+        "content": "Final Physics criterion: deductive derivation of a known or new relationship by means of theoretical considerations.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7k) Physik",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "• \ndeduktive Herleitung eines bekannten oder neuen Zusammenhangs mithilfe theoreti-\nscher Überlegungen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7k) Physik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7k) Physik",
+        "printed_page_range": "27–28"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

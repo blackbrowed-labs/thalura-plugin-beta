@@ -1,0 +1,118 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1efb9d9aa0850036b185f8682b05a10ea4a29dfac6982f4f5350e5934b945d3b"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Rationale: digitality has captured all areas of life; internet and audiovisual media offer an almost unmanageable supply of information, knowledge and entertainment.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 6 The Media",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Die Digitalität hat in den letzten Jahren alle Lebensbereiche erfasst: Das \nInternet und audiovisuelle Medien bieten ein sehr großes, fast unüber-\nschaubares Angebot an Informationen, Wissen und Unterhaltung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students reflect on the role of media in their own world and in social, political and economic contexts, and on causes and consequences of media change.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 6 The Media",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "In der \nBeschäftigung mit dem Unterrichtsthema The Media erhalten die  Schü-\nlerinnen und Schüler Gelegenheit, die Rolle von Medien in ihrer eigenen \nLebenswelt, aber auch in vielfältigen gesellschaftlichen, politischen oder \nwirtschaftlichen Zusammenhängen zu reflektieren",
+        "residual_flags": [
+          "source-whitespace-verbatim: original has a double space in 'erhalten die  Schülerinnen'"
+        ]
+      },
+      {
+        "content": "Links arise in particular to the topic Science and Technology.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 6 The Media",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Anknüpfungspunkte ergeben sich insbesondere \nzum Thema Science and Technology.",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: the changing media landscape — traditional and modern media, the digital revolution, the growing significance of media literacy.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 6 The Media",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "The changing media landscape: traditional and modern media \n•  the digital revolution \n•  the growing significance of media literacy",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: manipulation (fake news and echo chambers, mutual influence of politics and media, media-generated stereotypes, advertising and influencer marketing).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 6 The Media",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "manipulation (e. g. fake news and echo chambers, mutual exertion \nof influence between politics and media, media-generated stereo-\ntypes, advertising and influencer marketing)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S1–4 6 The Media"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "S1–4 6 The Media",
+        "printed_page_range": "31"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

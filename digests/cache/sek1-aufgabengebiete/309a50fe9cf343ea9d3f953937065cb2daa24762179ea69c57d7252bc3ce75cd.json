@@ -1,0 +1,411 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:309a50fe9cf343ea9d3f953937065cb2daa24762179ea69c57d7252bc3ce75cd"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The aim of intercultural education is acquiring competences to orient oneself in a diversity-shaped society.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Ziel des Aufgabengebietes Interkulturelle Erziehung ist der Erwerb von Kompetenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Diversity-aware and discrimination-critical teaching conveys social diversity as normal and enriching.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Diversitätsbewusster und diskriminierungskritischer Unterricht vermittelt gesellschaftliche",
+        "residual_flags": []
+      },
+      {
+        "content": "Diversity awareness: students learn to perceive differences in behaviour and opinion.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Diversitätsbewusstheit: Die Schülerinnen und Schüler lernen, Unterschiede in Verhalten und",
+        "residual_flags": []
+      },
+      {
+        "content": "Identity and belonging: students are supported in developing their own identity.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Identität und Zugehörigkeit: Die Schülerinnen und Schüler werden in der Entwicklung ihrer",
+        "residual_flags": []
+      },
+      {
+        "content": "Disadvantage and empowerment: students develop an understanding of diversity, inequality and power relations.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Benachteiligung und Empowerment: Die Schülerinnen und Schüler entwickeln ein",
+        "residual_flags": []
+      },
+      {
+        "content": "The selection of teaching material, representing all students, has particular importance.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "besonderen Stellenwert hat die Auswahl des Unterrichtsmaterials",
+        "residual_flags": []
+      },
+      {
+        "content": "Students recognise diversity inside and outside the school community from their own experience.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "erkennen die Vielfalt innerhalb und außerhalb der Schulgemeinschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Students recognise the significance of identity and multiple belonging for every person.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "erkennen die Bedeutung von Identität und Mehrfachzugehörigkeit für jeden Menschen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students recognise the effects of discrimination and racism on personal and societal levels.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "erkennen die Auswirkungen von Diskriminierung und Rassismus auf persönlicher und gesellschaftlicher",
+        "residual_flags": []
+      },
+      {
+        "content": "Students value diversity as the normality of society and a strength of the community.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "werten Vielfalt als Normalität der Gesellschaft und Stärke einer Gemeinschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Students plan actions to avoid stereotypes and strengthen identity and community.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "planen Aktionen zur Vermeidung von Stereotypen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students name and compare their cultural self-identities and multiple group belongings.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "benennen und vergleichen ihre kulturellen Ich-Identitäten und Mehrfach-Gruppenzugehörigkeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students know the concept of the culture pyramid and the extended concept of culture.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "kennen das Konzept der Kulturpyramide und den erweiterten Kulturbegriff.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students know the historical roots of racism.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "kennen die historischen Wurzeln von Rassismus.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students value diversity as the normality of the post-migrant society.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "werten Vielfalt als Normalität der postmigrantischen Gesellschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Students analyse the danger of upgrading one's own group by devaluing others (othering).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "analysieren die Gefahr der Aufwertung der eigenen Gruppe durch Abwertung anderer (Othering)",
+        "residual_flags": []
+      },
+      {
+        "content": "Students actively apply strategies against discrimination and for strengthening the disadvantaged.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "wenden aktiv Strategien gegen Diskriminierung und für die Stärkung Benachteiligter an.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 1 addresses diversity awareness.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Themenbereich 1: Diversitätsbewusstheit",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 2 addresses a successful diversity-aware coexistence.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Themenbereich 2: Gelingendes diversitätsbewusstes Miteinander",
+        "residual_flags": [
+          "page-multi-match:physical-36-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Content covers the development of stereotypes as a survival strategy in human history.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Entwicklung von Stereotypen als Überlebensstrategie in der",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 3 (grades 7-11) addresses societal diversity.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Themenbereich 3: Diversitätsbewusstheit",
+        "residual_flags": []
+      },
+      {
+        "content": "Content includes the definition of the extended concept of culture / culture pyramid.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Definition des erweiterten Kulturbegriffs / Kulturpyramide",
+        "residual_flags": []
+      },
+      {
+        "content": "Content treats immigration and emigration as a constant in Germany's history.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Ein- und Auswanderung als Konstante in der Geschichte",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 4 addresses discrimination and racism.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Themenbereich 4: Diskriminierung und Rassismus",
+        "residual_flags": []
+      },
+      {
+        "content": "Content covers the history of racism since the 15th century.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Geschichte des Rassismus seit dem 15. Jahrhundert",
+        "residual_flags": []
+      },
+      {
+        "content": "Content addresses racism in the present, including anti-Black racism.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Rassismus in der Gegenwart (antischwarzer Rassismus",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        },
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        },
+        {
+          "physical_page": 37,
+          "printed_page": 37
+        },
+        {
+          "physical_page": 38,
+          "printed_page": 38
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.4 Interkulturelle Erziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.4 Interkulturelle Erziehung",
+        "printed_page_range": "33–38"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

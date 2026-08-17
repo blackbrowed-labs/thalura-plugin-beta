@@ -1,0 +1,493 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:3afb58f8c62c891cdb61508416b4758739285fc3ee949093b0c98de987ce3233"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Es wird unterschieden zwischen Klassenarbeiten bzw. Klausuren, an denen alle Schülerinnen und Schüler unter Aufsicht und festgelegten Bedingungen teilnehmen, und entsprechenden Leistungen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren, an denen alle Schülerinnen und Schüler einer Lern-",
+        "residual_flags": []
+      },
+      {
+        "content": "Klassenarbeiten und Klausuren dienen der Überprüfung der Lernerfolge, der Ermittlung des individuellen Förderbedarfs und dem normierten Vergleich des erreichten mit dem erwarteten Lernstand.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten und Klausuren dienen der Überprüfung der Lernerfolge der einzelnen Schü-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Aufgabenstellungen in Klassenarbeiten sind grundsätzlich für alle Schülerinnen und Schüler einer Lerngruppe gleich.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "nisse). Die Aufgabenstellungen in Klassenarbeiten sind grundsätzlich für alle Schülerinnen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Klassenarbeiten bzw. Klausuren umfassen alle Verständnisebenen von der Reproduktion bis zur Problemlösung, verlangen Transferleistungen und ermöglichen den Nachweis der Mindest- bzw. Regelanforderungen sowie höherer Anforderungen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Problemlösung und verlangen auch Transferleistungen. Klassenarbeiten und Klausuren sind \nso anzulegen, dass Schülerinnen und Schüler nachweisen können, dass sie die Mindest- bzw. \nRegelanforderungen erfüllen. Sie müssen Schülerinnen und Schülern darüber hinaus Gele-\ngenheit bieten, höhere und höchste Anforderungen zu erfüllen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Verlauf der Sekundarstufe I werden die für die schriftlichen Prüfungen der Jahrgangsstufen 9 und 10 vorgegebenen Operatoren eingeführt.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Aufgabenstellung deutlich gemacht. Im Verlauf der Sekundarstufe I werden die für die schrift-",
+        "residual_flags": []
+      },
+      {
+        "content": "In der gymnasialen Oberstufe werden bei der Aufgabenformulierung die Operatoren aus den für den Abiturjahrgang geltenden Regelungen (sog. „A-Heft“) verwendet.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "ben verwendet. In der gymnasialen Oberstufe werden bei der Formulierung der Aufgaben die ",
+        "residual_flags": []
+      },
+      {
+        "content": "Bei der Bewertung von Klassenarbeiten sind in beiden Sekundarstufen und allen Fächern Fehler und Mängel in sprachlicher Richtigkeit, Ausdrucksfähigkeit, gedanklicher Strukturierung und sachgerechter Darstellung angemessen zu berücksichtigen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Bei der Bewertung von Klassenarbeiten sind in den Sekundarstufen I und II in allen Unter-",
+        "residual_flags": []
+      },
+      {
+        "content": "Schülerinnen und Schüler gewinnen durch einen Erwartungshorizont oder erarbeitete Lösungen Aufschluss über die erwartete Leistung und erhalten durch Korrekturanmerkungen Hinweise für die weitere Arbeit.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Schülerinnen und Schüler gewinnen durch einen Erwartungshorizont oder im Unterricht ",
+        "residual_flags": []
+      },
+      {
+        "content": "Klassenarbeiten bzw. Klausuren sind zeitnah korrigiert und bewertet zurückzugeben; in der gymnasialen Oberstufe soll die Rückgabe spätestens nach drei Wochen erfolgen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "der gymnasialen Oberstufe soll die Rückgabe der Klausuren spätestens nach drei Wochen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Hat mehr als ein Drittel der Schülerinnen und Schüler ein mangelhaftes oder ungenügendes Ergebnis erzielt, sind Klassen- und Schulleitung zu informieren; soll die Arbeit gewertet werden, ist die Zustimmung der Schulleitung einzuholen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "printed_page_end": 8,
+          "physical_page": 7
+        },
+        "cited_text": "Hat mehr als ein Drittel der Schülerinnen und Schüler in einer Klassenarbeit oder einer Klausur \nein mangelhaftes oder ungenügendes oder ein diesen Noten entsprechendes Ergebnis erzielt, \n\n8 \nsind Klassenleitung und Schulleitung zu informieren. Soll die Klassenarbeit bzw. Klausur ge-\nwertet werden, ist die Zustimmung der Schulleitung einzuholen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Klassenarbeiten bzw. Klausuren können nach Maßgabe der Nr. 3 lit. b) durch entsprechende Leistungen ersetzt werden, die sich ebenfalls auf die Rahmenpläne beziehen und alle Verständnisebenen umfassen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren können nach Maßgabe der Nr. 3 lit. b) durch ihnen entspre-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Aufgabenstellungen entsprechender Leistungen müssen in Bearbeitungsaufwand, Komplexität und Anspruch einer Klassenarbeit bzw. Klausur entsprechen und im Zusammenhang zum laufenden Unterricht stehen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Aufgabenstellungen für entsprechende Leistungen sind so zu gestalten, dass sie in Bear-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Lehrkraft stellt sicher, dass jede Schülerin und jeder Schüler eine eigenständige Einzelleistung erbringt; gemeinsame Arbeit ist möglich, wenn die individuelle Leistung klar erkennbar und bewertbar ist.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Lehrkraft stellt sicher, dass jede Schülerin und jeder Schüler eine eigenständige Einzel-",
+        "residual_flags": []
+      },
+      {
+        "content": "Sofern eine entsprechende Leistung nicht ausschließlich schriftlich erbracht wird, enthält sie mindestens einen schriftlichen Anteil, und die Erarbeitung erfolgt zumindest teilweise während der Unterrichtszeit.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Sofern die entsprechende Leistung nicht ausschließlich in schriftlicher Form erbracht \nwird, enthält sie mindestens einen schriftlichen Anteil, z. B. die schriftliche Ausarbei-\ntung oder Dokumentation der Ergebnisse. \n• \nDie Erarbeitung von entsprechenden Leistungen erfolgt zumindest teilweise auch wäh-\nrend der Unterrichtszeit; diese Vorgabe gilt nicht für die Präsentationsleistung in der \ngymnasialen Oberstufe. ",
+        "residual_flags": []
+      },
+      {
+        "content": "In den Sekundarstufen I und II sind auch Klassenarbeiten bzw. Klausuren oder entsprechende Leistungen mit digitalen Anteilen zu verlangen, in denen herkömmliche Formate durch digitale Werkzeuge ersetzt oder erweitert werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "In den Sekundarstufen I und II sind auch Klassenarbeiten bzw. Klausuren oder entsprechende ",
+        "residual_flags": []
+      },
+      {
+        "content": "In jeder Jahrgangsstufe sollen mindestens vier Leistungsnachweise mit digitalen Anteilen verlangt werden, davon mindestens zwei als Klassenarbeiten bzw. Klausuren.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "In jeder Jahrgangsstufe sollen mindestens vier Leistungsnachweise dieses Formats verlangt ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die vier digitalen Leistungsnachweise sind so zu verteilen, dass je Jahrgangsstufe digitale Leistungen im sprachlich-literarisch-künstlerischen, im mathematisch-naturwissenschaftlich-technischen und im gesellschaftswissenschaftlichen Aufgabenfeld erbracht werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die vier Leistungsnachweise mit digitalen Anteilen sind so zu verteilen, dass in jeder Jahr-",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Fach Deutsch werden in den Jahrgangsstufen 5 bis 8 mindestens sechs Klassenarbeiten pro Schuljahr geschrieben, davon zwei zur Überprüfung der Rechtschreibleistung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Fach Deutsch werden in den Jahrgangsstufen 5 bis 8 pro Schuljahr mindestens sechs ",
+        "residual_flags": []
+      },
+      {
+        "content": "In Mathematik, den Fremdsprachen und in Deutsch ab Jahrgangsstufe 9 werden mindestens vier Klassenarbeiten pro Schuljahr geschrieben, in den übrigen Fächern (außer Sport, Musik, Bildende Kunst und Theater) mindestens zwei.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "nen. In Mathematik, in den Fremdsprachen sowie im Fach Deutsch ab Jahrgangsstufe 9 wer-",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Jahrgangsstufe 6 (Naturwissenschaften/Technik) und in der Jahrgangsstufe 8 (Biologie, Chemie, Physik bzw. Lernbereich Naturwissenschaften) wird eine Klassenarbeit als Jahrgangsarbeit geschrieben.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In der Jahrgangsstufe 6 wird im Fach Naturwissenschaften/Technik, in der Jahrgangsstufe 8 ",
+        "residual_flags": []
+      },
+      {
+        "content": "In den Jahrgangsstufen 9 und 10 wird zur Vorbereitung auf die schriftliche Prüfung in Deutsch, Englisch und Mathematik eine Klassenarbeit unter Prüfungsbedingungen geschrieben.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In den Jahrgangstufen 9 und 10 wird in Vorbereitung auf die schriftliche Prüfung zum ersten ",
+        "residual_flags": []
+      },
+      {
+        "content": "Pro Schuljahr und Fach kann eine Klassenarbeit durch eine entsprechende Leistung ersetzt werden; bei mindestens vier Klassenarbeiten bis zu zwei, jedoch nicht die Rechtschreib- und Mathematikarbeiten.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Pro Schuljahr und Fach kann eine Klassenarbeit durch eine entsprechende Leistung ersetzt ",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Sekundarstufe I wird einmal in jeder Neueren Fremdsprache die Kompetenz Sprechen in einer gesonderten Sprechprüfung überprüft, die eine Klassenarbeit ersetzt.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In der Sekundarstufe I wird einmal in jeder Neueren Fremdsprache die funktionale kommuni-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Sprechprüfung findet frühestens im dritten Lernjahr und nicht vor der Jahrgangsstufe 7 statt und erfolgt als Gruppenprüfung von mindestens zwei und höchstens fünf Schülerinnen und Schülern.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "in dem die Sprechprüfung durchgeführt wird, ersetzt diese eine Klassenarbeit. Die Sprechprü-\nfung findet frühestens im dritten Lernjahr und nicht vor Eintritt in die Jahrgangsstufe 7 statt. \nDie Prüfung erfolgt als Gruppenprüfung von mindestens zwei und höchstens fünf Schülerinnen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Fach Mathematik gehen die Leistungen in Klassenarbeiten mit 50 vom Hundert in die Zeugnisnote ein.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Fach Mathematik gehen die Leistungen in Klassenarbeiten mit 50 vom Hundert in die Zeug-",
+        "residual_flags": []
+      },
+      {
+        "content": "Für die Verteilung der Klassenarbeiten gilt: höchstens zwei pro Woche und höchstens sieben pro Monat, im Dezember höchstens sechs.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Pro Woche dürfen nicht mehr als zwei Klassenarbeiten geschrieben werden. \n• \nPro Monat dürfen nicht mehr als sieben, im Dezember nicht mehr als sechs Klassen-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Termine für Klassenarbeiten inklusive Ersatztermine sind zu Beginn jedes Schulhalbjahres in einem Plan festzulegen, auszuhändigen und im Klassenzimmer auszuhängen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Termine für die Klassenarbeiten inklusive der Ersatztermine für ausgefallene Klas-",
+        "residual_flags": []
+      },
+      {
+        "content": "In Deutsch-Rechtschreibarbeiten werden Fehler markiert und berichtigt; in allen Deutsch-Klassenarbeiten gibt die Lehrkraft eine fehlerdifferenzierende Rückmeldung zu Rechtschreib- und Grammatikfehlern.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Im Fach Deutsch werden in Klassenarbeiten, die der Überprüfung der Rechtschreibleistung ",
+        "residual_flags": []
+      },
+      {
+        "content": "In den anderen Fächern markieren die Lehrkräfte Rechtschreib- und Grammatikfehler und erteilen bei Bedarf Korrekturaufträge; über inhaltliche Berichtigungen entscheidet die Fachlehrkraft.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "In den anderen Fächern machen die Lehrkräfte die Notwendigkeit deutlich, Texte orthografisch ",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Vorstufe werden in Deutsch, Mathematik und den Fremdsprachen mindestens drei Klausuren pro Schuljahr geschrieben, in den anderen Fächern (außer Sport) und im Seminar mindestens zwei, mit mindestens einer je Halbjahr.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "In der Vorstufe werden in den Fächern Deutsch und Mathematik sowie in den Fremdsprachen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Arbeitszeit einer Klausur in der Vorstufe beträgt mindestens 90 Minuten.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "tens 90 Minuten. Über das Nähere entscheidet die Lehrerkonferenz bzw. die Abteilungs- oder ",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Vorstufe soll an einem Tag nicht mehr als eine und in einer Woche nicht mehr als zwei Klausuren geschrieben werden; die Termine sind zu Beginn des Halbjahres bekanntzugeben.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Für die Vorstufe gilt, dass an einem Tag nicht mehr als eine Klausur und in einer Woche nicht ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Bewertung von Klausuren und entsprechenden Leistungen mit der Note ausreichend (5 Punkte) setzt mindestens fünfzig Prozent der erwarteten Leistung voraus.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Bewertung von Klausuren und entsprechenden Leistungen mit der Note ausreichend ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+        "printed_page_range": "7–10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

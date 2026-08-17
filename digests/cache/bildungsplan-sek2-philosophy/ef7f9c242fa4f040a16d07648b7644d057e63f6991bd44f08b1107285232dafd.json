@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ef7f9c242fa4f040a16d07648b7644d057e63f6991bd44f08b1107285232dafd"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "D1: develop their own philosophical thoughts with heuristic procedures (including thought experiments and dilemmas) and explain reasons and counter-reasons.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Argumentieren und Diskutieren (Argumentations- und Diskurskompetenzen, D)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "mithilfe heuristischer Verfahren (u. a. Gedankenexperimente und Dilemmata) eigene \nphilosophische Gedanken entwickeln sowie Gründe und Gegengründe hierzu erläutern \n(D1)",
+        "residual_flags": []
+      },
+      {
+        "content": "D2: present and explain philosophical problems in a structured, reasoned and consistent way.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Argumentieren und Diskutieren (Argumentations- und Diskurskompetenzen, D)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "strukturiert, begründet und konsistent philosophische Probleme darstellen",
+        "residual_flags": []
+      },
+      {
+        "content": "D3: orient themselves on established argumentation procedures (including the Toulmin scheme) and justify assertions with arguments and reasons.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Argumentieren und Diskutieren (Argumentations- und Diskurskompetenzen, D)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "sich an einschlägigen Argumentationsverfahren (u. a. dem Toulmin-Schema) orientie-\nren und Behauptungen mit Argumenten und Gründen rechtfertigen (D3)",
+        "residual_flags": []
+      },
+      {
+        "content": "D4: justify their own decisions and judgements in rational discourse with weighing reference to the positions of others.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Argumentieren und Diskutieren (Argumentations- und Diskurskompetenzen, D)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "im Rahmen rationaler Diskurse eigene Entscheidungen und Urteile mit abwägender \nBezugnahme auf die Positionen anderer begründen (D4)",
+        "residual_flags": []
+      },
+      {
+        "content": "D5: defend a position against critical objections with good reasons, or recognise it as in need of correction, reformulate or abandon it.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Argumentieren und Diskutieren (Argumentations- und Diskurskompetenzen, D)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "eine Position auch gegen kritische Rückfragen und Einwände mit guten Gründen ver-\nteidigen",
+        "residual_flags": []
+      },
+      {
+        "content": "D9 (raised requirement level): recognise the argumentation structure in philosophical texts and present it formalised (e.g. as syllogisms) or schematically (e.g. Toulmin scheme).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Argumentieren und Diskutieren (Argumentations- und Diskurskompetenzen, D)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "in philosophischen Texten die jeweilige Argumentationsstruktur erkennen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Kompetenzbereich Argumentieren und Diskutieren (Argumentations- und Diskurskompetenzen, D)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Kompetenzbereich Argumentieren und Diskutieren (Argumentations- und Diskurskompetenzen, D)",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b4ba9cded1abb3c3b130fdef63632330eb18a2e56efad92e94417f350866660d"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Aufgabe umfasst eine Kurzpräsentation und einen Dialog und hat damit fachpraktische Anteile.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c. Hinweise zur Durchführung der Prüfung",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "und eines Dialogs und um-\nfasst in diesem Sinne fachpraktische Anteile",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Vorbereitungszeit beträgt 30 Minuten plus 30 Minuten für das fachpraktische Format, insgesamt 60 Minuten.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c. Hinweise zur Durchführung der Prüfung",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "30 Minuten plus 30 Minu-\nten zur Umsetzung des fachpraktischen Formats",
+        "residual_flags": []
+      },
+      {
+        "content": "Im ersten Teil führen die Prüflinge den vorbereiteten Dialog samt Kurzpräsentation von insgesamt maximal 15 Minuten durch.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c. Hinweise zur Durchführung der Prüfung",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "insgesamt max. 15 Minuten",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Dialog wird zunächst selbstständig geführt, spätestens nach weiteren 15 Minuten von Impulsen der Prüfenden geprägt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c. Hinweise zur Durchführung der Prüfung",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "nach weiteren 15 Minuten (also nach 30 Minuten ab",
+        "residual_flags": []
+      },
+      {
+        "content": "Jeder Prüfling wird zu allen Anforderungsbereichen befragt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c. Hinweise zur Durchführung der Prüfung",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "wird zu allen Anforderungsbereichen befragt",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Prüfung ist so zu gestalten, dass jeder Prüfling etwa 15 Minuten Redezeit erhält.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c. Hinweise zur Durchführung der Prüfung",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "etwa 15 Minuten Redezeit \nzukommt",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "II.c. Hinweise zur Durchführung der Prüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "II.c. Hinweise zur Durchführung der Prüfung",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

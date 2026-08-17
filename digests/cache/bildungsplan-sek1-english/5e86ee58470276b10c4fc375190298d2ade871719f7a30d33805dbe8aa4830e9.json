@@ -1,0 +1,625 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5e86ee58470276b10c4fc375190298d2ade871719f7a30d33805dbe8aa4830e9"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Intercultural competencies are acquired in thematic contexts and comprise sociocultural orientation knowledge, successful communication in intercultural encounters, respectful handling of diversity, and perception of shared and differing values.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Interkulturelle Kompetenzen werden in thematischen Kontexten erworben (s. Themenübersicht). \nDazu gehören: \n• soziokulturelles Orientierungswissen \n• gelingende Kommunikation in interkulturellen Begegnungssituationen \n• respektvoller und wertschätzender Umgang mit sprachlicher und kultureller Diversität \n• Wahrnehmung gemeinsamer und unterschiedlicher Werte, Normen und Sichtweisen",
+        "residual_flags": []
+      },
+      {
+        "content": "The communicative skills (Kommunikative Fertigkeiten) area begins with listening and audio-visual comprehension (Hör- und Hör-Sehverstehen) as reception.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "K Kommunikative Fertigkeiten \nK1 Hör- und Hör-Sehverstehen (Rezeption)",
+        "residual_flags": []
+      },
+      {
+        "content": "K1 listening, level A1 (end of grade 6): students understand everyday utterances using familiar words and sentences when spoken very slowly, clearly and with pauses and repetitions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler verstehen alltägliche \nÄußerungen anhand von vertrauten Wörtern und Sät-\nzen, wenn sehr langsam, deutlich und mit Pausen so-\nwie Wiederholungen gesprochen wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "K1 listening, level A2 (raised requirement, end of grade 6): students understand short texts and conversations spoken in clearly articulated standard language at a slow tempo about familiar content.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler verstehen kurze Texte \nund Gespräche, wenn in deutlich artikulierter Stan-\ndardsprache und langsamem Sprechtempo über ver-\ntraute Inhalte gesprochen wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "K1 listening, MSA level (B1-): students understand information and conversations on familiar content even when unknown but context-inferable words occur, provided speech is clear and at a moderate tempo.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "wenn unbekannte, aber aus dem \nKontext erschließbare Wörter darin \nvorkommen, vorausgesetzt, es \nwird deutlich und im moderaten \nSprechtempo gesprochen.",
+        "residual_flags": []
+      },
+      {
+        "content": "K1 listening, level B1+ (transition to the Studienstufe): students extract main statements and specific information from uncomplicated factual information, conversations, talks and audio-visual texts on personally and socially relevant topics when spoken clearly with a known accent.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "entnehmen unkompli-\nzierten Sachinformationen, Gesprächen, Vorträgen \nund Hör-(Seh-)texten zu persönlichen und gesell-\nschaftlich relevanten Themen die Hauptaussagen und \ngezielt Einzelinformationen, wenn deutlich und mit ei-\nnem bekannten Akzent gesprochen wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "K2 taking part in conversations, level A1 (end of grade 6): students express themselves on familiar topics in routine situations using simple sentences and short phrases, asking and answering simple questions, increasingly also in digital spaces.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "äußern sich zu vertrau-\nten Themen in routinemäßigen Situationen. Im Ge-\nspräch verwenden sie einfache Sätze oder kurze \nWendungen, stellen selbst einfache Fragen und be-\nantworten entsprechende Fragen zunehmend auch \nim digitalen Raum. Wenn nötig, wiederholen ihre Ge-\nsprächspartnerinnen und -partner Redebeiträge und \nsprechen etwas langsamer oder formulieren",
+        "residual_flags": []
+      },
+      {
+        "content": "K2 taking part in conversations, level B1+ (transition to Studienstufe): students actively participate in conversations in real and digital situations on familiar and other socially significant topics, keeping the conversation going despite occasional difficulties.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "beteiligen sich aktiv an \nGesprächen in realen und digitalen Situationen über \nvertraute sowie andere Themen von gesellschaftlicher \nBedeutung. Bei Letzteren halten sie trotz gelegentli-\ncher Formulierungsprobleme das Gespräch in Gang.",
+        "residual_flags": []
+      },
+      {
+        "content": "K3 connected speaking, level A1 (end of grade 6): students speak about familiar topics (people, animals, actions, objects and places) relying on help from partners and using simple linguistic means and mainly pre-formulated expressions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Gegenstände und Orte). Dabei sind sie auf die Hilfe \nihrer Gesprächspartnerinnen und -partner angewie-\nsen und verwenden einfache sprachliche Mittel. Sie \nnutzen dabei hauptsächlich vorformulierte Ausdrücke.",
+        "residual_flags": []
+      },
+      {
+        "content": "K3 connected speaking, level B1+ (transition to Studienstufe): students speak coherently and largely fluently on topics of personal interest or social significance.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "hängend und weitgehend flüssig zu Themen von per-\nsönlichem Interesse oder gesellschaftlicher",
+        "residual_flags": []
+      },
+      {
+        "content": "K4 reading, level A1 (end of grade 6): students read and understand short simple texts with known names, words and basic expressions when parts can be reread or when pictures explain the text.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "kurze, einfache Texte mit bekannten Namen, Wörtern \nund grundlegenden Redewendungen, wenn es mög-\nlich ist, Teile des Textes mehr als einmal zu lesen, \noder wenn Bilder den Text erklären.",
+        "residual_flags": []
+      },
+      {
+        "content": "K4 reading, level B1+ (transition to Studienstufe): students understand more extensive age-appropriate literary and factual texts largely independently, globally and in detail, when these mostly deal with familiar subject areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "chere altersgemäße literarische Texte und Sachtexte \nweitgehend selbstständig global und im Detail, wenn \ndiese überwiegend Themen aus vertrauten Sachge",
+        "residual_flags": []
+      },
+      {
+        "content": "K5 writing, level A1 (end of grade 6): students write very short simple texts and messages about themselves and things of personal interest, often using text templates and digital tools.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "einfache Texte und Mitteilungen über sich und Dinge \nvon persönlichem Interesse, häufig auch mithilfe von \nTextvorlagen und digitalen Werkzeugen.",
+        "residual_flags": []
+      },
+      {
+        "content": "K5 writing, level B1+ (transition to Studienstufe): students write and revise largely independently coherent texts on topics of personal interest and social significance, also using digital tools.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "beiten weitgehend selbstständig zusammenhängende \nTexte zu Themen von persönlichem Interesse und ge-\nsellschaftlicher Bedeutung auch mit digitalen",
+        "residual_flags": []
+      },
+      {
+        "content": "K6 mediation (Sprachmittlung), level A1 (end of grade 6): students transfer utterances from simply structured texts and familiar situations from English into German so that rough understanding is ensured.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "und aus einfach strukturierten Texten \nÄußerungen vom Englischen ins Deutsche so, dass \nein Verständnis in groben Zügen gesichert ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "K6 mediation, level B1+ (transition to Studienstufe): acting as mediators between German- and foreign-language speakers, students render written and spoken utterances into the respective other language so that continuous understanding is ensured.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "schen deutsch- und fremdsprachigen Sprecherinnen \nund Sprechern schriftliche und mündliche Äußerun-\ngen bzw. Texte in der jeweils anderen Sprache so \nwieder, dass ein durchgängiges Verständnis gesichert",
+        "residual_flags": []
+      },
+      {
+        "content": "The linguistic competencies (Linguistische Kompetenzen) area begins with vocabulary (Wortschatz, L1).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "L Linguistische Kompetenzen \nL1 Wortschatz",
+        "residual_flags": []
+      },
+      {
+        "content": "L1 vocabulary, level A1 (end of grade 6): students have an elementary vocabulary in the oral and written domains.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "elementaren Wortschatz im mündlichen und schriftli",
+        "residual_flags": []
+      },
+      {
+        "content": "L1 vocabulary, level B1+ (transition to Studienstufe): students have a sufficient vocabulary to express themselves, also via paraphrase, on topics of their experience and familiar social topics, and vary formulations to avoid repetition.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "hinreichend großen Wortschatz, um sich auch mithilfe \nvon Umschreibungen zu Themenfeldern ihres Erfah-\nrungsbereichs und zu vertrauten gesellschaftlichen \nThemen zu äußern. Sie variieren Formulierungen, um \nWiederholungen zu vermeiden.",
+        "residual_flags": []
+      },
+      {
+        "content": "L2 grammar, level A1 (end of grade 6): students use a partly memorised repertoire of very simple grammatical structures in familiar situations, still making elementary errors, though it is generally clear what they want to express.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Teil auswendig gelerntes Repertoire von sehr einfa-\nchen grammatischen Strukturen und Satzmustern in \nvertrauten Situationen. Dabei machen sie noch ele-\nmentare Fehler. Es wird jedoch in der Regel klar, was \nsie ausdrücken möchten.",
+        "residual_flags": []
+      },
+      {
+        "content": "L2 grammar, level B1+ (transition to Studienstufe): students have a consolidated repertoire of extended grammatical structures and a structural awareness of the foreign language; remaining errors rarely cause misunderstandings for native English speakers.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "festigtes Repertoire erweiterter grammatischer Struk-\nturen und haben ein Strukturbewusstsein für die \nFremdsprache entwickelt. Zwar kommen noch Fehler \nvor; diese führen jedoch bei Menschen, die Englisch \nals Erstsprache sprechen, kaum zu Missverständnis",
+        "residual_flags": []
+      },
+      {
+        "content": "The grammar competency also refers to chapter 2.4 Basisgrammatik.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Vgl. auch Kapitel 2.4 Basisgrammatik.",
+        "residual_flags": [
+          "page-multi-match:physical-33-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "L3 pronunciation and intonation, level A1 (end of grade 6): students pronounce a limited repertoire of words and expressions intelligibly.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "tes Repertoire von Wörtern und Redewendungen ver-\nständlich aus.",
+        "residual_flags": []
+      },
+      {
+        "content": "L3 pronunciation and intonation, level B1+ (transition to Studienstufe): students have a consolidated pronunciation and intonation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "verfügen über eine ge-\nfestigte Aussprache und Intonation.",
+        "residual_flags": []
+      },
+      {
+        "content": "L4 spelling (Rechtschreibung), level A1 (end of grade 6): students master the orthography of a very limited active vocabulary.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "beherrschen die Ortho-\ngrafie eines sehr begrenzten aktiven Wortschatzes.",
+        "residual_flags": []
+      },
+      {
+        "content": "L4 spelling, Studienstufe transition level: within the familiar vocabulary, students have largely secure command of spelling.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "verfügen im Rahmen des vertrauten Wortschatzes über weitgehende Sicherheit \nin der Rechtschreibung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language awareness (Sprachbewusstheit), end of grade 6: students begin to verbalise their thoughts about language and its use and use this to communicate as situationally appropriate as possible.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "ginnen in Ansätzen, ihre Gedan-\nken über Sprache und deren Ge-\nbrauch zu verbalisieren. Sie nut-\nzen ihr Wissen, um mündlich und \nschriftlich möglichst situationsan",
+        "residual_flags": []
+      },
+      {
+        "content": "Language awareness, end of grade 10: students can verbalise their thoughts about language and its use and use them to communicate orally and in writing in a situationally appropriate and sufficiently correct way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "und ihren Gebrauch verbalisieren \nund diese nutzen, um mündlich \nund schriftlich situationsangemes-\nsen und hinreichend korrekt zu",
+        "residual_flags": []
+      },
+      {
+        "content": "Language-learning competence (Sprachlernkompetenz), end of grade 6: students independently apply a limited inventory of learning and working techniques for autonomous individual learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "wenden ein begrenztes Inventar \nan Lern- und Arbeitstechniken für \neigenständiges, individuelles Ler",
+        "residual_flags": []
+      },
+      {
+        "content": "Language-learning competence, end of grade 10: students independently apply a versatile inventory of learning and working techniques for autonomous individual learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "wenden ein vielseitiges Inventar an \nLern- und Arbeitstechniken für ei-\ngenständiges, individuelles Lernen \nselbstständig an.",
+        "residual_flags": []
+      },
+      {
+        "content": "Subject-related digital competence (Fachbezogene digitale Kompetenz): no individual standards are formulated here; they are found partly in the competency descriptions of other areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Einzelstandards werden hier nicht formuliert, finden sich jedoch teilweise in den Kompetenzbeschreibungen an-\nderer Bereiche.",
+        "residual_flags": []
+      },
+      {
+        "content": "Digital competence: students use digital possibilities for the language-learning process and use digital aids appropriately for audience, situation and purpose to support communication and interaction in the foreign language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "nutzen digitale Möglichkeiten für den Sprachlernprozess, \n• verwenden digitale Hilfsmittel adressaten-, situations- und zweckangemessen, um die Kommunikation und \nInteraktion in der Fremdsprache zu unterstützen bzw. zu ermöglichen,",
+        "residual_flags": []
+      },
+      {
+        "content": "Digital competence: students develop their knowledge of digital aids and can critically and reflectively assess their capabilities and limitations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "entwickeln ihre Kenntnisse über digitale Hilfsmittel und können deren Leistungsfähigkeit und Begrenzungen \nkritisch und reflektiert einschätzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Text and media competence (Text- und Medienkompetenz) is a fachliche Kompetenz with a receptive/analytic dimension.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "TM Text- und Medienkompetenz",
+        "residual_flags": []
+      },
+      {
+        "content": "Text and media competence, end of grade 6: students understand task instructions, activate prior knowledge, apply simple word-decoding strategies, work on selective/global listening and reading tasks and master simple exercise and test formats (true/false statements, multiple-choice).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "verstehen Arbeitsanweisungen \nund Aufgabenstellungen zur Be-\narbeitung von Übungen und \nAufgaben, \n• aktivieren Vorwissen (sammeln \nz. B. Assoziationen zu einem \nThema, einem Bild oder ande-\nren Impulsen), \n• wenden einfache Worterschlie-\nßungsstrategien an, \n• bearbeiten eng führende Aufga-\nben zum selektiven und globa-\nlen Hören und Lesen und be-\nherrschen einfache Übungs- \nund Testverfahren zum Hör- \nund Leseverstehen (true/false \nstatements, multiple-choice),",
+        "residual_flags": []
+      },
+      {
+        "content": "Text and media competence, end of grade 10: students use different working techniques for listening and reading comprehension, structure and summarise longer texts task-relatedly, and identify content- or style-relevant passages and take ordered notes on them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "setzen unterschiedliche Arbeits-\ntechniken zum Hör- und Lese-\nverstehen ein, \n• gliedern und strukturieren län-\ngere Texte aufgabenbezogen \n(finden z. B. Überschriften und \nZwischenüberschriften, stellen \nInhalte in einem Schaubild dar) \nund fassen sie zusammen (z. B. \nin einer Stichwortsammlung), \n• identifizieren inhaltlich oder sti-\nlistisch relevante Passagen und \nmachen sich dazu geordnete",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        },
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        },
+        {
+          "physical_page": 37,
+          "printed_page": 37
+        },
+        {
+          "physical_page": 38,
+          "printed_page": 38
+        },
+        {
+          "physical_page": 39,
+          "printed_page": 39
+        },
+        {
+          "physical_page": 40,
+          "printed_page": 40
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Fachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "2.2 Fachliche Kompetenzen",
+        "printed_page_range": "14–40"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

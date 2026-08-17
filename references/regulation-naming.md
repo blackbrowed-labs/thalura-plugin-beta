@@ -298,9 +298,31 @@ document_id + section_anchor + printed_page + source_pdf_sha256
 - **`printed_page`** — the page number a teacher sees in the document footer and verifies against. Always comes from the page-map's `page_table`, never from footer-digit scraping (which is unsafe: publication-year digits and footnote text appear in footer fields and produce wrong results).
 - **`source_pdf_sha256`** — the SHA-256 of the bundled PDF the citation was read from. Makes a same-filename BSB republish detectable: a citation whose hash no longer matches the bundled PDF is flagged stale, not served silently.
 
-The teacher-facing citation renders **`document_title` + `printed_page`** (e.g. *"Abiturrichtlinie Englisch, §5.2, S. 27"*). `document_id` and `physical_page` are internal join and audit fields, never shown.
-
 For composite PDFs (`apo-grundstgy.pdf` = APO-GrundStGy / VO-BF / AO-SF under continuous numbering), the displayed title is the contained ordinance's name, recovered from the running header via `section_anchor` — because one file holds several titled laws.
+
+### Teacher-Facing Citation Format
+
+**This section is the single definition of how a regulation citation is written for a teacher.** Every other surface that renders one — a generated document, a chat reply, a compliance check — follows the rules here and does not restate them. A surface that needs to show an example marks it as an instance of this rule, never as a definition of its own.
+
+**Components.** The teacher-facing citation renders **`document_title` + `section_anchor` + the page** (e.g. *"Abiturrichtlinie Englisch, §5.2, S. 27"*). `document_id` and `physical_page` are internal join and audit fields, never shown.
+
+**Language — the page abbreviation follows the surface, not a global setting.** The page is abbreviated **`S.`** when the surface's resolved language is German and **`p.` / `pp.`** when it is English. The governing language is that of the **surface the citation appears on**: a generated document follows the resolved content language for that document, a chat reply follows the conversation language. These are separate settings and may differ, so a citation inside an English worksheet reads `p. 27` even where the surrounding conversation is German. **No surface hard-codes an abbreviation.** This is a language convention, not a regional one — it holds wherever the plugin is used.
+
+**A cited span uses an en dash.** Where a citation names a passage covering several pages, the range is written `S. 23–25` (German) or `pp. 23–25` (English), with an **en dash (`–`), never a hyphen**.
+
+**A quotation running across a page break is cited with `f.` / `ff.`** The cited page is the page the quotation **begins** on. Where it continues past the end of that page, the citation says so in the customary abbreviated form rather than naming the first page alone — so the reader looks for the whole passage, not only its beginning. The digest supplies the continuation as the optional `printed_page_end` (`${CLAUDE_PLUGIN_ROOT}/references/schemas/digest-cache.md`):
+
+| Form | Meaning | Rendered when |
+|---|---|---|
+| `S. 23` | page 23 alone | the quotation sits on one page — no `printed_page_end` |
+| `S. 23 f.` | page 23 **and the page following** | the quotation ends on the immediately following page |
+| `S. 23 ff.` | page 23 **and more than one following page** | the quotation ends more than one page later |
+
+**Spaced, not closed:** `S. 23 f.`, never `S. 23f.` The house rule settles this; the bundled documents themselves use both spacings and so decide nothing.
+
+**The two range forms are disjoint and never mix.** A **span** (`S. 23–25`) comes from a citation naming a multi-page section or module; a **continuation** (`S. 23 f.`) comes from a single quotation whose `printed_page_end` is set. Nothing is both, so no precedence rule is needed — and a span whose end page is known is always written out (`S. 23–25`), never as `S. 23 ff.`
+
+**Page forms in internal reference prose are not examples of this citation.** Reference material written for the model's own use cites its sources in its own file's language and conventions; those forms are not teacher-facing output and must not be imitated when rendering a citation for a teacher. Follow the rules above, not the nearest example on the page.
 
 ---
 

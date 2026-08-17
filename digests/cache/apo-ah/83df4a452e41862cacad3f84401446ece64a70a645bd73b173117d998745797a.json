@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:83df4a452e41862cacad3f84401446ece64a70a645bd73b173117d998745797a"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The examination commission decides on admission to the oral part of the Abitur and on which candidate is examined orally in which written-examination subject.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 25 Zulassung zur mündlichen Prüfung",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Die Prüfungskommission entscheidet über die Zulassung der Prüflinge zum mündli-\nchen Teil der Abiturprüfung sowie darüber, welcher Prüfling in welchem Fach der schrift-\nlichen Prüfung mündlich geprüft wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Admission requires having taken part in the written and, where applicable, the practical part of the Abitur to the prescribed extent.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 25 Zulassung zur mündlichen Prüfung",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "am schriftlichen und gegebenenfalls am praktischen Teil der Abiturprüfung \nim vorgeschriebenen Umfang teilgenommen hat",
+        "residual_flags": []
+      },
+      {
+        "content": "Ein Pruefling wird in einem oder mehreren Faechern der schriftlichen Pruefung muendlich geprueft, wenn die Punktzahl deutlich abweicht.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 25 Zulassung zur mündlichen Prüfung",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Ein Prüfling wird in einem Fach oder mehreren Fächern der schriftlichen Prüfung",
+        "residual_flags": []
+      },
+      {
+        "content": "Die muendliche Pruefung erfolgt, wenn die schriftliche Punktzahl um mindestens 4,0 Punkte vom Semesterdurchschnitt abweicht.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 25 Zulassung zur mündlichen Prüfung",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "mündlich geprüft, wenn die Punktzahl für die schriftliche Prüfung um mindestens 4,0",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Pruefling kann den Antrag nicht zuruecknehmen.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 25 Zulassung zur mündlichen Prüfung",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Der Prüfling kann den Antrag nicht zurücknehmen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 25 Zulassung zur mündlichen Prüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 25 Zulassung zur mündlichen Prüfung",
+        "printed_page_range": "21–22"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

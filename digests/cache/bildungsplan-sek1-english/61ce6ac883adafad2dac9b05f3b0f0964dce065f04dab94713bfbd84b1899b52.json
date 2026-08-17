@@ -1,0 +1,376 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:61ce6ac883adafad2dac9b05f3b0f0964dce065f04dab94713bfbd84b1899b52"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Mindestanforderungen für den ersten allgemeinbildenden Schulabschluss",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Mindestanforderungen für \nden ersten allgemeinbilden-\nden Schulabschluss ",
+        "residual_flags": []
+      },
+      {
+        "content": "Ende der Jahrgangsstufe 8 mit Blick auf den mittleren",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Ende der Jahrgangsstufe 8 \nmit Blick auf den mittleren ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den mittleren Schulabschluss",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Mindestanforderungen für \nden mittleren Schulab-\nschluss ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über einen zunehmend ausreichenden Wortschatz für einfache Alltagsgespräche.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Die Schülerinnen und Schüler ver-\nfügen über einen zunehmend aus-\nreichenden Wortschatz für einfa-\nche Alltagsgespräche. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über einen hinreichenden",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Die Schülerinnen und Schüler ver-\nfügen über einen hinreichenden ",
+        "residual_flags": []
+      },
+      {
+        "content": "Wortschatz für Alltagsgespräche.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Wortschatz für Alltagsgespräche. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über einen ausreichend großen Wortschatz, um sich mithilfe von einigen Umschreibungen zu vertrauten Themen zu äußern.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Die Schülerinnen und Schüler ver-\nfügen über einen ausreichend gro-\nßen Wortschatz, um sich mithilfe \nvon einigen Umschreibungen zu \nvertrauten Themen zu äußern. ",
+        "residual_flags": []
+      },
+      {
+        "content": "verwenden kurze gebräuchliche",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "• verwenden kurze gebräuchliche ",
+        "residual_flags": []
+      },
+      {
+        "content": "Ausdrücke und Satzmuster, um konkrete Bedürfnisse in vertrauten Situationen zu formulieren (z. B. Informationen geben / erfragen),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Ausdrücke und Satzmuster, um \nkonkrete Bedürfnisse in vertrau-\nten Situationen zu formulieren \n(z. B. Informationen geben / erfra-\ngen), ",
+        "residual_flags": []
+      },
+      {
+        "content": "bewältigen Alltagssituationen mit vertrauten Inhalten, müssen aber häufig noch nach Wörtern suchen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "• bewältigen Alltagssituationen mit \nvertrauten Inhalten, müssen \naber häufig noch nach Wörtern \nsuchen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "wenden einen hinreichend großen Wortschatz an, um sich in einfachen Alltagsgesprächen und zu vertrauten Themen zu verständigen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "•  wenden einen hinreichend gro-\nßen Wortschatz an, um sich in \neinfachen Alltagsgesprächen \nund zu vertrauten Themen zu \nverständigen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "sind in der Lage, sich zu vertrauten Themen ihres Interessen- und Erfahrungsbereiches hinreichend zu äußern.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "• sind in der Lage, sich zu vertrau-\nten Themen ihres Interessen- \nund Erfahrungsbereiches hinrei-\nchend zu äußern. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsniveaus mit Blick auf die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Anforderungsniveaus mit Blick auf die Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen am Ende der Jahrgangsstufe 9 mit Blick auf den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Mindestanforderungen am Ende der Jahr-\ngangsstufe 9 mit Blick auf den Übergang in \ndie Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Mindestanforderungen für den Übergang in \ndie Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über einen ausreichend großen Wortschatz, um sich mithilfe von einigen Umschreibungen zu vertrauten Themen zu äußern.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Die Schülerinnen und Schüler verfügen über einen \nausreichend großen Wortschatz, um sich mithilfe von \neinigen Umschreibungen zu vertrauten Themen zu \näußern. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über einen hinreichend großen Wortschatz, um sich auch mithilfe von Umschreibungen zu Themenfeldern ihres Erfahrungsbereichs und zu vertrauten gesellschaftlichen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Die Schülerinnen und Schüler verfügen über einen \nhinreichend großen Wortschatz, um sich auch mithilfe \nvon Umschreibungen zu Themenfeldern ihres Erfah-\nrungsbereichs und zu vertrauten gesellschaftlichen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Themen zu äußern. Sie variieren Formulierungen, um",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Themen zu äußern. Sie variieren Formulierungen, um ",
+        "residual_flags": []
+      },
+      {
+        "content": "Wiederholungen zu vermeiden.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Wiederholungen zu vermeiden. ",
+        "residual_flags": []
+      },
+      {
+        "content": "sind in der Lage, sich zu vertrauten Themen ihres",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "• sind in der Lage, sich zu vertrauten Themen ihres ",
+        "residual_flags": []
+      },
+      {
+        "content": "Interessen- und Erfahrungsbereiches hinreichend zu äußern.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Interessen- und Erfahrungsbereiches hinreichend \nzu äußern. ",
+        "residual_flags": []
+      },
+      {
+        "content": "verwenden einen hinreichend großen Wortschatz, um sich differenziert zu äußern und eigene Standpunkte auszudrücken,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "• verwenden einen hinreichend großen Wortschatz, \num sich differenziert zu äußern und eigene Stand-\npunkte auszudrücken, ",
+        "residual_flags": []
+      },
+      {
+        "content": "verfügen über einen hinreichend großen Wortschatz, um fachliches Vokabular mit einfacheren",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "• verfügen über einen hinreichend großen Wort-\nschatz, um fachliches Vokabular mit einfacheren ",
+        "residual_flags": []
+      },
+      {
+        "content": "Wörtern zu umschreiben,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Wörtern zu umschreiben, ",
+        "residual_flags": []
+      },
+      {
+        "content": "verfügen über ein Spektrum von Konnektoren, um sich kohärent zu äußern.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L1 Wortschatz",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "• verfügen über ein Spektrum von Konnektoren, um \nsich kohärent zu äußern. ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "L1 Wortschatz"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "L1 Wortschatz",
+        "printed_page_range": "32"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

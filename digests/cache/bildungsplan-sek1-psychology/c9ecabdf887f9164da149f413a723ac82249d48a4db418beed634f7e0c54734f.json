@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c9ecabdf887f9164da149f413a723ac82249d48a4db418beed634f7e0c54734f"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-psychology",
+      "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "For implementing the cross-cutting task of language education, the principles laid down in the general part of the curriculum are relevant.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "sind die im allgemeinen Teil des Bildungsplans niedergelegten Grundsätze relevant",
+        "residual_flags": []
+      },
+      {
+        "content": "Subject-related language competences are presented and explained in the language-education competency matrix (Kompetenzmatrix Sprachbildung).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "erfolgt in der Kompetenz-\nmatrix Sprachbildung",
+        "residual_flags": []
+      },
+      {
+        "content": "Within the core curricula, central language competences are assigned to individual topic/content areas via references to support planning of language-sensitive subject teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "werden die zentralen sprachlichen Kompe-\ntenzen durch Verweise einzelnen Themen- bzw. Inhaltsbereichen zugeordnet",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-psychology",
+        "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+        "printed_page_range": "7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

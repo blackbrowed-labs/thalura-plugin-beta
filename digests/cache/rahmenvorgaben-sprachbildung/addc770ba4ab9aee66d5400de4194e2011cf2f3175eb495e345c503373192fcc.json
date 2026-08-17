@@ -1,0 +1,265 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:addc770ba4ab9aee66d5400de4194e2011cf2f3175eb495e345c503373192fcc"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In subject teaching listening, reading, speaking and writing are not practised in isolation from the subject context but embedded in corresponding tasks and subject contexts.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Im Fachunterricht wird das Hören, Lesen, Sprechen und Schreiben nicht isoliert und unabhän-\ngig vom fachlichen Kontext geübt, sondern in ihrer Anwendung eingebettet in entsprechende \nAufgabenstellungen und Fachkontexte.",
+        "residual_flags": []
+      },
+      {
+        "content": "Because competence acquisition happens above all through language action, the Kompetenzmatrix names and describes 15 so-called 'Sprachhandlungen' central to subject learning — subject-related language actions such as describing, explaining, defining and comparing.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Da der Kompetenzerwerb im Fachunterricht vor allem durch sprachliches Handeln erfolgt, wer-\nden in der Kompetenzmatrix 15 sogenannte „Sprachhandlungen“, welche zentral für das fach-\nliche Lernen sind, eigens benannt und genauer beschrieben. Es handelt sich um fachbezo-\ngene sprachliche Handlungen wie das Beschreiben, Erklären, Definieren und Vergleichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "These terms are known in school as 'Operatoren', which as instructions in tasks often — but not always (e.g. Berechnen, Zeichnen) — call for the execution of the like-named language action; Sprachhandlungen are therefore not to be equated with Operatoren.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Diese Begriffe sind in Schule und Unterricht bekannt unter der Bezeichnung „Operatoren“, die \nals Handlungsanweisungen im Rahmen von Aufgabenstellungen häufig, aber nicht immer \n(z.B. Berechnen, Zeichnen) zur Ausführung der gleichnamigen Sprachhandlungen auffordern. \nSprachhandlungen sind also nicht mit den Operatoren gleichzusetzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Most operators, however, as calls to language action in a subject context, link linguistic and subject-related action; the Sprachhandlungen listed in the matrix have a common cross-subject core.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die meisten Operato-\nren verbinden jedoch als Handlungsaufforderungen zu sprachlichen Handlungen im Fachkon-\ntext sprachliches und fachliches Handeln. Die in der Kompetenzmatrix aufgeführten Sprach-\nhandlungen besitzen einen gemeinsamen fächerübergreifenden Kern.",
+        "residual_flags": []
+      },
+      {
+        "content": "The realization of a Sprachhandlung is always bound to a particular (communicative) purpose, as the example of Vergleichen from the matrix shows.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Realisierung einer Sprachhandlung ist immer an einen bestimmten (kommunikativen) \nZweck gebunden, wie das Beispiel zum Vergleichen aus der Kompetenzmatrix zeigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Example (10. Vergleichen): the purpose of comparing is to generate ordering systems that map similarity or kinship groups, in order to determine group membership or the quality of the compared objects or to characterize the (temporal) development of the object/matter.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Der Zweck des Vergleichens besteht darin, Ordnungssysteme zu generieren, die Ähnlich-\nkeits- oder Verwandtschaftsgruppen abbilden, um die Gruppenzugehörigkeit oder die Qua-\nlität der Vergleichsobjekte festzustellen oder die (zeitliche) Entwicklung des Objektes/Sach-\nverhaltes zu kennzeichnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachhandlungen always refer to a particular object; in school, comparing refers e.g. to objects, living beings/figures/persons, processes, activities and courses of action, texts, sources, text statements, views, and work results/solutions — and its realization can differ by object.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Sprachhandlungen beziehen sich immer auf einen bestimmten Gegenstand. Im schulischen \nKontext bezieht sich das Vergleichen z.B. auf die folgenden Gegenstände. Die Umsetzung der \nSprachhandlung kann sich dabei je nach Gegenstand, auf den sie sich bezieht, unterscheiden.  \nSachverhalte vergleichen (vgl. Kompetenzmatrix) \n• \nGegenstände, Lebewesen/Figuren/Personen \n• \nProzesse/Vorgänge \n• \nTätigkeiten und Handlungsweisen \n• \nTexte, Quellen, Textaussagen, Ansichten \n• \nArbeitsergebnisse, Lösungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachhandlungen follow relatively fixed action patterns (Handlungsmuster) which can vary by communicative situation; these patterns must be known to the performer to carry out the action successfully, and they contain linguistic sub-actions described more precisely in the matrix by descriptors (Deskriptoren).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Sprachhandlungen folgen dabei aber immer relativ festen Handlungsmustern, die je nach \nKommunikationssituation natürlich auch variieren können. Diese typischen Handlungsmuster \nmüssen dem Ausführenden der Sprachhandlung bekannt sein, um die Handlung erfolgreich \n(im Sinne des kommunikativen Ziels und des Erkenntnisziels) auszuführen. Die Handlungs-\nmuster enthalten sprachliche Teilhandlungen, die genauer beschrieben werden können. Diese \ngenauere Beschreibung erfolgt in der Kompetenzmatrix mittels Deskriptoren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachhandlungen are characterized by typical linguistic means (words, phrases, structures), can be practised and transferred to other subject contexts, are often realized in typical text forms, and in school should be executed in the register Bildungssprache — so acquiring these competences is closely linked to acquiring academic and conceptually written competences. NOTE: the source reads 'Der Erwerb der dieser Kompetenzen'.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Sprachhandlungen sind gekennzeichnet durch sprachliche Mittel (Wörter, Phrasen, Struktu-\nren), die jeweils für sie typisch sind. Sie können im Fachunterricht eingeübt und auf andere \nfachliche Kontexte übertragen werden, in deren Rahmen die Sprachhandlung realisiert werden \nsoll. Darüber hinaus werden Sprachhandlungen häufig in Textformen realisiert, die für sie ty-\npisch sind und auch typisch sind für die Realisierung in dem jeweiligen Fach. Im schulischen \nKontext sollen Sprachhandlungen in dem Register Bildungssprache ausgeführt werden. Der \nErwerb der dieser Kompetenzen ist also eng mit dem Erwerb bildungssprachlicher und kon-\nzeptionell schriftlicher Kompetenzen verknüpft.",
+        "residual_flags": [
+          "source anomaly: 'Der Erwerb der dieser Kompetenzen ist also eng ...' — stray 'der'"
+        ]
+      },
+      {
+        "content": "Realizing the required language actions involves hurdles: some students do not understand the task or instruction because the rules for realizing the Sprachhandlung are unknown or not transferred from other subjects — so an understanding of the operators used in tasks must first be built and practised on various examples.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Realisierung der im Fachunterricht geforderten sprachlichen Handlungen ist für Schülerin-\nnen und Schüler mit Hürden verbunden. So verstehen einige Schülerinnen und Schüler z.B. \ndie Aufgabenstellung bzw. die Handlungsanweisung nicht, da die Regeln zur Realisierung der \nSprachhandlung nicht bekannt sind oder nicht aus dem Unterricht anderer Fächer übertragen \nwerden. Hier muss also zunächst im Unterricht ein Verständnis der in Aufgabenstellungen \nverwendeten Operatoren erzeugt und an verschiedenen Beispielen geübt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Often the linguistic means to carry out the instruction are lacking — e.g. for describing: the technical terms for the objects, adjectives for phenomena and processes, and typical sentence structures such as impersonal passive sentences (word and sentence level); nor can it be assumed that students know the required text structure, e.g. of a lab report (Versuchsprotokoll) (text level).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Häufig fehlen die sprachlichen Mittel zur Ausführung der Handlungsanweisung. Dazu gehören \nz.B. beim Beschreiben die Fachbegriffe für die zu beschreibenden Gegenstände, Adjektive zur \nBeschreibung von Phänomenen, Prozessen und typische Satzstrukturen wie unpersönliche \nPassivsätze (Wort- und Satzebene). Weiterhin kann nicht vorausgesetzt werden, dass den \nSchülerinnen und Schülern die geforderte Textstruktur (z.B. eines Versuchsprotokolls) be-\nkannt ist (Textebene).",
+        "residual_flags": []
+      },
+      {
+        "content": "Academic-language competences are built up systematically by working towards particular Sprachhandlungen such as reporting, describing, comparing and justifying; subject teaching ties in with students' differing linguistic preconditions and extends them.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Bildungssprachliche Kompetenzen werden im Fachunterricht planvoll aufgebaut, indem auf \nbestimmte Sprachhandlungen wie das Berichten, Beschreiben, Vergleichen und Begründen \nhingearbeitet wird. Der Fachunterricht knüpft an die unterschiedlichen sprachlichen Voraus-\nsetzungen der Schülerinnen und Schüler an und erweitert sie.",
+        "residual_flags": []
+      },
+      {
+        "content": "Speaking and writing occasions are deliberately created so students can learn and practise subject-related language actions such as describing, explaining, comparing, justifying and arguing.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Im Fachunterricht werden gezielt Sprech- und Schreibanlässe geschaffen, um den Schülerin-\nnen und Schülern die Gelegenheit zu geben, fachbezogene Sprachhandlungen wie das Be-\nschreiben, Erklären, Vergleichen, Begründen und Argumentieren zu lernen und einzuüben.",
+        "residual_flags": []
+      },
+      {
+        "content": "So that students can extend their linguistic repertoire, new language means typical of the respective Sprachhandlung are worked out and repeatedly realized in action patterns, and these typical patterns are also made transparent to students and learned by them.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Damit Schülerinnen und Schüler ihr sprachliches Handlungsrepertoire ausbauen können, wer-\nden neue, für die jeweilige Sprachhandlung typische Sprachmittel erarbeitet und wiederholt in \nHandlungsmustern realisiert.  \nDiese typischen Handlungsmuster werden für Schülerinnen und Schüler ebenfalls transparent \ngemacht und von ihnen erlernt.",
+        "residual_flags": []
+      },
+      {
+        "content": "In interaction-promoting, language-activating teaching students learn to apply the practised (linguistic) action patterns increasingly freely and appropriately to the situation; sentence openers, structures and text patterns should not be used schematically in the active engagement.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Schülerinnen und Schüler lernen in einem interaktionsfördernden und sprachaktivierenden \nUnterricht, die eingeübten (sprachlichen) Handlungsmuster zunehmend frei und situationsan-\ngemessen anzuwenden. Satzanfänge und -strukturen, Textmuster sollen in der aktiven Aus-\neinandersetzung nicht schematisch eingesetzt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The thematic vocabulary used within a Sprachhandlung varies with the subject and communicative context; students with German as a second language in particular therefore need further context-bound linguistic support to participate successfully.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Der thematische Sprachschatz, der im Rahmen einer Sprachhandlung verwendet wird, variiert \nje nach fachlichem und kommunikativem Kontext. Insbesondere Schülerinnen und Schüler mit \nDeutsch als Zweitsprache benötigen kontextgebunden daher weitere sprachliche Unterstüt-\nzung, um erfolgreich am Unterricht teilnehmen zu können.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "2.5 Sprachliches Handeln im Fachunterricht",
+        "printed_page_range": "10–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

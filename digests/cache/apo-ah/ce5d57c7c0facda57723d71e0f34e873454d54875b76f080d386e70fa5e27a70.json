@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ce5d57c7c0facda57723d71e0f34e873454d54875b76f080d386e70fa5e27a70"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Anlage 1 assigns the subjects to the Aufgabenfelder named in § 5 (1).",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 1 Zuordnung der Fächer zu den Aufgabenfeldern",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Zuordnung der Fächer zu den in § 5 Absatz 1 genannten Aufgabenfeldern",
+        "residual_flags": []
+      },
+      {
+        "content": "Sport is not assigned to any Aufgabenfeld.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 1 Zuordnung der Fächer zu den Aufgabenfeldern",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Sport ist keinem Aufgabenfeld zugeordnet.",
+        "residual_flags": []
+      },
+      {
+        "content": "The two-hour Seminar is not assigned to any Aufgabenfeld and serves primarily science-propaedeutic and interdisciplinary learning within the profile area.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 1 Zuordnung der Fächer zu den Aufgabenfeldern",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "Das zweistündige Seminar ist keinem Aufgabenfeld zugeordnet.  \nEs dient vorrangig dem wissenschaftsvorbereitenden und interdisziplinären  \nLernen und Arbeiten innerhalb des Profilbereichs.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 41,
+          "printed_page": 41
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Anlage 1 Zuordnung der Fächer zu den Aufgabenfeldern"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "Anlage 1 Zuordnung der Fächer zu den Aufgabenfeldern",
+        "printed_page_range": "41"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

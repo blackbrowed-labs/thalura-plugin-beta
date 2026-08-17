@@ -1,0 +1,185 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0e774b733134c9ebbef0dc778470cece281dde11f1e511e37bbea3f23f412615"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology-praesentation",
+      "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "This Erwartungshorizont refers to the task, not to the concretisation the examinee develops in the documentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "bezieht sich auf die Aufgabenstellung, nicht auf die vom \nPrüfling zu erarbeitende und in der Dokumentation darzustellende Konkretisierung",
+        "residual_flags": []
+      },
+      {
+        "content": "The examinee receives a task with only one operator and must concretise it into sub-tasks with operators of the other requirement levels.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "eine Aufgabenstellung unter Nennung nur eines \nOperators und wäre gehalten, diese in Form von Teilaufgaben mit geeigneten Operato-\nren auch der anderen Anforderungsbereiche zu konkretisieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Points not mentioned may also count positively if sensible and purposeful in the presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Auch nicht erwähnte Angaben können positiv in die Bewertung der Präsentationsprü-\nfung einfließen, wenn sie innerhalb der Darstellung sinnvoll und zielführend sind",
+        "residual_flags": []
+      },
+      {
+        "content": "The higher the requirement level the examinee mainly operates in, the better the exam is graded.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Je höher der Anforderungsbereich, in dem sich der Prüfling schwerpunktmäßig bewegt, \ndesto besser ist die Prüfung zu bewerten",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirement level I lists behaviourist theories (Pawlow, Thorndike, Skinner) and cognitivist ones (insight learning, social-cognitive theory Bandura).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Lerntheorien des Behaviorismus, z. B.:\n○\nKlassische Konditionierung (Pawlow)\n○\nInstrumentelle Konditionierung (Thorndike)\n○\nOperante Konditionierung (Skinner)\n•\nLerntheorien des Kognitivismus, z. B.:\n○\nLernen durch Einsicht (Köhler sowie Wertheimer)\n○\nSozial-kognitive Lerntheorie (Bandura)",
+        "residual_flags": []
+      },
+      {
+        "content": "The examinee must make a comprehensible selection ideally covering both paradigms within their time management.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "eine nachvollziehbare Aus-\nwahl treffen, die idealerweise beide Paradigmen berücksichtigt",
+        "residual_flags": []
+      },
+      {
+        "content": "Level II example — classical conditioning: attachment to the mother is part of a learning process (second-order conditioning).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Klassische Konditionierung: Hierüber kann z. B. erklärt werden, dass die Bindung zur\nMutter Teil eines Lernprozesses ist (Mutter bzw. Geruch der Mutter = NS; Nahrung\n= UCS; die positiv gestimmte Reaktion auf den Geruch der Mutter wird in einem wei-\nteren Lernprozess auf die Mutter übertragen >> Konditionierung zweiter Ordnung",
+        "residual_flags": []
+      },
+      {
+        "content": "Level II example — operant conditioning: desired behaviours are reinforced, undesired ones punished, producing habits in a hierarchy (cf. Hull).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Operante Konditionierung: Von den Erziehungspersonen gewünschte Verhaltens-\nweisen werden verstärkt, unerwünschte Verhaltensweisen werden bestraft. Entspre-\nchend konditionierte Verhaltensweisen werden im weiteren Verlauf über diskrimina-\ntive Hinweisreize ausgelöst. Es entstehen Verhaltensgewohnheiten, sog. habits",
+        "residual_flags": []
+      },
+      {
+        "content": "Level II example — social-cognitive theory: acquisition phase (observing caregivers) and execution phase (showing behaviour depending on reinforcement).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Aneignungsphase: Beobachtung von relevantem Verhalten bei Erziehungsperso-\nnen (Umgang mit Beobachtenden oder anderen Kindern).\n○\nAusführungsphase: Zeigt beobachtetes Verhalten in ähnlichen Situationen (von\nVerstärkungsprozessen abhängig)",
+        "residual_flags": []
+      },
+      {
+        "content": "Note: a complete treatment of the social-cognitive theory is a performance that, with quality, goes beyond a grade in the good range.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die komplette Betrachtung der sozial-kognitiven Lerntheorie entspricht ei-\nner Leistung, die bei entsprechender Qualität über eine Bewertung im guten Bereich",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology-praesentation",
+        "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — IV Erwartungshorizont",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

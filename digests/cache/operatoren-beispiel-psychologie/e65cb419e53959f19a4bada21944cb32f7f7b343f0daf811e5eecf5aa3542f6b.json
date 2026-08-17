@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e65cb419e53959f19a4bada21944cb32f7f7b343f0daf811e5eecf5aa3542f6b"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-psychologie",
+      "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Definition of the operator Darstellen per the Abitur guideline (Abiturrichtlinie Psychologie): render a recognized connection or matter in a structured way.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Einen erkannten Zusammenhang oder Sachverhalt \nstrukturiert wiedergeben",
+        "residual_flags": []
+      },
+      {
+        "content": "The worked example is drawn from the Abitur 2019, basic level (gA), 1st task set.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Abitur 2019, gA, 1. Aufgabensatz",
+        "residual_flags": []
+      },
+      {
+        "content": "The example task instruction: present the Vienna childcare study (Wiener Kinderkrippenstudie / WiKi).",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Stellen Sie die Wiener Kinderkrippenstudie (WiKi) dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction): name the matter or position and indicate how you will proceed.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Sachverhalt oder Position nennen, weiteres Vorgehen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content of the introduction: the goal of the Wiener Kinderkrippenstudie (2007-2012) was to find out, through detailed standardized observation, how small children settle into daycare.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Ziel der Wiener Kinderkrippenstudie (2007-2012) war es, anhand von detaillierten \nund standardisierten Beobachtungen herauszufinden, wie sich Kleinkinder in",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (main part) instruction: present the individual elements/factors using a self-chosen or material-derived structure, in your own words, using technical language, restricted to what is presented, without examples and without evaluating.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Einzelne Elemente bzw. Faktoren des Sachverhalts oder der Position mit Hilfe einer \nselbstgewählten oder dem Material entnommenen Struktur darstellen; eigene \nFormulierungen verwenden, Ausführungen strukturieren; Fachbegriffe und Fachsprache \nbenutzen; sich auf das Dargestellte beschränken und nicht mit Beispielen erläutern; sachlich \nbleiben und nicht (mit Argumenten) bewerten",
+        "residual_flags": []
+      },
+      {
+        "content": "A study detail cited in the main part: 104 children aged between 10 and 33 months took part in the study.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "104 Kinder im Alter zwischen 10 und 33 Monaten nahmen an der Studie teil",
+        "residual_flags": []
+      },
+      {
+        "content": "A study finding: quiet, seemingly adapted children partly had strongly elevated stress values, and the children who dealt openly with negative feelings showed the best settling-in.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "anhand der erhobenen Daten wurde in der Studie deutlich, dass ruhige, angepasst \nwirkende Kinder teilweise stark erhöhte Stresswerte hatten, und diejenigen Kinder \ndie beste Eingewöhnung zeigten, die auch mit negativen Gefühlen offen umgingen",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (conclusion) example: the role of secondary attachment figures should be given special attention and examined more closely in the next sub-task.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Darstellen",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Rolle der sekundären Bindungspersonen ist in diesem Zusammenhang \nbesonders zu beachten",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 3,
+          "printed_page": 3
+        },
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Darstellen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-psychologie",
+        "section_anchor": "Darstellen",
+        "printed_page_range": "3–4"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

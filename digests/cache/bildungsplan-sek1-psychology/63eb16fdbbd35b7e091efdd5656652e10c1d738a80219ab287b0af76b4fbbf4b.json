@@ -1,0 +1,181 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:63eb16fdbbd35b7e091efdd5656652e10c1d738a80219ab287b0af76b4fbbf4b"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-psychology",
+      "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The core curriculum comprises about half of the total teaching time available, leaving room for individual deepening and emphasis depending on interests, learning progression and time.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Das Kerncurriculum umfasst von der insgesamt zur Verfügung stehenden Unterrichtszeit etwa \ndie Hälfte",
+        "residual_flags": []
+      },
+      {
+        "content": "The core curriculum considers course offerings of one to three learning years and distinguishes compulsory from elective-compulsory modules.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Innerhalb \ndes Kerncurriculums wird zwischen Pflicht- und Wahlpflichtmodulen unterschieden",
+        "residual_flags": []
+      },
+      {
+        "content": "The one-learning-year offering 'Einführung in die Psychologie' covers three compulsory modules M1-M3.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Einführung in die  \nPsychologie \nüber drei Pflichtmodule",
+        "residual_flags": []
+      },
+      {
+        "content": "Compulsory modules are M1 Psychologie als Wissenschaft, M2 Grundaspekte des psychischen Systems and M3 Die Paradigmen der Psychologie.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "M1 Psychologie als Wissenschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective-compulsory paradigm-deepening modules are M4 Tiefenpsychologie, M5 Behaviorismus and M6 Kognitivismus.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "M4 Das Paradigma der \n Tiefenpsychologie",
+        "residual_flags": []
+      },
+      {
+        "content": "The three-learning-year deepening offers one elective-compulsory module from M7 Kommunikation & Medien, M8 Peer-Beziehung & Gender or M9 Kriminalpsychologie.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "M7 Kommunikation & Medien \noder \nM8 Peer-Beziehung & Gender \noder \nM9 Kriminalpsychologie",
+        "residual_flags": []
+      },
+      {
+        "content": "The compulsory modules M1-M3 are obligatory and form the basis for work in the Studienstufe.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Inhalte der Pflichtmodule (M1–M3) sind obligatorisch zu unterrichten",
+        "residual_flags": []
+      },
+      {
+        "content": "Course rules: one year = all M1-M3; two years = M1-M3 plus two from M4-M6; three years = M1-M3 plus two from M4-M6 plus one from M7-M9.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Kurs über drei Lernjahre: alle Pflichtmodule M1–M3 + zwei Module aus M4–M6 + ein \nModul aus M7–M9",
+        "residual_flags": []
+      },
+      {
+        "content": "The module numbering is not a mandatory sequence but a recommendation based on subject-theoretical dependencies.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Nummerierung der Module stellt dabei keine verpflichtende Reihenfolge dar",
+        "residual_flags": []
+      },
+      {
+        "content": "Beyond the concrete theories, the basics of scientific procedure and selected research methods are to be taken up across modules and spirally; essential technical terms of taught modules must be conveyed.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die wesentlichen Fachbegriffe der unterrichteten Module sind verbindlich zu vermitteln",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.3 Inhalte"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-psychology",
+        "section_anchor": "2.3 Inhalte",
+        "printed_page_range": "14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

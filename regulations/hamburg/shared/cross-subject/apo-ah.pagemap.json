@@ -2,7 +2,7 @@
   "document_id": "apo-ah",
   "document_title": "APO-AH",
   "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 54,
   "page_identity": {
     "model": "simple",
@@ -212,14 +212,14 @@
     },
     {
       "section_anchor": "§ 25 Zulassung zur mündlichen Prüfung",
-      "printed_page_start": 21, "printed_page_end": 21,
-      "physical_page_start": 21, "physical_page_end": 21,
+      "printed_page_start": 21, "printed_page_end": 22,
+      "physical_page_start": 21, "physical_page_end": 22,
       "ordinance": null, "grades": null, "hazards": []
     },
     {
       "section_anchor": "§ 26 Mündliche Prüfung, Präsentation",
-      "printed_page_start": 22, "printed_page_end": 22,
-      "physical_page_start": 22, "physical_page_end": 22,
+      "printed_page_start": 22, "printed_page_end": 23,
+      "physical_page_start": 22, "physical_page_end": 23,
       "ordinance": null, "grades": null, "hazards": []
     },
     {
@@ -254,8 +254,8 @@
     },
     {
       "section_anchor": "§ 32 Allgemeine Hochschulreife",
-      "printed_page_start": 26, "printed_page_end": 27,
-      "physical_page_start": 26, "physical_page_end": 27,
+      "printed_page_start": 26, "printed_page_end": 28,
+      "physical_page_start": 26, "physical_page_end": 28,
       "ordinance": null, "grades": null, "hazards": []
     },
     {
@@ -266,14 +266,14 @@
     },
     {
       "section_anchor": "§ 34 Latinum, Graecum",
-      "printed_page_start": 30, "printed_page_end": 31,
-      "physical_page_start": 30, "physical_page_end": 31,
+      "printed_page_start": 30, "printed_page_end": 32,
+      "physical_page_start": 30, "physical_page_end": 32,
       "ordinance": null, "grades": null, "hazards": []
     },
     {
       "section_anchor": "§ 35 Übergang in die Vorstufe",
-      "printed_page_start": 32, "printed_page_end": 32,
-      "physical_page_start": 32, "physical_page_end": 32,
+      "printed_page_start": 32, "printed_page_end": 33,
+      "physical_page_start": 32, "physical_page_end": 33,
       "ordinance": null, "grades": null, "hazards": []
     },
     {

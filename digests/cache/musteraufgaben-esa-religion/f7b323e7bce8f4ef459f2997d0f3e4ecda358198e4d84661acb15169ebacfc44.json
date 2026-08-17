@@ -1,0 +1,319 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f7b323e7bce8f4ef459f2997d0f3e4ecda358198e4d84661acb15169ebacfc44"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die zentralen Personen bilden das Zentrum der jeweiligen Religion, auch im Bewusstsein der Schülerinnen und Schüler; es sind konkrete Personen wie Jesus, Muhammed oder Buddha, an denen Religion festgemacht wird.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Die zentralen Personen bilden das Zentrum der jeweiligen Religion, gerade auch im Be-\nwusstsein von Schülerinnen und Schülern. Es sind die konkreten Personen wie Jesus, \nMuhammed oder Buddha, an denen Religion(en) festgemacht werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Leben und Botschaften der zentralen Personen sind von bleibender Bedeutung, weil sie Grundfragen menschlichen Daseins und der Lebensorientierung aufgreifen und so den Orientierungsprozess besonders Jugendlicher unterstützen.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Ihr Leben und ihre Botschaften sind von bleibender Be-\ndeutung, da sie Grundfragen menschlichen Daseins und Lebensorientierung aufgreifen \nsowie Deutungs- und Handlungsoptionen aufzeigen. Damit unterstützen sie den Orien-\ntierungsprozess insbesondere auch von Jugendlichen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die zentralen Personen lassen sich nicht auf einzelne Aspekte reduzieren, bieten ein breites, vielschichtiges Bild und zeigen zugleich die Kernelemente jeder Religion, sodass auch systematische Zugänge möglich sind.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Die zentralen Personen können \nnicht auf einzelne Aspekte reduziert werden, sondern bieten ein breites und vielschichti-\nges Bild, das individuelle Zugänge, Erkundungen und Orientierungen ermöglicht. Zu-\ngleich zeigen sich an den zentralen Personen auch die Kernelemente jeder Religion, \nweshalb auch systematische Zugänge und Erkenntnisse ermöglicht werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Vielzahl von Erzählungen, Original- und Sekundärtexten, Darstellungen sowie bildlichen und filmischen Umsetzungen ermöglicht eine methodisch variantenreiche Gestaltung des Unterrichts, die eine große Breite an Leistungsständen berücksichtigt.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "von Erzählungen, Original- und Sekundärtexten, sachlichen Darstellungen sowie bildli-\nche und filmische Umsetzungen ermöglichen schließlich eine methodisch variantenrei-\nche Gestaltung des Unterrichts, die zugleich eine große Breite an Leistungsständen",
+        "residual_flags": []
+      },
+      {
+        "content": "Der interreligiöse Dialog ist durchgehende Lernform im Religionsunterricht und eignet sich besonders für die Auseinandersetzung mit den zentralen Personen, da keine einfachen Antworten möglich sind, sondern differenziertes Entdecken erforderlich ist.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Der interreligiöse Dialog ist durchgehende Lernform im Religionsunterricht und eignet \nsich besonders zur Auseinandersetzung mit den zentralen Personen der Religionen, da \nhier keine einfachen Antworten möglich sind, sondern differenziertes Entdecken",
+        "residual_flags": []
+      },
+      {
+        "content": "Inszenierte und/oder vorbereitete Dialoge bieten sich insbesondere für Auswertungs- und Beurteilungsphasen an, wo sie als offene Diskussion, ggf. mit vorangehendem Rollenspiel, gestaltet werden können.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Inszenierte und/oder vorbereitete Dialoge bieten sich insbesondere für Auswertungs- \nund Beurteilungsphasen an, wo sie als offene Diskussion, ggf. mit vorangehendem Rol-\nlenspiel, gestaltet werden können",
+        "residual_flags": []
+      },
+      {
+        "content": "Die zentralen Personen kommen im Religionsunterricht seit der Grundschule immer wieder vor; in Jg. 9/10 bietet Modul 4.1 die Möglichkeit, die Kenntnisse zu systematisieren, auch im Rahmen der Prüfungsvorbereitung am Ende der Schulzeit.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Die zentralen Personen kommen im Religionsunterricht seit der Grundschule immer wie-\nder vor. In Jg. 9/10 bietet das entsprechende Modul 4.1 die Möglichkeit, die Kenntnisse \nzusammenzufassen, zu systematisieren und sich damit unter existenzieller Perspektive \nauseinanderzusetzen. Insofern eignet sich der Themenbereich auch für eine vertiefte \nAuseinandersetzung im Rahmen der Prüfungsvorbereitung am Ende der",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Kerncurriculum sieht vor, historischen Kontext, zentrale Botschaften sowie Stellung und Bedeutung von drei zentralen Personen zu bearbeiten, im für alle Schülerinnen und Schüler verbindlichen A-Teil.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "Das Kerncurriculum sieht vor, „den historischen Kontext, die zentralen Botschaften und \ndie Stellung und Bedeutung“ von drei zentralen Personen zu bearbeiten, was im A-Teil, \nalso im für alle Schülerinnen und Schüler verbindlichen Teil",
+        "residual_flags": []
+      },
+      {
+        "content": "Als religiöse Kompetenzen sollen die Schülerinnen und Schüler u. a. (R1) die zentralen Personen mehrerer Religionen und ihre Botschaften darstellen und ansatzweise miteinander vergleichen.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "R1: stellen die zentralen Personen mehrerer Religionen und ihre zentralen Bot-\nschaften dar und vergleichen sie ansatzweise miteinander",
+        "residual_flags": []
+      },
+      {
+        "content": "Als dialogische Kompetenzen sollen die Schülerinnen und Schüler u. a. (D1) anderen Fragen stellen und interessiert Antworten hören sowie selbst in einfachen Worten antworten.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "D1: stellen anderen Fragen und hören interessiert Antworten, so wie sie selbst in",
+        "residual_flags": []
+      },
+      {
+        "content": "Als Urteilskompetenzen sollen die Schülerinnen und Schüler u. a. (U2) einen teilweise begründeten Standpunkt zu religiösen und weltanschaulichen Fragen vor dem Hintergrund einer Religion bzw. Lebensauffassung einnehmen.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "U2: nehmen einen teilweise begründeten Standpunkt zu religiösen",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Rahmenplan weist zusätzlich überfachliche Kompetenzen aus: strukturiertes, systematisches Vorgehen beim Lernen sowie das Planen und Organisieren eigener Arbeitsprozesse.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "geht beim Lernen strukturiert und systematisch vor, plant und organisiert eigene",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Aufgabenstellung ermöglicht es den Prüflingen, ein breites Band an Kompetenzen zu zeigen.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "Die Aufgabenstellung ermöglicht es den Prüflingen, ein breites Band an Kompetenzen \nzu zeigen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die erworbenen Fachkenntnisse zeigen sich bei der Vorstellung der zentralen Personen, im Dialog und bei den Nachfragen und Impulsen für das Prüfungsgespräch.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "Die im Unterricht und in der Vorbereitung erworbenen Fachkenntnisse zeigen \nsich bei der Vorstellung der zentralen Personen, im Dialog und bei den Nachfra-\ngen und Impulsen für das Prüfungsgespräch",
+        "residual_flags": []
+      },
+      {
+        "content": "Differenziertheit und Komplexität zeigen sich besonders darin, ob ein Prüfling über eine beschreibende Darstellung hinaus die Frage der Vorbildhaftigkeit an konkreten Handlungen der zentralen Personen festmacht.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "über eine beschreibende Darstellung hinaus die Frage der Vorbildhaftigkeit an",
+        "residual_flags": []
+      },
+      {
+        "content": "Ein wichtiger Maßstab für die Breite der Fachkenntnisse ist, ob ein Prüfling nicht nur in der eigenen, sondern auch in anderen Religionen über Kenntnisse verfügt.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "Ein wichtiger Maßstab für die Breite der Fachkenntnisse ist, \nob und inwieweit ein Prüfling über Kenntnisse nicht nur in der eigenen, sondern",
+        "residual_flags": []
+      },
+      {
+        "content": "Ein noch höherer Komplexitätsgrad liegt in der Frage, inwieweit eine der zentralen Personen auch Vorbild für Menschen sein kann, die nicht der jeweiligen Religion angehören.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "inwieweit eine der zentralen Personen auch \nVorbild für Menschen sein kann, die nicht der jeweiligen Religion angehören",
+        "residual_flags": []
+      },
+      {
+        "content": "Die dialogische, kommunikative Kompetenz zeigt sich bei der Durchführung des vorbereiteten Dialogs und im Prüfungsgespräch.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "Die dialogische, kommunikative Kompetenz zeigt sich bei der Durchführung des \nvorbereiteten Dialogs und im Prüfungsgespräch",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Urteilsfähigkeit eines Prüflings zeigt sich vor allem in der abschließenden Stellungnahme, in der Schlussfolgerungen aus Leben und Botschaft zentraler Personen für das eigene Leben gezogen werden.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "Die Urteilsfähigkeit eines Prüflings, aber auch dessen inhaltlich-fachliche Durch-\ndringung des Themas zeigt sich darin, inwiefern insbesondere in der abschlie-\nßenden Stellungnahme Schlussfolgerungen aus dem Leben und der Botschaft \neiner oder mehrerer zentraler Personen für das eigene Leben gezogen werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Die lernmethodische Kompetenz eines Prüflings zeigt sich darin, wie er die Kurzpräsentation und den Dialog strukturiert und dies im Prüfungsgespräch begründen kann.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Didaktische und methodische Erläuterungen",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "Die lernmethodische Kompetenz eines Prüflings zeigt sich darin, wie er die Kurz-\npräsentation und den Dialog strukturiert",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "b. Didaktische und methodische Erläuterungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "b. Didaktische und methodische Erläuterungen",
+        "printed_page_range": "9–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

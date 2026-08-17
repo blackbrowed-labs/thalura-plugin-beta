@@ -1,0 +1,124 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:66260f8c602fad9e6452713f1c74d1bb45b0a73e0197b75ed138dfbd46f50d20"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The ordinance is the examination and promotion ordinance (Ausbildungs- und Prüfungsordnung) for the Grundschule and grades 5-10 of the Stadtteilschule and the Gymnasium, abbreviated APO-GrundStGy.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy — Inhaltsübersicht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Ausbildungs- und Prüfungsordnung für die Grundschule \nund die Jahrgangsstufen 5 bis 10  \nder Stadtteilschule und des Gymnasiums  \n(APO-GrundStGy)",
+        "residual_flags": []
+      },
+      {
+        "content": "It dates from 22 July 2011 and was last amended on 8 April 2024.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy — Inhaltsübersicht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Vom 22. Juli 2011 (HmbGVBl. S. 325),\nzuletzt geändert am 8. April 2024 (HmbGVBl. S. 685)",
+        "residual_flags": []
+      },
+      {
+        "content": "Its legal basis is the Hamburg School Act (Hamburgisches Schulgesetz) plus the Weiterübertragungsverordnung-Schulrecht.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy — Inhaltsübersicht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Auf Grund von § 8 Absatz 4, § 44 Absatz 4 und § 46 Absatz 2 Nummer 2 \ndes Hamburgischen Schulgesetzes",
+        "residual_flags": []
+      },
+      {
+        "content": "Section 2 of the ordinance governs performance assessment (Leistungsbewertung) and the appraisal of cross-curricular competencies (überfachliche Kompetenzen).",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy — Inhaltsübersicht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "ABSCHNITT 2 \nLeistungsbewertung und Einschätzung überfachlicher Kompetenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Annex 1 sets out the grading scheme (Notengebung) for grades 7 to 10 of the general schools.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy — Inhaltsübersicht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Notengebung in den Jahrgangsstufen 7 bis 10  \nder allgemeinen Schulen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "APO-GrundStGy — Inhaltsübersicht"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "APO-GrundStGy — Inhaltsübersicht",
+        "printed_page_range": "5–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

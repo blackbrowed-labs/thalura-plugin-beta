@@ -1,0 +1,211 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c17a9e628674e6f2d3a8edc097381a817c039116350aa325def1905d551b0abf"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In the Abitur exam candidates demonstrate knowledge and skills in the competence areas functional communicative competence (listening, reading, writing, mediation, command of linguistic means), intercultural communicative competence, text and media competence, and language awareness.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "In der Abiturprüfung weisen die Prüflinge Kenntnisse und Fertigkeiten in folgenden Kom-\npetenzbereichen auf Basis der Bildungsstandards und des Bildungsplans nach: \n•\nfunktionale kommunikative Kompetenz,\n◦\nHörverstehen,\n◦\nLeseverstehen,\n◦\nSchreiben,\n◦\nSprachmittlung,\n◦\nVerfügen über sprachliche Mittel,\n•\ninterkulturelle kommunikative Kompetenz,\n•\nText- und Medienkompetenz,\n•\nSprachbewusstheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "The exam tasks must cover the three requirement areas I, II and III.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Durch die Aufgaben der Prüfung müssen die drei Anforderungsbereiche I, II und III (siehe \nAbschnitt 3) abgedeckt sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "The working time for the tasks is taken from the applicable 'Regelungen für die zentralen schriftlichen Prüfungsaufgaben'.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Bearbeitungszeit der Aufgaben ist den jeweils gültigen „Regelungen für die zentralen \nschriftlichen Prüfungsaufgaben“ zu entnehmen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Exam tasks are set centrally; the Amt für Bildung presents the tasks to the subject teachers.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Prüfungsaufgaben werden zentral gestellt. Das Amt für Bildung legt den Fachlehr-\nkräften folgende Aufgaben vor:",
+        "residual_flags": []
+      },
+      {
+        "content": "In the compulsory writing part teachers receive one text with tasks for each of the two focus topics; the focus topics are fixed in the Regelungen für die zentralen schriftlichen Prüfungsaufgaben.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Im verpflichtenden Prüfungsteil „Schreiben“ erhalten die Fachlehrkräfte zu den zwei \nSchwerpunktthemen jeweils einen Text mit Aufgaben. Die Schwerpunktthemen sind fest-\ngelegt in den Regelungen für die zentralen schriftlichen Prüfungsaufgaben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates receive both texts and tasks and select one text with its tasks; the writing part counts 55% of the written Abitur assessment.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "1. Die Prüflinge erhalten beide Texte und Aufgaben und wählen einen Text mit den\ndazugehörigen Aufgaben zur Bearbeitung aus. Die von den Prüflingen in diesem\nPrüfungsteil erbrachten Leistungen gehen zu 55% in die Bewertung der schriftli-\nchen Abiturprüfung ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the two further exam parts candidates each receive one mediation (Sprachmittlung) task and one listening comprehension (Hörverstehen) task.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "In den zwei weiteren Prüfungsteilen erhalten die Prüflinge jeweils \n2. eine Aufgabe aus dem Bereich Sprachmittlung,\n3. eine Aufgabe aus dem Bereich Hörverstehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Sprachmittlung and Hörverstehen tasks are thematically independent of the focus topics.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Aufgaben zu den Bereichen Sprachmittlung und Hörverstehen sind inhaltlich unab-\nhängig von den Schwerpunktthemen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Sprachmittlung performance counts 25% and the Hörverstehen result 20% of the written Abitur assessment.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die in der Sprachmittlung erbrachte Leistung geht mit 25% in die Bewertung der schrift-\nlichen Abiturprüfung ein, das Ergebnis des Hörverstehens mit 20%.",
+        "residual_flags": []
+      },
+      {
+        "content": "At the end of each working time the exam materials are collected.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Am Ende der jeweiligen Bearbeitungszeit werden die Prüfungsunterlagen eingesammelt.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Hörverstehen and Sprachmittlung parts test the communicative competences acquired in the Qualifikationsphase.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Prüfungsteile Hörverstehen und Sprachmittlung überprüfen die im Unterricht der \nQualifikationsphase erworbenen entsprechenden kommunikativen Kompetenzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The writing tasks arise from Studienstufe teaching and one writing task covers all three requirement areas.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Schreibaufgaben gehen auch inhaltlich aus dem Unterricht der Studienstufe her-\nvor und umfassen unterschiedliche fachliche Kompetenzen. Eine Schreibaufgabe für die \nschriftliche Abiturprüfung deckt alle drei beschriebenen Anforderungsbereiche (vgl. Ab-\nschnitt 3.2) ab.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.1 Allgemeine Hinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "4.1 Allgemeine Hinweise",
+        "printed_page_range": "10–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

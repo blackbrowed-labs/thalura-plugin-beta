@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:59907e1684e1ce5f6b6701f31788670384595987615d849eda20394340da5f9c"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Im Folgenden werden drei Anforderungsbereiche unterschieden.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "im Folgenden drei Anforderungsbereiche unterschieden",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich I: Wiedergeben von Sachverhalten aus einem abgegrenzten Gebiet.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Anforderungsbereich I umfasst das Wiedergeben von Sachverhalten aus einem ab-\ngegrenzten Gebiet und im gelernten Zusammenhang unter",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Reproduktion erfolgt unter rein reproduktiver Nutzung eingeuebter Arbeitstechniken.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "unter rein reproduktiver Nut-\nzung eingeübter Arbeitstechniken",
+        "residual_flags": []
+      },
+      {
+        "content": "Grundsätzlich verlangt die Aufgabenstellung in der Abiturprüfung den Prüflingen Anforderungen aus allen drei Bereichen ab.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Grundsätzlich verlangt die Aufgabenstellung in der Abiturprüfung den Prüflingen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Anforderungen in der Abiturprüfung liegen schwerpunktmäßig im Anforderungsbereich II.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Anforderungen in der Abiturprüfung liegen schwerpunktmäßig im",
+        "residual_flags": []
+      },
+      {
+        "content": "Gute und sehr gute Bewertungen setzen Leistungen voraus, die mit einem wesentlichen Anteil dem Anforderungsbereich III zuzuordnen sind.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Leistungen voraus, die mit einem wesentlichen Anteil dem Anforderungsbereich III",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3.1 Allgemeine Hinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "3.1 Allgemeine Hinweise",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

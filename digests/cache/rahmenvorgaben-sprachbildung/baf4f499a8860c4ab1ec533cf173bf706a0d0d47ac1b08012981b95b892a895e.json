@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:baf4f499a8860c4ab1ec533cf173bf706a0d0d47ac1b08012981b95b892a895e"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The purpose of naming (Benennen) is to classify knowledge elements to have a common communication basis; enumerating additionally serves to present the collection clearly.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 2: BENENNEN & AUFZÄHLEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Zweck des Benennens ist es, Wissensele",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can recognize named knowledge elements and assign them to the corresponding reality elements on various representation forms.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 2: BENENNEN & AUFZÄHLEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "benannte Wissenselemente wiedererkennen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can name objects, processes and properties and use technical terms (Fachtermini) to classify knowledge elements.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 2: BENENNEN & AUFZÄHLEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Gegenstände, Prozesse und Eigenschaften benennen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can, in exchange with others, make and check or correct namings.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 2: BENENNEN & AUFZÄHLEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "im Austausch mit Anderen Benennungen vornehmen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 2: BENENNEN & AUFZÄHLEN"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 2: BENENNEN & AUFZÄHLEN",
+        "printed_page_range": "19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

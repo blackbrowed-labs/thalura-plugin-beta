@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c267ee6bae84143f05c842b0e91b11910df5e3ea485e2076973379fca61a24bf"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The oral exam refers to content/competence areas of at least two semesters.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die mündliche Prüfung bezieht sich auf Inhalts- bzw. Kompetenzbereiche mindestens zweier Semester der Studienstufe.",
+        "residual_flags": []
+      },
+      {
+        "content": "The content areas are the working areas named in the Philosophy framework plan.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "„(A) Anthropologie und Kultur“, „(B) Ethik und Politik“, „(C) Sprache und Erkenntnis“, „(D) Metaphysik“",
+        "residual_flags": []
+      },
+      {
+        "content": "Exam and preparation time are each about 30 minutes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Prüfung dauert etwa 30 Minuten, die Vorbereitungszeit ebenso.",
+        "residual_flags": []
+      },
+      {
+        "content": "A written task is put before the candidate.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Für die mündliche Prüfung wird dem Prüfling eine schriftliche Aufgabe vorgelegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Topics from all four semesters may be the object of the exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "In der mündlichen Prüfung können Themen aus allen vier Semestern der Studienstufe Gegenstand der Prüfung sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Eine Aufgabenstellung, die einer bereits bearbeiteten aehnelt, ist nicht zulaessig.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Eine Aufgabenstellung, die einer bereits bearbeiteten ähnelt",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.1.1 Form und Aufgabenstellung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "5.1.1 Form und Aufgabenstellung",
+        "printed_page_range": "16–17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:a5ac1ebd998563c1d9bfce2ab059358d44bd6a0708115702be75b075e180eb44"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The presentation exam refers to content/competence areas of at least two semesters and may not be restricted to only one semester despite emphasis.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die in der Präsentationsprüfung zu bearbeitende Prü-\nfungsaufgabe darf sich trotz einer prüfungsdidaktischen Schwerpunktbildung nicht auf \ndie Inhalts- bzw. Kompetenzbereiche nur eines Semesters beziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the first, roughly 10-minute part, the candidate presents the solution in a media-supported talk emphasizing coherent, free speech supported by notes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "in dem der Prüfling die Lösung zu der gestellten \nAufgabe präsentiert. Dabei wird auf eine zusammenhängende Darstellung und freie \nRede Wert gelegt",
+        "residual_flags": []
+      },
+      {
+        "content": "Unlike the written exam, candidates show they can give information on psychological matters in free presentation with appropriate media use and take a reasoned position in discussion.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "zeigen \ndie \nPrüflinge \nin \nder Präsentationsprüfung, dass sie über psychologische Sachverhalte und Probleme \nin freiem Vortrag unter angemessenem Medieneinsatz Auskunft geben",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must research information in a targeted way and select and apply suitable working methods.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Informationen zielgerichtet zu recherchieren,",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must find a cogent, differentiated solution and present their results with appropriate media use.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "eine triftige und differenzierte Lösung der Aufgabe zu finden,",
+        "residual_flags": []
+      },
+      {
+        "content": "The task enables reflective engagement with a psychological problem including a personal evaluation and is workable in the available time, demanding all three requirement areas.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Aufgabenstellung \nermöglicht \neine \nreflektierte \nAuseinandersetzung \nmit \neinem \npsychologischen Problem",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.2.1 Form und Aufgabenstellung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "5.2.1 Form und Aufgabenstellung",
+        "printed_page_range": "16–17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

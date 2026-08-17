@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:27da53d5a86dffb05e1bbf2476ec2fc9eda55e9bfd6ea5d2bf6a516c0a2defeb"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie",
+      "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The assessment of the oral examination follows in principle the standard used for the written examination.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6.2 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Bewertung der Prüfungsleistung in der mündlichen Prüfung erfolgt grundsätzlich in \nAnlehnung an den Maßstab für die Bewertung der schriftlichen Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The subject-specific performance of the candidate is at the centre of the assessment.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6.2 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Zentrum der \nBewertung steht die fachliche Leistung des Prüflings.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria include speaking clearly and in a differentiated way, presenting prepared and structured results freely and addressee-oriented, and conducting a topic-bound discussion that takes up conversational impulses.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6.2 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Der Prüfling drückt sich klar und differenziert aus, trägt die vorbereiteten und ge-\ngliederten Arbeitsergebnisse frei vor und stellt sie adressatenbezogen dar. \n• \nDer Prüfling führt ein themengebundenes Gespräch, geht dabei auf Gesprächsim-\npulse in der Prüfung ein und bringt gegebenenfalls eigene sach- und problemge-\nrechte Beiträge zu diesen Impulsen ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "The candidate must place facts or problems in superordinate contexts and engage with them independently, where appropriate taking a personal position.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6.2 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Der Prüfling nimmt eine Einordnung von Sachverhalten oder Problemen in überge-\nordnete Zusammenhänge vor. \n• \nDer Prüfling setzt sich mit den Sachverhalten und Problemen selbstständig ausei-\nnander und nimmt gegebenenfalls eine eigene Stellungnahme vor.",
+        "residual_flags": []
+      },
+      {
+        "content": "The subject-specific assessment criteria are found in the respective annex (Anlage).",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6.2 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die spezifischen Kriterien für die Bewertung in den einzelnen Fächern sind der jeweiligen \nAnlage zu entnehmen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6.2 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie",
+        "section_anchor": "6.2 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+        "printed_page_range": "9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

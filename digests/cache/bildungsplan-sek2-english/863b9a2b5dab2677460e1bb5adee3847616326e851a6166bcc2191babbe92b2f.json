@@ -1,0 +1,137 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:863b9a2b5dab2677460e1bb5adee3847616326e851a6166bcc2191babbe92b2f"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Where the labels A1 to C2 appear, they refer to the competence levels of the Common European Framework of Reference (GER).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Soweit im Folgenden die Bezeichnungen A1, A2, B1, B2, C1, C2 angegeben sind, beziehen sich diese auf die \nKompetenzstufen des Gemeinsamen Europäischen Referenzrahmens für Sprachen",
+        "residual_flags": []
+      },
+      {
+        "content": "For the intercultural-competence area the standards apply generally and the same goals hold for all students.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Niveaudifferenzierung: Die Standards zu diesem Kompetenzbereich sind für den Fremdsprachenunterricht der \nStudienstufe allgemein gültig. Für alle Schülerinnen und Schüler gelten die gleichen Ziele.",
+        "residual_flags": []
+      },
+      {
+        "content": "The competence tables distinguish a basic requirement level (grundlegendes Anforderungsniveau, B2) from a raised one.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "grundlegendes Anforderungsniveau \nB2",
+        "residual_flags": [
+          "page-multi-match:physical-14-earliest-of-8-candidate-pages"
+        ]
+      },
+      {
+        "content": "Monological speaking: students can give clear and detailed accounts, defend their standpoint and state the advantages and disadvantages of options.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler können klare und detaillierte Darstellungen geben, ihren Standpunkt vertreten und \nerläutern sowie Vor- und Nachteile verschiedener Optionen angeben.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Fachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "2.2 Fachliche Kompetenzen",
+        "printed_page_range": "13–21"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6793300fd7d20ec0ed0c9e593234ddfc77ac9137e9b6d06b1980874c4eec8d11"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-philosophie",
+      "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Operator Zusammenfassen (summarize) is defined as rendering the essential aspects of the material in one's own words, structured and condensed.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Wesentliche Aspekte (des Materials)  in eigenen Worten struktu-\nriert und komprimiert wiedergeben",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction): name author, title, where applicable date of origin, text type and topic or question.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Verfasser, Titel, ggf. die Entstehungszeit, Textsorte und Thema bzw. Fragestellung nennen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (main part): render the central statements and arguments in one's own words, in reported speech and factual-logical order, using technical language, without references.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die zentralen Aussagen und Argumentationen des Materials in eigenen Worten, indirekter \nRede und sachlogischer Ordnung unter Verwendung der Fachsprache ohne Belege und Ver-\nweise wiedergeben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Text references, quotations and line references are dispensable in a summary.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Textverweise, Zitate und Zeilenverweise sind entbehrlich.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (closing) is not required for this operator.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "3. Schritt: Schluss \nNicht erforderlich.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Zusammenfassen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-philosophie",
+        "section_anchor": "Zusammenfassen",
+        "printed_page_range": "5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

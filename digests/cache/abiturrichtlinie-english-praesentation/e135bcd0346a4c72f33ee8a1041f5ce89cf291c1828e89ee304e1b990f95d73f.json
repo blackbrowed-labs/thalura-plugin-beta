@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e135bcd0346a4c72f33ee8a1041f5ce89cf291c1828e89ee304e1b990f95d73f"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "One overall grade is formed for both parts of the presentation exam, with the language performance predominating.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — VI Bewertungshinweise",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Für die beiden Teile der Präsentationsprüfung wird eine Gesamtnote gebildet, bei der \ndie sprachliche Leistung überwiegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment rests on the descriptor tables in Abiturrichtlinie 2018, Annex 2 English; the tables shown are adapted excerpts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — VI Bewertungshinweise",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Der Bewertung werden die Deskriptorentabellen zugrunde gelegt, die in der Abiturricht-\nlinie 2018, Anlage 2 Englisch, enthalten sind.  \nDie folgenden Tabellen sind Auszüge aus diesen Deskriptorentabellen. Sie wurden im \nTeilbereich „inhaltliche Aufgabenerfüllung“ der konkreten Prüfung angepasst.",
+        "residual_flags": []
+      },
+      {
+        "content": "For a 'gut' presentation the candidate sums up Canada's self-image (diversity as strength) pointedly and coherently.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — VI Bewertungshinweise",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "• fasst das in der Rede geäußerte Selbst-\nbild Kanadas (Vielfalt als Stärke) poin-\ntiert und kohärent zusammen,",
+        "residual_flags": []
+      },
+      {
+        "content": "A 'gut' presentation analyses the content and language design of Trudeau's speech competently and almost completely, using apt textual evidence.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — VI Bewertungshinweise",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "• analysiert sachkompetent und nahezu \nvollständig die inhaltliche und sprachli-\nche Gestaltung der Rede Trudeaus an-\nhand sinnvoller Textstellen,",
+        "residual_flags": []
+      },
+      {
+        "content": "At 'ausreichend' the summary of Canada's self-image is superficial and barely coherent, and only rudimentary elements of speech-analysis method are shown.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — VI Bewertungshinweise",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• demonstriert insgesamt in Ansätzen \nElemente fachmethodischer Kompe-\ntenz bei der Redeanalyse,",
+        "residual_flags": []
+      },
+      {
+        "content": "Part 2 (Fachgespräch) is graded on content/task fulfilment and interactive language; at 'gut' the candidate interacts skilfully and reacts mostly spontaneously.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — VI Bewertungshinweise",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• reagiert meist spontan, auch bei diffe-\nrenzierten inhaltlichen Anforderungen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Canada — VI Bewertungshinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Canada — VI Bewertungshinweise",
+        "printed_page_range": "17–18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

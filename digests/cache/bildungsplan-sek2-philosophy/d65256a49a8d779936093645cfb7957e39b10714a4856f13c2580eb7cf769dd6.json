@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:d65256a49a8d779936093645cfb7957e39b10714a4856f13c2580eb7cf769dd6"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content: trust and mistrust in science; significance and limits of science; science and pseudoscience.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Wissen, Wissenschaft, Skeptizismus",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Wissenschaftsvertrauen und Wissenschaftsmisstrauen \n• Bedeutung und Grenzen der Wissenschaft \n• Wissenschaft und Pseudowissenschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Concepts in brackets: the value-freedom ideal, the problem of induction, empirical and axiomatic science, the demarcation problem.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Wissen, Wissenschaft, Skeptizismus",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "(das Wertfreiheitsideal, das Induktionsproblem, empirische und \naxiomatische Wissenschaft, das Abgrenzungsproblem)",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised requirement level: knowledge and validity claims in different sciences (context of discovery and context of justification, scientific revolutions, paradigms).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Wissen, Wissenschaft, Skeptizismus",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Zusätzlich im erhöhten Anforderungsniveau: \nErkenntnis und Geltungsansprüche in verschiedenen Wissen-\nschaften",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective W: students examine epistemic values of science (e.g. objectivity, generality, precision).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Wissen, Wissenschaft, Skeptizismus",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Schülerinnen und Schüler prüfen epistemische Werte der \nWissenschaft (z. B. Objektivität, Allgemeinheit, Genauigkeit)",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective BNE: students engage with scepticism towards scientific findings, often tied to criticism of sustainability policies.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Wissen, Wissenschaft, Skeptizismus",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Schülerinnen und Schüler setzen sich mit Skepsis bezüglich \nwissenschaftlicher Forschungsergebnisse auseinander",
+        "residual_flags": []
+      },
+      {
+        "content": "Specialist terms: Induktion, Deduktion, Verifikation, Falsifikation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2 — Wissen, Wissenschaft, Skeptizismus",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Induktion, Deduktion, Veri-\nfikation, Falsifikation",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 2 — Wissen, Wissenschaft, Skeptizismus"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 2 — Wissen, Wissenschaft, Skeptizismus",
+        "printed_page_range": "16"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

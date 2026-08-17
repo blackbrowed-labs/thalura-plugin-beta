@@ -1,0 +1,237 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:130371b7aeee23ca0723894a49889e51bdbda827f82321d7443a9a1f395a7934"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In drama lessons students always create something of their own and new, possibly something unforeseeable.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Die Schülerinnen und Schüler gestalten im Theaterunterricht immer etwas Eigenes und Neues, \nunter Umständen auch etwas nicht Vorhersehbares.",
+        "residual_flags": []
+      },
+      {
+        "content": "As a rule there are no uniform, unambiguous solutions to play tasks; rather, divergent results arise that may lie beyond standardised expectations, which can constitute a considerable part of their quality.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Es gibt in der Regel keine gleichartigen, \neindeutigen Lösungen von Spielaufgaben. Vielmehr entstehen divergierende Ergebnisse, die \nmöglicherweise jenseits genormter Vorstellungen liegen, was jedoch einen erheblichen Teil \nihrer Qualität ausmachen kann.",
+        "residual_flags": []
+      },
+      {
+        "content": "In assessment, such differences arising from students' individuality are to be perceived and appropriately taken into account.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Bei der Bewertung sind derartige, aus der Individualität der \nSchülerinnen und Schüler resultierende Unterschiede wahrzunehmen und angemessen zu \nberücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessments (Klausuren) in the pre-stage of the upper school are to be designed so that students are prepared for the task formats of the study stage.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Die Klausuren in der Vorstufe der gymnasialen Oberstufe sind so zu gestalten, dass die Schü-\nlerinnen und Schüler auf die Aufgabenformate der Studienstufe vorbereitet werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In drama, assessment of ongoing coursework considers in particular certain activities and products.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Die Bewertung der in der laufenden Unterrichtsarbeit erbrachten Leistungen berücksichtigt im \nFach Theater insbesondere folgende Aktivitäten und Produkte:",
+        "residual_flags": []
+      },
+      {
+        "content": "These include warm-ups, play-practical exercises and training, and elaboration and presentation of play-practical tasks.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Warm-ups, spielpraktische Übungen und Trainings \n• \nErarbeitung spielpraktischer Aufgaben und Präsentation",
+        "residual_flags": []
+      },
+      {
+        "content": "These include contributions in reflection processes, feedback phases and communicative group processes, and participation in organisational and other tasks of a project.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Beiträge in Reflexionsprozessen, Feedbackphasen und kommunikativen Gruppenpro-\nzessen in Projekten \n• \nBeteiligung an Organisations- und anderen Aufgaben in einem Projekt",
+        "residual_flags": []
+      },
+      {
+        "content": "These include written tasks such as writing monologues, dialogues, role interviews and rehearsal diaries.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "schriftliche Aufgaben (z. B. Verfassen von Monologen, Dialogen, Rollenbefragungen, \nProbentagebüchern u. v. m.).",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment considers whether the student advances the elaboration process in the fields of body, space and time and solves theatrical design, reflection and reception tasks.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "den Erarbeitungsprozess in den Handlungsfeldern Körper, Raum und Zeit fördert \n• \ntheatrale Gestaltungs-, Reflexions- und Rezeptionsaufgaben löst",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment considers whether the student contributes to the success of a theatrical presentation or project and establishes sociocultural references or draws in theatre-theoretical or historical knowledge.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "zum Gelingen einer theatralen Präsentation bzw. eines theatralen Projekts beiträgt \n• \nsoziokulturelle Bezüge herstellt bzw. theatertheoretische oder -geschichtliche Kennt-\nnisse einbezieht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Individual criteria include presence in play, perception and attention for oneself and the group, and variety and purposefulness in using theatrical design means.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Präsenz im Spiel \n• \nWahrnehmung und Aufmerksamkeit für sich und die Gruppe \n• \nVielfalt und Zielgerichtetheit des Einsatzes theatraler Gestaltungsmittel bei der Erar-\nbeitung und Präsentation spielpraktischer Aufgaben",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria include creativity and originality in play-practical acting, experimenting and improvising, and differentiation in observing and reflecting theatrical forms of expression and giving feedback.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Kreativität und Originalität beim spielpraktischen Agieren, Experimentieren und Impro-\nvisieren \n• \nDifferenziertheit bei der Beobachtung und Reflexion theatraler Ausdrucksformen sowie \nbeim Geben von Feedback zu spielpraktischen Präsentationen",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria include constructiveness in giving and taking feedback for productive continued work on the project.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Konstruktivität beim Geben und Nehmen von Feedback zur produktiven Weiterarbeit \nam Projekt",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria include constructiveness in the rehearsal process: independence, stamina, openness, committed group collaboration, effective time management, reliable adherence to agreements and taking responsibility for the joint production.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7m) Theater",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Konstruktivität im Probenprozess: Selbstständigkeit, Ausdauer, Aufgeschlossenheit, \nengagierte Zusammenarbeit in der Gruppe, effektives Zeitmanagement bei der Bear-\nbeitung spielpraktischer Aufgaben, verlässliche Einhaltung von Vereinbarungen, Über-\nnahme von Verantwortung für das gute Gelingen der gemeinsamen Produktion.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7m) Theater"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7m) Theater",
+        "printed_page_range": "30–31"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

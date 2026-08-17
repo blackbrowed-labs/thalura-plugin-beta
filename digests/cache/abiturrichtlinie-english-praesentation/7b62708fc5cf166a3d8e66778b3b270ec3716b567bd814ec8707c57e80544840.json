@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7b62708fc5cf166a3d8e66778b3b270ec3716b567bd814ec8707c57e80544840"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content anchors: semester topic 'Literary Visions of the Future' (topic area B, universal themes of humanity) and 'Media and Society' (topic area E, art, culture, media).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "o Semesterthema Literary Visions of the Future  \nThemenbereich B: Universelle Themen der Menschheit \no Semesterthema Media and Society \nThemenbereich E: Kunst, Kultur, Medien: kennen, verstehen, ge-\nnießen",
+        "residual_flags": []
+      },
+      {
+        "content": "Under intercultural competences, students are familiar with universal themes such as identity, love, the future and death.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "– Themen, die universelle Bedeutung haben, wie z.B. Identität, \nLiebe, Zukunft, Tod.",
+        "residual_flags": []
+      },
+      {
+        "content": "The exam topics relate to the two focus topics Literary Visions of the Future and Media and Society.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die inhaltlichen Themen der Präsentationsprüfung beziehen sich auf \ndie Schwerpunktthemen Literary Visions of the Future und Media and \nSociety.",
+        "residual_flags": []
+      },
+      {
+        "content": "Utopia/dystopia teaching used K. Vonnegut's Harrison Bergeron and extracts from D. Eggers' The Circle and M.T. Anderson's Feed.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "• Definitionen und Beispiele verschiedener Utopien und Dystopien \n(z.B. K. Vonnegut, Harrison Bergeron, Auszüge aus D. Eggers, The \nCircle, Auszüge aus M.T. Anderson, Feed)",
+        "residual_flags": []
+      },
+      {
+        "content": "The Media and Society semester covered forms of media, media awareness and media literacy, access to and functions of media, media and privacy, and advertising.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "• forms of media: print media, electronic/digital media; TV; radio \n• media awareness, media literacy \n• access to and prime functions of media \n• the media and privacy (privacy control vs. mass surveillance) \n• advertising",
+        "residual_flags": []
+      },
+      {
+        "content": "Film analysis in that semester was based on The Truman Show.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "• Filmanalyse anhand von The Truman Show",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Social media — III Unterrichtsmaterial / Bildungsplanbezüge"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Social media — III Unterrichtsmaterial / Bildungsplanbezüge",
+        "printed_page_range": "25–26"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

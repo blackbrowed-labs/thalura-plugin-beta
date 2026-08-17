@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f15f17aefbf4454d3af4bd763565ce13764aac20fc17b85e48562f8a7c0d414a"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-psychology",
+      "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In module M1 students learn essential scientific aspects and professional profiles of psychology.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M1 Psychologie als Wissenschaft (1. Lernjahr — Einführung in die Psychologie)",
+          "printed_page": 1,
+          "physical_page": 15
+        },
+        "cited_text": "lernen in diesem Modul wesentliche \nfachwissenschaftliche Aspekte und Berufsbilder der Psychologie ken-\nnen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content: everyday vs. scientific psychology, including functions of everyday psychology (e.g. security, orientation) and features of scientific psychology (e.g. generalisability, falsifiability, objectivity, operationalisation).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M1 Psychologie als Wissenschaft (1. Lernjahr — Einführung in die Psychologie)",
+          "printed_page": 1,
+          "physical_page": 15
+        },
+        "cited_text": "Merkmale wissenschaftlicher Psychologie (z. B. Allgemeingültig-\nkeit, Falsifizierbarkeit, Überprüfbarkeit, Wiederholbarkeit, Objektivi-\ntät, Systematik/Methodik, Operationalisierung)",
+        "residual_flags": []
+      },
+      {
+        "content": "The scientific procedure comprises observation, describing, explaining, predicting and intervention.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M1 Psychologie als Wissenschaft (1. Lernjahr — Einführung in die Psychologie)",
+          "printed_page": 1,
+          "physical_page": 15
+        },
+        "cited_text": "Beobachtung (Forschungsmethode) \n• Beschreiben (Fallbeispiele) \n• Erklären (Theoriebildung) \n• Vorhersagen (Hypothesenbildung) \n• Intervention (Therapie)",
+        "residual_flags": []
+      },
+      {
+        "content": "The basics of research methods to be treated exemplarily include observation, tests, questionnaires and interviews, experiments, and representativeness with study and control groups.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M1 Psychologie als Wissenschaft (1. Lernjahr — Einführung in die Psychologie)",
+          "printed_page": 1,
+          "physical_page": 15
+        },
+        "cited_text": "Beobachtung (teilnehmend, nicht-teilnehmend, standardisiert)",
+        "residual_flags": []
+      },
+      {
+        "content": "Professional profiles with a psychological background are distinguished, e.g. psychologist, psychotherapist, psychiatrist, Heilpraktiker and counsellor.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M1 Psychologie als Wissenschaft (1. Lernjahr — Einführung in die Psychologie)",
+          "printed_page": 1,
+          "physical_page": 15
+        },
+        "cited_text": "Berufsbilder mit psychologischem Hintergrund",
+        "residual_flags": []
+      },
+      {
+        "content": "The module links to the cross-cutting field of career orientation (Berufsorientierung).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M1 Psychologie als Wissenschaft (1. Lernjahr — Einführung in die Psychologie)",
+          "printed_page": 1,
+          "physical_page": 15
+        },
+        "cited_text": "Berufsorientierung: vgl. „Berufsbilder mit psychologischem Hinter-\ngrund“",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 1
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "M1 Psychologie als Wissenschaft (1. Lernjahr — Einführung in die Psychologie)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-psychology",
+        "section_anchor": "M1 Psychologie als Wissenschaft (1. Lernjahr — Einführung in die Psychologie)",
+        "printed_page_range": "1"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ee5c6bd086fc857f9767570fc98ccdabb1ea53b0398dd210764fbcec68e02c31"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students communicate about current political and societal topics in increasingly complex situations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "über aktuelle politische und gesellschaftliche Themen,",
+        "residual_flags": []
+      },
+      {
+        "content": "The bold-printed topics are compulsory to cover.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Die fettgedruckten Themen sind verpflichtend zu behandeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "A content strand covers current political and societal topics shaping young people's lives.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Aktuelle politische und gesellschaftliche Themen,",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspects include polarised societies and climate change.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "polarised societies \n• climate change",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspects include managing current crises.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "managing current crises",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspects include social engagement and protest movements.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "social engagement and protest movements",
+        "residual_flags": []
+      },
+      {
+        "content": "A content strand covers migration and coexistence in a multicultural society.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Migration und Zusammenleben in der multikulturellen",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspects include different experiences of multiculturalism.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "different experiences of multiculturalism",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspects include emigration and immigration push and pull factors.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "emigration and immigration: push and pull factors",
+        "residual_flags": []
+      },
+      {
+        "content": "A content strand covers public figures.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Persönlichkeiten des öffentlichen Lebens",
+        "residual_flags": []
+      },
+      {
+        "content": "Named figures include Martin Luther King, Nelson Mandela and Malala Yousafzai.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Martin Luther King, Nelson Mandela, Malala Yousafzai, o.a.",
+        "residual_flags": []
+      },
+      {
+        "content": "Engaging with social inequality, parallel societies or societal polarisation raises awareness of threats to democracy.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "sozialer Ungleichheit, Parallelgesellschaften oder gesellschaftlicher",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 56,
+          "printed_page": 56
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 9/10/11 Today's society – current issues",
+        "printed_page_range": "56"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

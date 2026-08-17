@@ -1,0 +1,111 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:fbf5260332975e26ba6a01a17c7c18062be798ad32af5b780b69fcb8e857fd03"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Latinum, the Große Latinum and the Graecum are acquired per paragraphs 2 to 8; the Große Latinum includes the Latinum.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 34 Latinum, Graecum",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Das Latinum, das Große Latinum und das Graecum werden nach Maßgabe der Ab-\nsätze 2 bis 8 erworben. Das Große Latinum schließt das Latinum ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Latinum is acquired by students taught Latin from grade 8 or 9 for four ascending school years who meet the requirements of paragraph 5.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 34 Latinum, Graecum",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Das Latinum erwerben Schülerinnen und Schüler, die in Latein ab Jahrgangsstufe 8 \noder 9 vier Schuljahre aufsteigend unterrichtet wurden und die Voraussetzungen des \nAbsatzes 5 erfüllen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students who do not acquire the qualification under paragraphs 2 to 5 may obtain it through a supplementary examination within the Abitur examination.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 34 Latinum, Graecum",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Schülerinnen und Schüler der gymnasialen Oberstufe, die das Latinum, das Große \nLatinum oder das Graecum nicht nach den Absätzen 2 bis 5 erwerben, können es durch \neine Zusatzprüfung im Rahmen der Abiturprüfung erwerben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Admission to the supplementary examination is decided by the Zeugniskonferenz at the end of the third semester; the examination has a written and an oral part.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 34 Latinum, Graecum",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Über die Zulassung entscheidet die Zeugniskonferenz am Ende des dritten Semesters \nder Studienstufe. Die Zusatzprüfung besteht aus einem schriftlichen und einem münd-\nlichen Teil.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 34 Latinum, Graecum"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 34 Latinum, Graecum",
+        "printed_page_range": "30–32"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

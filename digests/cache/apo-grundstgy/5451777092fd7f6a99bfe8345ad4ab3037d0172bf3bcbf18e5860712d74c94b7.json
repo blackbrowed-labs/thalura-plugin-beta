@@ -1,0 +1,167 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5451777092fd7f6a99bfe8345ad4ab3037d0172bf3bcbf18e5860712d74c94b7"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Annex 1 (to § 2(7)) contains the grading scheme for years 7 to 10 of the general schools.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Anlagen 1–8 (Notengebung & Stundentafeln)",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "Anlage 1 (zu § 2 Absatz 7) \nNotengebung in den Jahrgangsstufen 7 bis 10 der allgemeinen Schulen",
+        "residual_flags": [
+          "page-multi-match:physical-42-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Annex 2 (to § 40) gives the Grundschule timetable on the basis of a 45-minute lesson.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Anlagen 1–8 (Notengebung & Stundentafeln)",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "Anlage 2 (zu § 40) \nStundentafel für die Grundschule  \nauf Grundlage einer 45-minütigen Unterrichtsstunde",
+        "residual_flags": [
+          "source-typo-verbatim: the annex heading on the annex page reads 'Stundendentafel für die Grundschule' (doubled syllable)"
+        ]
+      },
+      {
+        "content": "Annex 6 (to § 42) gives the Gymnasium timetable on the basis of a 45-minute lesson.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Anlagen 1–8 (Notengebung & Stundentafeln)",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "Anlage 6 (zu § 42) \nStundentafeln für das Gymnasium  \nauf Grundlage einer 45-minütigen Unterrichtsstunde",
+        "residual_flags": [
+          "source-inconsistency-verbatim: the annex list reads 'Stundentafeln für das Gymnasium' (plural) while § 42 and the other annex titles use the singular 'Stundentafel'"
+        ]
+      },
+      {
+        "content": "The grade table maps Stadtteilschule G-/E-grades and Gymnasium grades onto the qualification for the gymnasiale Oberstufe at the end of year 10.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Anlagen 1–8 (Notengebung & Stundentafeln)",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "Zugangsberechtigung am Ende \nder Jahrgangsstufe 10\n> in der Stadtteilschule zur  \nVorstufe (Jahrgangsstufe 11)  \nder gymnasialen Oberstufe",
+        "residual_flags": []
+      },
+      {
+        "content": "Footnotes define ESA as the first general school-leaving certificate and MSA as the mittlerer Schulabschluss.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Anlagen 1–8 (Notengebung & Stundentafeln)",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "ESA: Erster allgemeinbildender Schulabschluss\n2)\t MSA: Mittlerer Schulabschluss",
+        "residual_flags": []
+      },
+      {
+        "content": "Grade 6 is not converted into a qualification-related grade.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Anlagen 1–8 (Notengebung & Stundentafeln)",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "Die Note 6 wird nicht umgerechnet.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 42,
+          "printed_page": 42
+        },
+        {
+          "physical_page": 43,
+          "printed_page": 43
+        },
+        {
+          "physical_page": 44,
+          "printed_page": 44
+        },
+        {
+          "physical_page": 45,
+          "printed_page": 45
+        },
+        {
+          "physical_page": 46,
+          "printed_page": 46
+        },
+        {
+          "physical_page": 47,
+          "printed_page": 47
+        },
+        {
+          "physical_page": 48,
+          "printed_page": 48
+        },
+        {
+          "physical_page": 49,
+          "printed_page": 49
+        },
+        {
+          "physical_page": 50,
+          "printed_page": 50
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "APO-GrundStGy Anlagen 1–8 (Notengebung & Stundentafeln)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "APO-GrundStGy Anlagen 1–8 (Notengebung & Stundentafeln)",
+        "printed_page_range": "42–50"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

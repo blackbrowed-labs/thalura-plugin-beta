@@ -34,6 +34,12 @@ Ausgabe wird vor der Auslieferung gegen die BSB-Vorgaben geprüft.
 Thalura wird über zwei Kanäle bereitgestellt — wähle einen aus und füge ihn in
 Claude Code als Marktplatz hinzu, dann installiere:
 
+**In Claude Cowork kommt eine Voraussetzung dazu:** Thalura muss auf deinem
+Computer laufen, nicht in der Cloud — schalte unter **Settings → Cowork** die
+Einstellung **„Run new tasks in the cloud"** aus und starte danach eine neue
+Aufgabe. Was sonst fehlt und woran du es erkennst, steht im
+**[Handbuch](guide/de/installation.md)**.
+
 **Stable** (allgemeiner Einsatz):
 
 ```

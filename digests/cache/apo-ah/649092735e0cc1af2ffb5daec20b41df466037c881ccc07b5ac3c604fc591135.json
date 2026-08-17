@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:649092735e0cc1af2ffb5daec20b41df466037c881ccc07b5ac3c604fc591135"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The competent authority sets the written examination tasks centrally in the listed subjects.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 24 Schriftliche Prüfung",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Die zuständige Behörde stellt in folgenden Fächern die Aufgaben für die schriftliche \nPrüfung zentral",
+        "residual_flags": []
+      },
+      {
+        "content": "In all other subjects, including subjects taught in a foreign language, the school sets the tasks subject to approval by the competent authority.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 24 Schriftliche Prüfung",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In allen anderen Fächern, auch in fremdsprachlich unterrichteten Sachfächern, stellt die \nSchule die Aufgaben nach Genehmigung durch die zuständige Behörde.",
+        "residual_flags": []
+      },
+      {
+        "content": "Absent a specific determination, candidates have five clock hours for papers in raised-level subjects and four clock hours in the remaining subjects.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 24 Schriftliche Prüfung",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "ste-\nhen den Prüflingen für die Arbeiten in den Fächern, die auf erhöhtem Anforderungsni-\nveau unterrichtet wurden, jeweils fünf Zeitstunden und für Arbeiten in den übrigen Fä-\nchern vier Zeitstunden zur Verfügung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Each paper is reviewed by a second subject teacher, who either concurs with the first assessment or writes a supplementary report with its own grade.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 24 Schriftliche Prüfung",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Jede Arbeit wird sodann \nvon der zweiten Fachlehrkraft durchgesehen, die sich entweder der Bewertung durch \ndie für das Fach zuständige Lehrkraft anschließt oder ein ergänzendes Gutachten mit \nBewertung anfertigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "If the two assessments differ by no more than three points, the chair takes the mean, rounding a fractional value up to the next full point.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 24 Schriftliche Prüfung",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Beträgt die Differenz der im Erstgutachten und im ergänzenden Gutachten \nerteilten Punktzahlen nicht mehr als drei Punkte, bildet sie oder er den Mittelwert bei-\nder Punktzahlen; eine gebrochene Zahl wird zur nächsten vollen Punktzahl aufgerundet.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 24 Schriftliche Prüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 24 Schriftliche Prüfung",
+        "printed_page_range": "20–21"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,877 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:77065a8b7b86a83be051bbbbc84e38294226d6f3b343ac0c7d5091c37fb411fb"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Mindestanforderungen am Ende der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Mindestanforderungen am Ende der  ",
+        "residual_flags": [
+          "page-multi-match:physical-33-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "Erhöhte Anforderungen am Ende der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Erhöhte Anforderungen am Ende der  ",
+        "residual_flags": [
+          "page-multi-match:physical-33-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verwenden ein zum",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Die Schülerinnen und Schüler verwenden ein zum ",
+        "residual_flags": []
+      },
+      {
+        "content": "Teil auswendig gelerntes Repertoire von sehr einfachen grammatischen Strukturen und Satzmustern in vertrauten Situationen. Dabei machen sie noch elementare Fehler. Es wird jedoch in der Regel klar, was sie ausdrücken möchten.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Teil auswendig gelerntes Repertoire von sehr einfa-\nchen grammatischen Strukturen und Satzmustern in \nvertrauten Situationen. Dabei machen sie noch ele-\nmentare Fehler. Es wird jedoch in der Regel klar, was \nsie ausdrücken möchten. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über elementare grammatische Strukturen und verständigen sich in vertrauten Redesituationen, sodass sie trotz auftretender muttersprachlicher Einflüsse hinreichend verstanden werden.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Die Schülerinnen und Schüler verfügen über elemen-\ntare grammatische Strukturen und verständigen sich \nin vertrauten Redesituationen, sodass sie trotz auftre-\ntender muttersprachlicher Einflüsse hinreichend ver-\nstanden werden. ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen und beschreiben ihnen vertraute Handlungen, Ereignisse und Sachverhalte als gegenwärtig, vergangen oder zukünftig und geben sie wieder (simple present, simple past, going-to future),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "• erkennen und beschreiben ihnen vertraute Hand-\nlungen, Ereignisse und Sachverhalte als gegenwär-\ntig, vergangen oder zukünftig und geben sie wieder \n(simple present, simple past, going-to future), ",
+        "residual_flags": []
+      },
+      {
+        "content": "äußern sich zu Personen, Gegenständen und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "• äußern sich zu Personen, Gegenständen und ",
+        "residual_flags": []
+      },
+      {
+        "content": "verstehen und formulieren einfache Aussagen, Fragen und Aufforderungen in bejahender und verneinender Form (wh-questions, yes / no-questions and statements, imperatives),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "• verstehen und formulieren einfache Aussagen, Fra-\ngen und Aufforderungen in bejahender und vernei-\nnender Form (wh-questions, yes / no-questions and \nstatements, imperatives), ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen die Anzahl, Art und Zugehörigkeit von",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "• erkennen die Anzahl, Art und Zugehörigkeit von ",
+        "residual_flags": []
+      },
+      {
+        "content": "Gegenständen, Lebewesen und Sachverhalten,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Gegenständen, Lebewesen und Sachverhalten, ",
+        "residual_flags": []
+      },
+      {
+        "content": "stellen einfache Vergleiche an (comparison of adjectives),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "• stellen einfache Vergleiche an (comparison of ad-\njectives), ",
+        "residual_flags": []
+      },
+      {
+        "content": "drücken einfache Bitten und Wünsche aus (z. B.:",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "• drücken einfache Bitten und Wünsche aus (z. B.: ",
+        "residual_flags": []
+      },
+      {
+        "content": "verstehen und formulieren Aussagen, Fragen und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "• verstehen und formulieren Aussagen, Fragen und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Aufforderungen in bejahender und verneinender",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Aufforderungen in bejahender und verneinender ",
+        "residual_flags": []
+      },
+      {
+        "content": "drücken Verbote, Erlaubnisse, Aufforderungen, Bitten und Wünsche, Erwartungen, Verpflichtungen und Möglichkeiten aus,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "• drücken Verbote, Erlaubnisse, Aufforderungen, Bit-\nten und Wünsche, Erwartungen, Verpflichtungen \nund Möglichkeiten aus, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen und beschreiben ihnen vertraute Handlungen, Ereignisse und Sachverhalte als gegenwärtig oder vergangen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "• erkennen und beschreiben ihnen vertraute Hand-\nlungen, Ereignisse und Sachverhalte als gegenwär-\ntig oder vergangen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Vgl. auch Kapitel 2.4 Basisgrammatik.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Vgl. auch Kapitel 2.4 Basisgrammatik. ",
+        "residual_flags": [
+          "page-multi-match:physical-33-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "Mindestanforderungen für den ersten allgemeinbildenden Schulabschluss",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Mindestanforderungen für \nden ersten allgemeinbilden-\nden Schulabschluss ",
+        "residual_flags": []
+      },
+      {
+        "content": "Ende der Jahrgangsstufe 8 mit Blick auf den mittleren",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Ende der Jahrgangsstufe 8 \nmit Blick auf den mittleren ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den mittleren Schulabschluss",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Mindestanforderungen für \nden mittleren Schulab-\nschluss ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über elementare grammatische Strukturen und verständigen sich in vertrauten Redesituationen mit einem gelernten Repertoire, sodass sie trotz deutlich auftretender muttersprachlicher Einflüsse ausreichend verstanden werden.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Die Schülerinnen und Schüler ver-\nfügen über elementare grammati-\nsche Strukturen und verständigen \nsich in vertrauten Redesituationen \nmit einem gelernten Repertoire, \nsodass sie trotz deutlich auftreten-\nder muttersprachlicher Einflüsse \nausreichend verstanden werden. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über ein Repertoire häufig verwendeter Strukturen. Im produktiven Bereich können sie einfache Strukturen verwenden, machen aber noch Fehler. Trotzdem wird in der Regel klar, was sie ausdrücken wollen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Die Schülerinnen und Schüler ver-\nfügen über ein Repertoire häufig \nverwendeter Strukturen. Im pro-\nduktiven Bereich können sie einfa-\nche Strukturen verwenden, ma-\nchen aber noch Fehler. Trotzdem \nwird in der Regel klar, was sie aus-\ndrücken wollen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verwenden ein erweitertes grammatisches Inventar in vertrauten Situationen und Themenbereichen weitgehend korrekt. Zwar kommen noch Fehler vor, aber in der Regel wird klar, was ausgedrückt werden soll.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Die Schülerinnen und Schüler ver-\nwenden ein erweitertes grammati-\nsches Inventar in vertrauten Situa-\ntionen und Themenbereichen weit-\ngehend korrekt. Zwar kommen \nnoch Fehler vor, aber in der Regel \nwird klar, was ausgedrückt werden \nsoll. ",
+        "residual_flags": []
+      },
+      {
+        "content": "verstehen und formulieren einfache Aussagen, Fragen und Aufforderungen in bejahender und verneinender Form,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "• verstehen und formulieren einfa-\nche Aussagen, Fragen und Auf-\nforderungen in bejahender und \nverneinender Form, ",
+        "residual_flags": []
+      },
+      {
+        "content": "drücken Verbote, Erlaubnisse,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "• drücken Verbote, Erlaubnisse, ",
+        "residual_flags": [
+          "page-multi-match:physical-33-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Aufforderungen, Bitten und Wünsche, Erwartungen und Verpflichtungen aus,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Aufforderungen, Bitten und Wün-\nsche, Erwartungen und Ver-\npflichtungen aus, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen einfache zeitliche Bezüge und drücken diese aus.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "• erkennen einfache zeitliche Be-\nzüge und drücken diese aus. ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen und beschreiben ihnen vertraute Handlungen, Ereignisse und Sachverhalte als gegenwärtig, vergangen oder zukünftig (simple present, present progressive, simple past, will und going to future,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "• erkennen und beschreiben ihnen \nvertraute Handlungen, Ereig-\nnisse und Sachverhalte als ge-\ngenwärtig, vergangen oder zu-\nkünftig (simple present, present \nprogressive, simple past, will \nund going to future, ",
+        "residual_flags": []
+      },
+      {
+        "content": "drücken Bitten, Wünsche, Erwartungen, Verbote, Erlaubnisse,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "• drücken Bitten, Wünsche, Erwar-\ntungen, Verbote, Erlaubnisse, ",
+        "residual_flags": []
+      },
+      {
+        "content": "Verpflichtungen, Möglichkeiten und Fähigkeiten (can / cannot, may, must / must not, need / need not) aus,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Verpflichtungen, Möglichkeiten \nund Fähigkeiten (can /  \ncannot, may, must / must not, \nneed / need not) aus, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen einfache Bedingungen und Bezüge und drücken diese aus.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "• erkennen einfache Bedingungen \nund Bezüge und drücken diese \naus. ",
+        "residual_flags": []
+      },
+      {
+        "content": "stellen Sachverhalte und Handlungen als gegenwärtig, vergangen und zukünftig dar,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "• stellen Sachverhalte und Hand-\nlungen als gegenwärtig, vergan-\ngen und zukünftig dar, ",
+        "residual_flags": []
+      },
+      {
+        "content": "geben Äußerungen anderer und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "• geben Äußerungen anderer und ",
+        "residual_flags": [
+          "page-multi-match:physical-34-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Informationen weitgehend korrekt wieder,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Informationen weitgehend kor-\nrekt wieder, ",
+        "residual_flags": []
+      },
+      {
+        "content": "stellen räumliche, zeitliche und logische Bezüge innerhalb eines",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "• stellen räumliche, zeitliche und \nlogische Bezüge innerhalb eines ",
+        "residual_flags": []
+      },
+      {
+        "content": "Satzes her und drücken diese korrekt aus,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Satzes her und drücken diese \nkorrekt aus, ",
+        "residual_flags": [
+          "page-multi-match:physical-34-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "formulieren Annahmen, Hypothesen und Bedingungen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "• formulieren Annahmen, Hypo-\nthesen und Bedingungen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsniveaus mit Blick auf die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Anforderungsniveaus mit Blick auf die Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen am Ende der Jahrgangsstufe 9 mit Blick auf den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Mindestanforderungen am Ende der Jahr-\ngangsstufe 9 mit Blick auf den Übergang in \ndie Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Mindestanforderungen für den Übergang in \ndie Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verwenden ein erweitertes grammatisches Inventar in vertrauten Situationen und Themenbereichen weitgehend korrekt. Zwar kommen noch Fehler vor, aber in der Regel wird klar, was ausgedrückt werden soll.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Die Schülerinnen und Schüler verwenden ein erwei-\ntertes grammatisches Inventar in vertrauten Situatio-\nnen und Themenbereichen weitgehend korrekt. Zwar \nkommen noch Fehler vor, aber in der Regel wird klar, \nwas ausgedrückt werden soll. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über ein gefestigtes Repertoire erweiterter grammatischer Strukturen und haben ein Strukturbewusstsein für die",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Die Schülerinnen und Schüler verfügen über ein ge-\nfestigtes Repertoire erweiterter grammatischer Struk-\nturen und haben ein Strukturbewusstsein für die ",
+        "residual_flags": []
+      },
+      {
+        "content": "Fremdsprache entwickelt. Zwar kommen noch Fehler vor; diese führen jedoch bei Menschen, die Englisch als Erstsprache sprechen, kaum zu Missverständnissen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Fremdsprache entwickelt. Zwar kommen noch Fehler \nvor; diese führen jedoch bei Menschen, die Englisch \nals Erstsprache sprechen, kaum zu Missverständnis-\nsen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "stellen Sachverhalte und Handlungen als gegenwärtig, vergangen und zukünftig dar,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• stellen Sachverhalte und Handlungen als gegen-\nwärtig, vergangen und zukünftig dar, ",
+        "residual_flags": []
+      },
+      {
+        "content": "geben Äußerungen anderer und Informationen weitgehend korrekt wieder,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• geben Äußerungen anderer und Informationen weit-\ngehend korrekt wieder, ",
+        "residual_flags": []
+      },
+      {
+        "content": "stellen räumliche, zeitliche und logische Bezüge innerhalb eines Satzes her und drücken diese korrekt aus,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• stellen räumliche, zeitliche und logische Bezüge in-\nnerhalb eines Satzes her und drücken diese korrekt \naus, ",
+        "residual_flags": []
+      },
+      {
+        "content": "formulieren Annahmen, Hypothesen und Bedingungen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• formulieren Annahmen, Hypothesen und Bedingun-\ngen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "setzen weitere Möglichkeiten ein, um Zukünftiges sicherer und geläufiger auszudrücken,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• setzen weitere Möglichkeiten ein, um Zukünftiges \nsicherer und geläufiger auszudrücken, ",
+        "residual_flags": []
+      },
+      {
+        "content": "formulieren komplexere Annahmen und weitere Modalitäten,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• formulieren komplexere Annahmen und weitere Mo-\ndalitäten, ",
+        "residual_flags": []
+      },
+      {
+        "content": "geben Informationen wörtlich und vermittelt wieder,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• geben Informationen wörtlich und vermittelt wieder, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen räumliche, zeitliche und logische Bezüge innerhalb eines Satzes und formulieren diese selbstständig,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• erkennen räumliche, zeitliche und logische Bezüge \ninnerhalb eines Satzes und formulieren diese \nselbstständig, ",
+        "residual_flags": []
+      },
+      {
+        "content": "finden verstärkt Analogien oder Unterschiede zu anderen Sprachen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• finden verstärkt Analogien oder Unterschiede zu \nanderen Sprachen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "L3 Aussprache und Intonation",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "L3 Aussprache und Intonation ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler sprechen ein begrenztes Repertoire von Wörtern und Redewendungen verständlich aus.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Die Schülerinnen und Schüler sprechen ein begrenz-\ntes Repertoire von Wörtern und Redewendungen ver-\nständlich aus. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verwenden einfache vertraute Aussprache- und Intonationsmuster im Allgemeinen so korrekt, dass sie trotz eines merklichen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Die Schülerinnen und Schüler verwenden einfache \nvertraute Aussprache- und Intonationsmuster im All-\ngemeinen so korrekt, dass sie trotz eines merklichen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Akzents verstanden werden; Gesprächspartnerinnen und -partner müssen jedoch gelegentlich um Wiederholung bitten.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Akzents verstanden werden; Gesprächspartnerinnen \nund -partner müssen jedoch gelegentlich um Wieder-\nholung bitten. ",
+        "residual_flags": []
+      },
+      {
+        "content": "verfügen über eine weitgehend verständliche Aussprache, häufig werden Gesprächspartnerinnen und -partner aber um Wiederholung bitten müssen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• verfügen über eine weitgehend verständliche Aus-\nsprache, häufig werden Gesprächspartnerinnen \nund -partner aber um Wiederholung bitten müssen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "wenden die Artikulation englischer Laute und Lautkombinationen auf einfache neue Wörter an.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• wenden die Artikulation englischer Laute und Laut-\nkombinationen auf einfache neue Wörter an. ",
+        "residual_flags": []
+      },
+      {
+        "content": "beherrschen die Intonation von einfachen Aussagesätzen, Fragen und Aufforderungen klar genug, um verstanden zu werden, auch wenn ein fremder Akzent wahrnehmbar ist und manchmal etwas falsch ausgesprochen wird,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• beherrschen die Intonation von einfachen Aussage-\nsätzen, Fragen und Aufforderungen klar genug, um \nverstanden zu werden, auch wenn ein fremder Ak-\nzent wahrnehmbar ist und manchmal etwas falsch \nausgesprochen wird, ",
+        "residual_flags": []
+      },
+      {
+        "content": "übertragen Aussprache- und Intonationsmuster auf neue Wörter und Redewendungen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• übertragen Aussprache- und Intonationsmuster auf \nneue Wörter und Redewendungen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "realisieren die Intonation von einfachen Aussagesätzen, Fragen und Aufforderungen klar genug, um verstanden zu werden, auch wenn ein fremder Akzent deutlich wahrnehmbar ist und manchmal etwas falsch ausgesprochen wird,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• realisieren die Intonation von einfachen Aussage-\nsätzen, Fragen und Aufforderungen klar genug, um \nverstanden zu werden, auch wenn ein fremder Ak-\nzent deutlich wahrnehmbar ist und manchmal etwas \nfalsch ausgesprochen wird, ",
+        "residual_flags": []
+      },
+      {
+        "content": "tragen kurze, geübte Texte sinngestaltend vor.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L2 Grammatik",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "• tragen kurze, geübte Texte sinngestaltend vor. ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "L2 Grammatik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "L2 Grammatik",
+        "printed_page_range": "33–35"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

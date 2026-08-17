@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:526b1468b654eb05b2e7a4b971ea636ceef6e5bccaf63cf8c985154ca549defc"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Half-year reports are issued at the end of the first half-year of the Vorstufe and at the end of each semester of the Studienstufe.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 15 Halbjahreszeugnisse, Jahreszeugnisse",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Halbjahreszeugnisse werden am Ende des ersten Schulhalbjahres der Vorstufe, des \nVorbereitungsjahres der Bildungsgänge Abendgymnasium und Hansa-Kolleg am Cam-\npus Zweiter Bildungsweg und am Ende jedes Semesters der Studienstufe erteilt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Annual reports are issued at the end of the Vorstufe and of the preparatory year; the assessment period is the whole school year.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 15 Halbjahreszeugnisse, Jahreszeugnisse",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Jahreszeugnisse werden am Ende der Vorstufe und des Vorbereitungsjahres der Bil-\ndungsgänge Abendgymnasium und Hansa-Kolleg am Campus Zweiter Bildungsweg er-\nteilt. Beurteilungszeitraum ist jeweils das ganze Schuljahr.",
+        "residual_flags": []
+      },
+      {
+        "content": "Half-year and annual reports may contain an assessment of work and social behaviour, by decision of the teachers' conference or on the students' request.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 15 Halbjahreszeugnisse, Jahreszeugnisse",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Halbjahres- und Jahreszeugnisse \nkönnen auf Beschluss der Lehrerkonferenz oder auf Antrag der Schülerinnen und Schü-\nler eine Beurteilung des Arbeits- und Sozialverhaltens enthalten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Reports list absences since the start of the assessment period, including unexcused missed lessons and the number of late arrivals.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 15 Halbjahreszeugnisse, Jahreszeugnisse",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "In Halbjahreszeugnissen und Jahreszeugnissen werden die Versäumnisse der Schü-\nlerinnen und Schüler seit Beginn des Beurteilungszeitraums unter Angabe der Anzahl \nder insgesamt versäumten sowie der davon unentschuldigt versäumten Unterrichts-\nstunden und der Anzahl der Verspätungen aufgeführt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 15 Halbjahreszeugnisse, Jahreszeugnisse"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 15 Halbjahreszeugnisse, Jahreszeugnisse",
+        "printed_page_range": "15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

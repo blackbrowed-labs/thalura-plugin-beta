@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:77f86407179d710589a42efdf24186e93a4148a0ee12bb89396f5620f5e9ff64"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The primary school is a place of shared learning and a living environment for children with individual learning starting points and needs.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1.1 Auftrag der Grundschule",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Grundschule ist ein Ort des gemeinsamen Lernens und gleichzeitig Lebenswelt für Kinder \nmit jeweils individuellen Lernausgangslagen und Bedürfnissen",
+        "residual_flags": []
+      },
+      {
+        "content": "Education in the primary school aims to support all children in unfolding their cognitive potential, talents, gifts and interests.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1.1 Auftrag der Grundschule",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Bildung und Erziehung in der Grundschule zielen darauf, alle Kinder bei der Entfaltung ihrer \nkognitiven Potenziale, Talente, Begabungen und Interessen zu unterstützen",
+        "residual_flags": []
+      },
+      {
+        "content": "The primary school is committed to the principle of shared learning and equity of opportunity (Chancengerechtigkeit).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1.1 Auftrag der Grundschule",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Grundschule ist dabei dem Grund-\nsatz des gemeinsamen Lernens und der Chancengerechtigkeit verpflichtet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Primary schools cooperate with day-care centres, schools and further educational institutions in their region.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1.1 Auftrag der Grundschule",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Grundschulen kooperieren mit den Kindertagesstätten, Schulen und weiteren Bildungs-\neinrichtungen ihrer Region",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6.1.1 Auftrag der Grundschule"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "6.1.1 Auftrag der Grundschule",
+        "printed_page_range": "26"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

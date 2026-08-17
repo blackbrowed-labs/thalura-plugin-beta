@@ -1,0 +1,220 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:4f38aada06e890ed2bd707d9fced0a1466e81d0dacc6f18753ac37ad1534b13d"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The exam task refers to compulsory module 4.1 'Zentrale Personen der Religionen'.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "bezieht sich auf das Pflichtmodul 4.1 „Zentrale Personen der Reli-\ngionen“ im Themenbereich",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "The teaching unit comprised 18 lessons (9 double lessons).",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "umfasste 18 Unterrichtsstunden",
+        "residual_flags": []
+      },
+      {
+        "content": "The term 'Vorbild' was not previously used, so the connection to it is new in the exam.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "nicht aber unter dem weiterführenden Begriff des",
+        "residual_flags": []
+      },
+      {
+        "content": "Questions on requirement areas II and III come only after lower-level questions are answered confidently.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "Fragen zu den Anforderungsbereichen II und III sollen \ndaher erst gestellt werden",
+        "residual_flags": []
+      },
+      {
+        "content": "A requirement-area I example: describe how Jesus, Muhammed or Ali dealt with other people.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Beschreibt, wie Jesus / Muhammed / Ali o. a. mit anderen Menschen",
+        "residual_flags": []
+      },
+      {
+        "content": "A requirement-area III example: discuss whether Jesus, Muhammed or Ali can be a role model for the present.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "gemeinsam im Dialog die Frage: Können Jesus, Muhammed, Ali (o. a.) \nein Vorbild für die Gegenwart sein",
+        "residual_flags": []
+      },
+      {
+        "content": "Each candidate first prepares the short presentation individually with notes.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "indem er sich z. B. Stichpunkte für einen Vortrag notiert",
+        "residual_flags": []
+      },
+      {
+        "content": "For Muhammed: oppression in pre-Islamic times, life as a merchant, revelation, Tawhid.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "in vorislamischer Zeit, Leben als \nKaufmann, Offenbarung",
+        "residual_flags": []
+      },
+      {
+        "content": "The task refers to the graduation-related requirement level.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "bezieht sich auf die abschlussbezogene Anforderungsebene",
+        "residual_flags": []
+      },
+      {
+        "content": "For G4: the role-model character of two persons is shown at one example each.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "der Vorbildcharakter von zwei Personen an jeweils einem Beispiel",
+        "residual_flags": []
+      },
+      {
+        "content": "The documentation table is a structure proposal for the exam protocol.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "c. Lehrkräftematerial",
+          "printed_page": 8,
+          "physical_page": 13
+        },
+        "cited_text": "Bei der nachfolgenden Tabelle handelt es sich um einen Strukturvorschlag",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 2
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 3
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "c. Lehrkräftematerial"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "c. Lehrkräftematerial",
+        "printed_page_range": "2–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f0f87263aa017b7d1937577130b61cc20b50788b573c75b81647e4b2fae8c509"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Im ersten Teil führen die Prüflinge den vorbereiteten Dialog mit anfänglicher Kurzpräsentation von etwa 3 Minuten pro Prüfling, insgesamt maximal 15 Minuten, durch.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c.ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "insgesamt max. 15 Minuten",
+        "residual_flags": []
+      },
+      {
+        "content": "Bei der Gruppenprüfung sollen alle Mitglieder aktiv eingebunden sein und individuelle Beiträge sichtbar werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c.ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "sollen bei dieser Gruppenprüfung alle Mitglieder aktiv eingebunden sein und ihre \nindividuellen Beitr",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Dialog wird zunächst selbstständig geführt, spätestens nach weiteren 15 Minuten von Impulsen der Prüfenden geprägt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c.ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "nach weiteren 15 Minuten (also nach 30 Minuten ab",
+        "residual_flags": []
+      },
+      {
+        "content": "Die letzten etwa 15 Minuten sind für direkte Fragen an einzelne Prüflinge außerhalb des dialogischen Settings vorgesehen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c.ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "Die letzten ca. 15 Minuten sind für direkte Fragen \nan einzelne Prüflinge – au",
+        "residual_flags": []
+      },
+      {
+        "content": "Jeder Prüfling wird zu allen Anforderungsbereichen befragt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c.ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "wird zu allen Anforderungsbereichen befragt",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Prüfung ist so zu gestalten, dass jeder Prüfling etwa 15 Minuten Redezeit erhält.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c.ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "etwa 15 Minuten Redezeit \nzukommt",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Zweitprüfer dokumentiert den Verlauf und achtet auf gleichmäßig verteilte Prüfungszeit und die Abdeckung aller Anforderungsbereiche.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.c.ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Der Zweitprüfer dokumentiert den Verlauf der Prüfung und achtet darauf, dass jeder \nPrüfling die Gelegenheit erhält, zu jedem Anforderungsbereich Leistungen zu erbringen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "II.c.ii. Möglicher Ablauf des Prüfungsgesprächs"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "II.c.ii. Möglicher Ablauf des Prüfungsgesprächs",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

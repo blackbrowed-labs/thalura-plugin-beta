@@ -8,6 +8,16 @@ description: Die Einrichtung starten, dein Lehrerprofil anlegen und dein erstes 
 Nach der Installation richtest du Thalura einmalig ein. Danach kannst du sofort
 mit der Planung beginnen.
 
+**Vorher eine Sache:** In Claude Cowork muss Thalura auf deinem Computer laufen,
+nicht in der Cloud — sonst lassen sich die Verweise auf den Bildungsplan in
+deinen Dokumenten nicht anklicken, die Schuljahresübersicht wird nicht
+geschrieben, und deine Dokumente entstehen ohne die Vorlage deiner Schule.
+Schalte dafür unter **Settings → Cowork** die Einstellung
+**„Run new tasks in the cloud"** aus — die Einstellung, die neue Aufgaben in der
+Cloud statt auf diesem Computer startet — und starte danach eine neue Aufgabe.
+Wie du prüfst, dass es gegriffen hat, steht unter
+**[Installation](./installation.md)**.
+
 ## Die Einrichtung starten
 
 - **In Claude Cowork:** Sag Thalura in normaler Sprache, dass du loslegen

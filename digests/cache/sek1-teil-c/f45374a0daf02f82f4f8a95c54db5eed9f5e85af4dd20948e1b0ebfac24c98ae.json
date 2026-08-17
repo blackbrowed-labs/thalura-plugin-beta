@@ -1,0 +1,354 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f45374a0daf02f82f4f8a95c54db5eed9f5e85af4dd20948e1b0ebfac24c98ae"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A distinction is made between class tests/exams (Klassenarbeiten bzw. Klausuren), written by all students of a learning group under supervision and under previously fixed conditions, and equivalent performances (entsprechende Leistungen).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Es wird unterschieden zwischen: \n• \nKlassenarbeiten bzw. Klausuren, an denen alle Schülerinnen und Schüler einer Lern-\ngruppe unter Aufsicht und unter vorher festgelegten Bedingungen teilnehmen, und \n• \nentsprechenden Leistungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Class tests/exams serve to check individual learning success, to determine individual support needs, and to compare the achieved learning status with the expected one (competencies and knowledge) in a normed way.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten und Klausuren dienen der Überprüfung der Lernerfolge der einzelnen Schü-\nlerinnen und Schüler, der Ermittlung ihres individuellen Förderbedarfs und dem normierten \nVergleich des erreichten Lernstands mit dem erwarteten Lernstand (Kompetenzen und Kennt-\nnisse).",
+        "residual_flags": []
+      },
+      {
+        "content": "The tasks in a class test are in principle the same for all students of a learning group.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Aufgabenstellungen in Klassenarbeiten sind grundsätzlich für alle Schülerinnen \nund Schüler einer Lerngruppe gleich.",
+        "residual_flags": []
+      },
+      {
+        "content": "Class tests/exams refer to the requirements named in the respective framework plans (Rahmenpläne); they cover all levels of understanding from reproduction to problem solving and also demand transfer.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren beziehen sich auf die in den jeweiligen Rahmenplänen ge-\nnannten Anforderungen. Sie umfassen alle Verständnisebenen von der Reproduktion bis zur \nProblemlösung und verlangen auch Transferleistungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They must be designed so students can show they meet the minimum/standard requirements (Mindest- bzw. Regelanforderungen), and must additionally offer the chance to meet higher and highest requirements.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten und Klausuren sind \nso anzulegen, dass Schülerinnen und Schüler nachweisen können, dass sie die Mindest- bzw. \nRegelanforderungen erfüllen. Sie müssen Schülerinnen und Schülern darüber hinaus Gele-\ngenheit bieten, höhere und höchste Anforderungen zu erfüllen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirements and assessment standards (Bewertungsmaßstäbe) are made clear to students together with the task.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Anforderungen und Bewertungsmaßstäbe werden den Schülerinnen und Schülern mit der \nAufgabenstellung deutlich gemacht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Over the course of Sek I the operators prescribed for the written examinations in grades 9 and 10 are introduced; at the latest in those two grades, tasks are worded using the operators from the applicable rules for the central written examination tasks.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Im Verlauf der Sekundarstufe I werden die für die schrift-\nlichen Prüfungen in den Jahrgangsstufen 9 und 10 vorgegebenen Operatoren eingeführt. Spä-\ntestens in diesen beiden Jahrgangsstufen werden bei der Formulierung der Aufgaben die Ope-\nratoren aus den jeweils geltenden Regelungen für die zentralen schriftlichen Prüfungsaufga-\nben verwendet.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the upper secondary level (gymnasiale Oberstufe) tasks are worded with the operators foreseen in the rules for the central written examination tasks applicable to the respective Abitur year (the so-called 'A-Heft').",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "In der gymnasialen Oberstufe werden bei der Formulierung der Aufgaben die \nOperatoren verwendet, die in den für den jeweiligen Abiturjahrgang geltenden Regelungen für \ndie zentralen schriftlichen Prüfungsaufgaben (sog. „A-Heft“) vorgesehen sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "In grading class tests in Sek I and II, in ALL subjects, errors and deficiencies in linguistic correctness, expression, structuring of thought and appropriate presentation are to be taken into account appropriately.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Bei der Bewertung von Klassenarbeiten sind in den Sekundarstufen I und II in allen Unter-\nrichtsfächern Fehler und Mängel in der sprachlichen Richtigkeit, in der Ausdrucksfähigkeit, in \nder gedanklichen Strukturierung und in der sachgerechten Darstellung bei der Bewertung an-\ngemessen zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students learn what was expected via a grading rubric (Erwartungshorizont) or solutions worked out in class, and receive correction annotations as guidance; those annotations mark strengths and deficits.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Schülerinnen und Schüler gewinnen durch einen Erwartungshorizont oder im Unterricht \nerarbeitete Lösungen Aufschluss über die erwartete Leistung und erhalten durch Korrekturan-\nmerkungen Hinweise für ihre weitere Arbeit. In den Korrekturanmerkungen werden Vorzüge \nund Defizite kenntlich gemacht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Class tests/exams and equivalent performances must be returned corrected and graded close to the time they were written; in the Oberstufe Klausuren should be returned within three weeks at the latest; conspicuous results prompt a personal reflective conversation between student and teacher.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren und entsprechende Leistun-\ngen sind zeitnah zum Zeitpunkt ihrer Durchführung korrigiert und bewertet zurückzugeben. In \nder gymnasialen Oberstufe soll die Rückgabe der Klausuren spätestens nach drei Wochen \nerfolgen. Bei auffälligen Ergebnissen erfolgt eine Reflexion im persönlichen Gespräch zwi-\nschen Schülerin bzw. Schüler und Lehrkraft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Trigger of the one-third rule: if more than one third of the students achieved a 'mangelhaft' or 'ungenügend' (or equivalent) result in a class test or exam ...",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Hat mehr als ein Drittel der Schülerinnen und Schüler in einer Klassenarbeit oder einer Klausur \nein mangelhaftes oder ungenügendes oder ein diesen Noten entsprechendes Ergebnis erzielt,",
+        "residual_flags": []
+      },
+      {
+        "content": "... then the class teacher and the school management must be informed; if the test/exam is to be counted, the school management's approval must be obtained.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "sind Klassenleitung und Schulleitung zu informieren. Soll die Klassenarbeit bzw. Klausur ge-\nwertet werden, ist die Zustimmung der Schulleitung einzuholen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Class tests/exams may be replaced by equivalent performances in accordance with No. 3 lit. b).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren können nach Maßgabe der Nr. 3 lit. b) durch ihnen entspre-\nchende Leistungen ersetzt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Like class tests, equivalent performances refer to the requirements of the respective framework plans, cover all levels of understanding from reproduction to problem solving, and demand transfer.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Wie Klassenarbeiten bzw. Klausuren beziehen sich die \nentsprechenden Leistungen auf die Anforderungen der jeweiligen Rahmenpläne. Sie umfas-\nsen ebenfalls alle Verständnisebenen von der Reproduktion bis zur Problemlösung und ver-\nlangen auch Transferleistungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Equivalent performances must let students show they meet the minimum/standard requirements and must also offer the chance to meet higher and highest requirements.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Entsprechende Leistungen sind so anzulegen, dass die \nSchülerinnen und Schüler nachweisen können, dass sie die Mindest- bzw. Regelanforderun-\ngen erfüllen; sie müssen den Schülerinnen und Schülern darüber hinaus Gelegenheit bieten, \nhöhere und höchste Anforderungen zu erfüllen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Their tasks must match a class test in workload, complexity and demand and be recognisably connected to current lesson content; if so, a contribution to a competition funded/supported by a federal state can also count as an equivalent performance.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Aufgabenstellungen für entsprechende Leistungen sind so zu gestalten, dass sie in Bear-\nbeitungsaufwand, Komplexität und Anspruch einer Klassenarbeit bzw. Klausur entsprechen \nund in erkennbarem Zusammenhang zu den Inhalten des laufenden Unterrichts stehen. Sofern \ndiese Voraussetzungen erfüllt sind, kann eine entsprechende Leistung auch ein Beitrag zu \neinem von einem Bundesland geförderten oder unterstützten Wettbewerb sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "The teacher ensures every student delivers an independent individual performance; joint work is permitted only if the individual contribution is clearly identifiable and assessable and each individual performance meets the above requirements.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Lehrkraft stellt sicher, dass jede Schülerin und jeder Schüler eine eigenständige Einzel-\nleistung erbringt. Schülerinnen und Schüler können gemeinsam an einer entsprechenden Leis-\ntung arbeiten, wenn die individuelle Leistung klar erkennbar und bewertbar ist und jede Ein-\nzelleistung den oben genannten Anforderungen entspricht.",
+        "residual_flags": []
+      },
+      {
+        "content": "The school specifies the formats of equivalent performances in its school-internal curriculum, under two binding rules: if not purely written, an equivalent performance must contain at least one written part (e.g. written elaboration or documentation of results); and it must be worked on at least partly during lesson time — the latter not applying to the presentation performance (Präsentationsleistung) in the Oberstufe.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Schule konkretisiert die Formate der entsprechenden Leistungen und legt diese innerhalb \ndes schulinternen Curriculums fest. Dabei gelten folgende Vorgaben: \n• \nSofern die entsprechende Leistung nicht ausschließlich in schriftlicher Form erbracht \nwird, enthält sie mindestens einen schriftlichen Anteil, z. B. die schriftliche Ausarbei-\ntung oder Dokumentation der Ergebnisse. \n• \nDie Erarbeitung von entsprechenden Leistungen erfolgt zumindest teilweise auch wäh-\nrend der Unterrichtszeit; diese Vorgabe gilt nicht für die Präsentationsleistung in der \ngymnasialen Oberstufe.",
+        "residual_flags": []
+      },
+      {
+        "content": "Equivalent performances are distinct from the later making-up of proofs of performance missed for good reason; rules for missing proofs are in the applicable examination ordinance (Ausbildungs- und Prüfungsordnung).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Entsprechende Leistungen sind zu unterscheiden von der nachträglichen Erbringung von aus \nwichtigem Grund nicht erbrachten Leistungsnachweisen. Die Regelungen zur Bewertung bei \nfehlenden Leistungsnachweisen finden sich in der jeweils geltenden Ausbildungs- und Prü-\nfungsordnung.",
+        "residual_flags": []
+      },
+      {
+        "content": "In Sek I and II, class tests/exams or equivalent performances must also be demanded in which conventional formats are partly or fully replaced or extended by digital tools or media.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "In den Sekundarstufen I und II sind auch Klassenarbeiten bzw. Klausuren oder entsprechende \nLeistungen zu verlangen, in denen herkömmliche Formate durch digitale Werkzeuge oder Me-\ndien teilweise oder vollständig ersetzt oder erweitert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Examples: digital aids or digital materials can be provided from which students obtain information, or the task can require creating digital products using digital tools or programs.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Zum Beispiel können digitale \nHilfsmittel oder digitale Materialien bereitgestellt werden, mit bzw. aus denen die Schülerinnen \nund Schüler Informationen gewinnen. Oder die Aufgabe kann erfordern, unter Nutzung von \ndigitalen Tools oder Programmen digitale Produkte zu erstellen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In every grade level at least FOUR proofs of performance of this digital format should be required, of which at least two as class tests/exams; the other two may be either class tests/exams or equivalent performances.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "In jeder Jahrgangsstufe sollen mindestens vier Leistungsnachweise dieses Formats verlangt \nwerden, davon mindestens zwei als Klassenarbeiten bzw. Klausuren. Die zwei weiteren kön-\nnen entweder als Klassenarbeiten bzw. Klausuren oder als entsprechende Leistungen einge-\nfordert werden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3a) Allgemeines"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "3a) Allgemeines",
+        "printed_page_range": "7–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

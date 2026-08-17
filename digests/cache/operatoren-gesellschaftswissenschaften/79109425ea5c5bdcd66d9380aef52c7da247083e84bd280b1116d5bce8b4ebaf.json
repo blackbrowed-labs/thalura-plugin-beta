@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:79109425ea5c5bdcd66d9380aef52c7da247083e84bd280b1116d5bce8b4ebaf"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-gesellschaftswissenschaften",
+      "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "'Zusammenfassen' requires reproducing the content of texts or materials reduced to the essentials.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "„Zusammenfassen“ fordert dazu auf, den Inhalt von Texten bzw. Materialien auf das",
+        "residual_flags": []
+      },
+      {
+        "content": "The introduction names author, title, possibly date of origin, plus text type and topic or question.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Den/die Verfasser/-in, den Titel und ggf. die Entstehungszeit des Textes an-",
+        "residual_flags": []
+      },
+      {
+        "content": "The main part renders central statements and lines of argument in one's own words and in indirect speech.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die zentralen Aussagen und Argumentationen des Textes in eigenen Worten",
+        "residual_flags": []
+      },
+      {
+        "content": "Text references, quotations and line references are dispensable, and no concluding assessment is required.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Textverweise, Zitate und Zeilenverweise sind entbehrlich.",
+        "residual_flags": []
+      },
+      {
+        "content": "A summary needs no conclusion.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Ein Fazit ist bei einer Zusammenfassung nicht erforderlich.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Zusammenfassen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-gesellschaftswissenschaften",
+        "section_anchor": "Zusammenfassen",
+        "printed_page_range": "7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

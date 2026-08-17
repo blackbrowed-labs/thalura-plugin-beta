@@ -1,0 +1,224 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:d58746242522d4f1676e526f1b269e11f493c95fb6ce5653208eaa5b5049d97f"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Basic questions of clinical psychology address health versus illness, features of mental disorders and the concept of normality (ideal, statistical, social, cultural, functional norm).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Gesundheit vs. Krankheit (Merkmale psychischer Störungen, \nNormalitätsbegriff: Ideal-, statistische, soziale, kulturelle, \nfunktionale Norm)",
+        "residual_flags": []
+      },
+      {
+        "content": "Classification is covered including categorical versus dimensional diagnostics and the DSM.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "kategoriale vs. dimensionale Diagnostik \no DSM (Diagnostic and Statistical Manual of Mental",
+        "residual_flags": []
+      },
+      {
+        "content": "For the advanced level, diagnostics such as the SORCK model after Kanfer et al. are added.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Diagnostik, z. B. SORCK-Modell nach Kanfer et al.",
+        "residual_flags": []
+      },
+      {
+        "content": "Mental disorders are deepened through a selection of anxiety disorders or affective disorders following the current DSM edition.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Vertiefung durch Auswahl von Angststörungen oder Affektive \nStörungen nach der aktuellen Fassung des DSM:",
+        "residual_flags": []
+      },
+      {
+        "content": "Anxiety disorders include phobias (social, specific) and panic disorder, with agoraphobia and generalized anxiety disorder only for the advanced level.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Phobien (sozial, spezifisch) \no Panikstörung \no Nur für eA: Agoraphobie, Generalisierte Angststörung",
+        "residual_flags": []
+      },
+      {
+        "content": "Affective disorders include major depression, with bipolar I, bipolar II, cyclothymic disorder and dysthymia only for the advanced level.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Major Depression \no Nur für eA: Bipolar-I-Störung, Bipolar-II-Störung, Zyk-\nlothyme Störung, Dysthymie",
+        "residual_flags": []
+      },
+      {
+        "content": "The etiology of mental disorders requires at least two (advanced level three) origin theories from different paradigms.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Ätiologie psychischer Störungen \nIn Abhängigkeit von der Wahl in der Behandlung psychischer \nStörungen (Angststörungen oder Affektive Störungen) sind min-\ndestens zwei, auf eA mindestens drei Entstehungstheorien un-\nterschiedlicher Paradigmen zu behandeln:",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning-theory models include Mowrer's two-factor theory for specific phobias and Lewinsohn's reinforcement-loss model for depression.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Zwei-Faktoren-Theorie von Mowrer (spezifische Phobien)  \no Verstärker-Verlust-Modell von Lewinsohn (Depression)",
+        "residual_flags": []
+      },
+      {
+        "content": "The vulnerability-stress (diathesis-stress) model covers biological factors such as predispositions and psychological factors such as stressors and traumas.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Vulnerabilitäts-Stress-Modell (Diathese-Stress-Modell) \no biologische Faktoren (Prädispositionen, Vulnerabilitäten) \no psychologische Faktoren (Stressoren, Traumata)",
+        "residual_flags": []
+      },
+      {
+        "content": "Psychotherapies covered include behavior therapy exposure and confrontation methods such as systematic desensitization and flooding.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Expositions- und Konfrontationsverfahren \no systematische Desensibilisierung \no Flooding",
+        "residual_flags": []
+      },
+      {
+        "content": "Cognitive behavior therapy includes REVT after Ellis or CBT after Beck for depression and Margraf and Schneider's vicious circle of anxiety.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "REVT nach Ellis oder KVT nach Beck (Depression) \no Teufelskreis der Angst von Margraf und Schneider",
+        "residual_flags": []
+      },
+      {
+        "content": "Client-centered therapy by Tausch and Tausch is characterized by empathy, appreciation and congruence.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Gesprächspsychotherapie von Tausch und Tausch (Empa-\nthie, Wertschätzung, Kongruenz)",
+        "residual_flags": []
+      },
+      {
+        "content": "Research methods engage with typical forms of data collection and quality criteria, for example case studies.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.1 Klinische Psychologie",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "typischen For-\nmen der Datenerhebung und den Gütekriterien, z. B. \n• Fallstudien",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S3.1 Klinische Psychologie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S3.1 Klinische Psychologie",
+        "printed_page_range": "25–26"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

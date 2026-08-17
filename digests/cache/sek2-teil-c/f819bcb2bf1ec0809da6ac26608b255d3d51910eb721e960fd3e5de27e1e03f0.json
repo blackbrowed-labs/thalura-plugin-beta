@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f819bcb2bf1ec0809da6ac26608b255d3d51910eb721e960fd3e5de27e1e03f0"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A distinction is drawn between class tests/exams, taken by all students of a learning group under supervision and under previously fixed conditions, and equivalent performances.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren, an denen alle Schülerinnen und Schüler einer Lern-\ngruppe unter Aufsicht und unter vorher festgelegten Bedingungen teilnehmen, und",
+        "residual_flags": []
+      },
+      {
+        "content": "Task statements in class tests are in principle the same for all students of a learning group.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Aufgabenstellungen in Klassenarbeiten sind grundsätzlich für alle Schülerinnen \nund Schüler einer Lerngruppe gleich.",
+        "residual_flags": []
+      },
+      {
+        "content": "In all subjects in Sek I and II, errors in linguistic correctness, expression, structuring of thought and appropriate presentation must be appropriately taken into account when grading class tests.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Bei der Bewertung von Klassenarbeiten sind in den Sekundarstufen I und II in allen Unter-\nrichtsfächern Fehler und Mängel in der sprachlichen Richtigkeit, in der Ausdrucksfähigkeit, in \nder gedanklichen Strukturierung und in der sachgerechten Darstellung bei der Bewertung an-\ngemessen zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Task statements for equivalent performances must match a class test/exam in workload, complexity and demand and relate recognizably to current teaching content.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Aufgabenstellungen für entsprechende Leistungen sind so zu gestalten, dass sie in Bear-\nbeitungsaufwand, Komplexität und Anspruch einer Klassenarbeit bzw. Klausur entsprechen \nund in erkennbarem Zusammenhang zu den Inhalten des laufenden Unterrichts stehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The school specifies the formats of equivalent performances within its school-internal curriculum.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Schule konkretisiert die Formate der entsprechenden Leistungen und legt diese innerhalb \ndes schulinternen Curriculums fest.",
+        "residual_flags": []
+      },
+      {
+        "content": "In every year group at least four performance records with digital elements should be demanded, at least two of them as class tests/exams.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "In jeder Jahrgangsstufe sollen mindestens vier Leistungsnachweise dieses Formats verlangt \nwerden, davon mindestens zwei als Klassenarbeiten bzw. Klausuren.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3a) Allgemeines"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "3a) Allgemeines",
+        "printed_page_range": "7–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

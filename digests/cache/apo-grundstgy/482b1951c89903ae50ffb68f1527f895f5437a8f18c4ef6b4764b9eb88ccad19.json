@@ -1,0 +1,189 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:482b1951c89903ae50ffb68f1527f895f5437a8f18c4ef6b4764b9eb88ccad19"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In the final examination, year 9 or 10 students must demonstrate the competencies expected for the first general school-leaving certificate (ESA) or the mittlerer Schulabschluss in German, Mathematics and English.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 5 — Abschluss der Bildungsgänge, Übergänge in die Sekundarstufe II",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "In der Abschlussprüfung sollen die Schülerinnen und Schüler der Jahrgangs-\nstufen 9 oder 10 nachweisen, dass sie in den Fächern Deutsch, Mathematik und \nEnglisch die Kompetenzen erworben haben, die für den ersten allgemeinbilden-\nden Schulabschluss beziehungsweise den mittleren Schulabschluss erwartet",
+        "residual_flags": []
+      },
+      {
+        "content": "The examination consists of a written and an oral part; at the Stadtteilschule the ESA exam also has a practice-oriented part.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 5 — Abschluss der Bildungsgänge, Übergänge in die Sekundarstufe II",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil. In der \nStadtteilschule umfasst die Prüfung für den ersten allgemeinbildenden Schul­\nabschluss auch einen Praxisorientierten Teil.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students holding an internationally recognised language certificate at CEFR level B1 can be exempted from the English final examination.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 5 — Abschluss der Bildungsgänge, Übergänge in die Sekundarstufe II",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "anerkannten Sprachenzertifikats Englischkenntnisse nachweisen ­können, \ndie dem Niveau „B 1“ des Gemeinsamen europäischen Referenzrahmens für Spra-\nchen entsprechen, werden auf Antrag von der Zeugniskonferenz von der \n­Verpflichtung zur Teilnahme an der Abschlussprüfung im Fach Englisch befreit.",
+        "residual_flags": []
+      },
+      {
+        "content": "The written examination tasks are set centrally by the competent authority and follow the KMK standards and the curriculum requirements.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 5 — Abschluss der Bildungsgänge, Übergänge in die Sekundarstufe II",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "bestimmt die zuständige Behörde \n(zentrale Abschlussprüfung). Die Aufgaben orientieren sich an den durch Be-\nschluss der Kultusministerkonferenz festgelegten überregionalen Standards und \nden Anforderungen der Bildungspläne.",
+        "residual_flags": []
+      },
+      {
+        "content": "The oral examination lasts about 15 minutes per student; a group examination normally does not exceed 90 minutes per subject.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 5 — Abschluss der Bildungsgänge, Übergänge in die Sekundarstufe II",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die Prüfung dauert etwa 15 Minuten je Schülerin oder Schüler, die \nGruppenprüfung dauert in jedem Fach in der Regel nicht länger als 90 Minuten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The examination grade is the average of the written and the oral grade.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 5 — Abschluss der Bildungsgänge, Übergänge in die Sekundarstufe II",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Prüfungsnote \nwird aus dem Durchschnitt der Note der schriftlichen und der Note der mündli-\nchen Prüfung gebildet.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        },
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "APO-GrundStGy Abschnitt 5 — Abschluss der Bildungsgänge, Übergänge in die Sekundarstufe II"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "APO-GrundStGy Abschnitt 5 — Abschluss der Bildungsgänge, Übergänge in die Sekundarstufe II",
+        "printed_page_range": "21–36"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

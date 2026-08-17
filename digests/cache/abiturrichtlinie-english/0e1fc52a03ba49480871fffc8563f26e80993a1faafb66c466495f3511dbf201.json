@@ -1,0 +1,147 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0e1fc52a03ba49480871fffc8563f26e80993a1faafb66c466495f3511dbf201"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In the mediation task the essential content of one or more authentic German source texts is summarised in a situationally appropriate way for a specific purpose and addressee and transferred in writing into the target language.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.2 Sprachmittlung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "In der Sprachmittlungsaufgabe wird der wesentliche Gehalt eines oder mehrerer deut-\nscher authentischer Ausgangstexte situationsangemessen für einen bestimmten Zweck \nund Adressaten zusammengefasst und sinngemäß schriftlich in die Zielsprache übertra-\ngen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The mediation task is contextually embedded and addressee-related.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.2 Sprachmittlung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Aufgabe ist kontextuell eingebettet und adressatenbezogen.",
+        "residual_flags": []
+      },
+      {
+        "content": "It requires performance in requirement areas I and II.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.2 Sprachmittlung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Sie erfordert Leistungen in den Anforderungsbereichen I und II.",
+        "residual_flags": []
+      },
+      {
+        "content": "Decisive for assigning a mediation task to basic or raised level are the complexity of the source text, the resulting functional text-shortening strategies, and any intercultural information to be mediated beyond the text.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.2 Sprachmittlung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Entscheidend für die Zu-\nordnung einer Aufgabe zum grundlegenden oder erhöhten Anforderungsniveau sind die \nKomplexität des Ausgangstextes, die sich hieraus ergebenden erforderlichen funktiona-\nlen Strategien der Textkürzung und die ggf. zusätzlich zu den Informationen des Textes \nzu mittelnden interkulturellen Informationen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A basic-level task is further characterised by lower expectations regarding coherence, complexity, formal correctness and range of expression than at raised level.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.2 Sprachmittlung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Darüber hinaus kennzeichnet eine Aufgabe \nauf grundlegendem Niveau, dass an die Leistungen der Prüflinge geringere Erwartungen \nim Hinblick auf die Kohärenz, Komplexität, formale Richtigkeit und Variationsbreite im \nAusdruck der produzierten Texte gestellt werden als an die Leistungen auf erhöhtem \nNiveau.",
+        "residual_flags": []
+      },
+      {
+        "content": "The source text may consist of one or more, also discontinuous, texts and should total 400 to 650 words, or 350 to 500 words for the newly taken-up foreign language.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.2 Sprachmittlung",
+          "printed_page": 12,
+          "printed_page_end": 13,
+          "physical_page": 12
+        },
+        "cited_text": "Der Ausgangstext kann aus einem oder mehreren, auch diskontinuierlichen, Texten be-\nEnglisch\t\n13\nstehen. Die Länge des der Aufgabe zugrunde liegenden Textes soll insgesamt 400 bis \n650 Wörter, für die neu aufgenommene Fremdsprache 350 bis 500 Wörter umfassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Lyrical texts and texts with a markedly stylistic ambition are not suitable as sources.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2.2 Sprachmittlung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Lyrische Texte und Texte mit ausgeprägt stilistischem Anspruch sind als Vorlagen nicht \ngeeignet.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.2.2 Sprachmittlung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "4.2.2 Sprachmittlung",
+        "printed_page_range": "12–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

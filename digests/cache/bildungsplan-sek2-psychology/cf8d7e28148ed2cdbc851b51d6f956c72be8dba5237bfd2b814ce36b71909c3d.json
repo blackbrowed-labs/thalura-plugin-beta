@@ -1,0 +1,167 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:cf8d7e28148ed2cdbc851b51d6f956c72be8dba5237bfd2b814ce36b71909c3d"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Psychology teaching engages students with the behaviour and experience of people and groups.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Verhalten und Erleben von Menschen und Menschengruppen sowie mit den verschiedenen",
+        "residual_flags": []
+      },
+      {
+        "content": "Reflecting psychology's self-understanding as an empirical science, three general teaching aims arise.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "als einer empirischen Wissenschaft ergeben sich drei allgemeine",
+        "residual_flags": []
+      },
+      {
+        "content": "First, students become acquainted in a propaedeutic way with the field's themes, theories and research methods.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "die Schülerinnen und Schüler wissenschaftspropädeutisch mit",
+        "residual_flags": []
+      },
+      {
+        "content": "Second, on the basis of acquired knowledge, processes of critical self- and other-reflection are initiated.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Prozesse der kritischen Selbst- und Fremdreflexion initiiert",
+        "residual_flags": []
+      },
+      {
+        "content": "Third, digital competencies matter in both psychological research and the applied disciplines.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Digitale Kompetenzen sind sowohl in der psychologischen Forschung als auch in den",
+        "residual_flags": []
+      },
+      {
+        "content": "The aims are summarised as a psychologically informed, critical reflective and action competence.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "kritische Reflexions- und Handlungskompetenz",
+        "residual_flags": []
+      },
+      {
+        "content": "Psychologieunterricht darf und will keine Psychotherapie sein.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "keine Psychotherapie sein darf und will",
+        "residual_flags": []
+      },
+      {
+        "content": "Aufgrund der Konzentration auf alltagsnahe Phänomene ist eine persönliche Betroffenheit jedes einzelnen Schülers gegeben.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "eine persönliche Betroffenheit jedes einzelnen Schülers",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Lernen im Fach Psychologie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "1 Lernen im Fach Psychologie",
+        "printed_page_range": "4–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

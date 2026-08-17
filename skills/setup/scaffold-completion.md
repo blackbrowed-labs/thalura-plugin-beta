@@ -48,8 +48,11 @@ interview's job, never this routine's. If the script prints
 4. **Re-run the script.** Proceed only when the re-run reports
    `scaffold=complete`, **or** when every token still present is an honestly
    flagged residual — the branding clean-stop state; a recorded logo asset that
-   is genuinely missing (`branding=configured logo=missing:<file>`); or a missing
-   school-settings file (`school_config=missing`). Never proceed silently over a
+   is genuinely missing (`branding=configured logo=missing:<file>`); a missing
+   school-settings file (`school_config=missing`); or a pre-read digest pack that
+   could not be seeded (`cache_seed=missing` still present after the seeder ran —
+   seeding is an optimization, not a correctness requirement, so the workspace is
+   complete without it and Thalura simply reads those regulations itself). Never proceed silently over a
    token that is neither cleared nor flagged — a silent proceed over an
    uncleared, unflagged token is a contract violation.
 5. **Report in prose**, in `conversation_language`: what was created, what was
@@ -74,6 +77,7 @@ under `<WORKSPACE_ROOT>/`; shipped sources are read from `${CLAUDE_PLUGIN_ROOT}/
 | `dir=missing:<path>` | Create the directory `<WORKSPACE_ROOT>/<path>` (create-only; parents as needed). |
 | `config_default=missing:<file>` | Copy `${CLAUDE_PLUGIN_ROOT}/config-defaults/<file>` → `<WORKSPACE_ROOT>/data/config/<file>`. Two-tier rule: copy only if the workspace copy is missing; never overwrite an existing one. |
 | `exam_template=missing` | Copy `${CLAUDE_PLUGIN_ROOT}/references/exam-formats/_template.md` → `<WORKSPACE_ROOT>/data/exam-formats/_template.md` (create-only). |
+| `cache_seed=missing` | Seed the shipped pre-read regulation digests: run `bash ${CLAUDE_PLUGIN_ROOT}/scripts/seed-digest-cache.sh "<PLUGIN_ROOT>" "<WORKSPACE_ROOT>"` (both roots passed in). It copies `${CLAUDE_PLUGIN_ROOT}/digests/cache/{document_id}/` → `<WORKSPACE_ROOT>/data/.cache/{document_id}/` one entry file at a time: copy only if the workspace entry is missing; never overwrite an existing one (an entry the runtime wrote is the newer one). This token fires only for a workspace that was **never** seeded — the restore path is the main one, since a backup deliberately carries no cache. Seeding is an optimization, never a precondition: if the token survives the re-run, flag it as a residual (below) rather than retrying. |
 | `library_index=missing:<subject>` | Write `<WORKSPACE_ROOT>/data/library/<subject>.json` with the empty library skeleton: `{ "subject": "<subject>", "units": [] }`. Never overwrite an existing index. |
 | `sic_readme=missing` | Write `<WORKSPACE_ROOT>/data/regulations/sic/README.md` by translating `${CLAUDE_PLUGIN_ROOT}/skills/setup/sic-readme-template.md` into `conversation_language`. Existence check only — if the file already exists, skip; never overwrite. |
 | `readme=missing` | Write `<WORKSPACE_ROOT>/data/README.md` by translating `${CLAUDE_PLUGIN_ROOT}/skills/setup/data-readme-template.md` into `conversation_language`. Existence check only — never overwrite. |

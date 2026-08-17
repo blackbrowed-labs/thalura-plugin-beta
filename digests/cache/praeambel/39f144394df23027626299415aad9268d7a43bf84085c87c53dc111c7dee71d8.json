@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:39f144394df23027626299415aad9268d7a43bf84085c87c53dc111c7dee71d8"
+  },
+  "freshness": [
+    {
+      "document_id": "praeambel",
+      "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Introducing core curricula (Kerncurricula) is presented not as a turn away from, but as a strengthening of, competency-oriented teaching.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Kerncurricula verbessern die Kompetenzorientierung und die Teilhabe",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Einführung von Kerncurricula bedeutet keine Abkehr, sondern eine Stärkung des kompe-",
+        "residual_flags": []
+      },
+      {
+        "content": "The core curricula supplement and systematize competency orientation and support schools in shaping teaching and learning processes.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Kerncurricula verbessern die Kompetenzorientierung und die Teilhabe",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "ergänzen und systematisieren die Kerncurricula die Kompetenzorientierung und unterstützen",
+        "residual_flags": []
+      },
+      {
+        "content": "Core curricula secure a cultural base knowledge needed to understand phenomena and connections, thereby promoting student participation (Teilhabe).",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Kerncurricula verbessern die Kompetenzorientierung und die Teilhabe",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "ein kulturelles Basiswissen, das für das Verstehen von Erscheinungen und Zusammenhängen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Kerncurricula verbessern die Kompetenzorientierung und die Teilhabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "praeambel",
+        "section_anchor": "Kerncurricula verbessern die Kompetenzorientierung und die Teilhabe",
+        "printed_page_range": "5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

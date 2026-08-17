@@ -1,0 +1,283 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c01603c8b875d7097241dfa08a73486cae584f5bde0afdfe21ff3d2575fa6e5e"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Präsentationsprüfung in the continued foreign language must relate to content/competence areas of at least two semesters and may not, despite a didactic focus, be limited to one semester; for a newly begun language one area may suffice.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Präsentationsprüfung der weitergeführten Fremdsprache bezieht sich auf Inhalts-\nbzw. Kompetenzbereiche mindestens zweier Semester der Studienstufe. Die in der Prä-\nsentationsprüfung der weitergeführten Fremdsprache zu bearbeitende Prüfungsaufgabe\ndarf sich trotz einer prüfungsdidaktischen Schwerpunktbildung nicht auf die Inhalts-\nbzw. Kompetenzbereiche nur eines Semesters beziehen. Die in der mündlichen Prüfung\nder neu aufgenommenen Fremdsprache zu bearbeitenden Aufgaben können sich auf ei-\nnen Inhalts- bzw. Kompetenzbereich beschränken.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Präsentationsprüfung is in principle an individual exam per § 26 (3) APO-AH; group exams must be justified in writing and applied for by a school-set deadline, comprise as a rule no more than three candidates (45 min for two, 60 min for three), and each candidate's individual share in talk and Fachgespräch must be recognizable.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Präsentationsprüfung erfolgt grundsätzlich als Einzelprüfung in der in § 26 Absatz\n3 APO-AH beschriebenen Form. Gruppenprüfungen müssen schriftlich begründet und\nbis zu einem von der Schule festgesetzten Termin bei der bzw. dem Vorsitzenden der\nPrüfungskommission beantragt werden. Die Gruppe darf in der Regel nicht mehr als drei\nPrüflinge umfassen. Gruppenprüfungen mit zwei Prüflingen dauern in der Regel 45 Minu-\nten, Gruppenprüfungen mit drei Prüflingen dauern in der Regel 60 Minuten. Dabei muss\nder individuelle Anteil jedes Prüflings sowohl im mediengestützten Vortrag als auch in\ndem anschließenden Fachgespräch erkennbar sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "A key aim of the Präsentationsprüfung is independent grasping and unlocking of the topic, topic-related selection of relevant aspects and stringent, appropriate presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Ein wesentliches Ziel der Präsentationsprüfung ist das selbstständige Erfassen und Auf-\nschlüsseln des Themas, die themenbezogene Auswahl der für das Thema relevanten As-\npekte und die Fähigkeit zur stringenten, sachgemäßen Darstellung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Of the 30-minute exam, part one is a self-prepared media-supported talk of about 10 minutes; part two is a 20-minute Fachgespräch starting from questions on the talk and covering further thematic aspects and wider subject connections.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Im ersten Teil der insgesamt 30-minütigen Prüfung präsentieren die Prüflinge einen\nselbstständig vorbereiteten mediengestützten Vortrag. Dieser umfasst etwa\n10 Minuten.\nDer Präsentation folgt in einem 20-minütigen zweiten Prüfungsteil ein Fachgespräch\ndes Prüflings mit dem Fachprüfungsausschuss, das von Rückfragen zum Vortrag seinen\nAusgang nimmt. In diesem Prüfungsgespräch sollen weitere thematische Aspekte im\nUmfeld der Prüfungsaufgabe berücksichtigt und größere fachliche Zusammenhänge\nerörtert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates may name only one content/competence area in writing, not the second; the Referent adds a further semester's area and develops the exam task from it including a first Erwartungshorizont, appropriate to the course level and leaving the candidate scope; both areas are stated in writing with the task, which must allow a reflected treatment including a personal evaluation, be workable in the time available, and demand performance in all three requirement areas.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Prüflinge können dem Fachprüfungsausschuss bis zu einem von der Schule zu be-\nstimmenden Termin nur einen Inhalts- bzw. Kompetenzbereich schriftlich angeben, den\nzweiten nicht. Lehnt die bzw. der Vorsitzende des Fachprüfungsausschusses diesen\nnicht in angemessener Zeit als ungeeignet ab, ist er Gegenstand der Prüfung. Für die\nmündliche Prüfung der weitergeführten Fremdsprache ergänzt der Referent bzw. die\nReferentin den Vorschlag des Prüflings um den Inhalts- bzw. Kompetenzbereich eines\nweiteren Semesters und entwickelt daraus die Prüfungsaufgabe einschließlich eines\nersten Erwartungshorizonts, die das Anforderungsniveau des Kurses angemessen\nberücksichtigt und dem Prüfling in seinem Lösungsansatz einen Gestaltungsraum lässt.\nBeide Inhalts- bzw. Kompetenzbereiche werden mit der Aufgabenstellung schriftlich\nangegeben. Die gestellte Aufgabe muss eine reflektierte Auseinandersetzung mit\neinem Thema einschließlich einer persönlichen Bewertung ermöglichen und in der zur\nVerfügung stehenden Zeit bearbeitbar sein. Bei ihrer Lösung werden Leistungen aus\nallen drei Anforderungsbereichen eingefordert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates receive the task two weeks before the exam; one week before they submit a documentation (max. two A4 pages plus bibliography) showing content, course and sources, which is part of the exam performance; the Referent refines the Erwartungshorizont on that basis and submits it with the task at the latest the day before; the rules of 5.1.1 apply and it is part of the Niederschrift. NOTE: the source prints 'Fachprüfungs-ausschusses' with a stray hyphen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 27,
+          "printed_page_end": 28,
+          "physical_page": 27
+        },
+        "cited_text": "Zwei Wochen vor dem Termin der Präsentationsprüfung erhalten die Prüflinge die Auf-\ngabenstellung von der zuständigen Fachlehrkraft. Eine Woche vor der Prüfung\ngeben die Prüflinge eine Dokumentation bei der oder dem Vorsitzenden des\nFachprüfungs-ausschusses ab, aus der die Inhalte, der Ablauf der Präsentation sowie\ndie verwendeten Quellen hervorgehen. Die Dokumentation umfasst maximal zwei DIN-\nA4-Seiten zuzüglich des Quellen- und Literaturverzeichnisses und ist Teil der\nPrüfungsleistung. Anhand der vorgelegten Dokumentation präzisiert der Referent bzw.\ndie Referentin den Erwartungshorizont in Hinblick auf Inhalt und Verlauf der\nPräsentationsprüfung und legt ihn\n27Englisch\n28\nden Mitgliedern des Prüfungsausschusses zusammen mit der Aufgabenstellung spätes-\ntens am Tag vor der Präsentationsprüfung vor. Im Übrigen gelten die Vorgaben zum Er-\nwartungshorizont aus Ziffer 5.1.1. Dieser Erwartungshorizont ist Teil der Niederschrift \nüber den Verlauf der Präsentationsprüfung.",
+        "residual_flags": [
+          "source anomaly: 'Fachprüfungs-ausschusses' printed with an intra-word hyphen; page artifact '27Englisch' inside the span"
+        ]
+      },
+      {
+        "content": "On the exam day candidates prepare their presentation independently (e.g. testing the technology) and give the talk without further preparation time.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Am Tag der Prüfung bereiten die Prüflinge ihre Präsentation selbstständig vor (ggf. durch \nErprobung der technischen Voraussetzungen) und tragen ihren Vortrag ohne weitere \nVorbereitungszeit dem Fachprüfungsausschuss vor.",
+        "residual_flags": []
+      },
+      {
+        "content": "Besides media-supported text and illustration elements candidates may use e.g. cue cards, but in no case fully formulated texts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Neben den medial gestützten Text- und Veranschaulichungselementen nutzen die Prüflin-\nge z. B. Karten mit Stichworten als Hilfsmittel, in keinem Fall aber ausformulierte Texte.",
+        "residual_flags": []
+      },
+      {
+        "content": "In part two the whole exam field is deepened in a Fachgespräch led mainly by the subject teacher; candidates reflect on the course of the presentation, answer deepening questions on content and media design, and meet requirements not confined to one semester's teaching.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Im zweiten Prüfungsteil wird das gesamte Prüfungsgebiet in einem Fachgespräch zwi-\nschen dem Prüfling und den Mitgliedern des Fachprüfungsausschusses vertieft. Das \nFachgespräch führt überwiegend die zuständige Fachlehrkraft. \nDie Prüflinge reflektieren in diesem Prüfungsteil den Verlauf der Präsentation, beant-\nworten vertiefende Fragen zum Inhalt und zur medialen Gestaltung der Präsentation \nund erfüllen in einem Gespräch Anforderungen, die sich in der mündlichen Prüfung der \nweitergeführten Fremdsprache nicht nur auf den Unterricht eines Semesters beziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A task that is so close to one already worked on, or so prepared in class, that the requirements amount essentially to reproducing what has been done, is not permitted.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Eine Aufgabenstellung, die einer bereits bearbeiteten so nahesteht oder deren Thema-\ntik bzw. Gegenstand im Unterricht so vorbereitet ist, dass sich die Anforderungen im \nWesentlichen lediglich auf die Wiedergabe von bereits Bearbeitetem oder Erarbeitetem \nbeschränken, ist nicht zulässig.",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirement areas described under 3.2 apply in principle to the Präsentationsprüfung as well.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Die unter 3.2 beschriebenen Anforderungsbereiche gelten grundsätzlich auch für die \nPräsentationsprüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Part one (the media-supported talk) carries requirements in three areas; under Präsentation candidates present the content appropriately for subject and audience, use the chosen medium competently, appear clearly and turned to the audience (posture, eye contact), speak clearly and modulated, give the presentation a clear ending and divide the time sensibly.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Für den ersten Teil der mündlichen Prüfung (mediengestützter Vortrag) gelten Anforde-\nrungen in drei Bereichen:\nPräsentation\nDie Prüflinge \n•\npräsentieren den Inhalt sach- und adressatengerecht,\n•\nnutzen die Möglichkeiten des gewählten Mediums angemessen und kompetent,\n•\ntreten klar und an das Publikum gewandt auf (z. B. Körperhaltung, Blickkontakt),\n•\nsprechen klar, deutlich und moduliert,\n•\ngeben der Präsentation einen deutlichen Abschluss,\n•\nteilen die Zeit sinnvoll ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Inhalt candidates have secure structured orientation knowledge, reproduce and reorganize information from various sources, establish connections within and beyond the subject, structure the talk transparently with clear priorities, apply subject-specific methods, show understanding, problem awareness and judgement, and argue coherently and convincingly.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "besitzen gesichertes strukturiertes Orientierungswissen,\n•\nreproduzieren und reorganisieren Informationen aus verschiedenen Quellen,\n•\nstellen Zusammenhänge innerhalb des Fachbereichs und darüber hinausgehend her,\n•\nstrukturieren den Vortrag transparent und setzen eindeutige Schwerpunkte,\n•\nwenden fachspezifische Methoden an,\n•\nzeigen Verständnis, Problembewusstsein und Urteilsfähigkeit,\n•\nargumentieren schlüssig und überzeugend.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Sprache candidates present complex matters clearly and in detail, choose topic-appropriate formulations from a range of Redemittel, use a broad vocabulary with paraphrase for gaps, use structuring and linking devices, speak at an even pace, are phonetically and intonationally largely correct, and may deviate spontaneously and fluently from the prepared text.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "stellen komplexe Sachverhalte klar und detailliert dar und verknüpfen verschiedene\nAspekte,\n•\nwählen aus einem Spektrum von Redemitteln Formulierungen aus, die dem Thema\nangemessen sind,\n•\nverwenden einen umfangreichen Wortschatz und können bei Wortschatzlücken Um-\nschreibungen gebrauchen,\n•\nverwenden sinn- und maßvoll Gliederungs- und Verknüpfungsmittel, um ihre Äußerun-\ngen zu einem längeren zusammenhängenden Beitrag zu verbinden,\n•\nsprechen in gleichmäßigem Tempo,\n•\nsprechen phonetisch und intonatorisch weitgehend korrekt,\n•\nweichen ggf. spontan vom vorbereiteten Text ab, häufig in gewandter und flüssiger\nWeise.",
+        "residual_flags": []
+      },
+      {
+        "content": "Part two (Fachgespräch) carries requirements in two areas; under Inhalt candidates reflect on their talk regarding content and media use, react appropriately to questions and impulses, take an arguing and commenting stance on further questions, and actively shape the Fachgespräch.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Für den zweiten Teil der mündlichen Prüfung (Fachgespräch) gelten Anforderungen in \nzwei Bereichen:\nInhalt \nDie Prüflinge\n•\nreflektieren ihren Vortrag hinsichtlich des Inhalts und des Medieneinsatzes,\n•\nreagieren fachlich angemessen auf Nachfragen und andere Impulse von Seiten der\nPrüfenden,\n•\nnehmen argumentierend und kommentierend Stellung zu weitergehenden Fragestel-\nlungen,\n•\ngestalten das Fachgespräch aktiv mit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Sprache for the Fachgespräch candidates participate actively, defend their views, choose apt discourse means, use a differentiated and apt vocabulary, react spontaneously (with slight loss of complexity and fluency) and speak audience-appropriately with secure register choice.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "beteiligen sich aktiv am Gespräch, begründen und verteidigen eigene Ansichten,\n•\nwählen aus einem verfügbaren Repertoire von Diskursmitteln geeignete Wendungen\naus, um das Wort zu ergreifen, eine Äußerung einzuleiten oder eigene Beiträge mit\ndenen anderer Gesprächsteilnehmer zu verknüpfen (Zustimmung, Ablehnung, Wider-\nspruch etc.),\n•\nverwenden einen dem Thema angemessenen differenzierten und treffenden Wort-\nschatz,\n•\nreagieren spontan auf Fragen, Impulse und Arbeitsanweisungen – allerdings unter\nleichtem Verlust an Komplexität und Flüssigkeit,\n•\nsprechen adressatengerecht und sind sicher in der Wahl des Registers und der Spra-\nchebene.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Präsentationsprüfung is assessed as a whole; serious deficits in the subject-related performance cannot be compensated by presentation or media competence; descriptor tables for Inhalt, monologisches Sprechen, interaktives Sprechen and Präsentation are under 5.3, and the linguistic components must predominate in the overall impression.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Die Präsentationsprüfung wird in ihrer Gesamtheit bewertet. Schwerwiegende Mängel \nder fachlichen Prüfungsleistungen können nicht durch Präsentations- oder Medienkom-\npetenz kompensiert werden. Für die Bereiche Inhalt, monologisches Sprechen, interak-\ntives Sprechen und Präsentation liegen unter 5.3 Deskriptorentabellen vor, die die in \n4.4.2.1 ausgeführten Kriterien aufnehmen und differenzieren. Bei der Bewertung des \nGesamteindrucks müssen die sprachlichen Anteile überwiegen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "5.2 Präsentationsprüfung gemäß § 26 Absatz 3 APO-AH",
+        "printed_page_range": "27–29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

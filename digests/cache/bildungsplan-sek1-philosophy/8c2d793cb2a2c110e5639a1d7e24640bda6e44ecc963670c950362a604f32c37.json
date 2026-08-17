@@ -1,0 +1,141 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8c2d793cb2a2c110e5639a1d7e24640bda6e44ecc963670c950362a604f32c37"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Philosophy teaching starts from phenomena and problems of the students' lifeworld in order to develop philosophical questions pursued jointly as a community of inquiry (Forschungsgemeinschaft).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Philosophieunterricht nehmen die Schülerinnen und Schüler Phänomene und Probleme ih-\nrer Lebenswelt zum Ausgangspunkt, um philosophische Fragen zu entwickeln, die von ihnen \ngemeinsam als Forschungsgemeinschaft verfolgt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Philosophical problems, found and formulated with reference to the students' lifeworld, are at the centre of the teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Zentrum des Unterrichts stehen philosophische Probleme, die in Bezug auf die Lebenswelt \nder Schülerinnen und Schüler aufgefunden und formuliert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students and teachers together form a community of inquiry.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Schülerinnen und Schüler und die Lehrkräfte bilden im Unterricht eine Forschungsgemein",
+        "residual_flags": []
+      },
+      {
+        "content": "A philosophical judgement is a reasoned judgement and thus distinct from mere opinion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Ein philosophisches Urteil ist ein begründetes Urteil und damit von bloßer Meinung abge",
+        "residual_flags": []
+      },
+      {
+        "content": "Philosophy teaching fosters a critical attitude of mind including awareness of the origins of one's own and others' ways of thinking and the capacity for self-criticism.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Philosophieunterricht fördert eine kritische Geisteshaltung, die auch ein Bewusstsein für \ndie Entstehung eigener und fremder Denkweisen sowie die Fähigkeit zur Selbstkritik impliziert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Within the core curricula, the central language competencies are assigned by cross-reference to individual topic and content areas to support the planning of language-sensitive subject teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Innerhalb der Kerncurricula werden die zentralen sprachlichen Kompe-\ntenzen durch Verweise einzelnen Themen- bzw. Inhaltsbereichen zugeordnet, um die Planung \neines sprachsensiblen Fachunterrichts zu unterstützen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Lernen im Fach Philosophie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "1 Lernen im Fach Philosophie",
+        "printed_page_range": "4–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

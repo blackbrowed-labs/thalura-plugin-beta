@@ -2,7 +2,7 @@
   "document_id": "bildungsplan-sek1-religion",
   "document_title": "Bildungsplan Gymnasium Sek I Religion",
   "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 50,
   "page_identity": {
     "offset": 0,
@@ -115,9 +115,9 @@
     {
       "section_anchor": "2.1 Überfachliche Kompetenzen",
       "printed_page_start": 10,
-      "printed_page_end": 10,
+      "printed_page_end": 11,
       "physical_page_start": 10,
-      "physical_page_end": 10,
+      "physical_page_end": 11,
       "ordinance": null,
       "grades": null,
       "hazards": []

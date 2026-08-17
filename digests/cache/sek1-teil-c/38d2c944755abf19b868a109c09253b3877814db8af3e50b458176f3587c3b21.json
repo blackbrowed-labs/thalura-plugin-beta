@@ -1,0 +1,198 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:38d2c944755abf19b868a109c09253b3877814db8af3e50b458176f3587c3b21"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Assessment criteria for ORAL performance (part 1): relevance and factual correctness of statements; logical consistency, coherence and complexity of argument; richness and depth of the contribution; differentiation of understanding and presentation; appropriateness of the level of abstraction; methodological appropriateness of the subject.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Für die mündlichen Leistungen gelten insbesondere folgende Bewertungskriterien: \n• \nRelevanz und sachliche Richtigkeit der Aussagen \n• \nFolgerichtigkeit der Aussagen, Stimmigkeit und Komplexität der Argumentation \n• \nReichhaltigkeit und Tiefe des Beitrags \n• \nDifferenziertheit des Verstehens und Darstellens \n• \nAngemessenheit des Abstraktionsniveaus \n• \nfachmethodische Angemessenheit",
+        "residual_flags": []
+      },
+      {
+        "content": "Oral criteria (part 2): vividness and clarity of language and structure; conceptual and technical-language precision and correctness; linguistic appropriateness and correctness; functional handling of reference texts, materials and media; independence, creativity and originality of content and presentation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "• \nAnschaulichkeit sowie Klarheit von Sprache und Aufbau der Ausführungen \n• \nbegriffliche und fachsprachliche Präzision und Richtigkeit \n• \nsprachliche Angemessenheit und Richtigkeit \n• \nfunktionaler Umgang mit Bezugstexten, Materialien und Medien \n• \nEigenständigkeit, Kreativität und Originalität von Inhalt und Darstellung",
+        "residual_flags": []
+      },
+      {
+        "content": "Oral criteria (part 3): functional creation of suitable connections (reference to prior experience and known material, transfer to new material); understanding and appropriate consideration of others' contributions in conversation; communicative goal and result orientation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "• \nfunktionale Herstellung geeigneter Zusammenhänge: Bezugnahme auf Vorerfahrun-\ngen und Bekanntes, Übertragung auf Neues \n• \nVerständnis und angemessene Berücksichtigung anderer Beiträge in Gesprächen \n• \nkommunikative Ziel- und Ergebnisorientierung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment criteria for WRITTEN performance (part 1): task relation, content relevance and factual correctness; richness, depth and completeness; logical consistency, coherence and complexity of argument; differentiation of understanding and presentation; appropriateness of the level of abstraction; methodological appropriateness.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Für die schriftlichen Leistungen gelten insbesondere folgende Bewertungskriterien: \n• \nAufgabenbezug, inhaltliche Relevanz und sachliche Richtigkeit \n• \nReichhaltigkeit, Tiefe und Vollständigkeit \n• \nFolgerichtigkeit der Aussagen, Stimmigkeit und Komplexität der Argumentation \n• \nDifferenziertheit des Verstehens und Darstellens \n• \nAngemessenheit des Abstraktionsniveaus \n• \nfachmethodische Angemessenheit",
+        "residual_flags": []
+      },
+      {
+        "content": "Written criteria (part 2): clarity of structure and language; conceptual and technical-language precision and correctness; stylistic appropriateness and coherence of expression; fulfilment of standard-language norms; functional handling of reference texts and materials; independence, creativity and originality of treatment and presentation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "• \nKlarheit von Aufbau und Sprache \n• \nbegriffliche und fachsprachliche Präzision und Richtigkeit \n• \nstilistische Angemessenheit, Stimmigkeit des Ausdrucks \n• \nErfüllung standardsprachlicher Normen \n• \nfunktionaler Umgang mit Bezugstexten und Materialien \n• \nEigenständigkeit, Kreativität und Originalität von Bearbeitung und Darstellung",
+        "residual_flags": []
+      },
+      {
+        "content": "Written criteria (part 3, closing): clarity and quality of layout. For PRACTICAL performances, subject-specific assessment criteria apply.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "• \nÜbersichtlichkeit und Qualität des Layouts. \nFür die praktischen Leistungen gelten fachspezifische Bewertungskriterien.",
+        "residual_flags": []
+      },
+      {
+        "content": "Beyond the criteria arising from the (primary) medial form of the performance, further criteria apply depending on the manner in which the performance is delivered.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Zu den zuvor genannten Bewertungskriterien, die sich aus der (primären) medialen Form der \nerbrachten Leistung ergeben, treten in Abhängigkeit von der Art der Leistungserbringung wei-\ntere Bewertungskriterien.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for phases of INDIVIDUAL work: difficulty of the task worked on; independence and success in obtaining information/data; flexibility and confidence in using tools; command of strategies for coping with a task; independence in problem solving and openness to using different solution paths.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Phasen individueller Arbeit: \n• \nSchwierigkeitsgrad der bearbeiteten Aufgabe \n• \nSelbstständigkeit und Erfolg bei der Beschaffung von Informationen bzw. Gewinnung \nvon Daten \n• \nFlexibilität und Sicherheit im Umgang mit Werkzeugen \n• \nBeherrschung von Strategien zur Bewältigung einer Aufgabe \n• \nSelbstständigkeit bei der Problemlösung und Aufgeschlossenheit gegenüber der Nut-\nzung verschiedener Lösungswege.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for phases of COOPERATIVE/collaborative learning (e.g. partner or group work): initiative and impulses for the joint work; planning, structuring and division of the work; methodological approach and appropriate subject communication; coordination, development and solution of one's own sub-tasks; integration of one's own work into the joint process.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Phasen kooperativen bzw. kollaborativen Lernens (z. B. Partner- oder Gruppenarbeit): \n• \nInitiativen und Impulse für die gemeinsame Arbeit \n• \nPlanung, Strukturierung und Aufteilung der Arbeit \n• \nfachmethodische Zugangsweise und fachgerechte Kommunikation  \n• \nAbstimmung, Weiterentwicklung und Lösung der eigenen Teilaufgaben \n• \nIntegration der eigenen Arbeit in den gemeinsamen Arbeitsprozess.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for WORK PRODUCTS (part 1): delimitation of the topic and development of one's own research question; correct, technically appropriate formulation of the problem; identification of the relevant information and connections; methodologically appropriate analysis, evaluation and preparation of the given information or data.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Arbeitsprodukte: \n• \nEingrenzung des Themas, Entwicklung einer eigenen Fragestellung \n• \nkorrekte, fachlich angemessene Formulierung des Problems \n• \nIdentifikation der relevanten Informationen und Zusammenhänge \n• \nfachmethodisch angemessene Analyse, Auswertung und Aufbereitung der gegebenen \nInformationen oder Daten",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for work products (part 2): critical evaluation and interpretation of the results; independence, creativity and originality of content and form; precision of execution; difficulty of creation; functionality and quality of the presentation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "• \nkritische Bewertung und Interpretation der Ergebnisse \n• \nEigenständigkeit, Kreativität und Originalität von Inhalt und Form \n• \nPräzision der Ausführung \n• \nSchwierigkeitsgrad der Erstellung \n• \nFunktionalität und Qualität der Darstellung.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6 Bewertungskriterien"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "6 Bewertungskriterien",
+        "printed_page_range": "14–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

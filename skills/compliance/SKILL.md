@@ -43,12 +43,12 @@ For every output, verify:
 **Output format:**
 ```
 Compliance Quick-Check:
-[pass] Competency areas: [competencies] — BP [subject] [level], p. [page]
-[pass] Topic: within curriculum standards (Bildungsplan) scope — BP [subject] [level], p. [page]
+[pass] Competency areas: [competencies] — BP {subject} {level}, {page}
+[pass] Topic: within curriculum standards (Bildungsplan) scope — BP {subject} {level}, {page}
 [warning] Operator "erörtern" in grade 7 — propedeutic (propädeutisch) use (Studienstufe operator)
 ```
 
-The output is rendered in `conversation_language`. The template above shows the English structure; localized labels are resolved via `localization.json`.
+The output is rendered in `conversation_language`; other labels are resolved via `localization.json`. The page reference (`{page}`) is not one of them: it expands to the **complete page reference including its abbreviation** — not a bare number — and its abbreviation and any range form follow `${CLAUDE_PLUGIN_ROOT}/references/regulation-naming.md` → *Teacher-Facing Citation Format*.
 
 ---
 
@@ -114,20 +114,20 @@ Subject: {subject} | Grade: {grade_level} | Level: {gA/eA or N/A}
 Date: {date}
 
 1. Competency Areas
-   [pass] {competency}: BP {subject} {level}, p. {page}
+   [pass] {competency}: BP {subject} {level}, {page}
 
 2. Topic Scope
-   [pass] {topic}: BP {subject} {level}, p. {page}
+   [pass] {topic}: BP {subject} {level}, {page}
 
 3. Operators
-   [pass] {operator} (AB {level}): Operator list {subject}, p. {page}
+   [pass] {operator} (AB {level}): Operator list {subject}, {page}
    [warning] {operator}: propedeutic (propädeutisch) in grade {grade}
 
 4. AB Distribution
    AB I:  {points} ({percentage}%) — Requirement: {requirement}%  [pass]
    AB II: {points} ({percentage}%) — Requirement: {requirement}%  [pass]
    AB III:{points} ({percentage}%) — Requirement: {requirement}%  [pass]
-   Source: ARL {subject}, p. {page}
+   Source: ARL {subject}, {page}
 
 5. Point Distribution
    [pass] Total points consistent: {total}
@@ -146,11 +146,11 @@ Result:
 {count} passed | {count} warnings | {count} deviations
 ```
 
-The output is rendered in `conversation_language`. The template above shows the English structure; localized labels are resolved via `localization.json`.
+The output is rendered in `conversation_language`; other labels are resolved via `localization.json`. The page reference (`{page}`) is not one of them: it expands to the **complete page reference including its abbreviation** — not a bare number — and its abbreviation and any range form follow `${CLAUDE_PLUGIN_ROOT}/references/regulation-naming.md` → *Teacher-Facing Citation Format*.
 
 When the audit's findings are rendered onto a document surface (e.g. the grading rubric (Erwartungshorizont)), that write routes through the Output-Gate Runner (Step 5); do not present that rendered document until its gate-outcome report is produced. A chat-only audit reply has no document to gate.
 
-Each regulation citation in the audit (the `BP … p. {page}`, `ARL … p. {page}`, operator-list, and APO/§ references — in both the full audit and the quick-check above) renders as a link to its official source per `${CLAUDE_PLUGIN_ROOT}/references/document-metadata.md` → *Regulation-citation links* — best-effort in chat (a link where a source URL resolves, plain text otherwise). The citation text is unchanged.
+Each regulation citation in the audit (the `BP … {page}`, `ARL … {page}`, operator-list, and APO/§ references — in both the full audit and the quick-check above) renders as a link to its official source per `${CLAUDE_PLUGIN_ROOT}/references/document-metadata.md` → *Regulation-citation links* — best-effort in chat (a link where a source URL resolves, plain text otherwise). The citation text is unchanged.
 
 ---
 

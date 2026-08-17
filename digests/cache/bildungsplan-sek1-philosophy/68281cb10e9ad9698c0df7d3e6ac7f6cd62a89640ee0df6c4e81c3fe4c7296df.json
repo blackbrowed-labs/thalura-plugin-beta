@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:68281cb10e9ad9698c0df7d3e6ac7f6cd62a89640ee0df6c4e81c3fe4c7296df"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken PM6 (grade 9, 'Zukunftsfragen'): the significance of the technical revolution and the idea of progress; chances and benefits of technology are weighed against dangers, risks and consequences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 6: Mensch und Technik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "In diesem Modul geht es um die Bedeutung der technischen Revolu-\ntion und des Fortschrittsgedankens für uns Menschen. Chancen und \nNutzen technischer Möglichkeiten werden gegen Gefahren, Risiken \nund Folgen abgewogen.",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      },
+      {
+        "content": "Contents of PM6: possibilities and dangers of machines, algorithms and AI (KI); robots, cyborgs, bots and humans; the influence of algorithms in social networks.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 6: Mensch und Technik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "• Möglichkeiten und Gefahren von Maschinen, Algorithmen und KI \n• Roboter, Cyborgs, Bots und Menschen \n• Der Einfluss von Algorithmen in sozialen Netzwerken",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': students discuss aspects of technology and digitalisation in the context of values.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 6: Mensch und Technik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die Schülerinnen und Schüler diskutieren Aspekte von Technik und \nDigitalisierung im Kontext von Werten,",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'D': students examine areas of their life-world in which the analogue world is interwoven with technology and the digital.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 6: Mensch und Technik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die Schülerinnen und Schüler untersuchen Bereiche ihrer Lebens-\nwelt, in denen die analoge Welt mit Technik und Digitalem verwoben",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Pflichtmodul 6: Mensch und Technik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Pflichtmodul 6: Mensch und Technik",
+        "printed_page_range": "25"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:514dbf78d3498f8ccd845026599a33bf2af2f76c0fa6b1e21e559c40c4b789a6"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The oral examination (mündliche Prüfung) must cover different competency or content areas from at least two semesters of the Studienstufe and may not repeat the written examination.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 26 Mündliche Prüfung, Präsentation",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Das Prüfungsgebiet der mündlichen Prüfung erstreckt sich unbeschadet einer erfor-\nderlichen Schwerpunktbildung auf unterschiedliche Kompetenz- beziehungsweise In-\nhaltsbereiche mindestens zweier Semester der Studienstufe; die mündliche Prüfung \ndarf keine Wiederholung der schriftlichen Prüfung sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "The oral examination lasts about 30 minutes per subject and the task (Aufgabenstellung) is presented to the candidate in writing.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 26 Mündliche Prüfung, Präsentation",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Die mündliche Prüfung dauert je Fach etwa 30 Minuten. Die Aufgabenstellung der \nmündlichen Prüfung wird den Prüflingen schriftlich vorgelegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates who do not sit a presentation examination should be given about 30 minutes of preparation time.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 26 Mündliche Prüfung, Präsentation",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Prüflingen, die keine Prä-\nsentationsprüfung ablegen, soll etwa 30 Minuten Zeit zur Vorbereitung gegeben wer-\nden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates decide at the beginning of the third semester whether to take the oral examination in the fourth examination subject as a presentation examination (Präsentationsprüfung).",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 26 Mündliche Prüfung, Präsentation",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Die Prüflinge entscheiden zu Beginn des dritten Semesters, ob sie die mündliche \nPrüfung im vierten Prüfungsfach als Präsentationsprüfung ablegen wollen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Praesentationspruefung besteht aus einem 10 Minuten langen medienunterstuetzten Vortrag mit anschliessendem Fachgespraech.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 26 Mündliche Prüfung, Präsentation",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Die Prüflinge halten einen ohne die Hilfe Dritter erstellten 10 Minuten langen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 26 Mündliche Prüfung, Präsentation"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 26 Mündliche Prüfung, Präsentation",
+        "printed_page_range": "22–23"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f8ca654995b737d49039b16be3604fad9487b26d80b39195985ab7f3173357c8"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Fachgespräch begins with follow-up questions on the presentation — depth of treatment, weighting of aspects, materials used, methodological approach.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — V Hinweise zur Gestaltung des Fachgesprächs",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Nachfragen zur Präsentation, z.B. bezüglich \n• \nder Durchdringung des Themas, \n• \nder Bedeutung und Gewichtung einzelner Aspekte, \n• \nder verwendeten Materialien, \n• \ndes methodischen Vorgehens.",
+        "residual_flags": []
+      },
+      {
+        "content": "One prompt asks the candidate to describe how social media are used in advertising and to analyse and assess the effectiveness of that form of advertising.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — V Hinweise zur Gestaltung des Fachgesprächs",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Describe the ways in which social media are used in advertising. Analyse and assess \nthe effectiveness of this form of advertising.",
+        "residual_flags": []
+      },
+      {
+        "content": "Another prompt asks which familiar literary visions of the future touch on similar aspects (e.g. Feed, Little Brother, The Circle, Fahrenheit 451, 1984) and asks for parallels and differences.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — V Hinweise zur Gestaltung des Fachgesprächs",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Which literary visions of the future you are familiar with deal with or touch upon \naspects similar to those you have analysed in your presentation? (e.g. Feed, Little \nBrother, The Circle, Fahrenheit 451, 1984). Analyse the parallels and differences.",
+        "residual_flags": []
+      },
+      {
+        "content": "A third prompt asks whether literary visions such as Fahrenheit 451, 1984 or The Circle are suitable to teach media literacy or influence personal media use.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — V Hinweise zur Gestaltung des Fachgesprächs",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Discuss whether literary visions such as Fahrenheit 451, 1984 or The Circle are suit-\nable to teach people media literacy or influence their personal use of media.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Social media — V Hinweise zur Gestaltung des Fachgesprächs"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Social media — V Hinweise zur Gestaltung des Fachgesprächs",
+        "printed_page_range": "28"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

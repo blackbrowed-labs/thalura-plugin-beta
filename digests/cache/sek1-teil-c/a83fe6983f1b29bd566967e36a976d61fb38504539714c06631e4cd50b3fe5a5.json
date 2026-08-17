@@ -1,0 +1,155 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:a83fe6983f1b29bd566967e36a976d61fb38504539714c06631e4cd50b3fe5a5"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Gegenstand der Leistungsbewertung sind Leistungen in Klassenarbeiten bzw. Klausuren und ihnen entsprechende Leistungen, die laufenden mündlichen, schriftlichen und praktischen Leistungen sowie in Prüfungen erbrachte Leistungen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Gegenstand der Leistungsbewertung sind: \n• \nLeistungen in Klassenarbeiten bzw. Klausuren und ihnen entsprechende Leistungen, \n• \ndie während eines Beurteilungszeitraums erbrachten mündlichen, schriftlichen und \npraktischen Leistungen in der laufenden Unterrichtsarbeit sowie \n• \nin Prüfungen erbrachte Leistungen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Zeugnisnoten dürfen sich nicht überwiegend auf Leistungen in Klassenarbeiten bzw. Klausuren und entsprechende Leistungen beziehen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die für einen Bewertungszeitraum vergebenen Zeugnisnoten dürfen sich nicht überwiegend ",
+        "residual_flags": []
+      },
+      {
+        "content": "Abweichend wird für das Fach Mathematik in den Sekundarstufen I und II der Anteil von Klassenarbeits- bzw. Klausurleistungen an der Zeugnisnote verbindlich vorgegeben.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "beziehen. Abweichend davon werden für das Fach Mathematik in den Sekundarstufen I und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Neben bewerteten kann es auch bewertungsfreie Arbeitsphasen und Leistungsfeststellungen geben.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Neben bewerteten kann es auch bewertungsfreie Arbeitsphasen und Leistungsfeststellungen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Grundsätzlich sind alle Kompetenzbereiche eines Faches bzw. Lernbereichs bei der Leistungsbewertung angemessen zu berücksichtigen, und neben analoge Formen treten regelmäßig digitale Formate.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Kompetenzbereiche eines Faches bzw. Lernbereichs bei der Leistungsbewertung angemes-\nsen zu berücksichtigen. Neben analoge Formen treten regelmäßig auch digitale Formate der \nLeistungserbringung. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Lehrer- bzw. Abteilungs- oder Fachkonferenzen legen unter Berücksichtigung von Rechtsvorschriften und Bildungsplan verbindlich Bereiche, Kriterien, Indikatoren und die Gewichtung der Leistungsbewertung fest.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Lehrer- bzw. Abteilungs- oder Fachkonferenzen legen unter Berücksichtigung der Vorgaben ",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Beginn eines Beurteilungszeitraums erläutert die Lehrkraft den Schülerinnen und Schülern die wesentlichen Bewertungsgrundlagen und -kriterien.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Zu Beginn eines Beurteilungszeitraums erläutert die Lehrkraft den Schülerinnen und Schülern ",
+        "residual_flags": []
+      },
+      {
+        "content": "Bewertungen werden respektvoll vermittelt und mit lernförderlichen Hinweisen zu Vorzügen und Defiziten sowie Hinweisen für den weiteren Lern- und Arbeitsprozess verbunden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Bewertungen werden respektvoll vermittelt und mit lernförderlichen Hinweisen verbunden. Die ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Grundsätze"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "2 Grundsätze",
+        "printed_page_range": "6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

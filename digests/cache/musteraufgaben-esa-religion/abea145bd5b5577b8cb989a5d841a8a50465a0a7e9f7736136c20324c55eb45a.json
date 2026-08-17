@@ -1,0 +1,241 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:abea145bd5b5577b8cb989a5d841a8a50465a0a7e9f7736136c20324c55eb45a"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The exam format is a group exam with joint preparation time and a practical component.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "mit gemeinsamer Vorbereitungszeit \n ☐ Gruppenprüfung mit individueller Vorbereitungszeit \n ☒ mit fachpraktischem Anteil",
+        "residual_flags": []
+      },
+      {
+        "content": "In class, Jesus, Muhammed, Ali and Buddha were studied as central persons of their religions.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "Im Unterricht haben wir uns mit Jesus, Muhammed, Ali und Buddha als den zentralen Per-\nsonen ihrer jeweiligen Religion beschäftigt und dabei deren Leben, Handlungen",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "Interrupting the final exam more than twice means it counts as not passed.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "mehr als zweimal unterbrichst, gilt sie als nicht bestanden",
+        "residual_flags": []
+      },
+      {
+        "content": "Each candidate is to present one central person of the religions (Jesus, Muhammed, Mosche, Ali or Buddha).",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Stellt jeweils eine dieser zentralen Personen der Religionen (also entweder Je-\nsus, Muhammed, Mosche, Ali oder Buddha) dar",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "The presentation and dialogue should last about 10 to 15 minutes.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Die Vorstellung und euer Dialog soll ca. 10-15 Minuten dauern",
+        "residual_flags": []
+      },
+      {
+        "content": "The exam task refers to compulsory module 4.1 'Zentrale Personen der Religionen'.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "bezieht sich auf das Pflichtmodul 4.1 „Zentrale Personen der Reli-\ngionen“ im Themenbereich",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "The teaching unit for this module comprised 18 lessons (9 double lessons).",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "umfasste 18 Unterrichtsstunden",
+        "residual_flags": []
+      },
+      {
+        "content": "Questions on requirement areas II and III come only after lower-level questions are answered confidently.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "Fragen zu den Anforderungsbereichen II und III sollen \ndaher erst gestellt werden",
+        "residual_flags": []
+      },
+      {
+        "content": "For Jesus: life as a Jew under Roman occupation, itinerant preacher.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "Jesus: Leben als Jude unter römischer Besatzung, Wanderprediger",
+        "residual_flags": []
+      },
+      {
+        "content": "If requirements are exceeded or fallen short of, the full grade spectrum from E1 to G6 applies.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "das gesamte Notenspektrum von E1 bis G6",
+        "residual_flags": []
+      },
+      {
+        "content": "For G2: the role-model character of three persons is shown at several examples and related to the present.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "der Vorbildcharakter von drei Personen an mehreren Beispielen",
+        "residual_flags": []
+      },
+      {
+        "content": "The documentation table is a structure proposal for the exam protocol.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "I. Prüfungsunterlagen",
+          "printed_page": 8,
+          "physical_page": 13
+        },
+        "cited_text": "Bei der nachfolgenden Tabelle handelt es sich um einen Strukturvorschlag",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 1
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 2
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 3
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I. Prüfungsunterlagen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "I. Prüfungsunterlagen",
+        "printed_page_range": "1–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

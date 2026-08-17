@@ -1,0 +1,139 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:502e431c1c16d8af8de87e66de4e92e243770407bf98099038c15df05b34a9cf"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "One overall grade is formed across both exam parts, with the language performance predominating.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — VI Bewertungshinweise",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Für die beiden Teile der Präsentationsprüfung wird eine Gesamtnote gebildet, bei der \ndie sprachliche Leistung überwiegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment is based on the descriptor tables of Abiturrichtlinie 2018, Annex 2 English; the tables shown are excerpts adapted in the 'inhaltliche Aufgabenerfüllung' sub-area.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — VI Bewertungshinweise",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Die folgenden Tabellen sind Auszüge aus diesen Deskriptorentabellen. Sie wurden im \nTeilbereich \"inhaltliche Aufgabenerfüllung\" der konkreten Prüfung angepasst.",
+        "residual_flags": [
+          "source-formatting-verbatim: this occurrence uses straight double quotes around \"inhaltliche Aufgabenerfüllung\", whereas the parallel passages in the other examples use German quotation marks („…“)"
+        ]
+      },
+      {
+        "content": "For a 'gut' presentation the candidate describes, after briefly introducing the novel, how crime is dealt with in The Circle.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — VI Bewertungshinweise",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "• beschreibt nach einer kurzen Vorstel-\nlung des Romans den Umgang mit Kri-\nminalität und Verbrechen in The Circle,",
+        "residual_flags": []
+      },
+      {
+        "content": "A 'gut' presentation analyses competently the link between total surveillance and crime prevention, including that human achievements (privacy) are classed as criminal in the novel.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — VI Bewertungshinweise",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "• analysiert sachkompetent den Zusam-\nmenhang von totaler Überwachung und \nVerbrechensbekämpfung sowie die Tat-\nsache, dass im Roman auch menschliche \nErrungenschaften (Privatsphäre) als ver-\nbrecherisch eingestuft werden,",
+        "residual_flags": []
+      },
+      {
+        "content": "At 'ausreichend' the candidate selects poorly suited textual evidence and too limited a range of examples of the development of crime.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — VI Bewertungshinweise",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "• wählt wenig geeignete Textstellen aus, \num diese Zusammenhänge zu belegen,",
+        "residual_flags": []
+      },
+      {
+        "content": "For the Fachgespräch at 'gut' the candidate grasps most essential aspects, analyses competently and almost completely, and demonstrates adequate methodological competence.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — VI Bewertungshinweise",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "• erfasst die Mehrzahl der wesentlichen \nAspekte, \n• analysiert sachkompetent und nahezu \nvollständig, \n• demonstriert angemessen fachmetho-\ndische Kompetenz,",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Crime — VI Bewertungshinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Crime — VI Bewertungshinweise",
+        "printed_page_range": "22–24"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

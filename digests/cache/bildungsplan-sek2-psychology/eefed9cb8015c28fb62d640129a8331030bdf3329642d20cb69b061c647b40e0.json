@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:eefed9cb8015c28fb62d640129a8331030bdf3329642d20cb69b061c647b40e0"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The orientation of work and organizational psychology in research and practice covers fields of study and development trends and practical task areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.3 Arbeits- und Organisationspsychologie",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Untersuchungsfelder und Entwicklungstrends \n• Aufgabenfelder in der Praxis",
+        "residual_flags": []
+      },
+      {
+        "content": "At the organizational level, organizations are examined by their features, structure and organizational culture.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.3 Arbeits- und Organisationspsychologie",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Merkmale von Organisationen \no Aufbau von Organisationen \no Organisationskultur",
+        "residual_flags": []
+      },
+      {
+        "content": "Organizational analysis covers organizational diagnostics and the steps of organizational analysis.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.3 Arbeits- und Organisationspsychologie",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Organisationsdiagnostik \no Schritte der Organisationsanalyse",
+        "residual_flags": []
+      },
+      {
+        "content": "Organizational development is treated in overview with person-oriented, structure-oriented and group-oriented approaches and intervention strategies.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.3 Arbeits- und Organisationspsychologie",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Organisationsentwicklung (überblicksbezogen) \no personenbezogene Ansätze \no strukturorientierte Ansätze \no gruppenbezogene Ansätze \no Interventionsstrategien",
+        "residual_flags": []
+      },
+      {
+        "content": "At the interindividual level one topic is treated exemplarily, such as leadership, power and motivation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.3 Arbeits- und Organisationspsychologie",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Eines der folgenden Themen wird exemplarisch behandelt: \n• Führung, Macht und Motivierung",
+        "residual_flags": []
+      },
+      {
+        "content": "Groups and teamwork cover classification and forms of groups and factors of operational group success.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.3 Arbeits- und Organisationspsychologie",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Gruppen und Teamarbeit \no Klassifikation und Formen von Gruppen \no Faktoren betrieblicher Gruppenerfolge (z. B. Aufgaben-\nmerkmale, Phasen und Rollen, Gruppenkohäsion)",
+        "residual_flags": []
+      },
+      {
+        "content": "At the individual level, personnel selection and development covers person-environment fit and staff development.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.3 Arbeits- und Organisationspsychologie",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Personalauswahl und -entwicklung \no Person-Environment-Fit \no Personalentwicklung",
+        "residual_flags": []
+      },
+      {
+        "content": "Working conditions cover work motivation and job satisfaction, e.g. VIE theory and Herzberg's two-factor theory.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.3 Arbeits- und Organisationspsychologie",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Arbeitsmotivation/Arbeitszufriedenheit (z. B. VIE-Theorie, \nZwei-Faktoren-Theorie von Herzberg)",
+        "residual_flags": []
+      },
+      {
+        "content": "Research methods include the SMART model and classic selection procedures such as assessment centers and intelligence tests.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.3 Arbeits- und Organisationspsychologie",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "SMART-Modell \n• klassische Auswahlverfahren (Bewerbungsunterlagen, Ar-\nbeitsproben, Fragebögen, Einstellungsinterviews, multimo-\ndale Interviews, Assessment-Center, computergestützte Eig-\nnungsdiagnostik, Intelligenztests, Leistungs- und Funktions-\ntests)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S3.3 Arbeits- und Organisationspsychologie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S3.3 Arbeits- und Organisationspsychologie",
+        "printed_page_range": "28–29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:579ee2cd64cd96df7b3c6e1f372b30a080859ae9dcd2d507f9870b5d0f0aca6a"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In Theatre lessons students always create something of their own and new, possibly unforeseeable.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8k) Theater",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Die Schülerinnen und Schüler gestalten im Theaterunterricht immer etwas Eigenes und Neues, \nunter Umständen auch etwas nicht Vorhersehbares.",
+        "residual_flags": []
+      },
+      {
+        "content": "As a rule there are no uniform, unambiguous solutions to acting tasks.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8k) Theater",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Es gibt in der Regel keine gleichartigen, \neindeutigen Lösungen von Spielaufgaben.",
+        "residual_flags": []
+      },
+      {
+        "content": "At least once in the Studienstufe students take one theoretical-written exam and one exam with a practical acting component.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8k) Theater",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Klausuren sind so zu stellen, dass die Schülerinnen und Schüler mindestens einmal im Verlauf \nder Studienstufe eine theoretisch-schriftliche Klausur und eine Klausur mit spielpraktischem \nAnteil bearbeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "A grading criterion is whether the student advances the development process in the fields of body, space and time.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8k) Theater",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "ob und inwieweit die Schülerin oder der Schüler den Erarbeitungsprozess in den Hand-\nlungsfeldern Körper, Raum und Zeit fördert",
+        "residual_flags": []
+      },
+      {
+        "content": "Constructive giving and taking of feedback for productive further work on the project is a further criterion.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8k) Theater",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Konstruktivität beim Geben und Nehmen von Feedback zur produktiven Weiterarbeit \nam Projekt",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "8k) Theater"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "8k) Theater",
+        "printed_page_range": "28–29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

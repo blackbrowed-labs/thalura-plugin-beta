@@ -1,0 +1,426 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:afff9fafb9db4617b1150266ea7b72ba2545f2c5d753efcb47fc2ff67b6ad20d"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Traffic education (Verkehrserziehung) lets students engage with the demands of today's traffic in all its forms, its effects on people, and the development of a future-proof mobility.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Die Verkehrserziehung ermöglicht Schülerinnen und Schülern, sich mit den Anforderungen \ndes heutigen Verkehrs in allen Formen, mit seinen Auswirkungen auf die Menschen sowie mit \nder Entwicklung einer zukunftsfähigen Mobilität auseinanderzusetzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "It comprises a mobility education oriented towards sustainable development (BNE), aiming not to overstrain the earth's ecological carrying capacity, to strengthen climate protection and to reduce negative effects of traffic on people's lives.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Verkehrserziehung um-\nfasst eine Mobilitätserziehung, die sich damit auch an einer nachhaltigen Entwicklung (BNE) \norientiert, welche wiederum zum Ziel hat, die ökologische Belastbarkeit der Erde nicht zu über-\nfordern, den Klimaschutz zu stärken und negative Auswirkungen des Verkehrs auf das Leben \nder Menschen zu reduzieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students acquire knowledge about the various means of transport and mobility offerings, their safe use in road traffic, their pros and cons for people and environment, and the motives behind choosing a mode of transport.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Die Schülerinnen und Schüler erwerben in diesem Aufgabengebiet Wissen über die unter-\nschiedlichen Verkehrsmittel und Mobilitätsangebote, ihre sichere Benutzung im Straßenver-\nkehr, ihre Vor- und Nachteile für Mensch und Umwelt sowie die verschiedenen Motive der \nVerkehrsmittelwahl.",
+        "residual_flags": []
+      },
+      {
+        "content": "Digitalisation also shows in mobility — route planning, ticket purchase and sharing systems need digital media and tools — so students can extend their digital skills in a hands-on way here.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Die zunehmende Digitalisierung aller Lebensbereiche zeigt sich auch in der Mobilität. Für die \nRoutenplanung, das Erwerben von Fahrkarten, Sharingsysteme und viele weitere Anwendun-\ngen werden digitale Medien und Werkzeuge benötigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "As the range of available transport and the students' radius of action grows through Sekundarstufe I, they carry growing responsibility for themselves and others in road traffic; values such as consideration, respect, fairness and safety are therefore significant.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Die Schülerinnen und \nSchüler tragen eine wachsende Verantwortung für sich selbst und andere im Straßenverkehr. \nWerte wie Rücksichtnahme, Respekt, Fairness und Sicherheit spielen daher eine bedeutende \nRolle.",
+        "residual_flags": []
+      },
+      {
+        "content": "Schools can obtain support from cooperation partners — police, transport operators, associations and institutions; police traffic-education teachers may co-teach and hvv school projects can be used.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Punktuell können Polizeiverkehrslehrkräfte den Unterricht gemeinsam mit den Lehrkräften \ndurchführen oder es können Angebote der hvv-Schulprojekte in Anspruch genommen werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In grades 5 and 6 students start with the thematic area 'In Hamburg unterwegs': exploring their school district, improving their cycling skills and getting to know local public transport.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Inhaltlich starten die Schülerinnen und Schüler in den Jahrgangsstufen 5 und 6 zunächst mit \ndem Themenbereich „In Hamburg unterwegs“. Sie erkunden ihren Schulstadtteil, verbessern \nihre Fähigkeiten beim Radfahren und lernen den öffentlichen Nahverkehr besser kennen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In grades 7 to 10 the thematic area is 'Zukunftsfähige Mobilität': the view widens to all of Hamburg and its surroundings, and students engage more deeply with the effects of traffic on people and environment.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "In den Jahrgangsstufen 7 bis 10 geht es um den Themenbereich „Zukunftsfähige Mobilität“. \nHier weitet sich der Blick auf ganz Hamburg und auf das Umland.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Erkennen: students name traffic signs and rules, describe danger points and typical rule violations, apply age-appropriate methods of observing traffic behaviour, name rules of conduct in public transport, describe pros and cons of walking, cycling, bus, rail and car, and explore the mobility offer around the school.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 71,
+          "physical_page": 71
+        },
+        "cited_text": "E1: benennen Verkehrszeichen und Verkehrsregeln. \nE2:  beschreiben Gefahrenpunkte und typische Regelverstöße im Straßenverkehr.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Bewerten: students assess dangers in road traffic, evaluate the behaviour of different road users, question the motives of transport-mode choice, and explain that the choice of transport has effects on environment and climate.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 71,
+          "physical_page": 71
+        },
+        "cited_text": "B3:  hinterfragen Motive der Verkehrsmittelwahl. \nB4:  erläutern, dass die Wahl des Verkehrsmittels Auswirkungen auf die Umwelt und das Klima hat.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Handeln: students cycle safely, rule-consciously and prudently, carry out small bicycle repairs themselves, use the hvv services independently, plan trips with the hvv, and behave considerately towards other road users.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 71,
+          "physical_page": 71
+        },
+        "cited_text": "H1:  fahren mit dem Rad sicher, regelbewusst und umsichtig im Stadtteil und bei Ausflügen. \nH2:  führen kleine Reparaturen am Fahrrad selbst aus. \nH3:  nutzen die Angebote und die Verkehrsmittel des hvv selbstständig.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sekundarstufe I, Erkennen: students define the terms mobility and traffic, use statistical data on the traffic situation and mobility behaviour, describe effects of traffic and motorisation on people and environment, name alternative energies and drive technologies, and know alternative mobility offers and concepts.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 72,
+          "physical_page": 72
+        },
+        "cited_text": "E1:  definieren die Begriffe Mobilität und Verkehr. \nE2:  nutzen statistische Daten zur Darstellung der Verkehrssituation und des Mobilitätsverhaltens (in und \num Hamburg).",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, Erkennen E7/E8: students name rules of the Straßenverkehrsordnung and the basics of traffic law, and explain the effects of alcohol, drugs and distraction on traffic behaviour.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 72,
+          "physical_page": 72
+        },
+        "cited_text": "E7:  benennen Regeln der Straßenverkehrsordnung und Grundlagen des Verkehrsrechts. \nE8:  erläutern Auswirkungen von Alkohol, Drogen und Ablenkung auf das Verkehrsverhalten.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, Bewerten: students reflect their own traffic behaviour, analyse traffic as social interaction, justify and critically assess their transport choice, evaluate mobility surveys, engage with climate-protection measures, and compare and evaluate the allocation of space in Hamburg for different uses.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 72,
+          "physical_page": 72
+        },
+        "cited_text": "B5:  setzen sich mit Maßnahmen zum Klimaschutz auseinander. \nB6:  vergleichen und bewerten die Aufteilung von Flächen in Hamburg für verschiedene Nutzungszwecke.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, Handeln: students behave rule- and responsibility-consciously in road traffic, develop their own ideas for the mobility of the future, use environmentally friendly transport and pooling/sharing offers safely wherever possible, and show solidarity towards other road users.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 72,
+          "physical_page": 72
+        },
+        "cited_text": "H3:  nutzen, wo immer möglich, umweltschonende Verkehrsmittel sowie Pooling- und Sharingangebote \nsicher und regelkonform.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 1 (grades 5/6): district exploration — school-route exploration (transport choice, danger spots, safety, traffic density), the mobility offer around the school, ways of getting to school including 'Elterntaxis', traffic signs and priority rules, and own ideas for traffic design around the school.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "1.1 Stadtteilerkundung \n• Schulwegerkundung (Verkehrsmittelwahl, Gefahrenstellen, Si-\ncherheitsaspekt, Verkehrsdichte)",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.2 (grades 5/6), cycling in Hamburg: riding in darkness, the roadworthy bicycle, balance and skill exercises, correct braking, the protective function of the helmet, rules for paths and cycle streets, the danger of the blind spot, complex manoeuvres such as left turns, planning bike tours, and bicycle repair.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "1.2 Fahrradfahren in Hamburg \n• Fahren bei Dunkelheit (richtige Kleidung, Beleuchtung, Reflek-\ntoren) \n• das verkehrssichere Fahrrad",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.3 (grades 5/6), local public transport: the hvv network, the hvv app, own route planning, special hvv vehicles (e.g. fuel-cell bus, HEAT, ferry), climate protection and the hvv, rules of conduct, and accessibility features.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "1.3 Mit dem ÖPNV durch Hamburg \n• Streckennetz des hvv \n• Handhabung, Möglichkeiten und Grenzen der hvv-App",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.4 (grades 5/6), social interaction in traffic: individual behaviour vs. group pressure, risk as a 'kick', consideration for others, interaction of road users (eye contact, giving way), and behaviour in danger and conflict situations.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 73,
+          "physical_page": 73
+        },
+        "cited_text": "1.4 Soziales Miteinander im Straßenverkehr \n• Einzelverhalten / Gruppendruck (Verantwortung) \n• Risiko – „Gefahr als Kick",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.1 (grades 7–10): what mobility is (link of mobility and traffic, distances in Hamburg, transport types, modal split), transport-mode choice (cost, space use, CO2 balance, time, health, accessibility), alternative mobility offers (bike/scooter/car sharing, ridesharing, hvv switch), urban development and traffic concepts, and mobility occupations.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 74,
+          "physical_page": 74
+        },
+        "cited_text": "2.1.2 Verkehrsmittelwahl \n• Verkehrsmittelangebot \n• Verkehrsmittelvergleich (Kosten, Flächenverbrauch, CO2-Bilanz, \nZeitbedarf, Gesundheit, Barrierefreiheit)",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.1.4: history of Hamburg's urban development, allocation of space in Hamburg, alternative mobility concepts (e.g. the 15-minute city, shared space), spatial justice ('Stadt für alle'), and one's own vision for city traffic.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 74,
+          "physical_page": 74
+        },
+        "cited_text": "2.1.4 Stadtentwicklung und Verkehrskonzepte \n• Geschichte der städtebaulichen Entwicklung Hamburgs \n• Flächenaufteilung in Hamburg",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.2 (grades 7–10), mobility and environment: CO2 emissions by source, the climate balance of transport modes, pros and cons of drive technologies (combustion engine, electric motor, fuel cell), soil sealing, air, noise and light pollution, resource use and health effects.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 75,
+          "physical_page": 75
+        },
+        "cited_text": "2.2.1 Verkehr und Klima \n• CO2-Emissionen nach Verursachern (z. B. Straßenverkehr, \nEnergieerzeugung, Haushalte) \n• Klimabilanz von Verkehrsmitteln",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.2.3 'Aktiv werden': taking stock of mobility in one's own class/school, developing ideas for climate-friendly school mobility, planning climate-friendly excursions and class trips, and options of citizen participation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 75,
+          "physical_page": 75
+        },
+        "cited_text": "2.2.3 Aktiv werden \n• Bestandsaufnahme zur Mobilität in der eigenen Klasse / an der \neigenen Schule",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.3 (grades 7–10), traffic and people: role-model function, cooperation and consideration in traffic, effects of one's own mobility behaviour, road users with special protection needs, and accidents, emergency calls and first aid.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 76,
+          "physical_page": 76
+        },
+        "cited_text": "2.3.1 Verkehrsverhalten und soziale Verantwortung \n• Vorbildfunktion im Straßenverkehr",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.3.2: risk-taking, the significance of fitness and psychomotor abilities for traffic safety, appropriate speed, endangerment through distraction (e.g. smartphone, eating), and the influence of intoxicants and tiredness on reaction capacity.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 76,
+          "physical_page": 76
+        },
+        "cited_text": "• Einfluss von berauschenden Mitteln (z. B. Alkohol, Drogen) und \nMüdigkeit auf das Reaktionsvermögen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.3.3 'Einstieg in den motorisierten Individualverkehr': prerequisites for using motorised two-wheelers such as e-scooters and mopeds (age, licence, driving safety, Fahrerlaubnis AM 15), braking distances, particular risks for novice drivers, and optionally accompanied driving from 17.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 76,
+          "physical_page": 76
+        },
+        "cited_text": "2.3.3 Einstieg in den motorisierten Individualverkehr \n• Voraussetzungen zur Nutzung motorisierter Zweiräder wie \nElektro-Tretroller, Mofa (z. B. Alter, Führerschein, Fahrsicherheit, \nFahrerlaubnis AM 15)",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.3.4 'Verkehr und Recht': eligibility and prerequisites for participating in road traffic, the Straßenverkehrsordnung, causes and reporting of accidents, control and sanctioning of traffic offences, blood-alcohol limits, and the legal and financial consequences of driving while distracted (also for cyclists).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+          "printed_page": 76,
+          "physical_page": 76
+        },
+        "cited_text": "• Promillegrenzen im Straßenverkehr  \n• rechtliche und finanzielle Folgen einer Fahrt unter Ablenkung \n(auch für Radfahrende)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 70,
+          "printed_page": 70
+        },
+        {
+          "physical_page": 71,
+          "printed_page": 71
+        },
+        {
+          "physical_page": 72,
+          "printed_page": 72
+        },
+        {
+          "physical_page": 73,
+          "printed_page": 73
+        },
+        {
+          "physical_page": 74,
+          "printed_page": 74
+        },
+        {
+          "physical_page": 75,
+          "printed_page": 75
+        },
+        {
+          "physical_page": 76,
+          "printed_page": 76
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.9 Mobilitäts- und Verkehrserziehung",
+        "printed_page_range": "70–76"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

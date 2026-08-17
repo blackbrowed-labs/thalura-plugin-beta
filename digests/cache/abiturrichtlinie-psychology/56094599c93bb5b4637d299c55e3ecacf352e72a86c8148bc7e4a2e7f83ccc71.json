@@ -1,0 +1,119 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:56094599c93bb5b4637d299c55e3ecacf352e72a86c8148bc7e4a2e7f83ccc71"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Zur differenzierten Erfassung des Leistungsvermoegens werden drei Anforderungsbereiche unterschieden.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "im Folgenden drei Anforderungsbereiche unterschieden",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Anforderungsbereich I umfasst das Wiedergeben von Sachverhalten aus einem abgegrenzten Gebiet (Reproduktion).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Anforderungsbereich I umfasst das Wiedergeben von Sachverhalten aus einem ab-\ngegrenzten Gebiet und im gelernten Zusammenhang unter",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Anforderungsbereich II umfasst das selbststaendige Erklaeren, Bearbeiten und Ordnen bekannter Inhalte (Reorganisation und Transfer).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Anforderungsbereich II umfasst das selbstständige Erklären, Bearbeiten und Ord-\nnen bekannter Inhalte",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Anforderungsbereich III umfasst den reflexiven Umgang mit neuen Problemstellungen, Methoden und Erkenntnissen (Reflexion und Problemloesung).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Anforderungsbereich III umfasst den reflexiven Umgang mit neuen Problemstel",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3 Anforderungsbereiche"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "3 Anforderungsbereiche",
+        "printed_page_range": "4–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

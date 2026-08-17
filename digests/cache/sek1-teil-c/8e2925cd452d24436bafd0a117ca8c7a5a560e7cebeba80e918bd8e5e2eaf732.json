@@ -1,0 +1,638 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8e2925cd452d24436bafd0a117ca8c7a5a560e7cebeba80e918bd8e5e2eaf732"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Teil 7 enthält besondere Hinweise zur Leistungsbewertung in einzelnen Fächern.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen ",
+        "residual_flags": []
+      },
+      {
+        "content": "In den Alten Sprachen haben die im Umgang mit lateinischen bzw. griechischen Texten gezeigten Leistungen das größte Gewicht und können nicht durch anderweitig erbrachte Leistungen ersetzt werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die im Umgang mit lateinischen bzw. griechischen Texten gezeigten Leistungen haben das ",
+        "residual_flags": []
+      },
+      {
+        "content": "Für die Textarbeit gelten Kriterien wie Sprachkenntnisse (Wortschatz, Formenlehre, Syntax), Sicherheit in deren Verfügbarkeit sowie die Fähigkeit zur Sprach- und Textreflexion.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Kenntnisse in der lateinischen bzw. griechischen Sprache (Wortschatz, Formenlehre, \nSyntax, Fachtermini) \n• \nSicherheit in der Verfügbarkeit sprachlicher Kenntnisse \n• \nFähigkeit zur Sprach- und Textreflexion (sinngemäß richtige Wiedergabe von Wörtern, \nBegriffen und Wendungen; Erfassen formaler und syntaktischer Strukturen; Textver-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Überprüfung der Sprachkenntnisse und des Umgangs mit isolierten grammatischen Phänomenen werden im Latein- und Griechischunterricht regelmäßig bewertete Leistungsfeststellungen geschrieben.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Zur Überprüfung der Kenntnisse in der lateinischen bzw. griechischen Sprache (Wortschatz, ",
+        "residual_flags": []
+      },
+      {
+        "content": "Klassenarbeiten bzw. Klausuren in den Alten Sprachen bestehen aus einer Übersetzungsaufgabe und einem Aufgabenteil; spätestens ab dem dritten Lernjahr umfasst der Aufgabenteil mindestens eine Interpretationsaufgabe.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren bestehen in den Alten Sprachen aus zwei Teilen: einer Über-",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Aufgabenteil darf in Bearbeitungszeit und Bewertung nicht überwiegen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "chen Bearbeitungszeit und in der Bewertung nicht überwiegt. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Note ausreichend im Übersetzungsteil setzt voraus, dass der Text im Gesamtsinn verstanden ist; davon kann bei mehr als zehn ganzen Fehlern je hundert Wörter in der Regel nicht mehr ausgegangen werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "In Klassenarbeiten bzw. Klausuren darf für den Übersetzungsteil die Note „ausreichend“ nur ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Note gut kann in der Regel erteilt werden, wenn die Übersetzung je hundert Wörter nicht mehr als fünf ganze Fehler aufweist.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Fehler aufweist. Die Note „gut“ kann in der Regel dann erteilt werden, wenn die Übersetzung ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Fehlergewichtung richtet sich vor allem nach der Störung des Sinns im deutschen Text, nicht nach dem Grad des Verstoßes gegen das grammatische oder lexikalische System.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Sie richtet sich vor allem nach der Störung des Sinns, die im deutschen Text von dem ",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Fach Bildende Kunst entsteht häufig etwas Neues und nicht Vorhersehbares mit divergierenden Ergebnissen; solche aus der Individualität resultierenden Unterschiede müssen bei der Beurteilung wahrgenommen und reflektiert werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Mit Arbeiten, die im Kunstunterricht entstehen, wird häufig etwas Neues, unter Umständen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Klausuren in der Vorstufe der gymnasialen Oberstufe sind so zu gestalten, dass die Schülerinnen und Schüler auf die Aufgabenformate der Studienstufe vorbereitet werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die Klausuren in der Vorstufe der gymnasialen Oberstufe sind so zu gestalten, dass die Schü-",
+        "residual_flags": [
+          "page-multi-match:physical-17-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "Der Kunstunterricht ist vorwiegend praktisch orientiert, weshalb den praktischen Leistungen besonderes Gewicht zukommt; neben fertigen Produkten sind auch Zwischenergebnisse, Skizzen und Beiträge zu berücksichtigen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Der Unterricht im Fach Bildende Kunst ist vorwiegend praktisch orientiert. Somit kommt den ",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Fach Bildende Kunst gelten zusätzliche Kriterien wie Aufgeschlossenheit, Fertigkeiten und Kenntnisse, Einfalls- und Variantenreichtum, Selbstständigkeit, Eigenständigkeit sowie die Fähigkeit zur Präsentation, Kuration und Ausstellung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Aufgeschlossenheit: Die Schülerinnen und Schüler lassen sich auf Unbekanntes – sei \nes z. B. eine Fragestellung, ein Phänomen oder ein Kunstwerk – ein, stellen weiterfüh-\nrende Fragen, erproben Materialien und Techniken und sind offen für die Entwicklung \nverschiedener Lösungen und Variationen im praktischen und theoretischen Bereich. \n• \nFertigkeiten, Kenntnisse: Die Schülerinnen und Schüler verfügen über die erwarteten \nFertigkeiten bezogen auf den Umgang mit Material, Techniken und Methoden sowie \nüber die erwarteten fachlichen Kenntnisse über Werke, Verfahren und Phänomene. \nSie beziehen spezifische Eigenschaften und Eigenarten von Medien und Materialien in \ndie praktische Arbeit und die Untersuchung von Werken und Phänomenen des Faches \nein. Im ökonomischen oder im experimentellen Sinne gehen sie angemessen mit Ma-\nterial und Zeit um. \n• \nEinfalls- und Variantenreichtum: Die Schülerinnen und Schüler arbeiten einfalls- und \nvariantenreich zu der Themenstellung. Einfallsreichtum umfasst Kreativität, Originalität \nund Reichhaltigkeit von Ideen, die zu einer Fragestellung entwickelt werden. Er zeigt \nsich auch im selbstständigen, weiterführenden Einsatz vorhandener Kenntnisse und \nFertigkeiten. \n• \nSelbstständigkeit: Die Schülerinnen und Schüler entwickeln ihre Einfälle selbstständig, \nd. h. weitgehend ohne Anweisungen und lenkende Anstöße. Sie beschaffen Materia-\nlien stofflicher und theoretischer Natur sowie Informationen selbstständig und schätzen \nderen Eignung für das jeweilige Vorhaben sachgemäß ein. \n• \nEigenständigkeit: Die Schülerinnen und Schüler erforschen und nutzen die Spielräume \nvon Frage- und Aufgabenstellungen und die Ergebnisse beruhen auf eigenständigen, \noriginären Gedanken, Ideen und Lösungen. \n• \nFähigkeit zur Präsentation, Kuration und Ausstellung: Die Schülerinnen und Schüler \nbringen die praktischen und theoretischen Arbeitsergebnisse stimmig zur Geltung, z. B. \nin Form von Präsentationen, Ausstellungen und Führungen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Leistungsbewertung im Biologieunterricht bezieht sich auf alle vier Kompetenzbereiche der naturwissenschaftlichen Fächer: Sachkompetenz, Erkenntnisgewinnungskompetenz, Kommunikationskompetenz und Bewertungskompetenz.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Die Leistungsbewertung im Biologieunterricht bezieht sich auf alle vier Kompetenzbereiche ",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu den Bereichen der Leistungserbringung in Biologie gehören u. a. Formulierung von Fragestellungen und Hypothesen, Planung und Protokollierung von Untersuchungen sowie die Anwendung fachbiologischer Arbeitstechniken.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Zu den Bereichen der Leistungserbringung im Fach Biologie gehören insbesondere: \n• \nFormulierung von Fragestellungen und Hypothesen \n• \nPlanung, Durchführung und Protokollierung von Untersuchungen und Experimenten \n• \nAufbereitung und Analyse von Daten \n• \nAuswertung, Interpretation und Reflexion von Untersuchungen und Experimenten \n• \nEinhaltung von Sicherheitsregeln \n• \nsachgerechter Umgang mit Labor- und freibiologischen Geräten sowie Chemikalien \n• \nAnwendung fachbiologischer Arbeitstechniken (u. a. Mikroskopieren, Zeichnen, Be-\nstimmen mit Bestimmungshilfen, Messen, Beobachten, Vergleichen, Modellieren). ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Leistungsbewertung im Chemieunterricht bezieht sich auf alle vier Kompetenzbereiche der naturwissenschaftlichen Fächer, und experimentbezogene Aufgabenstellungen sind dafür besonders geeignet.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Experimente beziehen, sind zur Leistungsbewertung im Che-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu den Bereichen der Leistungserbringung in Chemie gehören u. a. Formulierung von Fragestellungen, Einhaltung von Sicherheitsregeln, Durchführung und Protokollierung von Experimenten sowie Interpretation und Reflexion von Experimenten.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Zu den Bereichen der Leistungserbringung im Fach Chemie gehören insbesondere: \n• \nFormulierung von Fragestellungen und Hypothesen \n• \nEinhaltung von Sicherheitsregeln \n• \nPlanung, Durchführung und Protokollierung von Experimenten \n• \nvorausschauende Arbeitsorganisation beim Experimentieren \n• \nsachgerechter Umgang mit Laborgeräten sowie Chemikalien \n• \nAnwendung fachchemischer Arbeits- und Messtechniken  \n• \nAufbereitung und Analyse von Daten \n• \nInterpretation und Reflexion von Experimenten. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Für Klassenarbeiten zur Überprüfung der Rechtschreibleistung eignen sich insbesondere Aufgaben zur Fehlersuche und -korrektur, zum Nachdenken über Schreibweisen, zur Wörterbuchnutzung sowie Diktate.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Aufgaben zur Fehlersuche und -korrektur an vorgegebenen Texten \n• \nAufgaben zum Nachdenken über die Schreibweise von Wörtern bzw. die Zeichenset-\nzung \n• \nAufgaben zur Wörterbuchnutzung \n• \nDiktate. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Wird ein Diktat zur Überprüfung der Rechtschreibleistung eingesetzt, ist es nicht das alleinige Instrument, und den Schülerinnen und Schülern muss angemessene Prüfzeit — in der Regel mit Wörterbuchnutzung — zur Verfügung stehen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Wird ein Diktat zur Überprüfung der Rechtschreibleistung eingesetzt, ist dies nicht das alleinige ",
+        "residual_flags": []
+      },
+      {
+        "content": "In die Bewertung der Rechtschreibleistung fließen nur bereits im Unterricht erarbeitete Bereiche der Rechtschreibung und Zeichensetzung ein.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In die Bewertung der Rechtschreibleistung fließen nur diejenigen Bereiche der Rechtschrei-",
+        "residual_flags": []
+      },
+      {
+        "content": "Bei der Bewertung von Texten dürfen Fehler nicht allein quantitativ ausgewertet werden; zu berücksichtigen sind auch der Grad der Beeinträchtigung des Leseflusses sowie Schwere, Anzahl und Art der Fehlertypen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Bei der Bewertung von Texten hinsichtlich der Rechtschreibleistung dürfen Fehler, insofern es ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Anzahl der Klassenarbeiten in Vorbereitungsklassen orientiert sich an den Vorgaben für das Fach Deutsch; wegen unterschiedlicher Lernstände sind identische Aufgabenstellungen für alle in der Regel nicht möglich.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Die Anzahl der Klassenarbeiten orientiert sich an den Vorgaben für das Fach Deutsch. Infolge ",
+        "residual_flags": []
+      },
+      {
+        "content": "Den Schülerinnen und Schülern können unterschiedliche, am Lernstand ausgerichtete Hilfsmittel und Unterstützungsmaßnahmen gewährt werden, etwa Wortgeländer, Bildwörterbücher, Wort-Cluster oder Lernplakate.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Über die Stellung unterschiedlicher Aufgabenstellungen hinaus können den Schülerinnen und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Bereich der interkulturellen Kompetenz werden Reflexions- und Handlungskompetenz sowie das soziokulturelle Orientierungswissen der Schülerinnen und Schüler überprüft.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Bereich der interkulturellen Kompetenz wird neben der Reflexions- und Handlungskompe-",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Im Bereich der funktionalen kommunikativen Kompetenz werden kommunikativer Erfolg und gelungener sprachlicher Ausdruck höher gewichtet als sprachliche Korrektheit.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Bereich der funktionalen kommunikativen Kompetenz werden kommunikativer Erfolg und \ngelungener sprachlicher Ausdruck höher gewichtet als sprachliche Korrektheit. ",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Spätestens in der Vorstufe der gymnasialen Oberstufe sind auch Klausuren mit Aufgaben zur Textanalyse und gelenkten Textinterpretation zu stellen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Spätestens in der Vorstufe der gymnasialen Oberstufe sind auch Klausuren zu stellen, die ",
+        "residual_flags": []
+      },
+      {
+        "content": "Für Englisch und Neuere Sprachen gelten im Bereich Text- und Medienkompetenz Kriterien wie die Wahl angemessener Erschließungswerkzeuge, das Auffinden indirekter Aussagen und das Erkennen von Gestaltungsmerkmalen und ihrer Wirkung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Auffinden indirekter Aussagen und Schlüssigkeit ihrer Deutung \n• \nErkennen von Gestaltungsmerkmalen von Texten und ihrer Wirkung ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Leistungsbewertung im Fach Informatik bezieht sich auf fünf Kompetenzbereiche: Informatiksysteme analysieren und verstehen, Informatiksysteme gestalten, Darstellen und Interpretieren, Begründen und Bewerten sowie Kommunizieren und Kooperieren.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die Leistungsbewertung im Fach Informatik bezieht sich auf die fünf Kompetenzbereiche: \n• \nInformatiksysteme analysieren und verstehen \n• \nInformatiksysteme gestalten \n• \nDarstellen und Interpretieren \n• \nBegründen und Bewerten \n• \nKommunizieren und Kooperieren. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Aufgabenstellungen zu Produkten, Projekten und deren Dokumentation sind zur Leistungsbewertung im Informatikunterricht besonders geeignet.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Produkte sowie Projekte und deren Dokumentation beziehen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "Klassenarbeiten bzw. Klausuren in Mathematik berücksichtigen inhalts- und prozessbezogene Kompetenzen, und in jede Arbeit ist ein allgemeiner Teil mit Aufgaben zur Sicherung der Basiskompetenzen zu integrieren.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren berücksichtigen sowohl die inhaltsbezogenen als auch die ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Anforderungsbereiche I bis III (Reproduzieren, Zusammenhänge herstellen sowie Verallgemeinern und Reflektieren) sind angemessen zu repräsentieren, mit Schwerpunkt auf Anforderungsbereich II.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren sind so zu gestalten, dass in den Aufgaben die Anforderungs-",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Fach Musik berücksichtigt die Bewertung der laufenden Unterrichtsarbeit über Nr. 4 hinaus u. a. vokales und instrumentales Musizieren, Bewegungsdarstellungen, szenische Gestaltungen sowie das Arrangieren und Erfinden von Musik.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "vokales und instrumentales Musizieren \n• \nBewegungsdarstellungen, Tanz \n• \nszenische Gestaltungen \n• \nArrangieren und Erfinden von Musik \n• \nMitwirkung bei Schulaufführungen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Musikbezogene Fähigkeiten aus dem außerschulischen Bereich werden in dem Maße herangezogen, wie sie konstruktiv in den Unterricht eingebracht werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Musikbezogene Fähigkeiten, die Schülerinnen und Schüler im außerschulischen Bereich er-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Leistungsbewertung im Physikunterricht bezieht sich auf alle vier Kompetenzbereiche der naturwissenschaftlichen Fächer, und experimentbezogene Aufgabenstellungen sind besonders geeignet.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Experimente beziehen, sind zur Leistungsbewertung im Phy-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu den spezifischen Bewertungskriterien in Physik gehören u. a. der Umgang mit den Basiskonzepten, die Formulierung und Prüfung von Hypothesen und Modellen sowie die Mathematisierung physikalischer Zusammenhänge.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 27,
+          "printed_page_end": 28,
+          "physical_page": 27
+        },
+        "cited_text": "Umgang mit den Basiskonzepten der Physik und deren Transfer \n• \nBeschreibung und Erläuterung physikalischer Phänomene (sachgerecht und adressa-\ntengemäß)  \n• \nFormulierung und Prüfung von Fragestellungen, Hypothesen und theoretischen Mo-\ndellen \n• \nPlanung, Durchführung und Protokollierung von Untersuchungen zwecks Erkundung \n(exploratives Experimentieren) und Erklärung (explanatives Experimentieren) \n\n28 \n• \nAufbereitung und Darstellung von Daten sowie deren Auswertung, Interpretation und \nFehlerabschätzung \n• \nBeurteilung der Eignung von Untersuchungen und Experimenten \n• \nPrüfen von Datenreihen auf Trends und Gesetzmäßigkeiten und Auswertung von Da-\nten zur Hypothesengenerierung \n• \nAnwendung fachphysikalischer Arbeitstechniken (u. a. Messung physikalischer Grö-\nßen) \n• \nMathematisierung und Berechnung physikalischer Zusammenhänge \n• \nVorhersage und Begründung eines Ereignisses oder Ergebnisses aufgrund eines the-\noretischen Modells \n• \ndeduktive Herleitung eines bekannten oder neuen Zusammenhangs mithilfe theoreti-\nscher Überlegungen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Sportunterricht werden Leistungen auf motorischer, kognitiver und sozialer Ebene bewertet; in der Sportpraxis stehen motorische Leistungen und die Leistungsbereitschaft im Vordergrund.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "erbrachten Leistungen auf motorischer, kognitiver und sozialer Ebene. Die Leistungsbeobach-",
+        "residual_flags": []
+      },
+      {
+        "content": "Werden keine Klassenarbeiten geschrieben, bezieht sich die Bewertung ausschließlich auf die laufende Unterrichtsarbeit, wobei den praktischen Leistungen besonderes Gewicht zukommt und schriftliche Leistungen nicht verpflichtend sind.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Sofern keine Klassenarbeiten bzw. Klausuren geschrieben werden, bezieht sich die Bewer-",
+        "residual_flags": []
+      },
+      {
+        "content": "Bewertungsfreie Phasen sind im Sport in besonderem Maße zu sichern, um Erfahren, Erlernen, Üben und Trainieren von Bewegung, Spiel und Sport Raum zu geben.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Bewertungsfreie Phasen sind in besonderem Maße zu sichern, um Prozesse des Erfahrens, ",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Fach Theater gestalten die Schülerinnen und Schüler stets etwas Eigenes und Neues; es gibt in der Regel keine gleichartigen Lösungen, und aus der Individualität resultierende Unterschiede sind angemessen zu berücksichtigen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Die Schülerinnen und Schüler gestalten im Theaterunterricht immer etwas Eigenes und Neues, ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Bewertung der laufenden Unterrichtsarbeit im Fach Theater berücksichtigt u. a. Warm-ups und spielpraktische Übungen, die Erarbeitung und Präsentation spielpraktischer Aufgaben, Beiträge in Reflexions- und Feedbackphasen sowie schriftliche Aufgaben.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Warm-ups, spielpraktische Übungen und Trainings \n• \nErarbeitung spielpraktischer Aufgaben und Präsentation \n• \nBeiträge in Reflexionsprozessen, Feedbackphasen und kommunikativen Gruppenpro-\nzessen in Projekten \n• \nBeteiligung an Organisations- und anderen Aufgaben in einem Projekt (z. B. Auswäh-\nlen und Gestalten von Requisiten und Kostümen, Auswählen oder Produzieren von \nMusik, Gestalten von Plakaten, Produzieren von Foto- und Filmbeiträgen u. v. m.) \n• \nschriftliche Aufgaben (z. B. Verfassen von Monologen, Dialogen, Rollenbefragungen, \nProbentagebüchern u. v. m.). ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7 Besondere Hinweise zur Leistungsbewertung in einzelnen Fächern",
+        "printed_page_range": "16–31"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

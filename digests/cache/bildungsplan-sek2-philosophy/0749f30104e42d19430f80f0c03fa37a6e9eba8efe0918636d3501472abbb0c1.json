@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0749f30104e42d19430f80f0c03fa37a6e9eba8efe0918636d3501472abbb0c1"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "R1: explain and compare presuppositions and consequences of facts, assertions and positions, taking different perspectives into account.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Reflektieren und Urteilen (Reflexions- und Urteilskompetenzen, R)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Voraussetzungen und Konsequenzen von Sachverhalten, Behauptungen und Positio-\nnen unter Berücksichtigung verschiedener Perspektiven erläutern und vergleichen (R1)",
+        "residual_flags": []
+      },
+      {
+        "content": "R3: engage with philosophical positions and judge them on the basis of their own philosophical considerations, including the answers of the philosophical tradition.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Reflektieren und Urteilen (Reflexions- und Urteilskompetenzen, R)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "sich mit philosophischen Positionen auseinandersetzen sowie diese auf der Grundlage \neigener philosophischer Überlegungen",
+        "residual_flags": []
+      },
+      {
+        "content": "R4: take a reasoned standpoint on philosophical problems and positions and explain their own line of thought in a criteria-led, intersubjectively comprehensible way.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Reflektieren und Urteilen (Reflexions- und Urteilskompetenzen, R)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "zu philosophischen Problemen und Positionen einen begründeten Standpunkt bezie-\nhen",
+        "residual_flags": []
+      },
+      {
+        "content": "R5: generalise insights and methods of philosophical problem reflection and use them for orientation in thinking and acting.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Reflektieren und Urteilen (Reflexions- und Urteilskompetenzen, R)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Erkenntnisse und Methoden der philosophischen Problemreflexion verallgemeinern \nund zur Orientierung im Denken und Handeln verwenden (R5)",
+        "residual_flags": []
+      },
+      {
+        "content": "R8 (raised requirement level): place themselves within the history and discourse of philosophical thought by relating their own lines of thought to the philosophical tradition.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Reflektieren und Urteilen (Reflexions- und Urteilskompetenzen, R)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "sich selbst in die Geschichte und den Diskurs des philosophischen Denkens einordnen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Kompetenzbereich Reflektieren und Urteilen (Reflexions- und Urteilskompetenzen, R)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Kompetenzbereich Reflektieren und Urteilen (Reflexions- und Urteilskompetenzen, R)",
+        "printed_page_range": "12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

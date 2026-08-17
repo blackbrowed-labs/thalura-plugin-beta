@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:3cece1e7a22cc9b3fb8429554ef3d5c0b8381a1590c4272037fae731e4a9413c"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In competency area A (Hören) students can distinguish language actions like question, request and plea on subject-related topics.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "sprachliche Handlungen wie Frage, Aufforderung, Bitte",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can grasp the subject-related main statements from talks or media-conveyed texts and distinguish important from unimportant.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "die fachbezogenen Hauptaussagen aus Vorträgen oder medial vermittelten Texten verstehen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can apply listening-comprehension strategies, e.g. noting key points and naming and specifically asking about the not-understood.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Strategien des Hörverstehens anwenden",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can reflect on and judge what was heard, drawing conclusions and taking a subject-related stance.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Gehörtes reflektieren und beurteilen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can assess the quality and credibility of media-conveyed texts and talks (also from the internet) in a reasoned way.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Qualität und Glaubwürdigkeit von medial vermittelten Texten und Vorträgen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Kompetenzmatrix — A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "4 Kompetenzmatrix — A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+        "printed_page_range": "15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

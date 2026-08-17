@@ -1,0 +1,163 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:72eab2bef7f01aff669be3631f1933268e3c5d04349624e50ae6fe315b1de336"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The exam task refers to the compulsory module 4.1 'Zentrale Personen der Religionen' in the topic area 'Religionen'.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "bezieht sich auf das Pflichtmodul 4.1 „Zentrale Personen der Reli-\ngionen“ im Themenbereich",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "The learning group includes students with Christian, Islamic and Alevi backgrounds as well as without a specific religious background.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "In der Lerngruppe sind Schülerinnen und Schülern mit christlichem, islamischem und",
+        "residual_flags": []
+      },
+      {
+        "content": "One candidate has a Muslim background; the other feels affiliated to no religion but shows a culturally shaped closeness to Christianity.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "hat einen muslimischen Hintergrund, der andere Prüfling sieht sich kei-\nner Religion zugehörig, zeigt aber eine eher kulturell geprägte Nähe zum Christentum",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "The teaching unit for this module comprised 18 lessons (9 double lessons).",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "umfasste 18 Unterrichtsstunden",
+        "residual_flags": []
+      },
+      {
+        "content": "As an entry point a TOP-20 list of the most important persons of the world was created and discussed.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "eine TOP-20-Liste der wichtigsten Personen der Welt",
+        "residual_flags": []
+      },
+      {
+        "content": "In the elaboration phase the biography, historical context, way of life and central messages of Jesus, Muhammed, Ali and Buddha were prepared.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "die Biografie, der historische Kontext, die Lebensweise und die zentralen Botschaften \nvon Jesus, Muhammed, Ali und Buddha",
+        "residual_flags": []
+      },
+      {
+        "content": "The term 'Vorbild' was not yet used in the unit or the topic announcement, so the connection to that term is new in the exam.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "nicht aber unter dem weiterführenden Begriff des",
+        "residual_flags": []
+      },
+      {
+        "content": "Especially challenging is the question of how far a person can be exemplary for people who do not belong to that religion.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "herausfordernde Frage, inwiefern eine Person vorbildlich für Menschen sein kann, die \nnicht der jeweiligen Religion angehören",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 2
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 3
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "i. Rahmenplanbezug und unterrichtliche Voraussetzungen",
+        "printed_page_range": "2–3"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

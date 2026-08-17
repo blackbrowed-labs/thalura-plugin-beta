@@ -1,0 +1,148 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8b1140bb76476ff00957614a514f7c3f9fe56e99388c82f4c58950f776c3b095"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The receipt confirmation covers the notes on absences and special incidents and the topic for the oral final exam.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "dass ich die Hinweise zu Versäumnissen und besonderen Vorkomm-\nnissen sowie das Thema für die mündliche Abschlussprüfung erhalten habe",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "People often make statements such as calling Jesus, Muhammed or Buddha a role model.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "immer wieder Aussagen wie „Jesus ist für mich ein Vorbild“, \n„Muhammed ist für mich ein Vorbild“ oder „Buddha ist für mich ein Vorbild“. Auch Mosche, \nAli und andere zentrale Personen aus Religionen sind für Menschen Vorbilder. Diese \nzentralen Personen spielen im Leben",
+        "residual_flags": []
+      },
+      {
+        "content": "Each candidate is to present one central person of the religions (Jesus, Muhammed, Mosche, Ali or Buddha).",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Stellt jeweils eine dieser zentralen Personen der Religionen (also entweder Je-\nsus, Muhammed, Mosche, Ali oder Buddha) dar",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "Each candidate presents one person, with roughly three minutes per person.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Jede/Jeder von euch soll eine Person vorstellen. Pro Person sollte die Präsenta-\ntion ca. 3 Minuten dauern",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "In a dialogue the candidates explain why these persons can be role models for people.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "in einem Dialog unter euch beiden, warum diese Personen Vorbilder",
+        "residual_flags": []
+      },
+      {
+        "content": "At the end of the dialogue the candidates take a stance on one of the given statements.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Nehmt am Ende des Dialogs Stellung zu einer der folgenden Aussagen",
+        "residual_flags": []
+      },
+      {
+        "content": "The presentation and dialogue should last about 10 to 15 minutes.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Die Vorstellung und euer Dialog soll ca. 10-15 Minuten dauern",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 2
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "b. Prüfungsaufgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "b. Prüfungsaufgabe",
+        "printed_page_range": "2"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e8a6d8ac80b6d544a10c492da73668f84a909fb4b7856b385579f0411fd8fd88"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-philosophie",
+      "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Operator Erläutern (explain) is defined as illustrating one's own understanding comprehensibly and intelligibly by means of examples.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Erläutern",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Nachvollziehbar und verständlich durch Beispiele das eigene Ver-\nständnis veranschaulichen",
+        "residual_flags": []
+      },
+      {
+        "content": "Example task prompt: explain the problem of induction.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Erläutern",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Erläutern Sie das Induktionsproblem.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction): name the positions, states of affairs, theories or problems to be explained.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Erläutern",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die zu erläuternden Positionen, Sachverhalte, Theorien oder Probleme benennen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (main part): show how a general connection manifests in concrete events and situations, add further examples and information, and name and define the relevant concepts.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Erläutern",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "ausführen, wie sich ein allgemeiner Zusammenhang in den \nkonkreten Ereignissen, Situationen, Verhältnissen etc. zeigt, ggf. weitere Beispiele und zu-\nsätzliche Informationen anführen, Begriffe aus Material bzw. Themenzusammenhang nen-\nnen und definieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (closing): if the next sub-task follows on in content, end with a transitional formulation.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Erläutern",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Sofern sich die nächste Teilaufgabe inhaltlich anschließt: Mit einer überleitenden Formulie-\nrung enden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Erläutern"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-philosophie",
+        "section_anchor": "Erläutern",
+        "printed_page_range": "6–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

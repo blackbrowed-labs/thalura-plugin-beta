@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:cb2f6cfa82c50c4b0afaffc46e30c748f27067126e0b441caffe829194f06064"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie",
+      "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "For the remaining subjects per Anlage 1 APO-AH and for subjects taught and examined in a foreign language, the Amt für Bildung or the HIBB sets the tasks on the basis of the schools' task proposals (Aufgabenvorschläge).",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "3 Regelungen für die dezentral gestellten schriftlichen Prüfungsaufgaben",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Aufgabenstellung in den übrigen Fächern bzw. Fachrichtungen gemäß Anlage 1 zur \nAPO-AH sowie in den fremdsprachlich unterrichteten und geprüften Fächern aus dem \ngesellschaftswissenschaftlichen und dem mathematisch-naturwissenschaftlich-techni-\nschen Aufgabenfeld erfolgt durch das Amt für Bildung bzw. das HIBB auf der Basis der \nAufgabenvorschläge der Schulen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The decentrally produced task proposals are checked by the Amt für Bildung or the HIBB, if necessary corrected or modified by the schools, and finally selected by the Amt für Bildung or the HIBB.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "3 Regelungen für die dezentral gestellten schriftlichen Prüfungsaufgaben",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die dezentral erstellten Aufgabenvorschläge werden \nvom Amt für Bildung bzw. vom HIBB geprüft, ggf. durch die Schulen korrigiert bzw. modi-\nfiziert und abschließend vom Amt für Bildung bzw. vom HIBB ausgewählt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Producing the proposals is the responsibility of the subject teacher (Fachlehrkraft); they must be written and duplicated by her or by a person bound to official secrecy.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "3 Regelungen für die dezentral gestellten schriftlichen Prüfungsaufgaben",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Erstellung der Vorschläge liegt in der Verantwortung der Fachlehrkraft; sie müssen von \nihr oder von einer Person, die zur Amtsverschwiegenheit verpflichtet ist, verfasst und \nvervielfältigt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "For foreign-language-taught and examined subjects from the social-science and the mathematical-scientific-technical task fields, the decentral rules (Ziffer 3) apply.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "3 Regelungen für die dezentral gestellten schriftlichen Prüfungsaufgaben",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Bei den fremdsprachlich unterrichteten und geprüften Fächern aus dem gesellschafts-\nwissenschaftlichen und dem mathematisch-naturwissenschaftlich-technischen Aufga-\nbenfeld gelten die Regelungen für die dezentral gestellten schriftlichen Prüfungsaufga-\nben (siehe Ziffer 3) im dezentralen Verfahren.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3 Regelungen für die dezentral gestellten schriftlichen Prüfungsaufgaben"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie",
+        "section_anchor": "3 Regelungen für die dezentral gestellten schriftlichen Prüfungsaufgaben",
+        "printed_page_range": "6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

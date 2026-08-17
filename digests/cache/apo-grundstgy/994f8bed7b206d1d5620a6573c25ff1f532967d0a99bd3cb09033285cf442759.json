@@ -1,0 +1,142 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:994f8bed7b206d1d5620a6573c25ff1f532967d0a99bd3cb09033285cf442759"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students with special-educational-needs support receive a diagnosis-based individual support plan (sonderpädagogischer Förderplan), to be drawn up by the end of the half-year in which the need was established.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 4 — Förderplanung, individueller sonderpädagogischer Förderbedarf",
+          "printed_page": 68,
+          "physical_page": 68
+        },
+        "cited_text": "Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf erhalten \neinen diagnosegestützten, individuellen sonderpädagogischen Förderplan, der \nspätestens bis zum Ablauf des Halbjahres, in dem der sonderpädagogische \n­Förderbedarf festgestellt wurde, aufzustellen ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "The support plan must be updated and carried forward after one year.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 4 — Förderplanung, individueller sonderpädagogischer Förderbedarf",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "Der sonderpädagogische Förderplan ist nach Ablauf eines Jahres fortzuschrei-\nben und zu aktualisieren",
+        "residual_flags": []
+      },
+      {
+        "content": "The support plan requires the guardians' consent.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 4 — Förderplanung, individueller sonderpädagogischer Förderbedarf",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "Der sonderpädagogische Förderplan bedarf der Zustimmung der Sorge­\nberechtigten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The plan must state at minimum the individual support areas, the starting point of learning, and the individual learning goals and indicators.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 4 — Förderplanung, individueller sonderpädagogischer Förderbedarf",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "Der sonderpädagogische Förderplan enthält mindestens Angaben über\n1.\tdie individuellen Förderbereiche,\n2.\tdie Lernausgangslage,\n3.\tdie individuellen Lernziele und Lernindikatoren,",
+        "residual_flags": []
+      },
+      {
+        "content": "The envisaged support measures must be named with regard to their actual implementation.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 4 — Förderplanung, individueller sonderpädagogischer Förderbedarf",
+          "printed_page": 69,
+          "physical_page": 69
+        },
+        "cited_text": "Die vorgesehen Fördermaßnahmen sind unter Berücksichtigung ihrer",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'Die vorgesehen Fördermaßnahmen' (missing inflection, should be 'vorgesehenen')",
+          "span deliberately stops before the page break so as not to cross the 'AO-SF / 70' running header"
+        ]
+      },
+      {
+        "content": "Where compensatory measures are granted, they must consist of differentiated organisational and methodological changes to the prescribed conditions for delivering the performance.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 4 — Förderplanung, individueller sonderpädagogischer Förderbedarf",
+          "printed_page": 70,
+          "physical_page": 70
+        },
+        "cited_text": "Erhält eine Schülerin oder ein Schüler mit sonderpädagogischem Förderbe-\ndarf Nachteilsausgleich, ist sicherzustellen, dass die gewährten Erleichterungen \nin Form von differenzierten organisatorischen und methodischen Veränderungen \nder für die Leistungserbringung vorgegeben Bedingungen erfolgen.",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'der für die Leistungserbringung vorgegeben Bedingungen' (missing inflection, should be 'vorgegebenen')"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 68,
+          "printed_page": 68
+        },
+        {
+          "physical_page": 69,
+          "printed_page": 69
+        },
+        {
+          "physical_page": 70,
+          "printed_page": 70
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "AO-SF Abschnitt 4 — Förderplanung, individueller sonderpädagogischer Förderbedarf"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "AO-SF Abschnitt 4 — Förderplanung, individueller sonderpädagogischer Förderbedarf",
+        "printed_page_range": "68–70"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

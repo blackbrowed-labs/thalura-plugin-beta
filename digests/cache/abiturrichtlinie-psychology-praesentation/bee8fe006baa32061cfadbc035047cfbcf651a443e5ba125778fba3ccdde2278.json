@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:bee8fe006baa32061cfadbc035047cfbcf651a443e5ba125778fba3ccdde2278"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology-praesentation",
+      "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Fachgespräch deepens attachment topics and learning (cognitivism and behaviourism paradigms, research works and basic experiments on the learning theories).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — VI Hinweise zur Gestaltung des Fachgesprächs",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Vertiefung der angesprochenen Themen, z. B.: \n•\nBindung: FST und die Bindungsstile, Feinfühligkeit der Bindungspersonen etc.,\n•\nLernen: Paradigma des Kognitivismus und des Behaviorismus, Forschungsarbeiten\nund Grundlagenexperimente zu den Lerntheorien",
+        "residual_flags": []
+      },
+      {
+        "content": "For the alternative task the Fachgespräch engages with formal aspects of research, e.g. evaluation and test quality criteria.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — VI Hinweise zur Gestaltung des Fachgesprächs",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "für alternative Aufgabenstellung: Auseinandersetzung mit formalen Aspekten der\nForschung, z. B. Auswertung",
+        "residual_flags": []
+      },
+      {
+        "content": "A possible open closing question asks how to explain exceptions such as insecurely attached children with later securely-attached partnerships.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — VI Hinweise zur Gestaltung des Fachgesprächs",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Wie erklären Sie sich die Ausnahmen, also z. B. unsicher-gebundene Kinder, die trotz-\ndem im Erwachsenenalter eine Partnerschaft mit sicher-gebundenen Eigenschaften",
+        "residual_flags": []
+      },
+      {
+        "content": "The question enables links to adjacent content areas and lets the examinee present a broader treatment of the topic.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — VI Hinweise zur Gestaltung des Fachgesprächs",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Frage ermöglicht vielfältige Verknüpfungen zu angrenzenden Inhaltsbereichen\n(z. B. Persönlichkeit, Motivation) und eröffnet dem Prüfling die Möglichkeit eine brei-\nter angelegte fachliche Durchdringung des Themas zu",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — VI Hinweise zur Gestaltung des Fachgesprächs"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology-praesentation",
+        "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — VI Hinweise zur Gestaltung des Fachgesprächs",
+        "printed_page_range": "14–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

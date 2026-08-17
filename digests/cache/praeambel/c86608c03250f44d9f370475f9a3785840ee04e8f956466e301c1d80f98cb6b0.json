@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c86608c03250f44d9f370475f9a3785840ee04e8f956466e301c1d80f98cb6b0"
+  },
+  "freshness": [
+    {
+      "document_id": "praeambel",
+      "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Hamburg's school system is described as having developed successfully in recent years, with inclusion and the Stadtteilschule strengthening shared learning.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Die Bildungspläne stärken die bewährte und erfolgreiche Hamburger Lernkultur",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Hamburgs Schulwesen hat sich in den vergangenen Jahren erfolgreich entwickelt.",
+        "residual_flags": []
+      },
+      {
+        "content": "New upper-secondary levels at Stadtteilschulen, new examination requirements and cross-state Abitur tasks are credited with raising the level of achievement.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Die Bildungspläne stärken die bewährte und erfolgreiche Hamburger Lernkultur",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Die Einrichtung von Oberstufen in den neuen Stadtteilschulen, neue Prüfungsanforderungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Hamburg's learning culture rests on a comprehensive understanding of inclusive education and upbringing (inklusive Bildung und Erziehung).",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Die Bildungspläne stärken die bewährte und erfolgreiche Hamburger Lernkultur",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Zu der erfolgreichen Entwicklung des Hamburger Schulsystems in den vergangenen Jahren",
+        "residual_flags": []
+      },
+      {
+        "content": "Individually supportive teaching lets students develop their intellectual, physical and social abilities and strengthens their capacity and willingness to perform.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Die Bildungspläne stärken die bewährte und erfolgreiche Hamburger Lernkultur",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Individuell lernförderlicher Unterricht ermöglicht den Schülerinnen und Schülern die Entfaltung",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 3,
+          "printed_page": 3
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Die Bildungspläne stärken die bewährte und erfolgreiche Hamburger Lernkultur"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "praeambel",
+        "section_anchor": "Die Bildungspläne stärken die bewährte und erfolgreiche Hamburger Lernkultur",
+        "printed_page_range": "3"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

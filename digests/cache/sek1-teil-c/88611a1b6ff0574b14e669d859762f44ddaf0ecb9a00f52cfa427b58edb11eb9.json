@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:88611a1b6ff0574b14e669d859762f44ddaf0ecb9a00f52cfa427b58edb11eb9"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Musik — beyond the activities and products named under No. 4, assessment of ongoing classwork also considers: vocal and instrumental music-making; movement presentations and dance; scenic designs; arranging and inventing music; participation in school performances.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7j) Musik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Bewertung der in der laufenden Unterrichtsarbeit erbrachten Leistungen berücksichtigt im \nFach Musik über die unter Nr. 4 genannten Aktivitäten und Produkte hinaus die folgenden \nAktivitäten sowie ggf. aus ihnen entstandene Produkte: \n• \nvokales und instrumentales Musizieren \n• \nBewegungsdarstellungen, Tanz \n• \nszenische Gestaltungen \n• \nArrangieren und Erfinden von Musik \n• \nMitwirkung bei Schulaufführungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Music-related abilities acquired outside school are drawn on for assessment to the extent that they are constructively brought into the lessons.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7j) Musik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Musikbezogene Fähigkeiten, die Schülerinnen und Schüler im außerschulischen Bereich er-\nworben haben, werden in dem Maße zur Bewertung herangezogen, wie sie konstruktiv in den \nUnterricht eingebracht werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Music criteria (part 1), alongside the general criteria: handling instruments appropriately; realising and steering musical parameters such as pitch and rhythm precisely; listening to others and playing attentively and consciously together when making music jointly; developing and realising expressive designs from original ideas.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7j) Musik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Bei der Bewertung von Leistungen im Fach Musik ist neben den allgemeinen Kriterien zu be-\nrücksichtigen, ob und inwieweit die Schülerin oder der Schüler: \n• \nfachgerecht mit Musikinstrumenten umgeht \n• \ndie verschiedenen musikalischen Parameter wie Tonhöhe, Rhythmus usw. präzise um-\nsetzt und gezielt steuert \n• \nbeim gemeinsamen Musizieren auf andere hört und aufmerksam und bewusst mit an-\nderen zusammenspielt \n• \naus originellen Einfällen ausdrucksvolle Gestaltungen entwickelt und umsetzt",
+        "residual_flags": []
+      },
+      {
+        "content": "Music criteria (part 2): bringing different musical design elements together coherently; shaping presentations appropriately for the audience; expressing musical content appropriately; achieving reliability of execution in musical activities; performing in a concentrated and committed way.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7j) Musik",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "• \nunterschiedliche musikalische Gestaltungselemente in schlüssiger Weise zusammen-\nführt \n• \nPräsentationen adressatengerecht gestaltet \n• \nmusikalische Gehalte angemessen zum Ausdruck bringt \n• \nbei musikalischen Tätigkeiten Sicherheit in der Ausführung erreicht \n• \nin Aufführungen konzentriert und engagiert auftritt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7j) Musik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7j) Musik",
+        "printed_page_range": "26–27"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

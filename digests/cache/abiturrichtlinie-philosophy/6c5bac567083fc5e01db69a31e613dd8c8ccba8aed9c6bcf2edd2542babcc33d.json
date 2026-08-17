@@ -1,0 +1,148 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6c5bac567083fc5e01db69a31e613dd8c8ccba8aed9c6bcf2edd2542babcc33d"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Philosophie presentation examination refers to content/competence areas of at least two semesters of the Studienstufe; despite a didactic focus it must not relate to only one semester.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Die Präsentationsprüfung bezieht sich auf Inhalts- bzw. Kompetenzbereiche mindestens \nzweier Semester der Studienstufe. Die in der Präsentationsprüfung zu bearbeitende Prü-\nfungsaufgabe darf sich trotz einer prüfungsdidaktischen Schwerpunktbildung nicht auf die \nInhalts- bzw. Kompetenzbereiche nur eines Semesters beziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The first part is an approximately 10-minute media-supported talk in which the candidate presents the solution to the set task, valuing coherent presentation and free speech supported by notes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Der etwa 10-minütige erste Teil ist ein \nmedienunterstützter Vortrag, in dem der Prüfling die Lösung zu der gestellten Aufgabe \npräsentiert. Dabei wird auf eine zusammenhängende Darstellung und freie Rede Wert gelegt, \nbei der sich der Prüfling auf seine Aufzeichnungen stützen kann.",
+        "residual_flags": []
+      },
+      {
+        "content": "The second part is a 20-minute subject discussion (Fachgespräch) with the examination board, starting from questions on the talk and drawing in further thematic aspects around the examination task.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Der 20-minütige zweite Teil \nist ein Fachgespräch mit dem Fachprüfungsausschuss, das von Rückfragen zum Vortrag seinen \nAusgang nimmt und weitere thematische Aspekte im Umfeld der Prüfungsaufgabe einbezieht.",
+        "residual_flags": []
+      },
+      {
+        "content": "The required conversational character forbids disconnected quizzing of factual knowledge; total examination time is about 30 minutes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Der geforderte Gesprächscharakter verbietet ein \nzusammenhangloses Abfragen von Kenntnissen. Die Prüfungszeit beträgt insgesamt ca. 30 \nMinuten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The task must allow a reflected engagement with a philosophical problem including a personal evaluation, be solvable in the available time, and demand performance from all three requirement areas (Anforderungsbereiche).",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Die Aufgabenstellung \nermöglicht \neine \nreflektierte \nAuseinandersetzung \nmit \neinem philosophischen Problem einschließlich einer persönlichen Bewertung und \nist in der zur Verfügung stehenden Zeit bearbeitbar. Bei ihrer Lösung werden \nLeistungen aus allen drei Anforderungsbereichen eingefordert.",
+        "residual_flags": []
+      },
+      {
+        "content": "One week before the examination the candidates submit a documentation to the chair of the subject examination board showing the contents, the course of the presentation and the sources used.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Eine Woche vor der Prüfung \nge-ben die Prüflinge eine Dokumentation bei der oder dem Vorsitzenden des \nFachprüfungs-ausschusses ab, aus der die Inhalte, der Ablauf der Präsentation sowie \ndie  verwendeten Quellen hervorgehen.",
+        "residual_flags": [
+          "source-layout-artifact-verbatim: mid-line hyphenation in the original, e.g. 'ge-ben' and 'Fachprüfungs-ausschusses'; also a double space in 'die  verwendeten Quellen' — preserved as-is"
+        ]
+      },
+      {
+        "content": "Die Gruppe darf in der Regel nicht mehr als drei Prueflinge umfassen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.1 Form und Aufgabenstellung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Die Gruppe darf in der Regel nicht mehr als drei \nPrüflinge umfassen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.2.1 Form und Aufgabenstellung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "5.2.1 Form und Aufgabenstellung",
+        "printed_page_range": "18–19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

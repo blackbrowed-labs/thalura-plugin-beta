@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:99ae9a9c4dbba2a68e0cbbe25c288cf8b9cf4af82b0110d96827cdf9665b32d7"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Philosophy teaching contributes to competencies that promote an understanding of reality.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Philosophieunterricht leistet einen Beitrag zur Entwicklung von Kompetenzen, die das Ver-\nstehen der Wirklichkeit fördern.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under the values-education perspective, the subject fosters engagement with values, attitudes and options for action and insight into the normative foundations of human action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Der Philosophieunterricht fördert die Auseinandersetzung mit Werten, Einstellungen und \nHandlungsoptionen sowie die Einsicht in normative Grundlagen menschlichen Handelns.",
+        "residual_flags": []
+      },
+      {
+        "content": "Community-stabilising and peace-securing values such as solidarity, respect, tolerance, responsibility, participation and empathy are foregrounded.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Gemeinschaftsstabilisierende und friedenssichernde Werte, wie z. B. \nSolidarität, Respekt, Toleranz, Verantwortungsbewusstsein, Teilhabe und Empathie werden \nherausgestellt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Bildung für nachhaltige Entwicklung (BNE), students reflect on habits and behaviour patterns with regard to sustainability and link them to other subjects.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren Gewohnheiten und Verhaltensmuster \nbezüglich ihrer Nachhaltigkeit und stellen dabei inhaltliche und methodische Bezüge zu ande-\nren Fächern her.",
+        "residual_flags": []
+      },
+      {
+        "content": "Digital media are used for gaining knowledge, documenting learning processes and presenting and communicating learning outcomes.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Im Fach Philosophie werden digitale Medien zur Erkenntnisgewinnung, zur Dokumentation von \nLernprozessen sowie zur Präsentation und Kommunikation von Lernergebnissen genutzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Besides digitalisation as a technological process, digitality is reflected upon as a social and cultural reality.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Neben der Digi-\ntalisierung als Prozess der Entwicklung und Anwendung von Technologien wird Digitalität als \ngesellschaftliche und kulturelle Realität, die mit Digitalisierung einhergeht, reflektiert.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+        "printed_page_range": "5–6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

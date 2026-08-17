@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:565a5c217e82345226cbfbf86b32a9970066222d9a2154258c6f6323a979dd32"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The requirement areas described under 3.2 and the assessment criteria set out under 4.5 apply in principle to the presentation examination as well, which is assessed as a whole.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Die unter 3.2 beschriebenen Anforderungsbereiche und die unter 4.5 dargelegten Be-\nwertungskriterien gelten grundsätzlich auch für die Präsentationsprüfung. Die Präsentati-\nonsprüfung wird in ihrer Gesamtheit bewertet.",
+        "residual_flags": []
+      },
+      {
+        "content": "The subject-specific performance is at the centre of the assessment; beyond that, the communicative performance shown must be taken into account.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Im Zentrum der Bewertung steht die fachliche \nLeistung des Prüflings. Darüber hinaus sind die gezeigten kommunikativen Leistungen zu \nberücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Serious deficiencies in the subject-specific examination performance cannot be compensated by presentation or media competence.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Schwerwiegende Mängel der fachlichen Prüfungsleistungen können nicht \ndurch Präsentations- oder Medienkompetenz kompensiert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Specific presentation-examination requirements include unfolding the underlying issue or problem and placing it in wider subject-related and cross-subject contexts, and finding a comprehensible, cogent result in the given time.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "den der Aufgabenstellung zugrundeliegenden Sachverhalt bzw. das darin enthaltene\nProblem zu entfalten und in größere fachliche und ggf. überfachliche Zusammenhänge\neinzuordnen,\n•\nin der gegebenen Zeit für die gestellte Aufgabe ein nachvollziehbares, triftiges Ergeb-\nnis zu finden,",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates must speak freely in the talk and the discussion, appear confident, defend their own standpoint, and give reflected, self-critical account of the chosen method, the working steps and the media use.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.2.2 Anforderungen und Bewertung",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "im Vortrag und im Gespräch frei zu sprechen, sicher aufzutreten und dabei den eigenen\nStandpunkt selbstbewusst zu vertreten,\n•\nüber die gewählte Methode, die Arbeitsschritte bei der Lösung der Aufgabe sowie den\nMedieneinsatz bei der Präsentation reflektiert und selbstkritisch Auskunft zu geben.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.2.2 Anforderungen und Bewertung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "5.2.2 Anforderungen und Bewertung",
+        "printed_page_range": "19–20"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

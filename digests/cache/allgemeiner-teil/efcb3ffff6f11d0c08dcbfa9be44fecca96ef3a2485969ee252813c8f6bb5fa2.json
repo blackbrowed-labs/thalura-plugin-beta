@@ -1,0 +1,141 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:efcb3ffff6f11d0c08dcbfa9be44fecca96ef3a2485969ee252813c8f6bb5fa2"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Gymnasium is an eight-stage school form comprising year levels 5 to 12; lower secondary consists of years 5 to 10.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3.2 Organisatorischer Rahmen und Gestaltungsaufgaben des Gymnasiums",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Das Gymnasium ist eine achtstufige Schulform und umfasst die Jahrgangsstufen 5 bis 12. Die \nSekundarstufe I besteht aus den Jahrgangsstufen 5 bis 10.",
+        "residual_flags": []
+      },
+      {
+        "content": "Years 5 and 6 form the observation stage (Beobachtungsstufe) as a pedagogical unit.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3.2 Organisatorischer Rahmen und Gestaltungsaufgaben des Gymnasiums",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Die Jahrgangsstufen 5 und 6 bilden \nals pädagogische Einheit die Beobachtungsstufe",
+        "residual_flags": []
+      },
+      {
+        "content": "In year 10 a class test (Klassenarbeit) in German, Mathematics and a continued foreign language checks whether the requirements for promotion to the Studienstufe have been met.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3.2 Organisatorischer Rahmen und Gestaltungsaufgaben des Gymnasiums",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "In der Jahrgangsstufe 10 dient eine Klassenarbeit in den Fächern Deutsch und Mathematik \nsowie in einer fortgeführten Fremdsprache der Überprüfung, ob die für die Versetzung in die \nStudienstufe erforderlichen Anforderungen der Rahmenpläne erreicht wurden",
+        "residual_flags": []
+      },
+      {
+        "content": "The competences in the Gymnasium's lower-secondary framework plans are minimum requirements all students must reach to earn the right to move up into the Studienstufe.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3.2 Organisatorischer Rahmen und Gestaltungsaufgaben des Gymnasiums",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Die in den Rahmenplänen der Sekundarstufe I des Gymnasiums ausgewiesenen Kompeten-\nzen benennen Mindestanforderungen, die alle Schülerinnen und Schülern erreichen müssen, \num die Berechtigung zum Übergang in die Studienstufe zu erwerben.",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'die alle Schülerinnen und Schülern erreichen müssen' (dative 'Schülern' instead of nominative 'Schüler')"
+        ]
+      },
+      {
+        "content": "Teaching at the eight-stage Gymnasium requires brisk progression and places particular demands on students' willingness and ability to perform.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3.2 Organisatorischer Rahmen und Gestaltungsaufgaben des Gymnasiums",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Der Unterricht am achtstufigen Gymnasium erfordert eine zügige unterrichtliche Progression \nund stellt besondere Anforderungen an die Leistungsbereitschaft und Leistungsfähigkeit der \nSchülerinnen und Schüler.",
+        "residual_flags": []
+      },
+      {
+        "content": "Grundlage des Unterrichts ist der Bildungsplan mit den fachbezogenen Rahmenplaenen.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3.2 Organisatorischer Rahmen und Gestaltungsaufgaben des Gymnasiums",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Grundlage des Unterrichts ist der Bildungsplan.",
+        "residual_flags": [
+          "page-multi-match:physical-32-earliest-of-2-candidate-pages"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6.3.2 Organisatorischer Rahmen und Gestaltungsaufgaben des Gymnasiums"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "6.3.2 Organisatorischer Rahmen und Gestaltungsaufgaben des Gymnasiums",
+        "printed_page_range": "31–33"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:4bdb63420f7d462a61aa28fbab25f10cc6866ac647f0c25fbd662f0b4151afcb"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Abitur examination consists of three written examinations and one oral examination, taken in the profile area and three further subjects.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 20 Zweck, Gegenstand und Gliederung der Prüfung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Die Abiturprüfung besteht aus drei schriftlichen Prüfungen und einer mündlichen \nPrüfung. Sie erfolgt im Profilbereich und in drei weiteren Fächern.",
+        "residual_flags": []
+      },
+      {
+        "content": "The focus of the profile-area examination is a profile-giving subject that the candidate has not taken as a core subject.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 20 Zweck, Gegenstand und Gliederung der Prüfung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Schwerpunkt der Prü-\nfung im Profilbereich ist ein profilgeben des Fach, das der Prüfling nicht als Kernfach \nbelegt hat.",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'ein profilgeben des Fach' (word split; intended 'ein profilgebendes Fach')"
+        ]
+      },
+      {
+        "content": "At least two written examinations, one of them in a core subject, are at the raised requirement level.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 20 Zweck, Gegenstand und Gliederung der Prüfung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Mindestens zwei schriftliche Prüfungen, darunter eine in einem Kernfach, \nerfolgen auf erhöhtem Anforderungsniveau.",
+        "residual_flags": []
+      },
+      {
+        "content": "The candidate chooses the examination subjects, including the profile-giving subject, at the beginning of the third semester.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 20 Zweck, Gegenstand und Gliederung der Prüfung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Der Prüfling wählt seine Prüfungsfächer einschließlich des profilgebenden Fachs, an \ndem sich die Prüfung im Profilbereich orientiert, zu Beginn des dritten Semesters.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 20 Zweck, Gegenstand und Gliederung der Prüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 20 Zweck, Gegenstand und Gliederung der Prüfung",
+        "printed_page_range": "18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

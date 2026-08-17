@@ -1,0 +1,192 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:73fb4b3294968e7db8d6a7c7ad21588a31cab62a614544030b6cc36b99b9a38b"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The core curriculum comprises three topic areas, each with one compulsory and one elective module.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Das Kerncurriculum umfasst drei Themenbereiche, zu denen jeweils ein Pflichtmodul und ein \nWahlmodul formuliert sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Three compulsory modules per school year of two weekly lessons; nine compulsory modules in total across the six weekly lessons prescribed from grade 7 in Sekundarstufe I.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "In einem Schuljahr mit zwei Wochenstunden sind insgesamt drei \nPflichtmodule zu erarbeiten, so dass im Laufe der in der Sekundarstufe I ab Jahrgangsstufe 7 \ngemäß Stundentafel vorgegebenen sechs Wochenstunden insgesamt neun Pflichtmodule zu \nerarbeiten sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Not all contents must be treated at the same depth and length; the listed contents do not in principle constitute self-contained teaching units (Unterrichtseinheiten).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Es müssen nicht alle Inhalte in derselben Tiefe und Länge behandelt werden. Die aufgeführten \nInhalte stellen grundsätzlich keine eigenen Unterrichtseinheiten dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-references in the module sheets under 'Fachinterne Bezüge' refer to the Philosophy framework plan (Rahmenplan) for the Studienstufe.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die in den Modulblättern in der Spalte „Fachbezogen“ unter \n„Fachinterne Bezüge“ enthaltenen Verweise beziehen sich auf den Rahmenplan Philosophie \nfür die Studienstufe.",
+        "residual_flags": []
+      },
+      {
+        "content": "An ideal-typical distribution of teaching across grades 8, 9 and 10 is assumed; schools may distribute it differently.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Im Folgenden wird von einer idealtypischen Verteilung des Unterrichts auf die Jahrgangsstufen \n8, 9 und 10 ausgegangen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.3 Inhalte"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "2.3 Inhalte",
+        "printed_page_range": "13–32"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

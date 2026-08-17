@@ -1,0 +1,185 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8feb14697f8a9eec9f93f6a7ea2a0b4d2a3ec70005d70fa9ee17e07c84729b3f"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Bildende Kunst — work produced in art lessons often creates something new and possibly unforeseeable; divergent results arise that may lie beyond normed expectations, which is precisely a substantial part of their quality.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Mit Arbeiten, die im Kunstunterricht entstehen, wird häufig etwas Neues, unter Umständen \nnicht Vorhersehbares geschaffen. Es entstehen divergierende Ergebnisse, die möglicherweise \njenseits genormter Vorstellungen liegen, was jedoch einen erheblichen Teil ihrer Qualität aus-\nmacht.",
+        "residual_flags": []
+      },
+      {
+        "content": "In appraisal, such differences arising from students' individuality must be perceived and reflected upon.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Bei der Beurteilung müssen derartige, aus der Individualität der Schülerinnen und \nSchüler resultierende Unterschiede wahrgenommen und reflektiert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art teaching is predominantly practical, so practical performance carries particular weight; in assessing ongoing classwork, alongside finished products, interim results of work processes, sketches and oral and written contributions must be taken into account.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Der Unterricht im Fach Bildende Kunst ist vorwiegend praktisch orientiert. Somit kommt den \npraktischen Leistungen der Schülerinnen und Schüler besonderes Gewicht zu. Bei der Bewer-\ntung der in der laufenden Unterrichtsarbeit erbrachten Leistungen sind neben fertigen Produk-\nten auch Zwischenergebnisse der Arbeitsprozesse, Skizzen sowie mündliche und schriftliche \nBeiträge zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — openness (Aufgeschlossenheit): students engage with the unknown (a question, a phenomenon, an artwork), ask further questions, try out materials and techniques, and are open to developing different solutions and variations in the practical and theoretical field.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nAufgeschlossenheit: Die Schülerinnen und Schüler lassen sich auf Unbekanntes – sei \nes z. B. eine Fragestellung, ein Phänomen oder ein Kunstwerk – ein, stellen weiterfüh-\nrende Fragen, erproben Materialien und Techniken und sind offen für die Entwicklung \nverschiedener Lösungen und Variationen im praktischen und theoretischen Bereich.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — skills and knowledge: students command the expected skills in handling material, techniques and methods as well as the expected subject knowledge about works, procedures and phenomena.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nFertigkeiten, Kenntnisse: Die Schülerinnen und Schüler verfügen über die erwarteten \nFertigkeiten bezogen auf den Umgang mit Material, Techniken und Methoden sowie \nüber die erwarteten fachlichen Kenntnisse über Werke, Verfahren und Phänomene.",
+        "residual_flags": []
+      },
+      {
+        "content": "They incorporate specific properties of media and materials into practical work and into the examination of works and phenomena, and handle material and time appropriately in an economical or experimental sense.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Sie beziehen spezifische Eigenschaften und Eigenarten von Medien und Materialien in \ndie praktische Arbeit und die Untersuchung von Werken und Phänomenen des Faches \nein. Im ökonomischen oder im experimentellen Sinne gehen sie angemessen mit Ma-\nterial und Zeit um.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — inventiveness and variety: students work inventively and with variety on the topic; inventiveness covers creativity, originality and richness of ideas and also shows in the independent, further-reaching use of existing knowledge and skills.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nEinfalls- und Variantenreichtum: Die Schülerinnen und Schüler arbeiten einfalls- und \nvariantenreich zu der Themenstellung. Einfallsreichtum umfasst Kreativität, Originalität \nund Reichhaltigkeit von Ideen, die zu einer Fragestellung entwickelt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — self-reliance (Selbstständigkeit): students develop their ideas independently, i.e. largely without instructions and guiding prompts; they obtain materials and information themselves and judge their suitability appropriately.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nSelbstständigkeit: Die Schülerinnen und Schüler entwickeln ihre Einfälle selbstständig, \nd. h. weitgehend ohne Anweisungen und lenkende Anstöße. Sie beschaffen Materia-\nlien stofflicher und theoretischer Natur sowie Informationen selbstständig und schätzen \nderen Eignung für das jeweilige Vorhaben sachgemäß ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — originality (Eigenständigkeit): students explore and use the latitude of questions and tasks, and the results rest on independent, original thoughts, ideas and solutions.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nEigenständigkeit: Die Schülerinnen und Schüler erforschen und nutzen die Spielräume \nvon Frage- und Aufgabenstellungen und die Ergebnisse beruhen auf eigenständigen, \noriginären Gedanken, Ideen und Lösungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Art criterion — capacity for presentation, curation and exhibition: students bring practical and theoretical results coherently to bear, e.g. in presentations, exhibitions and guided tours.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7b) Bildende Kunst",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• \nFähigkeit zur Präsentation, Kuration und Ausstellung: Die Schülerinnen und Schüler \nbringen die praktischen und theoretischen Arbeitsergebnisse stimmig zur Geltung, z. B. \nin Form von Präsentationen, Ausstellungen und Führungen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7b) Bildende Kunst"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7b) Bildende Kunst",
+        "printed_page_range": "17–18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

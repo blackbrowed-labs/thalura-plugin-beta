@@ -1,0 +1,141 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:af5e1ab7f03a32d94f3e489f0e291959a0c57c2f28e740010eb5a3604fe774cc"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The timetables (Stundentafeln) state, per school form, the total lessons to be taught in each subject and learning area up to the final grade (Grundstunden).",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 6 — Stundentafeln",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Die Stundentafeln weisen für jede Schulform jeweils die Anzahl der Unter-\nrichtsstunden aus, die in den Fächern und Lernbereichen bis zur letzten Jahr-\ngangsstufe der Schulform beziehungsweise Schulstufe insgesamt zu erteilen sind",
+        "residual_flags": []
+      },
+      {
+        "content": "For converting base and minimum hours into weekly hours, a school year counts as 38 teaching weeks.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 6 — Stundentafeln",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Bei der Umrechnung der Grund- und Mindeststunden in Wochenstunden ent-\nspricht ein Schuljahr 38 Unterrichtswochen.",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Gymnasium two foreign languages are compulsory from year 7 at the latest through year 10.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 6 — Stundentafeln",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "im Gymnasium sind spätestens ab der Jahrgangsstufe 7 bis \nJahrgangsstufe 10 zwei Fremdsprachen Pflicht",
+        "residual_flags": []
+      },
+      {
+        "content": "German, English and Sport are taught in every grade level.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 6 — Stundentafeln",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "die Fächer Deutsch, Englisch und Sport werden in jeder Jahrgangs­\nstufe unterrichtet;",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching in the cross-curricular task areas (Aufgabengebiete) must amount to at least one tenth of the base hours in every school form.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 6 — Stundentafeln",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "in den Aufgabengebieten umfasst in jeder Schulform mindestens ein Zehn-\ntel der Grundstunden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Gymnasium's elective-compulsory offer includes a further language plus two of Music, Theatre, Visual Arts, Computer Science, or a science option.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 6 — Stundentafeln",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "im Gymnasium eine weitere Sprache sowie zwei der Fächer Musik, \nTheater, Bildende Kunst, Informatik oder ein Angebot aus den \nnaturwissenschaftlichen Fächern;",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 37,
+          "printed_page": 37
+        },
+        {
+          "physical_page": 38,
+          "printed_page": 38
+        },
+        {
+          "physical_page": 39,
+          "printed_page": 39
+        },
+        {
+          "physical_page": 40,
+          "printed_page": 40
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "APO-GrundStGy Abschnitt 6 — Stundentafeln"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "APO-GrundStGy Abschnitt 6 — Stundentafeln",
+        "printed_page_range": "37–40"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

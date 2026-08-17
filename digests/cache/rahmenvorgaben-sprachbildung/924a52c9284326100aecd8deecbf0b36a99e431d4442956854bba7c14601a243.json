@@ -1,0 +1,155 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:924a52c9284326100aecd8deecbf0b36a99e431d4442956854bba7c14601a243"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Rahmenvorgaben describe the central language requirements for subject teaching (Fachunterricht) in all subjects of general-education schools, plus didactic principles for a language-sensitive subject teaching.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "1 Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "beschreiben die zentralen sprachli",
+        "residual_flags": []
+      },
+      {
+        "content": "The core of the framework is the competency matrix (Kompetenzmatrix) Sprachbildung, which sets out subject-related language requirements the subject teaching places on students to work on subject tasks and successfully take part in the grade level.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "1 Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Kern des Rahmenplanes ist die Kompetenzmatrix",
+        "residual_flags": []
+      },
+      {
+        "content": "The matrix exists in two versions: one for primary school (Grundschule) with notes on extended requirements, and one for Sekundarstufe I with notes on higher requirements in Sekundarstufe II.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "1 Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Kompetenzmatrix liegt in zwei Fassungen vor",
+        "residual_flags": []
+      },
+      {
+        "content": "The didactic principles apply to all school stages because they do not differ.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "1 Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "beziehen sich dagegen auf alle",
+        "residual_flags": []
+      },
+      {
+        "content": "The overview serves as an orientation frame and planning instrument for the systematic implementation of continuous language education (Sprachbildung).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "1 Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "dient als Orientierungsrahmen und Planungsinstrument",
+        "residual_flags": []
+      },
+      {
+        "content": "Language competencies of the matrix are assigned to the topic fields and contents of the core curricula (Kerncurricula) via references, orienting teachers on which subject-related language actions to explicitly address and practise.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "1 Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "sprachliche Kompetenzen der Kompetenzmatrix durch Verweise zugeordnet",
+        "residual_flags": []
+      },
+      {
+        "content": "It also serves as a support instrument for systematic integrative and additive support of students who learned German as a second language in an international preparatory class (the so-called 3. Phase).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "1 Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Deutsch als Zweitsprache in einer Interna",
+        "residual_flags": []
+      },
+      {
+        "content": "Exemplary linguistic means and hints for realizing the language actions on word, sentence, text and discourse level are provided to support language-sensitive lesson planning.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "1 Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "auf Wort- Satz-, Text- und Diskursebene werden zur Unterst",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Einleitung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "1 Einleitung",
+        "printed_page_range": "4"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

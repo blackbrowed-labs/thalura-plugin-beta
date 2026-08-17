@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:14a6e009025ded3b6043c84cd818401e48faead476cebfd8982b0853bb4c06e4"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content anchor: semester topic 'The Multicultural Challenge in the USA', topic area C (Zielsprachenland: Entwicklung und Identität).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "o Semesterthema: The Multicultural Challenge in the USA  \nThemenbereich C: Zielsprachenland: Entwicklung und Identität",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural competences invoked are sociocultural orientation knowledge and dealing with cultural difference.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "• Interkulturelle Kompetenzen \no Soziokulturelles Orientierungswissen \no Umgang mit kultureller Differenz",
+        "residual_flags": []
+      },
+      {
+        "content": "The methodological competence expects students to analyse features of the medium film using basic technical terms.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "– analysieren Merkmale des Mediums Film unter Einsatz grund-\nlegender Fachbegriffe,",
+        "residual_flags": []
+      },
+      {
+        "content": "The exam topics tie the content focus 'The Multicultural Challenge in the USA' to the methodological competence area of film analysis.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Themen der Präsentationsprüfung beziehen sich auf das inhaltli-\nche Schwerpunktthema The Multicultural Challenge in the USA und auf \nden methodischen Kompetenzbereich der Filmanalyse.",
+        "residual_flags": []
+      },
+      {
+        "content": "Film-analysis categories taught include cinematic devices such as field sizes, camera movements and angles, editing, sound, lighting and props.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "o cinematic devices: field sizes, camera movements, camera angles, \nmontage/editing, sound, lighting, props",
+        "residual_flags": []
+      },
+      {
+        "content": "Class work on the content area included T.C. Boyle's novel The Tortilla Curtain (1995).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "• T.C. Boyle, The Tortilla Curtain (1995)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Crash — III Unterrichtsmaterial / Bildungsplanbezüge"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Crash — III Unterrichtsmaterial / Bildungsplanbezüge",
+        "printed_page_range": "6–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

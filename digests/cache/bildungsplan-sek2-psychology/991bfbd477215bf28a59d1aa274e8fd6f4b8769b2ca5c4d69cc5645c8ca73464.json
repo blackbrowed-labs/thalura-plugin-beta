@@ -1,0 +1,228 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:991bfbd477215bf28a59d1aa274e8fd6f4b8769b2ca5c4d69cc5645c8ca73464"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In psychology teaching students engage with human behaviour and experience.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "setzen sich die Schülerinnen und Schüler mit dem",
+        "residual_flags": []
+      },
+      {
+        "content": "They learn to scientifically explain behaviour and experience and to act when difficulties arise.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "dieses Verhalten und Erleben wissenschaftlich zu erklären und bei",
+        "residual_flags": []
+      },
+      {
+        "content": "Three general aims of psychology teaching follow from the subject's self-understanding.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "ergeben sich drei allgemeine",
+        "residual_flags": []
+      },
+      {
+        "content": "Students familiarise themselves with the fundamental themes, theories and research methods of psychology.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "den verschiedenen grundlegenden Themen, Theorien und Forschungsmethoden der",
+        "residual_flags": []
+      },
+      {
+        "content": "The fostering of critical self- and other-reflection can only ever occur implicitly.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Förderung der kritischen Selbst- und Fremdreflexion immer nur implizit erfolgen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students learn that psychology has not one true theory but a range of more or less useful theories.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "sondern eine Reihe von mehr oder weniger nützlichen Theorien",
+        "residual_flags": []
+      },
+      {
+        "content": "Because it draws on many scientific and artistic aspects, psychology is a bridging subject.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Insofern stellt das Fach Psychologie",
+        "residual_flags": []
+      },
+      {
+        "content": "Individual self-experience must not become the direct subject matter of the lessons.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "darf die individuelle Selbsterfahrung nicht zum unmittelbaren",
+        "residual_flags": []
+      },
+      {
+        "content": "The life-world link is made by choosing topics that do not intrude into students' privacy.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "die nicht direkt in ihre Privatsphäre eindringen",
+        "residual_flags": []
+      },
+      {
+        "content": "Psychology teaching demands a great degree of openness and tolerance from students.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "verlangt von den Schülerinnen und Schülern daher ein großes Maß an",
+        "residual_flags": []
+      },
+      {
+        "content": "A personal involvement of every student is present given the closeness to everyday phenomena.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "eine persönliche Betroffenheit jedes einzelnen Schülers",
+        "residual_flags": []
+      },
+      {
+        "content": "No one may feel pressured to disclose private data.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "unter Druck gesetzt fühlen, private Daten freizugeben",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Auswahl der Inhalte erfolgt nach dem Prinzip des exemplarischen Lernens.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "eine Auswahl der Inhalte nach dem Prinzip des exemplarischen Lernens",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.1 Didaktische Grundsätze"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "1.1 Didaktische Grundsätze",
+        "printed_page_range": "4–6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

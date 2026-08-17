@@ -1,0 +1,337 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:293547aed18782c038bbd7ca48352f2cc175206a4de97dca23e8b1e3f6cdc6b6"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Themenbereich 2: Schule, Ausbildung, Beruf",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Themenbereich 2: Schule, Ausbildung, Beruf ",
+        "residual_flags": []
+      },
+      {
+        "content": "School and interests",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "School and interests ",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Auseinandersetzung mit dem vorliegenden Thema erwerben die",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "In der Auseinandersetzung mit dem vorliegenden Thema erwerben die ",
+        "residual_flags": []
+      },
+      {
+        "content": "Schülerinnen und Schüler ein grundlegendes Wissen über die Lebenswelten und insbesondere den Schulalltag von Jugendlichen im anglophonen Sprach- und Kulturraum und ziehen Vergleiche zu ihren eigenen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Schülerinnen und Schüler ein grundlegendes Wissen über die Lebens-\nwelten und insbesondere den Schulalltag von Jugendlichen im anglo-\nphonen Sprach- und Kulturraum und ziehen Vergleiche zu ihren eigenen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Erfahrungen. Das Themenfeld eignet sich in besonderer Weise zur Vorbereitung der Schülerinnen und Schüler auf interkulturelle Begegnungssituationen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Erfahrungen. Das Themenfeld eignet sich in besonderer Weise zur Vor-\nbereitung der Schülerinnen und Schüler auf interkulturelle Begegnungs-\nsituationen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die fettgedruckten Themen und Aspekte sind verpflichtend zu behandeln.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Die fettgedruckten Themen und Aspekte sind verpflichtend zu behan-\ndeln. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspekte schulischen Zusammenlebens",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Aspekte schulischen Zusammenlebens ",
+        "residual_flags": []
+      },
+      {
+        "content": "extra-curricular activities (e.g. school clubs, sports, arts)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "• extra-curricular activities (e.g. school clubs, sports, arts) ",
+        "residual_flags": []
+      },
+      {
+        "content": "tolerance and diversity in the classroom",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "• tolerance and diversity in the classroom ",
+        "residual_flags": []
+      },
+      {
+        "content": "student participation (e.g. on the student council)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "• student participation (e.g. on the student council) ",
+        "residual_flags": []
+      },
+      {
+        "content": "understanding and preventing (cyber)bullying",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "• understanding and preventing (cyber)bullying ",
+        "residual_flags": []
+      },
+      {
+        "content": "Schüleraustausch und Auslandsaufenthalt",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Schüleraustausch und Auslandsaufenthalt ",
+        "residual_flags": []
+      },
+      {
+        "content": "cultural differences and similarities",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "• cultural differences and similarities ",
+        "residual_flags": []
+      },
+      {
+        "content": "advantages of knowing about other cultures",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "• advantages of knowing about other cultures ",
+        "residual_flags": []
+      },
+      {
+        "content": "Zukunftspläne und Berufswünsche",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Zukunftspläne und Berufswünsche ",
+        "residual_flags": []
+      },
+      {
+        "content": "interests and skills",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "• interests and skills ",
+        "residual_flags": []
+      },
+      {
+        "content": "plans and hopes for the future",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "• plans and hopes for the future ",
+        "residual_flags": []
+      },
+      {
+        "content": "Beitrag zur Leitperspektive W:",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Beitrag zur Leitperspektive W: ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler artikulieren Pläne und Hoffnungen für die",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Die Schülerinnen und Schüler artikulieren Pläne und Hoffnungen für die ",
+        "residual_flags": []
+      },
+      {
+        "content": "Zukunft, befassen sich mit diesen und reflektieren ihre Hoffnungen und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Zukunft, befassen sich mit diesen und reflektieren ihre Hoffnungen und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Erwartungen hinsichtlich ihres späteren Berufslebens.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Erwartungen hinsichtlich ihres späteren Berufslebens. ",
+        "residual_flags": []
+      },
+      {
+        "content": "[bleibt zunächst leer]",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "[bleibt zunächst \nleer] ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 50,
+          "printed_page": 50
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 7/8 School and interests",
+        "printed_page_range": "50"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

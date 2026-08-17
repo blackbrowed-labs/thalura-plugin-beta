@@ -1,0 +1,225 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:941ae39e07130a4aeccf3fbc963aee4ae7a331753cf7657dcbd4d7b21fbd67ac"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content performance of a writing task: text and problem comprehension = recognising and explaining the content, recognising and explaining the problem substance, recognising special text features and explaining their effect.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Inhaltliche Leistung\n•\nText- und Problemverständnis\n◦\nErkennen und Erläutern des Inhalts,\n◦\nErkennen und Erläutern des Problemgehalts,\n◦\nErkennen besonderer Textmerkmale und Erläuterung ihrer Wirkung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Topic development covers availability of text-analysis methods, factual relevance and richness of knowledge and ideas, placing knowledge in comparable subject contexts, and variety and structuring of viewpoints.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Themenentfaltung\n◦\nVerfügbarkeit von Methoden der Textanalyse,\n◦\nSachbezogenheit und Reichhaltigkeit der Kenntnisse und Gedanken,\n◦\nEinordnung der Kenntnisse in vergleichbare fachbezogene Zusammenhänge,\n◦\nVielfalt und Strukturierung der Gesichtspunkte.",
+        "residual_flags": []
+      },
+      {
+        "content": "Evaluation, design and problem-oriented placement in larger contexts covers differentiation, autonomy and plausibility in design or argumentation, the ability to justify a judgement from the exam text or extra-textual facts, text-type-specific design, and autonomy of the position taken.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Wertung, Gestaltung und problemorientierte Einordnung in größere Zusammenhänge\n◦\nDifferenziertheit, Selbstständigkeit und Plausibilität in der Gestaltung oder in der\nArgumentation,\n◦\nFähigkeit, ein Urteil durch Rückgriff auf Aussagen des Prüfungstextes oder auf\naußertextliche Sachverhalte zu begründen,\n◦\ntextsortenspezifische Gestaltung,\n◦\nSelbstständigkeit der Stellungnahme.",
+        "residual_flags": []
+      },
+      {
+        "content": "The language performance is assessed against CEFR level B2, in parts C1 (receptive), or B1 for the newly taken-up foreign language.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Bewertung der sprachlichen Leistung richtet sich nach der im Gemeinsamen Europä-\nischen Referenzrahmen beschriebenen Niveaustufe B2, in Teilen C1 (rezeptiv), bzw. B1 \n(neu aufgenommene Fremdsprache).",
+        "residual_flags": []
+      },
+      {
+        "content": "Language performance is assigned to the requirement areas by independence, appropriateness and differentiation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die sprachliche Leistung ist den Anforderungsbereichen entsprechend ihrer\n◦\nEigenständigkeit,\n◦\nAngemessenheit und\n◦\nDifferenziertheit\nzugeordnet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Reproducing content in largely ready-made language structures corresponds to AB I, adequate use of acquired subject vocabulary to AB II, and largely reflected independent text design to AB III.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "So entspricht die Wiedergabe eines Inhalts in weitgehend bereit stehenden \nSprachstrukturen dem Anforderungsbereich I, die adäquate Nutzung eines erarbeiteten \nFachvokabulars dem Anforderungsbereich II, eine weitgehend reflektierte, selbstständi-\nge Textgestaltung dem Anforderungsbereich III.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language performance is assessed as a whole, and the overall language assessment must consider the ability to produce a cohesive, structured text — through clarity of statement, structured text build-up and linguistically transparent linking of elements.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die sprachliche Leistung wird als Ganzheit bewertet. Bei der Bewertung der sprachlichen \nGesamtleistung müssen folgende Dimensionen berücksichtigt werden:\n•\ndie Fähigkeit, einen schlüssigen und gegliederten Text zu erstellen. Dies wird beson-\nders erreicht durch\n◦\nKlarheit der Aussage,\n◦\nstrukturierten Textaufbau,\n◦\nsprachlich transparente Verknüpfung der Elemente.",
+        "residual_flags": []
+      },
+      {
+        "content": "The ability to produce a linguistically appropriate text is shown through economy and precision of expression, fitting idiom, linguistic conciseness, appropriateness of register, complexity and variation of syntax, and richness and differentiation of vocabulary in both functional and subject vocabulary.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 15,
+          "printed_page_end": 16,
+          "physical_page": 15
+        },
+        "cited_text": "die Fähigkeit, einen sprachlich angemessenen Text zu erstellen, etwa durch\n◦\nÖkonomie und Treffsicherheit des Ausdrucks,\n◦\npassende Idiomatik,\n◦\nsprachliche Prägnanz der Gesamtleistung,\n◦\nAngemessenheit des Registers,\nEnglisch\n16\n◦\nKomplexität und Variation des Satzbaus,\n◦\nReichhaltigkeit und Differenziertheit im Vokabular – sowohl im Funktions- als auch\nim Sachwortschatz.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment of linguistic correctness must not be oriented solely on the number of linguistic violations; language performance is judged primarily by the degree to which communicative goals are reached.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Beurteilung der Sprachrichtigkeit\n◦\ndarf sich nicht allein an der Anzahl der sprachlichen Verstöße orientieren; vielmehr\nwird die sprachliche Leistung in erster Linie in Bezug darauf beurteilt, in welchem\nMaße die kommunikativen Ziele erreicht werden,",
+        "residual_flags": []
+      },
+      {
+        "content": "The assessment must take into account that linguistic norms are subject to continuous change.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "muss jeweils der Tatsache Rechnung tragen, dass sprachliche Normen einem konti-\nnuierlichen Wandel unterworfen sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Courage for a more ambitious language design (as opposed to a defensive, safety-oriented writing style) is to be credited positively.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Für die Beurteilung der sprachlichen Leistung insgesamt gilt: Mut zur anspruchsvolleren \nSprachgestaltung (im Gegensatz zu einer defensiven, auf Sicherheit bedachten Schreib-\nweise) ist positiv zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "For a mediation task, the meaning-preserving, addressee-appropriate, context-bound and linguistically appropriate transfer of information into the target language is assessed, based on one or more sources; the language criteria of 4.4.3 apply.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "4.4.2.2\tBewertung einer Sprachmittlungsaufgabe\nBewertet wird das sinngemäße, adressatengerechte, kontextgebundene sowie sprachlich \nangemessene Übertragen von Informationen in die Zielsprache auf der Grundlage einer \noder mehrerer Textvorlagen.\nFür die Bewertung der sprachlichen Leistung gelten die unter 4.4.3 genannten Kriterien.",
+        "residual_flags": []
+      },
+      {
+        "content": "For a listening task the proof of receptive language ability is assessed, usually on several audio sources; precise grasp of the content is foremost and differentiated assessment is governed by the respective solution key.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "4.4.2.3\tBewertung einer Hörverstehensaufgabe\nBewertet wird der Nachweis sprachlich-rezeptiver Fähigkeiten, in der Regel auf der \nGrundlage mehrerer auditiver Vorlagen. Bei der Bewertung der Prüfungsleistung steht \ndie präzise Erfassung des Inhalts im Vordergrund. Eine differenzierte Bewertung regelt \nder jeweilige Lösungsschlüssel.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "4.4.2.1 Bewertung einer Schreibaufgabe",
+        "printed_page_range": "15–16"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

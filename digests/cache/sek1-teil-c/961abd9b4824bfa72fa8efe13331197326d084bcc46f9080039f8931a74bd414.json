@@ -1,0 +1,186 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:961abd9b4824bfa72fa8efe13331197326d084bcc46f9080039f8931a74bd414"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Es wird unterschieden zwischen Klassenarbeiten bzw. Klausuren unter Aufsicht und festgelegten Bedingungen sowie entsprechenden Leistungen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren, an denen alle Schülerinnen und Schüler einer Lern-",
+        "residual_flags": []
+      },
+      {
+        "content": "Klassenarbeiten und Klausuren dienen der Überprüfung der Lernerfolge, der Ermittlung des Förderbedarfs und dem normierten Vergleich des erreichten mit dem erwarteten Lernstand.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten und Klausuren dienen der Überprüfung der Lernerfolge der einzelnen Schü-",
+        "residual_flags": []
+      },
+      {
+        "content": "Klassenarbeiten bzw. Klausuren beziehen sich auf die Anforderungen der Rahmenpläne, umfassen alle Verständnisebenen von der Reproduktion bis zur Problemlösung und verlangen Transferleistungen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren beziehen sich auf die in den jeweiligen Rahmenplänen ge-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Anforderungen und Bewertungsmaßstäbe werden den Schülerinnen und Schülern mit der Aufgabenstellung deutlich gemacht, und im Verlauf der Sekundarstufe I werden die Prüfungsoperatoren der Jahrgangsstufen 9 und 10 eingeführt.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Anforderungen und Bewertungsmaßstäbe werden den Schülerinnen und Schülern mit der ",
+        "residual_flags": []
+      },
+      {
+        "content": "In der gymnasialen Oberstufe werden die Operatoren des sog. „A-Heftes“ des jeweiligen Abiturjahrgangs verwendet.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "ben verwendet. In der gymnasialen Oberstufe werden bei der Formulierung der Aufgaben die ",
+        "residual_flags": []
+      },
+      {
+        "content": "Bei der Bewertung sind Fehler und Mängel in sprachlicher Richtigkeit, Ausdrucksfähigkeit, gedanklicher Strukturierung und sachgerechter Darstellung angemessen zu berücksichtigen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Bei der Bewertung von Klassenarbeiten sind in den Sekundarstufen I und II in allen Unter-",
+        "residual_flags": []
+      },
+      {
+        "content": "Bei mehr als einem Drittel mangelhafter oder ungenügender Ergebnisse sind Klassen- und Schulleitung zu informieren; für eine Wertung ist die Zustimmung der Schulleitung nötig.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 7,
+          "printed_page_end": 8,
+          "physical_page": 7
+        },
+        "cited_text": "Hat mehr als ein Drittel der Schülerinnen und Schüler in einer Klassenarbeit oder einer Klausur \nein mangelhaftes oder ungenügendes oder ein diesen Noten entsprechendes Ergebnis erzielt, \n\n8 \nsind Klassenleitung und Schulleitung zu informieren. Soll die Klassenarbeit bzw. Klausur ge-\nwertet werden, ist die Zustimmung der Schulleitung einzuholen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Entsprechende Leistungen sind so zu gestalten, dass sie in Bearbeitungsaufwand, Komplexität und Anspruch einer Klassenarbeit entsprechen und im Zusammenhang zum laufenden Unterricht stehen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Aufgabenstellungen für entsprechende Leistungen sind so zu gestalten, dass sie in Bear-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Lehrkraft stellt eine eigenständige Einzelleistung sicher; gemeinsame Arbeit ist zulässig, wenn die individuelle Leistung klar erkennbar und bewertbar ist.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Lehrkraft stellt sicher, dass jede Schülerin und jeder Schüler eine eigenständige Einzel-",
+        "residual_flags": []
+      },
+      {
+        "content": "In den Sekundarstufen I und II sind auch Formate mit digitalen Anteilen zu verlangen; je Jahrgangsstufe mindestens vier, davon mindestens zwei als Klassenarbeiten bzw. Klausuren.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3a) Allgemeines",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "In jeder Jahrgangsstufe sollen mindestens vier Leistungsnachweise dieses Formats verlangt ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3a) Allgemeines"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "3a) Allgemeines",
+        "printed_page_range": "7–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

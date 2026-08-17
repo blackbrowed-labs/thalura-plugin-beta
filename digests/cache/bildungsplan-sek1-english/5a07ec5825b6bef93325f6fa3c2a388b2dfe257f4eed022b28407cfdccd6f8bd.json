@@ -1,0 +1,804 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5a07ec5825b6bef93325f6fa3c2a388b2dfe257f4eed022b28407cfdccd6f8bd"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Mindestanforderungen am Ende der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Mindestanforderungen am Ende der  ",
+        "residual_flags": [
+          "page-multi-match:physical-37-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Erhöhte Anforderungen am Ende der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Erhöhte Anforderungen am Ende der  ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler beherrschen die Orthografie eines sehr begrenzten aktiven Wortschatzes.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Die Schülerinnen und Schüler beherrschen die Ortho-\ngrafie eines sehr begrenzten aktiven Wortschatzes. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler wenden erste Rechtschreibregeln ihres produktiven Wortschatzes zu vertrauten Themen weitgehend korrekt an.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Die Schülerinnen und Schüler wenden erste Recht-\nschreibregeln ihres produktiven Wortschatzes zu ver-\ntrauten Themen weitgehend korrekt an. ",
+        "residual_flags": []
+      },
+      {
+        "content": "schreiben Wörter und Wendungen weitgehend korrekt ab,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• schreiben Wörter und Wendungen weitgehend kor-\nrekt ab, ",
+        "residual_flags": []
+      },
+      {
+        "content": "automatisieren die Schreibung geläufiger Wörter und Wendungen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• automatisieren die Schreibung geläufiger Wörter \nund Wendungen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "schreiben einfache, geübte Angaben korrekt (z. B.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• schreiben einfache, geübte Angaben korrekt (z. B. ",
+        "residual_flags": []
+      },
+      {
+        "content": "schreiben Sätze über vertraute Themen korrekt ab,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• schreiben Sätze über vertraute Themen korrekt ab, ",
+        "residual_flags": []
+      },
+      {
+        "content": "schreiben bekannte Wörter zu ihnen vertrauten",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• schreiben bekannte Wörter zu ihnen vertrauten ",
+        "residual_flags": []
+      },
+      {
+        "content": "Themen weitgehend korrekt,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Themen weitgehend korrekt, ",
+        "residual_flags": []
+      },
+      {
+        "content": "geben Wörter und Wendungen aus dem mündlichen Wortschatz phonetisch einigermaßen korrekt schriftlich wieder.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• geben Wörter und Wendungen aus dem mündli-\nchen Wortschatz phonetisch einigermaßen korrekt \nschriftlich wieder. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den ersten allgemeinbildenden Schulabschluss",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Mindestanforderungen für \nden ersten allgemeinbilden-\nden Schulabschluss ",
+        "residual_flags": []
+      },
+      {
+        "content": "Ende der Jahrgangsstufe 8 mit Blick auf den mittleren",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Ende der Jahrgangsstufe 8 \nmit Blick auf den mittleren ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den mittleren Schulabschluss",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Mindestanforderungen für \nden mittleren Schulab-\nschluss ",
+        "residual_flags": []
+      },
+      {
+        "content": "schreiben zunehmend auch Wörter korrekt, bei denen sich die Aussprache vom Schriftbild stark unterscheidet.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "schreiben zunehmend auch Wörter \nkorrekt, bei denen sich die Aus-\nsprache vom Schriftbild stark un-\nterscheidet. ",
+        "residual_flags": []
+      },
+      {
+        "content": "wenden die Rechtschreibregeln ihres produktiven Wortschatzes zu vertrauten Themen weitgehend korrekt an.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "wenden die Rechtschreibregeln ih-\nres produktiven Wortschatzes zu \nvertrauten Themen weitgehend \nkorrekt an. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler festigen die Schreibweise von Wörtern, bei denen sich Aussprache und Schriftbild stark unterscheiden.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Die Schülerinnen und Schüler fes-\ntigen die Schreibweise von Wör-\ntern, bei denen sich Aussprache \nund Schriftbild stark unterschei-\nden. ",
+        "residual_flags": []
+      },
+      {
+        "content": "schreiben kurze Sätze über vertraute Themen richtig ab,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• schreiben kurze Sätze über ver-\ntraute Themen richtig ab, ",
+        "residual_flags": []
+      },
+      {
+        "content": "geben kurze Wörter und Redewendungen aus ihrem mündlichen Wortschatz in Ansätzen nachvollziehbar schriftlich wieder, benutzen dabei aber nicht immer die richtige Schreibweise.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• geben kurze Wörter und Rede-\nwendungen aus ihrem mündli-\nchen Wortschatz in Ansätzen \nnachvollziehbar schriftlich wie-\nder, benutzen dabei aber nicht \nimmer die richtige Schreibweise. ",
+        "residual_flags": []
+      },
+      {
+        "content": "schreiben Sätze und Wendungen korrekt ab,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• schreiben Sätze und Wendun-\ngen korrekt ab, ",
+        "residual_flags": []
+      },
+      {
+        "content": "schreiben in von ihnen verfassten Texten bekannte Wörter weitgehend korrekt,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• schreiben in von ihnen verfass-\nten Texten bekannte Wörter \nweitgehend korrekt, ",
+        "residual_flags": []
+      },
+      {
+        "content": "geben Wörter und Wendungen aus dem mündlichen Wortschatz phonetisch erkennbar schriftlich wieder.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• geben Wörter und Wendungen \naus dem mündlichen Wortschatz \nphonetisch erkennbar schriftlich \nwieder. ",
+        "residual_flags": []
+      },
+      {
+        "content": "festigen die Schreibweise von",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• festigen die Schreibweise von ",
+        "residual_flags": [
+          "page-multi-match:physical-37-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Wörtern, bei denen sich Aussprache und Schriftbild stark unterscheiden,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Wörtern, bei denen sich Aus-\nsprache und Schriftbild stark un-\nterscheiden, ",
+        "residual_flags": []
+      },
+      {
+        "content": "schreiben zusammenhängend und überwiegend mit richtiger",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "• schreiben zusammenhängend \nund überwiegend mit richtiger ",
+        "residual_flags": [
+          "page-multi-match:physical-37-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Rechtschreibung und Grundlagen der Interpunktion, sodass man die erstellten Texte meistens verstehen kann.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Rechtschreibung und Grundla-\ngen der Interpunktion, sodass \nman die erstellten Texte meis-\ntens verstehen kann. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsniveaus mit Blick auf die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Anforderungsniveaus mit Blick auf die Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen am Ende der Jahrgangsstufe 9 mit Blick auf den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Mindestanforderungen am Ende der Jahr-\ngangsstufe 9 mit Blick auf den Übergang in \ndie Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Mindestanforderungen für den Übergang in \ndie Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen im Rahmen des vertrauten Wortschatzes über weitgehende Sicherheit in der Rechtschreibung.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Die Schülerinnen und Schüler verfügen im Rahmen des vertrauten Wortschatzes über weitgehende Sicherheit \nin der Rechtschreibung. ",
+        "residual_flags": []
+      },
+      {
+        "content": "festigen die Schreibweise von Wörtern, bei denen sich Aussprache und Schriftbild stark unterscheiden,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• festigen die Schreibweise von Wörtern, bei denen \nsich Aussprache und Schriftbild stark unterschei-\nden, ",
+        "residual_flags": []
+      },
+      {
+        "content": "schreiben zusammenhängend und überwiegend mit richtiger Rechtschreibung und gemäß den Grundlagen der Interpunktion, sodass man die erstellten",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• schreiben zusammenhängend und überwiegend mit \nrichtiger Rechtschreibung und gemäß den Grundla-\ngen der Interpunktion, sodass man die erstellten ",
+        "residual_flags": []
+      },
+      {
+        "content": "Texte meistens verstehen kann.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Texte meistens verstehen kann. ",
+        "residual_flags": []
+      },
+      {
+        "content": "beherrschen die Rechtschreibung des erworbenen funktions- und themenbezogenen Wortschatzes weitgehend sicher.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• beherrschen die Rechtschreibung des erworbenen \nfunktions- und themenbezogenen Wortschatzes \nweitgehend sicher. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungen am Ende der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Anforderungen am Ende der ",
+        "residual_flags": [
+          "page-multi-match:physical-37-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Die Schülerinnen und Schüler beginnen in Ansätzen, ihre Gedanken über Sprache und deren Gebrauch zu verbalisieren. Sie nutzen ihr Wissen, um mündlich und schriftlich möglichst situationsangemessen zu kommunizieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Die Schülerinnen und Schüler be-\nginnen in Ansätzen, ihre Gedan-\nken über Sprache und deren Ge-\nbrauch zu verbalisieren. Sie nut-\nzen ihr Wissen, um mündlich und \nschriftlich möglichst situationsan-\ngemessen zu kommunizieren. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler können ihre Gedanken über Sprache und ihren Gebrauch immer mehr verbalisieren und diese nutzen, um mündlich und schriftlich situationsangemessen zu kommunizieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Die Schülerinnen und Schüler kön-\nnen ihre Gedanken über Sprache \nund ihren Gebrauch immer mehr \nverbalisieren und diese nutzen, um \nmündlich und schriftlich situations-\nangemessen zu kommunizieren. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler können ihre Gedanken über Sprache und ihren Gebrauch verbalisieren und diese nutzen, um mündlich und schriftlich situationsangemessen und hinreichend korrekt zu kommunizieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Die Schülerinnen und Schüler kön-\nnen ihre Gedanken über Sprache \nund ihren Gebrauch verbalisieren \nund diese nutzen, um mündlich \nund schriftlich situationsangemes-\nsen und hinreichend korrekt zu \nkommunizieren. ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen im Ansatz grammatische Strukturen und Regelmäßigkeiten,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• erkennen im Ansatz grammati-\nsche Strukturen und Regelmä-\nßigkeiten, ",
+        "residual_flags": []
+      },
+      {
+        "content": "entwickeln Interesse für Varietäten der Fremdsprache,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• entwickeln Interesse für Varietä-\nten der Fremdsprache, ",
+        "residual_flags": []
+      },
+      {
+        "content": "beginnen Mitteilungsabsichten in vertrauten Kommunikationsformen mündlich und schriftlich angemessen umzusetzen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• beginnen Mitteilungsabsichten in \nvertrauten Kommunikationsfor-\nmen mündlich und schriftlich an-\ngemessen umzusetzen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen sprachliche Fehler in vertrauten Strukturen, Phrasen und Redewendungen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• erkennen sprachliche Fehler in \nvertrauten Strukturen, Phrasen \nund Redewendungen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "entwickeln ein Bewusstsein für",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• entwickeln ein Bewusstsein für ",
+        "residual_flags": []
+      },
+      {
+        "content": "Gemeinsamkeiten, Unterschiede und Beziehungen zwischen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Gemeinsamkeiten, Unterschiede \nund Beziehungen zwischen ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen und benennen einfache grammatische Strukturen anhand von Beispielen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• erkennen und benennen einfa-\nche grammatische Strukturen \nanhand von Beispielen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "nehmen wenige sozial und regional geprägte Varietäten der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• nehmen wenige sozial und re-\ngional geprägte Varietäten der ",
+        "residual_flags": []
+      },
+      {
+        "content": "Fremdsprache wahr und reflektieren diese,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Fremdsprache wahr und reflek-\ntieren diese, ",
+        "residual_flags": []
+      },
+      {
+        "content": "setzen Mitteilungsabsichten in vertrauten mündlichen und schriftlichen Kommunikationsformen situations-, adressaten- und zweckangemessen um, auch mit",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• setzen Mitteilungsabsichten in \nvertrauten mündlichen und \nschriftlichen Kommunikationsfor-\nmen situations-, adressaten- und \nzweckangemessen um, auch mit ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen und korrigieren zunehmend sprachliche Fehler im Bereich einfacher, vertrauter morphologisch-syntaktischer Regelungen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• erkennen und korrigieren zuneh-\nmend sprachliche Fehler im Be-\nreich einfacher, vertrauter mor-\nphologisch-syntaktischer Rege-\nlungen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen und reflektieren Gemeinsamkeiten, Unterschiede und Beziehungen zwischen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• erkennen und reflektieren Ge-\nmeinsamkeiten, Unterschiede \nund Beziehungen zwischen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachen, z. B. zwischen der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Sprachen, z. B. zwischen der ",
+        "residual_flags": []
+      },
+      {
+        "content": "Fremdsprache, der Schulsprache Deutsch oder der Herkunftssprache.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "Fremdsprache, der Schulspra-\nche Deutsch oder der Herkunfts-\nsprache. ",
+        "residual_flags": []
+      },
+      {
+        "content": "formulieren Hypothesen zu Regelmäßigkeiten des Gebrauchs sprachlicher Mittel,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• formulieren Hypothesen zu Re-\ngelmäßigkeiten des Gebrauchs \nsprachlicher Mittel, ",
+        "residual_flags": []
+      },
+      {
+        "content": "nehmen sozial und regional geprägte Varietäten der Fremdsprache wahr und reflektieren diese,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• nehmen sozial und regional ge-\nprägte Varietäten der Fremd-\nsprache wahr und reflektieren \ndiese, ",
+        "residual_flags": []
+      },
+      {
+        "content": "setzen selbstständig Mitteilungsabsichten in vertrauten mündlichen und schriftlichen Kommunikationsformen situations-, adressaten- und zweckangemessen um,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• setzen selbstständig Mitteilungs-\nabsichten in vertrauten mündli-\nchen und schriftlichen Kommuni-\nkationsformen situations-, adres-\nsaten- und zweckangemessen \num, ",
+        "residual_flags": []
+      },
+      {
+        "content": "können selbstständig sprachliche Fehler im Bereich vertrauter morphologisch-syntaktischer und syntaktischer Regelungen erkennen und korrigieren,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• können selbstständig sprachli-\nche Fehler im Bereich vertrauter \nmorphologisch-syntaktischer und \nsyntaktischer Regelungen erken-\nnen und korrigieren, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen und reflektieren selbstständig Gemeinsamkeiten, Unterschiede und Beziehungen zwischen Sprachen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L4 Rechtschreibung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "• erkennen und reflektieren selbst-\nständig Gemeinsamkeiten, Un-\nterschiede und Beziehungen \nzwischen Sprachen. ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 37,
+          "printed_page": 37
+        },
+        {
+          "physical_page": 38,
+          "printed_page": 38
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "L4 Rechtschreibung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "L4 Rechtschreibung",
+        "printed_page_range": "37–38"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

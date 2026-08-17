@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e4916dd9073e9f55366c3ef0fcbf54983248708f57b3d9a90743a064139cd658"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Mathematik — class tests take account of BOTH content-related and process-related mathematical competencies; process-related competencies are checked in connection with concrete content. A general part with tasks securing the basic competencies (Basiskompetenzen) must be integrated into EVERY class test.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7i) Mathematik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Klassenarbeiten berücksichtigen sowohl die inhaltsbezogenen als auch die prozessbezoge-\nnen mathematischen Kompetenzen. Die prozessbezogenen Kompetenzen werden in Verbin-\ndung mit den konkreten Inhalten überprüft, da sie auch im Zusammenhang mit diesen erwor-\nben werden. In jede Klassenarbeit ist ein allgemeiner Teil mit Aufgaben zur Sicherung der \nBasiskompetenzen zu integrieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Class tests must be designed so that requirement areas (Anforderungsbereiche) I to III — reproducing, establishing connections, generalising and reflecting — are appropriately represented, with the emphasis on requirement area II.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7i) Mathematik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Klassenarbeiten sind so zu gestalten, dass in den Aufgaben die Anforderungsbereiche I bis III \n(Reproduzieren, Zusammenhänge herstellen sowie Verallgemeinern und Reflektieren) ange-\nmessen repräsentiert sind und der Schwerpunkt auf dem Anforderungsbereich II liegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Suitable task types (part 1): tasks in which a known problem or fact must be handled in different presentation forms (amount of text, supporting illustrations, auxiliary tasks or examples); tasks of differing difficulty on one mathematical topic.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7i) Mathematik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Für Klassenarbeiten eignen sich insbesondere: \n• \nAufgaben, bei denen ein bekanntes Problem oder ein bekannter Sachverhalt in unter-\nschiedlichen Präsentationsformen (Textmenge, unterstützende Abbildungen, Hilfsauf-\ngaben oder Beispiele) zu bearbeiten bzw. zu lösen ist \n• \nAufgaben mit unterschiedlichen Schwierigkeitsgraden zu einem mathematischen \nSachverhalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Suitable task types (part 2): additional tasks on generalising, thinking further, describing regularities, or requiring transfer; tasks demanding verbalisation or explanation of mathematical facts; tasks demanding justification why solution paths cannot succeed or why certain conclusions must be false; open tasks requiring students to develop questions or offering different solution paths.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7i) Mathematik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "• \nZusatzaufgaben zum Verallgemeinern, zum Weiterdenken, zum Beschreiben von Ge-\nsetzmäßigkeiten oder Aufgaben, die Transferleistungen erfordern \n• \nAufgaben, die die Versprachlichung oder Erklärung mathematischer Sachverhalte ver-\nlangen \n• \nAufgaben, die Begründungen fordern, warum Lösungswege nicht erfolgreich sein kön-\nnen oder warum bestimmte Schlussfolgerungen falsch sein müssen \n• \noffene Aufgaben, die verlangen, Fragestellungen zu entwickeln, oder die Gelegenheit \nbieten, unterschiedliche Lösungswege zu wählen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7i) Mathematik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7i) Mathematik",
+        "printed_page_range": "25–26"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

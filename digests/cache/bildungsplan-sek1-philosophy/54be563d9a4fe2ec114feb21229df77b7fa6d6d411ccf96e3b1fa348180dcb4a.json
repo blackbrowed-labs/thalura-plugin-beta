@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:54be563d9a4fe2ec114feb21229df77b7fa6d6d411ccf96e3b1fa348180dcb4a"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken WM8 (grade 10): two aspects of language — how far our perception and world-view are influenced by the concepts with which we grasp the world and name things or people.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 8: Sprache und Welterschließung",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "In diesem Modul stehen zwei Aspekte von Sprache im Zentrum: Zum \neinen wird untersucht, inwiefern unsere Wahrnehmung der Welt und \nunsere Weltsicht beeinflusst sind durch Begriffe, mit denen wir die \nWelt erfassen und Dinge oder Menschen bezeichnen.",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      },
+      {
+        "content": "Contents of WM8: language as a general precondition of thought; influence of language on one's view of the world; language as a means of discrimination and the exercise of power.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 8: Sprache und Welterschließung",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• Sprache als allgemeine Voraussetzung des Denkens \n• Beeinflussung der Weltsicht durch Sprache \n• Sprache als Mittel der Diskriminierung und Machtausübung",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': students recognise how far their perceptions and thinking are shaped by concepts and by language in general.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 8: Sprache und Welterschließung",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Die Schülerinnen und Schüler erkennen, inwiefern ihre Wahrneh-\nmungen und ihr Denken durch Begriffe bzw. allgemein durch die \nSprache geprägt sind",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'BNE': students reflect on how the use of particular expressions shapes debates about sustainable development.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 8: Sprache und Welterschließung",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren, inwiefern die Verwendung \nbestimmter Ausdrücke auch Auseinandersetzungen um eine nach-\nhaltige Entwicklung prägen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Wahlmodul 8: Sprache und Welterschließung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Wahlmodul 8: Sprache und Welterschließung",
+        "printed_page_range": "30"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:abcf6c48608bc4477359a20a27dd8e390b68b6d017395c4822b799c1405aba56"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content: the view of the human being through the ages.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1 — Das Selbstverständnis des Menschen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Der Blick auf den Menschen im Wandel der Zeit",
+        "residual_flags": []
+      },
+      {
+        "content": "Content bullets: the human as a natural being and as a cultural being; perspectives on the human being (e.g. scientific, psychological, religious).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1 — Das Selbstverständnis des Menschen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "• Der Mensch als Naturwesen und als Kulturwesen \n• Perspektiven auf den Menschen (z. B. naturwissenschaftlich, \npsychologisch, religiös)",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised requirement level, images of the human being in historical-political and cultural-religious context are added.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1 — Das Selbstverständnis des Menschen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Zusätzlich im erhöhten Anforderungsniveau: \nMenschenbilder im historisch-politischen und kulturell-religiösen \nKontext",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to the guiding perspective W: students perceive differing conceptions of the human being and recognise the assumptions underlying them.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1 — Das Selbstverständnis des Menschen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Schülerinnen und Schüler nehmen unterschiedliche Auffas-\nsungen vom Menschen wahr und erkennen Annahmen, die die-\nsen Auffassungen zugrunde liegen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Specialist terms for this module: Umwelt (Milieu), angeboren, erworben.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1 — Das Selbstverständnis des Menschen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Umwelt (Milieu), angebo-\nren, erworben",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 1 — Das Selbstverständnis des Menschen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 1 — Das Selbstverständnis des Menschen",
+        "printed_page_range": "14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

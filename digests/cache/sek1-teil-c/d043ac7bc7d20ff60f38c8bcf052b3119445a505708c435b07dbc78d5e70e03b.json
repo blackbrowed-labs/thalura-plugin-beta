@@ -1,0 +1,211 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:d043ac7bc7d20ff60f38c8bcf052b3119445a505708c435b07dbc78d5e70e03b"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die vier digitalen Leistungsnachweise sind so zu verteilen, dass je Jahrgangsstufe digitale Leistungen im sprachlich-literarisch-künstlerischen, im mathematisch-naturwissenschaftlich-technischen und im gesellschaftswissenschaftlichen Aufgabenfeld erbracht werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die vier Leistungsnachweise mit digitalen Anteilen sind so zu verteilen, dass in jeder Jahr-",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Fach Deutsch werden in den Jahrgangsstufen 5 bis 8 mindestens sechs Klassenarbeiten geschrieben, davon zwei zur Überprüfung der Rechtschreibleistung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Fach Deutsch werden in den Jahrgangsstufen 5 bis 8 pro Schuljahr mindestens sechs ",
+        "residual_flags": []
+      },
+      {
+        "content": "In Mathematik, den Fremdsprachen und in Deutsch ab Jahrgangsstufe 9 werden mindestens vier Klassenarbeiten geschrieben, in den anderen Fächern außer Sport, Musik, Bildende Kunst und Theater mindestens zwei.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "nen. In Mathematik, in den Fremdsprachen sowie im Fach Deutsch ab Jahrgangsstufe 9 wer-",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Jahrgangsstufe 6 und in der Jahrgangsstufe 8 wird jeweils eine Klassenarbeit als Jahrgangsarbeit geschrieben, deren Aufgaben durch die Jahrgangsfachteams auf Grundlage zentraler Vorgaben entwickelt werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In der Jahrgangsstufe 6 wird im Fach Naturwissenschaften/Technik, in der Jahrgangsstufe 8 ",
+        "residual_flags": []
+      },
+      {
+        "content": "In den Jahrgangsstufen 9 und 10 wird in Deutsch, Englisch und Mathematik eine Klassenarbeit unter Prüfungsbedingungen geschrieben, die den zentralen Prüfungsvorgaben entsprechen soll.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In den Jahrgangstufen 9 und 10 wird in Vorbereitung auf die schriftliche Prüfung zum ersten ",
+        "residual_flags": []
+      },
+      {
+        "content": "Pro Schuljahr und Fach kann eine Klassenarbeit ersetzt werden, bei mindestens vier bis zu zwei; Rechtschreibarbeiten und Mathematikarbeiten sind nicht ersetzbar.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Pro Schuljahr und Fach kann eine Klassenarbeit durch eine entsprechende Leistung ersetzt ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Sprechprüfung einer Neueren Fremdsprache ersetzt eine Klassenarbeit, findet frühestens im dritten Lernjahr und nicht vor Jahrgangsstufe 7 statt und erfolgt als Gruppenprüfung von zwei bis fünf Schülerinnen und Schülern.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In der Sekundarstufe I wird einmal in jeder Neueren Fremdsprache die funktionale kommuni-\nkative Kompetenz Sprechen in einer gesonderten Sprechprüfung überprüft. In dem Schuljahr, \nin dem die Sprechprüfung durchgeführt wird, ersetzt diese eine Klassenarbeit. Die Sprechprü-\nfung findet frühestens im dritten Lernjahr und nicht vor Eintritt in die Jahrgangsstufe 7 statt. \nDie Prüfung erfolgt als Gruppenprüfung von mindestens zwei und höchstens fünf Schülerinnen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Fach Mathematik gehen die Klassenarbeitsleistungen mit 50 vom Hundert in die Zeugnisnote ein; in den Jahrgangsstufen 9 und 10 werden die verbleibenden drei Klassenarbeiten gemäß § 24 Absatz 3 APO-GrundStGy mit 50 vom Hundert gewichtet.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Fach Mathematik gehen die Leistungen in Klassenarbeiten mit 50 vom Hundert in die Zeug-",
+        "residual_flags": []
+      },
+      {
+        "content": "Für die Verteilung gilt: höchstens zwei Klassenarbeiten pro Woche, höchstens sieben pro Monat und im Dezember höchstens sechs.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Pro Woche dürfen nicht mehr als zwei Klassenarbeiten geschrieben werden. \n• \nPro Monat dürfen nicht mehr als sieben, im Dezember nicht mehr als sechs Klassen-",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Vorstufe werden in Deutsch, Mathematik und den Fremdsprachen mindestens drei, in den anderen Fächern außer Sport und im Seminar mindestens zwei Klausuren geschrieben; die Arbeitszeit beträgt mindestens 90 Minuten.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "In der Vorstufe werden in den Fächern Deutsch und Mathematik sowie in den Fremdsprachen \nmindestens drei Klausuren pro Schuljahr geschrieben, in allen anderen Fächern außer Sport \nund im Seminar mindestens zwei Klausuren. In jedem Schulhalbjahr wird mindestens eine \nKlausur je Fach (außer Sport) bzw. im Seminar geschrieben. Die Arbeitszeit beträgt mindes-\ntens 90 Minuten. Über das Nähere entscheidet die Lehrerkonferenz bzw. die Abteilungs- oder ",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Vorstufe kann pro Fach eine Klausur durch eine entsprechende Leistung ersetzt werden, außer in Mathematik.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Pro Fach kann in der Vorstufe eine Klausur durch eine entsprechende Leistung ersetzt werden, ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Note ausreichend (5 Punkte) setzt mindestens fünfzig Prozent der erwarteten Leistung voraus.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Bewertung von Klausuren und entsprechenden Leistungen mit der Note ausreichend ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I und der Vorstufe der Stadtteilschule",
+        "printed_page_range": "9–10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

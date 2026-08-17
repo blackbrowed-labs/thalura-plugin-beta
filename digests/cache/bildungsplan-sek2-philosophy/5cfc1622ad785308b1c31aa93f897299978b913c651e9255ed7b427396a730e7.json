@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5cfc1622ad785308b1c31aa93f897299978b913c651e9255ed7b427396a730e7"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content: the future in science and the future of science; futures research; transdisciplinarity and participatory science.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Wissenschaft im 21. Jahrhundert",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Zukunft in der Wissenschaft und Zukunft der Wissen-\nschaft \n• Zukunftsforschung \n• Transdisziplinarität und partizipative Wissenschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Concepts in brackets: societal, political, ecological, technical and economic processes of change in the context of science and Open Science.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Wissenschaft im 21. Jahrhundert",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "(gesellschaftliche, politische, ökologische, technische und wirt-\nschaftliche Veränderungsprozesse im Kontext von Wissenschaft \nund Offener Wissenschaft)",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised requirement level: big data, simulations, models and their applications (digital ethics).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Wissenschaft im 21. Jahrhundert",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Zusätzlich im erhöhten Anforderungsniveau: \nBig Data, Simulationen, Modelle und ihre Anwendungen (digitale \nEthik)",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective W: students reflect on characteristics of futures research and on the values that should govern individuals, groups and organisations across disciplines.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Wissenschaft im 21. Jahrhundert",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren Charakteristika einer \nZukunftsforschung und Werte",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective D: students develop a basic understanding of digital systems in order to act competently in a digitally shaped world.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Wissenschaft im 21. Jahrhundert",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Die Schülerinnen und Schüler erarbeiten ein grundlegendes Ver-\nständnis digitaler Systeme und des Umgangs mit ihnen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 4 — Wissenschaft im 21. Jahrhundert"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 4 — Wissenschaft im 21. Jahrhundert",
+        "printed_page_range": "22"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

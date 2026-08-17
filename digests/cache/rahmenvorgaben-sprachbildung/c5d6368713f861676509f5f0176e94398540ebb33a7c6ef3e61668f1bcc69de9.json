@@ -1,0 +1,269 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c5d6368713f861676509f5f0176e94398540ebb33a7c6ef3e61668f1bcc69de9"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Tail of 2.1 on this page: in subject teaching students must understand, reproduce precisely and completely, and independently produce language actions that are not tied to shared concrete situations; they therefore also learn subject-specific vocabulary and academic syntactic structures, and acquire knowledge about subject-typical texts (text type, text structure).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Im Fachunterricht sind Schülerinnen und Schüler dazu aufgefordert, sprachliche Handlungen, \ndie sich nicht an gemeinsamen konkreten Situationen festmachen, zu verstehen, präzise und \nvollständig wiederzugeben, aber auch eigenständig zu produzieren. Daher erlernen Schüle-\nrinnen und Schüler auch im Fachunterricht, im Rahmen der Auseinandersetzung mit Themen \nund Inhalten des jeweiligen Faches den fachspezifischen Wortschatz und syntaktische Struk-\nturen, die zur Bildungssprache gehören. Um Sach- bzw. Fachtexte als Ganzes zu verstehen \noder zu produzieren, erwerben sie darüber hinaus Wissen über fachtypische Texte (Textsorte, \nTextaufbau).",
+        "residual_flags": []
+      },
+      {
+        "content": "In language-sensitive subject teaching the teacher takes account, in planning and delivery, of the linguistic requirements of the concrete subject context and of students' differing linguistic learning preconditions.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Lehrkraft berücksichtigt in einem sprachsensiblen Fachunterricht bei der Unterrichtspla-\nnung und -durchführung die sprachlichen Anforderungen des konkreten fachlichen Kontextes \nsowie die unterschiedlichen sprachlichen Lernvoraussetzungen der Schülerinnen und Schüler.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language-sensitive subject teaching (similar concepts: sprachbewusster and sprachaufmerksamer Unterricht) comprises teaching concepts in which language is deliberately used as a means of thinking (cognitive function) and communicating (communicative function) in shaping subject teaching.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Der sprachsensible Fachunterricht (ähnliche Konzepte: sprachbewusster und sprachaufmerk-\nsamer Unterricht) umfasst Unterrichtskonzepte, nach denen Sprache bewusst als Mittel des \nDenkens (kognitive Funktion von Sprache) und Kommunizierens (kommunikative Funktion von \nSprache) im Rahmen der Gestaltung des Fachunterrichts eingesetzt wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Its central aim is to link subject and language learning so that students can build the necessary subject-specific linguistic competences to participate successfully in subject teaching. NOTE: the source reads 'um erfolgreich am Fachunterricht zu teilzunehmen' (a stray 'zu').",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Zentrales Ziel ist es \ndabei, fachliches und sprachliches Lernen so zu verknüpfen, dass die Schülerinnen und Schü-\nler in die Lage versetzt werden, die notwendigen fachspezifischen sprachlichen Kompetenzen \naufzubauen, um erfolgreich am Fachunterricht zu teilzunehmen.",
+        "residual_flags": [
+          "source anomaly: 'um erfolgreich am Fachunterricht zu teilzunehmen' — stray 'zu' before 'teilzunehmen'"
+        ]
+      },
+      {
+        "content": "Language-sensitive subject teaching must be designed so that especially students with particular linguistic difficulties can follow the lesson and take an active part.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "richt ist so zu gestalten, dass insbesondere Schülerinnen und Schüler mit besonderen sprach-\nlichen Schwierigkeiten dem Fachunterricht folgen und aktiv am Unterrichtsgeschehen teilneh-\nmen können.",
+        "residual_flags": []
+      },
+      {
+        "content": "The important guidelines (Leitlinien) of language-sensitive subject teaching are given in the following overview, each formulated as something 'Die Lehrkraft…' does.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Wichtige Leitlinien des sprachsensiblen Fachunterrichts sind in der folgenden Übersicht dar-\ngestellt: \nDie Lehrkraft…",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: the teacher takes account of the particular support needs of students with special difficulties in reading, writing and speaking or with German as a second language and provides adapted linguistic aids for them. NOTE: the source has a grammatical mismatch ('von Schülerinnen und Schüler', 'stellen' instead of 'stellt').",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "berücksichtigt die besonderen Unterstützungsbedarfe von Schülerinnen und Schüler \nmit besonderen Schwierigkeiten im Lesen, Schreiben und Sprechen oder mit Deutsch \nals Zweitsprache und stellen für diese gegebenenfalls entsprechend angepasste \nsprachliche Hilfen bereit.",
+        "residual_flags": [
+          "source anomaly: 'Unterstützungsbedarfe von Schülerinnen und Schüler' (missing '-n') and 'stellen für diese ... bereit' (should agree with the singular 'Die Lehrkraft')"
+        ]
+      },
+      {
+        "content": "Guideline: the teacher understands multilingualism (Mehrsprachigkeit) as a resource for language education and encourages students to open up and compare relevant sources and information in their heritage language and in various languages and varieties.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "versteht Mehrsprachigkeit als Ressource für die Sprachbildung; bestärkt Schülerinnen \nund Schüler, für den Fachunterricht relevante Quellen und Informationen in der Her-\nkunftssprache sowie in verschiedenen Sprachen und Varietäten zu erschließen und zu \nvergleichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: the teacher aligns teaching with subject and language goals and makes these transparent to the students.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "richtet den Unterricht auf fachliche und sprachliche Ziele aus und macht diese den \nSchülerinnen und Schülern transparent.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: the teacher determines students' individual linguistic preconditions.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "ermittelt die individuellen sprachlichen Voraussetzungen der Schülerinnen und Schü-\nler.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: the teacher plans learning processes starting from everyday language and supports students in using academic and technical language. NOTE: the source contains a stray full stop mid-sentence ('Schüler. beim Gebrauch').",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "plant Lernprozesse ausgehend von der Alltagssprache und unterstützt die Schülerin-\nnen und Schüler. beim Gebrauch der Bildungs- und Fachsprache.",
+        "residual_flags": [
+          "source anomaly: 'unterstützt die Schülerinnen und Schüler. beim Gebrauch der Bildungs- und Fachsprache.' — stray full stop after 'Schüler'"
+        ]
+      },
+      {
+        "content": "Guideline: the teacher activates subject and linguistic prior knowledge.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "aktiviert fachliches und sprachliches Vorwissen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: the teacher supports students with linguistic scaffolds and aids at word, sentence, text and discourse level, and provides general-language means especially for students with German as a second language so they can take part in subject teaching.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "unterstützt Schülerinnen und Schüler durch sprachliche Gerüste und Hilfen auf Wort-, \nSatz-, Text- und Diskursebene. Insbesondere Schülerinnen und Schüler mit Deutsch \nals Zweitsprache stellt sie auch allgemeinsprachliche Mittel bereit, damit sie am Fach-\nunterricht teilhaben können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: the teacher supports through feedback and corrections and secures and checks the quality of the linguistic activities.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "unterstützt durch Rückmeldung und Korrekturen; sichert und überprüft die Qualität der \nsprachlichen Aktivitäten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: in language- and interaction-promoting teaching the teacher gives students many opportunities to use and develop language actively, both in oral communication and in written language production.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "gibt Schülerinnen und Schülern in einem sprach- und interaktionsfördernden Unterricht \nviele Gelegenheiten Sprache aktiv einzusetzen und zu entwickeln, sowohl in der münd-\nlichen Kommunikation als auch bei der schriftlichen Sprachproduktion.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guideline: the teacher prompts students to reflect on their own language use.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "regt die Schülerinnen und Schüler zur Reflexion über ihren Sprachgebrauch an.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Sprachsensibler Fachunterricht"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "2.2 Sprachsensibler Fachunterricht",
+        "printed_page_range": "6–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

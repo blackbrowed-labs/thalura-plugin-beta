@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:79c7f55310a1d4bd8b69342660096d662e062cd8c4c6f8d5b28f777149b811b4"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Rationale: globalisation, new work models and technologies such as automation and digitalisation put the 21st-century world of work in profound transformation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 5 The World of Work",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Durch die Globalisierung, neue Arbeitsmodelle und technologische Ent-\nwicklungen wie Automatisierung und Digitalisierung befindet sich die Ar-\nbeitswelt des 21. Jahrhunderts in einem tiefgreifenden Wandel.",
+        "residual_flags": []
+      },
+      {
+        "content": "The topic prepares students to use English in professional contexts; references to anglophone language and culture areas must be made.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 5 The World of Work",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Das Thema bereitet sie daher im besonderen Maße darauf \nvor, die englische Sprache in professionellen Kontexten zu verwenden. \nIm Unterricht sind Bezüge zu anglophonen Sprach- und Kulturräumen \nherzustellen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: automation and digitalisation (new technologies such as robotics, job gains and losses, Industry 4.0, co-working, remote working).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 5 The World of Work",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "automation and digitalisation (e. g. the influence of new technolo-\ngies such as robotics on job gains and losses, Industry 4.0, changing \nforms of work such as co-working or remote working)",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: distribution of work and of opportunities (job-market inequalities, industrial relations, trade unions, universal basic income or minimum wage, job security).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 5 The World of Work",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "distribution of work and of opportunities (e. g. inequalities in the \njob market, industrial relations, trade unions, social welfare and mod-\nels such as universal basic income or minimum wage, job security, \nfreedom of movement)",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: English as a lingua franca in international business, multinational corporations, technological and scientific contexts.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 5 The World of Work",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "English as a lingua franca (e.g. role and importance of English in \ninternational business, multinational corporations, technological and \nscientific contexts)",
+        "residual_flags": []
+      },
+      {
+        "content": "At raised level various aspects of the World of Work are treated in depth.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 5 The World of Work",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Auf dem erhöhten Anforderungsniveau sollen verschiedene Aspekte \nder World of Work vertiefend behandelt werden",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S1–4 5 The World of Work"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "S1–4 5 The World of Work",
+        "printed_page_range": "30"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

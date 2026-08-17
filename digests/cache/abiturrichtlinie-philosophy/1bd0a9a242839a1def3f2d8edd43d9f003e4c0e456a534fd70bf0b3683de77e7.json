@@ -1,0 +1,151 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1bd0a9a242839a1def3f2d8edd43d9f003e4c0e456a534fd70bf0b3683de77e7"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The written Abitur tasks are set centrally by the Amt für Bildung.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4 Schriftliche Abiturprüfung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Aufgaben werden vom Amt für Bildung zentral gestellt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates receive three tasks and choose one to work on.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4 Schriftliche Abiturprüfung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Prüflinge erhalten drei Aufgaben, von denen sie eine zur Bearbeitung auswählen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Weighting of requirement levels: ca. 40 % in level II, ca. 30 % each in levels I and III.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4 Schriftliche Abiturprüfung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Das Schwergewicht der zu erbringenden Leistung liegt im Anforderungsbereich II (ca. 40 %), daneben wer- den die Anforderungsbereiche I und III mit jeweils ca. 30% berücksichtigt.",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'wer- den' with a stray hyphen and space"
+        ]
+      },
+      {
+        "content": "Breaches of linguistic correctness and outward form can cost up to two points of the simple weighting.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4 Schriftliche Abiturprüfung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Dabei führen Verstöße gegen die sprachliche Richtigkeit und die äußere Form je nach Schwere und Häufigkeit zu einem Punktabzug von bis zu zwei Punkten",
+        "residual_flags": []
+      },
+      {
+        "content": "The grade 'gut' (11 points) is given when the philosophical problem reflection is comprehensive, differentiated and independent.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4 Schriftliche Abiturprüfung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Note „gut“ (11 Punkte) soll erteilt werden, wenn die philosophische Problemreflexion umfassend und differenziert sowie selbstständig geleistet wurde.",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Note ausreichend (5 Punkte) soll bei hinreichend differenzierter und in Ansaetzen selbststaendiger Problemreflexion erteilt werden.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4 Schriftliche Abiturprüfung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Note „ausreichend“ (5 Punkte) soll erteilt werden, wenn die philosophische Problemre-\nflexion hinreichend differenziert und in Ansätzen selbstständig geleistet wurde.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Schriftliche Abiturprüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "4 Schriftliche Abiturprüfung",
+        "printed_page_range": "10–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

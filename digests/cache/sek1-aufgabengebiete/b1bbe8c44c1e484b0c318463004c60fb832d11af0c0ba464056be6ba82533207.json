@@ -1,0 +1,434 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b1bbe8c44c1e484b0c318463004c60fb832d11af0c0ba464056be6ba82533207"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Media education (Medienerziehung) aims to prepare students for life in present and future society and to enable competent, active and responsible participation in cultural, societal, political, occupational and economic life.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Medienerziehung hat zum Ziel, Schülerinnen und Schüler angemessen auf das Leben in der \nderzeitigen und künftigen Gesellschaft vorzubereiten und sie zu einer kompetenten, aktiven \nund verantwortlichen Teilhabe am kulturellen, gesellschaftlichen, politischen, beruflichen und \nwirtschaftlichen Leben zu befähigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Suitable approaches start from students' own life-world and encourage them to use both analogue and digital media communicatively, collaboratively, creatively and critically.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Dafür bieten sich insbesondere Ansätze an, die die Schü-\nlerinnen und Schüler ausgehend von ihrer eigenen Lebenswelt darin bestärken, sowohl ana-\nloge als auch digitale Medien kommunikativ, kollaborativ, kreativ und kritisch sinnvoll zu nutzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Alongside traditional cultural techniques, media competence is a key precondition for realising educational opportunities, social participation and active participation in political decisions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Neben den herkömmlichen Kulturtechniken ist Medienkompetenz eine bedeutende Voraus-\nsetzung für das Wahrnehmen von Bildungschancen, die gesellschaftliche Teilhabe und die \naktive Partizipation an politischen Entscheidungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Media competence explicitly also covers dealing with analogue media; digital media also create risks and dangers for children and young people that they must be prepared for.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Medienkompetenz meint explizit auch den \nUmgang und die Auseinandersetzung mit analogen Medien sowie entsprechende Herange-\nhensweisen beim Erschließen von Lerninhalten. Durch digitale Medien entstehen auch Risiken \nund Gefahren für Kinder und Jugendliche, auf die diese vorbereitet werden müssen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Media education reaches into the whole school day and supports students' active, critical engagement with media as well as efficient media use.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Medienerziehung wirkt in den gesamten Schulalltag hinein und unterstützt die Schülerinnen \nund Schüler in ihrer aktiven, kritischen Auseinandersetzung mit Medien sowie bei einem effi-\nzienten Einsatz von Medien.",
+        "residual_flags": []
+      },
+      {
+        "content": "Media education fosters a critical awareness of data protection, privacy and legal security in a protective setting, and exposes mechanisms of effect, manipulation strategies and business models of analogue and digital media.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Darüber hinaus fördert Medienerziehung in einem schützenden Rahmen bei den Schülerinnen \nund Schülern ein kritisches Bewusstsein für Datenschutz, Privatsphäre und Rechtssicherheit. \nMedienerziehung zeigt ferner Wirkmechanismen, Manipulationsstrategien und Geschäftsmo-\ndelle analoger und digitaler Medien auf.",
+        "residual_flags": []
+      },
+      {
+        "content": "Two instruments are anchored for media education: the Medienscouts and the Hamburger Medienpass.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Mit den Medienscouts und dem Hamburger Medien-\npass sind zwei Instrumente zur Medienerziehung verankert, die die Schülerinnen und Schüler \ndazu befähigen, ihre Selbstdarstellung, Kommunikationsstrategien und Verortung innerhalb \neiner digital geprägten Gesellschaft reflektiert zu gestalten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The competences are organised in six areas: 1 Suchen, Verarbeiten und Aufbewahren; 2 Kommunizieren und Kooperieren; 3 Produzieren und Präsentieren; 4 Schützen und sicher agieren; 5 Problemlösen und Handeln; 6 Analysieren und Reflektieren.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "1 Suchen, Verarbeiten und Aufbewahren \nDie Schülerinnen und Schüler",
+        "residual_flags": [
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "End of grade 6, area 1: students find age-appropriate content in analogue and digital media with guidance, use search engines and strategies with help, and learn to distinguish AI results from search-engine results.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "Sie lernen, Ergebnisse einer \nKI von denen einer Suchmaschine zu unterscheiden.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, area 1b: students check sources critically against criteria, select relevant information, know about fake news, and compare several sources on the same content to reach secured findings.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "b) prüfen ihre Quellen kritisch anhand bereitgestellter oder erarbeiteter Kriterien, treffen eine Auswahl \nrelevanter Informationen und arbeiten diese für ihre Lernziele auf. Sie wissen um Fake News und ver-\ngleichen mehrere, zum Teil bereitgestellte Quellen zum selben Inhalt, um zu gesicherten Erkenntnis-\nsen zu gelangen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, area 1d: students save media content under precise document names in deliberately chosen locations, ideally GDPR-compliant, and retrieve it independently of place, time and device, or sort it in analogue storage.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "d) speichern ihre Medieninhalte mit Hilfestellungen unter präzisen Dokumentennamen an bewusst ge-\nwählten Speicherorten, bestenfalls DSGVO-konform",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, area 2: students know rules of conduct in personal conversation and netiquette in digital space and apply them respectfully according to the situation (e.g. smartphones, chats, cyberbullying).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "b) kennen Verhaltensregeln im persönlichen Gespräch bzw. Netiquette im digitalen Raum und wenden \nsie je nach inhaltlicher, emotionaler, sozialer und (inter-/trans-)kultureller Situation kommunikativ und \nrespektvoll an (z. B. Smartphones, Chats, Cybermobbing).",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, area 3c: students know the basic meaning of copyright, intellectual property and the right to one's own image, cite sources, use Creative Commons material, and know AI is based on real sources that may be copyrighted.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "c) kennen die grundlegende Bedeutung von Urheberrecht, geistigem Eigentum und dem Recht am ei-\ngenen Bild, beachten diese beim Erstellen oder Teilen von Inhalten und geben Quellen an. Sie lernen \ndie Creative-Commons-Lizensierung kennen und verwenden solches Material.",
+        "residual_flags": [
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "End of grade 6, area 4: students know risks in the net and ways to protect privacy, others, data and images; they build a working culture against cyberbullying and reflect their own media use and screen time to protect their health.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "c) wissen um suchtfördernde Funktionen in Computerspielen und Social Media und können mit Hilfe-\nstellungen ihren eigenen Mediengebrauch sowie ihre Bildschirmzeit reflektieren und bewusst gestal-\nten, um ihre Gesundheit zu schützen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, area 5: students use analogue and digital tools purposefully with help, know that AI results need not be true, and learn the functioning and basic principles of digital systems such as algorithms.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "b) lernen Funktionsweisen und grundlegende Prinzipien digitaler Systeme wie Algorithmen bei Internet-\nrecherche, kooperativer Vernetzung und lokaler bzw. cloudbasierter Speicherung kennen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, area 6: students learn about attention-directing, filtering and addiction-promoting functions of digital media as an instrument of an economic sector, and about politically motivated, interest-led and tendentious media design — including AI-generated misinformation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "c) wissen mit Hilfestellung um politisch motivierte, interessengeleitete und tendenziöse Mediengestal-\ntung. Sie wissen, dass auch KI entsprechende Informationen erstellen und dementsprechend falsch \ninformieren kann.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sekundarstufe I, area 1: students independently and criteria-led access appropriate content in analogue and digital media, use search engines precisely, and recognise potentially dangerous or inappropriate media content and how to protect themselves and others.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "c) erkennen potenziell gefährliche oder unangemessene Medieninhalte und wissen, wie sie sich und \nandere davor schützen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, area 2: students master secure communication channels and cooperate in compliance with data protection when sharing content, sources and links.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "c) beherrschen sichere Kommunikationswege und kooperieren unter Einhaltung des Datenschutzes bei \nder Teilung von Inhalten, Quellen und Links.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, area 4: students have a healthy scepticism towards strangers, know rules for a secure password, observe youth protection and use support services.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "Sie haben eine gesunde Skepsis gegenüber Frem-\nden, kennen Regeln für ein sicheres Passwort, beachten den Jugendschutz und nutzen Hilfsange-\nbote.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, area 5: students recognise and formulate problems and reach solutions communicatively, creatively, collaboratively and by critical thinking, sharing individual experiences and solution paths with others.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "c) erkennen und formulieren Probleme und Herausforderungen einer Aufgabe. Sie gelangen kommuni-\nkativ, kreativ, kollaborativ und kritisch-denkend zu einer Lösung",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, area 6: students distinguish secured information from fake news, advertising and political agenda and analyse it critically as to aims and effects, taking into account that AI too can misinform.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "c) wissen um politisch motivierte, interessengeleitete und tendenziöse Mediengestaltung. Sie unter-\nscheiden gesicherte Informationen von Fake News, Werbung und politischer Agenda und analysieren \nund reflektieren sie hinsichtlich ihrer Ziele und Wirkungen kritisch.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, area 6d: students know genre-specific forms of representation and manipulation strategies in analogue and digital media (e.g. newspaper, essay, commentary, book, photo, graphic, painting, podcast, music, video, film) and can analyse and interpret them to reach a justified, balanced judgement.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 42,
+          "physical_page": 42
+        },
+        "cited_text": "d) kennen genrespezifische Darstellungsformen und Manipulationsstrategien bei analogen sowie digita-\nlen Medien (z. B. Zeitung, Essay, Kommentar, Buch, Foto, Grafik, Malerei, Podcast, Musik, Video, \nFilm)",
+        "residual_flags": []
+      },
+      {
+        "content": "Content guiding idea: the whole media-education curriculum is based on the 'Strategie zur digitalen Bildung (2016/21)', shaped by the 4K model with communication, collaboration, creativity and critical thinking.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "Für das gesamte Curriculum zur Medienerziehung ist die „Strategie \nzur digitalen Bildung (2016/21)“ zur Grundlage genommen worden. \nDiese Strategie ist u. a. durch das 4K-Modell des Lernens geprägt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 1 (grades 5/6): using the school platform and cloud solutions — collaborative work, writing e-mails appropriately, chat/messenger with netiquette, video conferencing, file storage, and internet research with search algorithms, strategies and trustworthy sources.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "1.3 Internetrecherche \n• verschiedene Internet-Browser sowie Meta-Suchseiten (z. B. \nGoogle, Ecosia, Bing)  \n• Such-Algorithmen \n• Such-Strategien (z. B. Stichworte, Schlüsselbegriffe)",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 2 (grades 5/6) 'Sozialraum Internet': social media (data protection, addiction mechanisms, self-presentation, contacts, cyberbullying), addiction and prevention, computer games (free-to-play, abo traps, micro-payments), smartphone and screen time, and producing/presenting own media products.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "• Cybermobbing: Definition, Fälle, Wirkungen auf Opfer sowie Tä-\nterinnen und Täter, Vermeidung, Hilfe für andere und mich",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 3 (grades 7–10): social media with Big Data and data mining, business models and filter bubbles, body ideals and eating disorders, computer-game addiction mechanisms and age ratings, smartphone tariffs and abo traps, and collaborative media production from script to product.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "3.1 Soziale Medien \n• Datenschutz: Jugendfreigabe, Nutzungsordnung, Verwendung \neigener Daten, Big Data, Data-Mining \n• suchterzeugende Wirkmechanismen, Geschäftsmodelle, Filter-\nblasen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 4 (grades 7–10) 'Rechtliches': one's own rights (personality rights, right to one's own image, data protection and terms of use, targeted advertising, purchases and abo traps) and the rights of others (copyright, CC licences, source citation, secure file sharing).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "4.2 Rechte anderer \n• Urheberrecht und CC-Lizenzen, Quellenangaben bei Text, Bild, \nTon, Musik, Videos  \n• Dateien sicher freigeben und tauschen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 39,
+          "printed_page": 39
+        },
+        {
+          "physical_page": 40,
+          "printed_page": 40
+        },
+        {
+          "physical_page": 41,
+          "printed_page": 41
+        },
+        {
+          "physical_page": 42,
+          "printed_page": 42
+        },
+        {
+          "physical_page": 43,
+          "printed_page": 43
+        },
+        {
+          "physical_page": 44,
+          "printed_page": 44
+        },
+        {
+          "physical_page": 45,
+          "printed_page": 45
+        },
+        {
+          "physical_page": 46,
+          "printed_page": 46
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.5 Medienerziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.5 Medienerziehung",
+        "printed_page_range": "39–46"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

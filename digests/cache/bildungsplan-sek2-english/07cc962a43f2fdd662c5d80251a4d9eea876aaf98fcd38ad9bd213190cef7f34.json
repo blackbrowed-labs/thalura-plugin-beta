@@ -1,0 +1,138 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:07cc962a43f2fdd662c5d80251a4d9eea876aaf98fcd38ad9bd213190cef7f34"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Module 1 (USA): the United States is globally present politically, economically, militarily and culturally.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 1: Bezugskulturen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Die Vereinigten Staaten von Amerika sind politisch, wirtschaftlich, mili-\ntärisch und kulturell global präsent.",
+        "residual_flags": []
+      },
+      {
+        "content": "All three modules of this topic area share the aim of building orientation knowledge about historical development and the political system so students can situate and judge current discourse.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 1: Bezugskulturen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Um aktuelle politische, gesellschaftliche oder kulturelle Diskurse einord-\nnen, verstehen und beurteilen zu können, erwerben die Schülerinnen \nund Schüler ein Orientierungswissen über die historische Entwicklung \nund das politische System.",
+        "residual_flags": []
+      },
+      {
+        "content": "Standing rule in every module: basic knowledge must be acquired for the bold-printed content; the listed aspects are examples.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 1: Bezugskulturen",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Zu den fettgedruckten Inhalten muss ein Grundwissen erworben wer-\nden; die nachfolgend aufgelisteten Aspekte sind Beispiele.",
+        "residual_flags": [
+          "page-multi-match:physical-23-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "Module 2 (UK): since 1945 the former world power Great Britain became a European middle power.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 1: Bezugskulturen",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Seit 1945 wurde aus der ehemaligen Weltmacht Großbritannien eine \neuropäische Mittelmacht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Module 3 (a further English-speaking country): the English-speaking world now comprises at least 59 countries in which English is spoken as an official language.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 1: Bezugskulturen",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die englischspra-\nchige Welt umfasst mittlerweile mindestens 59 Länder, in denen Eng-\nlisch als Amtssprache gesprochen wird.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 1: Bezugskulturen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "Themenbereich 1: Bezugskulturen",
+        "printed_page_range": "23–28"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

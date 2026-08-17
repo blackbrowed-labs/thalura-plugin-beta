@@ -1,0 +1,151 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:841356412725fd7c229a74f893ffc46ca1a1b9300205000b4c636f77ab1a4917"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The fourth sample task is 'Social media - blessing or curse?' at the basic requirement level (gA).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Social media — blessing or curse? (gA)",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Thema: Social media - blessing or curse? (gA)",
+        "residual_flags": [
+          "source-formatting-verbatim: the printed heading uses a plain hyphen ('Social media - blessing or curse?'), not a dash as in the index anchor"
+        ]
+      },
+      {
+        "content": "It links the candidate's content area 'Media and Society' (S4) with the examiner-added content area 'Literary Visions of the Future' (S2).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Social media — blessing or curse? (gA)",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Gewählter Inhaltsbereich des Prüflings:  \nMedia and Society (S4) \nErgänzter Inhaltsbereich des Referenten / \nder Referentin: \nLiterary Visions of the Future (S2)",
+        "residual_flags": []
+      },
+      {
+        "content": "The single task is to analyse and assess utopian and dystopian implications of social media.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Social media — blessing or curse? (gA)",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Analyse and assess utopian and dystopian implications of social media.",
+        "residual_flags": []
+      },
+      {
+        "content": "The expected-answer horizon opens with a compact definition of social media, utopian and dystopian, and a summary of the essential features of those concepts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Social media — blessing or curse? (gA)",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Kompakte Definition der Begriffe social media, utopian und dystopian und \nZusammenfassung wesentlicher Merkmale dieser Konzepte, zum Beispiel:",
+        "residual_flags": []
+      },
+      {
+        "content": "Three to four aspects are expected in the analysis of the utopian and dystopian implications, with a justified focus on particular social media.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Social media — blessing or curse? (gA)",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Analyse der utopischen und dystopischen Implikationen sozialer Medien; \nbegründete Schwerpunktsetzung in der Auswahl bestimmter sozialer \nMedien \n \nErwartet werden 3-4 Aspekte, zum Beispiel:",
+        "residual_flags": []
+      },
+      {
+        "content": "As in the other examples, one overall grade is formed for both parts, with the language performance predominating.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Social media — blessing or curse? (gA)",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Für die beiden Teile der Präsentationsprüfung wird eine Gesamtnote gebildet, bei der \ndie sprachliche Leistung überwiegt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Thema: Social media — blessing or curse? (gA)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Thema: Social media — blessing or curse? (gA)",
+        "printed_page_range": "25–30"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

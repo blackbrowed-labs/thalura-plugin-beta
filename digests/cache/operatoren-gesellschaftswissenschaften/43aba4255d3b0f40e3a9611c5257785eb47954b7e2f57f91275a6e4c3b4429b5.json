@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:43aba4255d3b0f40e3a9611c5257785eb47954b7e2f57f91275a6e4c3b4429b5"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-gesellschaftswissenschaften",
+      "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "'Bewerten' and 'Stellung nehmen' require a differentiated value judgement (Werturteil) on a problem, given against the background of one's own convictions.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Bewerten / Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "„Bewerten“ und „Stellung nehmen“ fordern dazu auf, über eine Problemstellung",
+        "residual_flags": []
+      },
+      {
+        "content": "Unlike 'beurteilen', worldview, political or religious convictions do enter the assessment, and the underlying criteria and values are made transparent.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Bewerten / Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Anders als bei „beurteilen“ fließen hier weltanschauliche, politische, religi-",
+        "residual_flags": []
+      },
+      {
+        "content": "Both operators are used in almost all social-science subjects, with their focus in requirement area (Anforderungsbereich) III.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Bewerten / Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Operatoren „bewerten“ und „Stellung nehmen“ werden in fast allen gesell-",
+        "residual_flags": []
+      },
+      {
+        "content": "The variant 'Stellung nehmen aus der Sicht von …' calls for evaluating from a perspective prescribed in the task rather than one's own.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Bewerten / Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "In einigen Fächern fordert zudem der Operator „Stellung nehmen aus der Sicht",
+        "residual_flags": []
+      },
+      {
+        "content": "The conclusion formulates an approving or rejecting assessment in a differentiated way; it may also remain open when decisive information is missing.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Bewerten / Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Eine zustimmende oder ablehnende Einschätzung differenziert formulieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "The assessment is summarized at the end, followed if appropriate by an outlook or methodological reflection.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Bewerten / Stellung nehmen (aus der Sicht von…)",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Einschätzung abschließend zusammenfassen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Bewerten / Stellung nehmen (aus der Sicht von…)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-gesellschaftswissenschaften",
+        "section_anchor": "Bewerten / Stellung nehmen (aus der Sicht von…)",
+        "printed_page_range": "12–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

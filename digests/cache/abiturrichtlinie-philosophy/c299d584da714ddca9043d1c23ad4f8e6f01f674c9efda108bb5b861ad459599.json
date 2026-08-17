@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c299d584da714ddca9043d1c23ad4f8e6f01f674c9efda108bb5b861ad459599"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Abitur exam should capture the candidates' performance as differentiatedly as possible.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Abiturprüfung soll das Leistungsvermögen der Prüflinge möglichst differenziert",
+        "residual_flags": []
+      },
+      {
+        "content": "Three requirement levels are distinguished for this purpose.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Dazu werden im Folgenden drei Anforderungsbereiche unterschieden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirement levels are interdependent: III includes I and II, II includes I.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Anforderungsbereiche sind in ihrer wechselseitigen Abhängigkeit zu sehen, wobei der Anforderungsbereich III die Anforderungsbereiche I und II, der Anforderungsbereich II den Anforderungsbereich I einschließt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Good and very good grades presuppose performance with a substantial share in requirement level III.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Gute und sehr gute Bewertungen setzen Leistungen voraus, die mit einem wesentlichen Anteil dem Anforderungsbereich III",
+        "residual_flags": []
+      },
+      {
+        "content": "Reproduction of knowledge alone cannot produce an adequate performance.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "3.1 Allgemeine Hinweise",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Allein durch die Wiedergabe von Kenntnissen (Anforderungsbereich I) kann eine ausreichende Leistung nicht erbracht werden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3.1 Allgemeine Hinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "3.1 Allgemeine Hinweise",
+        "printed_page_range": "5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:2cd685e60aa87590cdee9ceda30c417d53055acdadfbd23de7ef5104d4b4f865"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Sex education (Sexualerziehung) is a task of both the parental home and the school; in Sekundarstufe it builds on and complements what home and primary school have done.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Sexualerziehung ist eine Aufgabe von Elternhaus und Schule. Sexualerziehung in der Sekun-\ndarstufe knüpft an die Sexualerziehung in Elternhaus und Grundschule an und ergänzt diese.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the spirit of trusting cooperation, those with parental care must be informed in good time about the aims, contents and forms of school sex education.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Im Sinne einer vertrauensvollen Zusammenarbeit sind die Sorgeberechtigten über Ziele, In-\nhalte und Formen der schulischen Sexualerziehung rechtzeitig zu informieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "The aim is to enable young people to act self-determinedly and responsibly in present and future situations concerning partnership and sexuality.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Das Ziel schulischer Sexualerziehung ist es, Jugendliche und junge Erwachsene dazu zu be-\nfähigen, in gegenwärtigen sowie zukünftigen Situationen, die Partnerschaft und Sexualität be-\ntreffen, selbstbestimmt und verantwortlich zu handeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sound knowledge of human sexuality and of different partnership and family forms enables young people to perceive, accept, formulate and communicate their own feelings and needs, and to identify and recognise those of others.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Durch fundiertes Wissen über mensch-\nliche Sexualität sowie verschiedene Partnerschafts- und Familienformen werden die Jugend-\nlichen in die Lage versetzt, eigene Gefühle und Bedürfnisse wahrzunehmen, zu akzeptieren, \nzu formulieren und in angemessener Sprache zu kommunizieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "A goal is a body feeling marked by respect rather than judgement; at the same time sexually transmitted infections are prevented through secured knowledge and a health-promoting approach to sexuality and physicality is fostered.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Ziel ist dabei ebenso die Herausbildung eines Körpergefühls, welches von Respekt \ngeprägt ist – und nicht von Wertung. Gleichzeitig wird sexuell übertragbaren Infektionen durch \nein gesichertes Wissen vorgebeugt sowie ein gesundheitsförderlicher Umgang mit Sexualität \nund Körperlichkeit gefördert.",
+        "residual_flags": []
+      },
+      {
+        "content": "School sex education supports young people in realising their basic and human rights to sexual self-determination, free development of personality and physical integrity.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Die schulische Sexualerziehung unterstützt Jugendliche und junge Erwachsene bei der Ver-\nwirklichung ihrer Grund- und Menschenrechte auf sexuelle Selbstbestimmung, freie Entfaltung \nder Persönlichkeit sowie körperliche Unversehrtheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sex education focuses on knowledge about diversity and its acceptance, critically reflects definitions of gender role and gender, strengthens equality of the sexes, and critically reflects discrimination against groups such as LSBTIQ* as well as the privileges of others.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Die Sexualerziehung setzt dabei einen \nSchwerpunkt auf das Wissen über Diversität und deren Akzeptanz und reflektiert dabei kritisch \nDefinitionen von Geschlechterrolle und Geschlecht. Die Gleichberechtigung der Geschlechter \nwird gestärkt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sex education contributes to preventing sexualised violence as well as to developing a positive attitude towards human sexuality.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Die Sexualerziehung trägt zur Prävention sexualisierter Gewalt \ngenauso bei wie zur Entwicklung einer positiven Einstellung gegenüber menschlicher Sexua-\nlität.",
+        "residual_flags": []
+      },
+      {
+        "content": "Media competence is indispensable here: depictions, content and the influence of advertising are critically questioned, as is almost unrestrictedly accessible pornography and its consumption.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Daher werden Darstellungen, Inhalte und der Einfluss von Werbung genauso \nkritisch hinterfragt wie die fast uneingeschränkt zugängliche Pornografie und deren Konsum.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under the guiding perspective 'Leben und Lernen in einer digital geprägten Welt', young people are educated to be digitally mature, handling their own and others' data responsibly and knowing how to protect themselves from the dangers of the internet.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Im Sinne der Leitperspektive „Leben und Lernen in einer digital geprägten Welt“ werden Ju-\ngendliche zu digital mündigen Menschen erzogen, die verantwortungsvoll und selbstbewusst \nmit den eigenen Daten und den Daten anderer umgehen, die Gefahren des Internets kennen \nund sich vor ihnen schützen können.",
+        "residual_flags": []
+      },
+      {
+        "content": "The contents of the Aufgabengebiet are closely related to the subjects Biology, German, English and Religion and can be linked with them in teaching projects.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Die Inhalte des Aufgabengebietes Sexualerziehung weisen eine große Nähe zu den Inhalten \nder Fächer Biologie, Deutsch, Englisch und Religion auf und lassen sich auf unterschiedliche \nWeise in Unterrichtsvorhaben miteinander verknüpfen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, E1 'Erwachsen werden': students perceive and name their own feelings and needs, describe physical, emotional and social changes in puberty, know about hygiene articles, distinguish own wishes from others' demands, and know contact persons and support services in situations of danger.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "b) erkennen und beschreiben körperliche, emotionale und soziale Veränderungen in der Pubertät in an-\ngemessener Sprache und wissen um die Benutzung von Hygieneartikeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, E2 'Erkennen von Vielfalt': students perceive the variety and uniqueness of bodies, perceive different sexual identities and gender roles, and describe different relationship forms and lifestyles.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "a) nehmen Verschiedenheit und Einzigartigkeit von Körpern wahr.  \nb) nehmen unterschiedliche sexuelle Identitäten und Geschlechterrollen wahr. \nc) erkennen und beschreiben verschiedene Beziehungsformen und Lebensstile.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, B1: students develop and claim a self-determined relationship to their own body and needs, grasp their scope in shaping relationships, and recognise danger situations and evaluate transgressions as wrong (Unrecht).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "c) erfassen Gefährdungssituationen und bewerten Übergriffe als Unrecht.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, B2: students examine and question stereotypical gender roles and expectations and question the role of digital and analogue media regarding body images and self-presentation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "a) untersuchen und hinterfragen stereotype Geschlechterrollen und -erwartungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Handeln: students express their feelings, needs and boundaries appropriately, treat each other respectfully, develop an appreciative attitude towards the diversity of people and their relationship forms, can get help in danger situations, and take co-responsibility for a discrimination-sensitive school.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "b) übernehmen Mitverantwortung bei der Gestaltung einer diskriminierungssensiblen Schule. \nc) nehmen Gefährdungssituationen bei der Nutzung digitaler Medien wahr und nutzen Hilfsangebote.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sekundarstufe I, E1: students perceive the complexity and change of their own feelings, know the physical and emotional aspects of sexuality, and inform themselves about conception, pregnancy, dangers, illnesses and prevention/support services.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "c) informieren sich über Empfängnis, Zeugung, Schwangerschaft, Gefahren, Krankheiten sowie Hilfs- \nund Präventionsangebote.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, E2: students recognise societal shaping of sexual identities and gender roles and describe the right to free development of personality regarding different relationship and family forms.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "b) beschreiben das Recht auf freie Entfaltung der Persönlichkeit hinsichtlich verschiedener Beziehungs- \nund Familienformen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, B1/B2: students reflect their own responsibility in shaping relationships also with regard to basic and human rights, grasp the complexity of endangerment and judge transgressions as wrong, and reflect norms and values relating to (human) rights and participation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "b) reflektieren die eigene Verantwortung in der Gestaltung von Beziehungen und Partnerschaften auch \nhinsichtlich der Grund- und Menschenrechte.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, Handeln: students make self-determined decisions and take responsibility, develop a human-rights-respecting acceptance for others' feelings, needs and boundaries and for the diversity of identities, orientations and relationship forms, and defend their positions on the basis of basic and human rights.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "c) entwickeln eine die Menschenrechte achtende Akzeptanz für die Vielfalt unterschiedlicher Identitäten, \nOrientierungen und Beziehungsformen und zeigen diese im Alltag.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content (grades 5/6), Themenbereich 1 'Identitätsfindung': feelings and needs, saying 'yes' and 'no', autonomy and group belonging; puberty (physical development, body hygiene, psychological development, autonomy, values); and gender identity with gender roles and stereotypes.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "1.1 Gefühle und Bedürfnisse \n• Gefühle und Bedürfnisse wahrnehmen und in Worte fassen \n• „Ja“ sagen und „Nein“ sagen \n• Autonomie und Gruppenzugehörigkeit",
+        "residual_flags": []
+      },
+      {
+        "content": "Content (grades 5/6), Themenbereich 2: love, relationships and sexuality — difference between affection and love, differences between friendship, relationship and family, closeness and distance, needs and boundaries, masturbation, sexual orientation, forms of human sexuality, conception and pregnancy.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "2.1.3 Sexualität \n• Selbstbefriedigung \n• sexuelle Orientierung \n• Formen menschlicher Sexualität  \n• Zeugung und Schwangerschaft \n• Gesundheitsangebote",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.2 (grades 5/6): rights and self-determination — child welfare and children's rights, human rights and freedom, sexual rights and the age of protection (Schutzalter), and children's and human rights worldwide; plus culture, tradition, religion (prejudice, gender roles, ritual circumcision, religions and sexuality).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "2.2.1 Rechte und Selbstbestimmung \n• Kindeswohl und Kinderrechte \n• Menschenrechte und Freiheit \n• sexuelle Rechte und Schutzalter \n• Kinder- und Menschenrechte weltweita",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'Kinder- und Menschenrechte weltweita' (stray trailing 'a')"
+        ]
+      },
+      {
+        "content": "Content Themenbereich 3 (grades 5/6) 'Sexualisierte Gewalt': sexualised and sexist language patterns, sexualised violence, sexual abuse and boundary violations, violence in and with digital media; plus recognising danger, setting boundaries, saying 'no', recognising criminal acts, getting help and knowing contact persons.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "3.2 Handlungsmöglichkeiten \n• Erkennen von Gefahrensituationen \n• Grenzen erkennen und setzen, „Nein“ sagen \n• strafbare Handlungen erkennen \n• Hilfe für sich und andere holen, Selbstschutz \n• Ansprechpersonen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 4 (grades 7–10) 'Identitätsfindung': body acceptance, beauty ideals in social media, self-determination and demarcation, the Jugendschutzgesetz and leisure behaviour, risk and self-harming behaviour; gender identity (biological sex and social ascriptions, intersexuality, cis and trans identity, civil status).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 52,
+          "physical_page": 52
+        },
+        "cited_text": "4.2 Geschlechtliche Identität \n• biologisches Geschlecht und soziale Zuschreibungen \n• Intergeschlechtlichkeit \n• Cis- und Transidentität  \n• Personenstand",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 5 (grades 7–10): love and relationship (dating, responsibility and communication in partnership, needs and boundaries, jealousy, conflicts and separation, parenting roles and family models).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 52,
+          "physical_page": 52
+        },
+        "cited_text": "5.1.1 Liebe und Beziehung \n• Kennenlernen, Verliebt-Sein, Dating \n• Verantwortung und Kommunikation in der Partnerschaft \n• eigene Bedürfnisse und Grenzen, Eifersucht \n• Beziehungskonflikte und Trennung \n• Erziehung, Elternrollen, Familienmodellea",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'Familienmodellea' (stray trailing 'a')"
+        ]
+      },
+      {
+        "content": "Content 5.1.2 (grades 7–10) 'Sexualität': sexual orientations, forms of human sexuality, the 'first time', symptoms of and protection from STIs, contraception methods, pregnancy, the 'morning-after pill' and termination, counselling and testing centres, and access to contraception worldwide.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 52,
+          "physical_page": 52
+        },
+        "cited_text": "5.1.2 Sexualität \n• sexuelle Orientierungen \n• Formen menschlicher Sexualität \n• das „erste Mal“ \n• Symptome von und Schutz vor STI \n• Verantwortungsbewusstes Verhalten \n• Funktionsweisen und Bewertung verschiedener Verhütungsmit-\ntel und -methoden",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 6 (grades 7–10) 'Sexualisierte Gewalt': sexist, heteronormative, homo-/transphobic language patterns, sexism, abuse and sexualised violence, violence in relationships, forced marriage and femicide, forced prostitution, FGM, and abuse in institutions; plus prevention, counselling, sexual criminal law.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "6.1 Formen und Folgen von Gewalt \n• sexualisierte, sexistische, heteronormative, homo-/transfeindli-\nche Sprachmuster \n• Sexismus, homo-/transfeindliche Gewalt \n• Missbrauch und sexualisierte Gewalt \n• Gewalt in Beziehungen, Zwangsverheiratung und Femizid",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 5.2 (grades 7–10) 'Kultur, Tradition, Religion, Rechte': human rights such as freedom to marry, sexual and reproductive rights, anti-discrimination and empowerment, debates on abortion, the history of § 175 in Germany, from Stonewall to Hamburg Pride, and homophobic legislation worldwide; also pornography (age limits, sexting, role images, risky vs. responsible consumption).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "5.2.3 Pornografie \n• Altersbeschränkung / rechtliche Grundlagen \n• Sexting \n• Rollenbilder \n• riskanter / verantwortungsbewusster Konsum",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 47,
+          "printed_page": 47
+        },
+        {
+          "physical_page": 48,
+          "printed_page": 48
+        },
+        {
+          "physical_page": 49,
+          "printed_page": 49
+        },
+        {
+          "physical_page": 50,
+          "printed_page": 50
+        },
+        {
+          "physical_page": 51,
+          "printed_page": 51
+        },
+        {
+          "physical_page": 52,
+          "printed_page": 52
+        },
+        {
+          "physical_page": 53,
+          "printed_page": 53
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.6 Sexualerziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.6 Sexualerziehung",
+        "printed_page_range": "47–53"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

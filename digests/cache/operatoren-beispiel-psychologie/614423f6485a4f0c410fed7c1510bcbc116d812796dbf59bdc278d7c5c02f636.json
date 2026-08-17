@@ -1,0 +1,241 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:614423f6485a4f0c410fed7c1510bcbc116d812796dbf59bdc278d7c5c02f636"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-psychologie",
+      "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Definition of Beurteilen: formulate and justify an independent judgment on a matter, using subject knowledge and methods on the basis of stated criteria.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Zu einem Sachverhalt ein selbstständiges Urteil unter \nVerwendung von Fachwissen und Fachmethoden auf Grund \nvon ausgewiesenen Kriterien formulieren und",
+        "residual_flags": []
+      },
+      {
+        "content": "The example task instruction: judge to what extent operant conditioning can influence learning experiences and thereby influence 'Grit'.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Beurteilen Sie, inwiefern die operante Konditionierung Einfluss \nauf Lernerfahrungen haben kann und somit die ‚Grit‘2 \nbeeinflussen",
+        "residual_flags": []
+      },
+      {
+        "content": "The behaviorist framing: behaviorally oriented psychologists look at the connection between environmental stimuli and behavior (stimulus-response schema) and disregard inner processes as not directly observable (the 'black box' principle).",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Umweltreizen und Verhalten (Reiz-Reaktions-Schema) und blenden innere Vorgänge wie \nBewertungen, Kognitionen oder Emotionen aus, da diese nicht direkt beobachtbar sind \n(Prinzip der ‚black box",
+        "residual_flags": []
+      },
+      {
+        "content": "The tabula rasa view: behaviorists regard the human as a so-called tabula rasa (blank slate) who comes into the world only with innate reflexes and must acquire all further behaviors through learning.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "betrachten Behavioristen den Menschen als sog. \n‚tabula rasa‘ (leere Tafel); der Mensch kommt nur mit angeborenen Reflexen auf die Welt \nund muss sich alle weiteren Verhaltensweisen über Lernen aneignen",
+        "residual_flags": []
+      },
+      {
+        "content": "Known representatives: Pawlow and Watson (classical conditioning) as well as Skinner and Thorndike (operant conditioning).",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Bekannte Vertreter \nsind Pawlow und Watson (klassische Konditionierung) sowie Skinner und Thorndike \n(operante Konditionierung)",
+        "residual_flags": []
+      },
+      {
+        "content": "Definition of operant conditioning: learning as a change in the probability of occurrence of shown behaviors through subsequent consequences.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die operante Konditionierung beschreibt das Lernen im Sinne einer Änderung der \nAuftretenswahrscheinlichkeit \ngezeigter \nVerhaltensweisen \ndurch \nnachfolgende \nKonsequenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "A reinforcer type (positive reinforcement): behavior increases because something pleasant is added to the situation.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Verhalten nimmt zu, da etwas Angenehmes zur Situation \nhinzugefügt wurde",
+        "residual_flags": []
+      },
+      {
+        "content": "A reinforcer type (negative punishment / extinction): behavior decreases because something pleasant is removed from the situation.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "negative Bestrafung oder Extinktion/Löschung: Verhalten nimmt ab, da etwas \nAngenehmes aus der Situation entfernt wurde",
+        "residual_flags": []
+      },
+      {
+        "content": "On temporal contingency: behavior and reaction must stand in a close temporal context for the desired effect to occur.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Zu beachten ist die zeitliche Kontingenz der Konsequenz; Verhalten und Reaktion müssen \nin einem engen zeitlichen Kontext zueinanderstehen, damit es zur gewünschten Wirkung \nkommt",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (naming criteria): the criteria are either given or must be found independently.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Kriterien nennen (sind entweder vorgegeben oder müssen selbstständig gefunden werden",
+        "residual_flags": []
+      },
+      {
+        "content": "A judgment consideration: from a behaviorist perspective, learning occurs through external control and is thus 'programmable'.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Aus behavioristischer Perspektive erfolgt Lernen durch Außensteuerung und ist \nsomit ‚programmierbar",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (finding the judgment): using operant-conditioning techniques to raise the Grit score is possible, since these primarily serve to build up behaviors.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Der Einsatz von Techniken auf Basis der operanten Konditionierung zur Erhöhung des \nGrit-Scores ist möglich, da diese vorwiegend dem Aufbau von Verhaltensweisen dienen",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 4 (formulating the judgment): on the basis of operant conditioning, learning experiences would have to be designed so that persons achieve successes with their behavior and can remove or avoid aversive events by their own effort.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Auf der Grundlage der operanten Konditionierung müssten Lernerfahrungen so \ngestaltet werden, dass Personen mit ihrem Verhalten Erfolge erzielen und aversive \nEreignisse aus eigener Kraft beseitigen oder vermeiden k",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 5 (reflection): because behaviorists forgo cognitive constructs, not all facets of the motivational and emotional Grit concept are influenceable.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Beurteilen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Da Behavioristen auf kognitive Konstrukte verzichten, sind damit aber nicht alle \nFacetten des motivationalen und emotionalen Grit-Konzeptes beeinflussbar",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Beurteilen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-psychologie",
+        "section_anchor": "Beurteilen",
+        "printed_page_range": "13–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,741 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ec8f91b430589ce7c2d0340014bb974d675b695b42a9cbfafdb13afd86e6eb76"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Im Rahmen der Sozial- und Rechtserziehung setzen sich Schueler mit den Grundsaetzen des Zusammenlebens in ihrem privaten und schulischen Umfeld sowie in der Gesellschaft auseinander.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "in ihrem privaten und schulischen Umfeld sowie in der",
+        "residual_flags": []
+      },
+      {
+        "content": "Sie bestimmen und ueberpruefen ihren eigenen Standort im Spannungsfeld der Normen, der Werturteile, der Orientierungsmuster sowie der Glaubens- und Wertueberzeugungen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "der Werturteile und der Orientierungsmuster sowie der Glaubens",
+        "residual_flags": []
+      },
+      {
+        "content": "Sie beziehen dies auf die im Rahmen des Aufgabengebietes vermittelten Rechtsgrundsaetze des Staates.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "beziehen sie auf die ihnen im Rahmen des Aufgabengebietes",
+        "residual_flags": []
+      },
+      {
+        "content": "Schueler der Jahrgangsstufen 5 bis 11 werden sich ihrer Verantwortung sich selbst und anderen gegenueber bewusst.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Jahrgangsstufen 5 bis 11 werden sich ihrer Verantwortung sich",
+        "residual_flags": []
+      },
+      {
+        "content": "Sie nehmen ihre Verantwortung gerade in ihren Interessenvertretungen aktiv wahr und setzen sich fuer ein gewaltfreies Miteinander ein.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "nehmen diese gerade in ihren Interessenvertretungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Jugendlichen werden zu ehrenamtlichem Engagement angeregt.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Die Jugendlichen werden zu ehrenamtlichem Engagement angeregt",
+        "residual_flags": []
+      },
+      {
+        "content": "Sie entwickeln ihre Faehigkeiten zur Selbstbestimmung und zur Uebernahme einer verantwortlichen Rolle als Buergerin und Buerger in der Gesellschaft.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Selbstbestimmung und zur Übernahme einer verantwortlichen Rolle als Bürgerin \nund Bürger in der Gesellschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schule unterstuetzt Freiwilligenarbeit und soziales Engagement der Schueler innerhalb und ausserhalb der Schule.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Freiwilligenarbeit und soziales Engage",
+        "residual_flags": []
+      },
+      {
+        "content": "Schueler analysieren Funktionen des Rechts sowie seine historischen und kulturellen Bezuege in unterschiedlichen Zusammenhaengen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "analysieren Funktionen des Rechts sowie seine historischen und",
+        "residual_flags": []
+      },
+      {
+        "content": "Sie entwickeln eine Position zu den Rechtsfragen, die ihr Leben in der gegenwaertigen Situation bestimmen koennen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Sie entwickeln eine Position zu",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schueler bilden ihr individuelles Rechtsgefuehl, ihre Wertemuster und ihre Verhaltensdispositionen fuer unterschiedliche soziale Situationen aus.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "ihre Wertemuster und ihre",
+        "residual_flags": []
+      },
+      {
+        "content": "Dabei achtet die Schule auf eine altersgemaesse Vermittlung geltender Rechtsgrundsaetze und Normen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "Dabei achtet die Schule",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Kompetenzen und Inhalte koennen im Unterricht nahezu aller Faecher erworben werden; es bedarf daher curricularer Absprachen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "somit bedarf es curricularer Absprachen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die themenspezifischen Kompetenzen fuer die Kompetenzbereiche Erkennen, Bewerten und Handeln koennen mit fachspezifischen Kompetenzen verknuepft werden.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "die Kompetenzbereiche Erkennen, Bewerten und",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (Erkennen E1): Schueler koennen soziale Normen benennen und kennen rechtliche Normen ihres Lebensbereichs.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "kennen rechtliche Normen ihres Lebensbereichs",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (E2): Schueler erkennen den Zusammenhang zwischen rechtlichen Normen und der Werteordnung des Grundgesetzes.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "erkennen den Zusammenhang zwischen rechtlichen Normen und der",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (E3): Schueler hinterfragen rechtliche Praemissen und beschreiben Verfahren der Konfliktmoderation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "beschreiben Verfahren der Konfliktmoderation",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (B1): Schueler setzen sich altersgerecht mit Wertevorstellungen anderer Menschen auseinander.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "mit Wertevorstellungen anderer Menschen auseinander",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (B2): Schueler beurteilen moralische Differenzen und nehmen Stellung zu Interessenkonflikten.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "beurteilen moralische Differenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (H1): Schueler setzen sich bei Streitigkeiten fuer einen fairen Ausgleich im direkten Lebensumfeld ein.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "einen fairen Ausgleich im direkten Lebensumfeld ein",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (H2): Schueler gestalten ehrenamtliches Engagement innerhalb und ausserhalb der Schule.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "gestalten ehrenamtliches Engagement innerhalb und",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Jg. 6 (H3): Schueler erproben ehrenamtliche Handlungsoptionen auf persoenlicher Ebene.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "erproben ehrenamtliche Handlungsoptionen auf",
+        "residual_flags": [
+          "page-multi-match:physical-57-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Anforderung Ende Sek I (E1): Schueler kennen zentrale rechtliche Normen aus verschiedenen Rechtsbereichen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "kennen zentrale rechtliche Normen aus verschiedenen Rechtsbereichen",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (E2): Schueler erkennen die Ableitung rechtlicher Normen aus der Werteordnung des Grundgesetzes.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "erkennen die Ableitung rechtlicher Normen aus der Werteordnung des Grundgesetzes",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (E3): Schueler dokumentieren rechtliche Fragestellungen und Wertekonflikte in lebensnahen Zusammenhaengen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "dokumentieren rechtliche Fragestellungen und Wertekonflikte in lebensnahen",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (B1): Schueler setzen sich mit Wertevorstellungen anderer Menschen und Gruppen kritisch auseinander.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "anderer Menschen und Gruppen kritisch auseinander",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (B2): Schueler nehmen Stellung zu Interessenkonflikten bei einfachen rechtlichen Auseinandersetzungen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "bei einfachen rechtlichen Auseinandersetzungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (H1): Schueler setzen sich fuer die Ueberwindung sozialer Differenzen ein.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "sozialer Differenzen ein",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (H2): Schueler gestalten ehrenamtliches Engagement und Moderationsaufgaben wie die Streitschlichtung.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "und Moderationsaufgaben wie die Streitschlichtung innerhalb",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderung Ende Sek I (H3): Schueler erproben ehrenamtliche Handlungsoptionen auf persoenlicher, gesellschaftlicher und politischer Ebene.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "gesellschaftlicher und politischer",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt Rechtserziehung 5/6: Grundrechte und einfaches Zivilrecht.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Grundrechte und einfaches Zivilrecht",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.1 Grundrechte und deren Schutz I: Grundrechte als Menschenrechte mit Beispielen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Grundrechte und deren Schutz I",
+        "residual_flags": [
+          "page-multi-match:physical-59-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "Inhalt 1.2 Kinder- und Menschenrechte: Reflexion der Bedeutung von UNICEF-Programmen, der Europaeischen Menschenrechtskonvention und von Anti-Rassismus-Programmen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Kinder- und Menschenrechte",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.3 Vertragsrecht I: einfache Kaufvertraege und Gueltigkeit, Taschengeldparagraf, Schadenshaftung.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Vertragsrecht I \n• einfache Kaufverträge, Gültigkeit \n• „Taschengeldparagraf“ \n• Schadenshaftung",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt Sozialerziehung 5/6 (2.1): Soziales Zusammenleben in der Klasse, an der Schule und im Stadtteil, u. a. Patensysteme, Vereinsengagement, Unterstuetzung Armutsbetroffener.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Soziales Zusammenleben in der Klasse, an der Schule",
+        "residual_flags": [
+          "page-multi-match:physical-60-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "Inhalt Sozialerziehung 5/6: Umgang mit Chatgruppen bzw. Klassenchats zur Mobbingpraevention.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Umgang mit Chatgruppen bzw. Klassenchats",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.2 (5/6): ausserschulische Unterstuetzung mit Beratungsangeboten an der Schule, Kooperationspartnern, Stiftungen, Stipendien und Wettbewerben.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Beratungsangebote an der Schule",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt Rechtserziehung 7/8: Grundrechtsschutz und Partizipation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Grundrechtsschutz und Partizipation",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.1 (7/8): Grundrechte als Abwehrrechte gegen den Staat sowie als Mitwirkungs-, Buerger-, Freiheits- und Gleichheitsrechte.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Grundrechte als Abwehrrechte gegen den Staat",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.2 (7/8): Schulische Gremien der Mitbestimmung I mit Schuelervertretung, Klassensprecher, Klassenrat und Schuelerrat.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Schulische Gremien der Mitbestimmung I",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.2: Klassenrat mit Aufgabenklaerung, Aemtern und Themen im Klassenrat sowie Entscheidungsfindung und Protokollen.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Themen im Klassenrat",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt Sozialerziehung 7/8 (2.1): Verfahren der Streitschlichtung und Mediation kennenlernen, Service Learning und Zivilcourage.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 62,
+          "physical_page": 62
+        },
+        "cited_text": "Verfahren der Streitschlichtung und Mediation kennenlernen",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 7/8: Auseinandersetzung mit Menschengruppenfeindlichkeit in Kultur (Liedtexte) und Internet.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 62,
+          "physical_page": 62
+        },
+        "cited_text": "Menschengruppenfeindlichkeit in Kultur",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.2 (7/8): ausserschulische Unterstuetzung mit Kooperationspartnerinnen und -partnern der Schule und dem Netzwerk Lernen durch Engagement.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Kooperationspartnerinnen und -partner der Schule",
+        "residual_flags": [
+          "page-multi-match:physical-60-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Inhalt Rechtserziehung 9-11: Verbraucherrecht und rechtlicher Schutz.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 63,
+          "physical_page": 63
+        },
+        "cited_text": "Verbraucherrecht und rechtlicher Schutz",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.1 (9-11): Bundesverfassungsgericht als Entscheidungsorgan und Hueter des Grundgesetzes.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 63,
+          "physical_page": 63
+        },
+        "cited_text": "Bundesverfassungsgericht als Entscheidungsorgan und",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.2 (9-11): Vertragsrecht II mit Verbrauchervertrag und Schutzinstrumenten des Verbraucherrechts wie dem 14-taegigen Widerrufsrecht.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 63,
+          "physical_page": 63
+        },
+        "cited_text": "Schutzinstrumente des Verbraucherrechts",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 1.3 (9-11): Gremien der Mitbestimmung II mit Rolle der SV auf Kreis-, Landes- und Bundesebene, Antragsformulierung, Schulkonferenz und Ombudsstelle.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 63,
+          "physical_page": 63
+        },
+        "cited_text": "Gremien der Mitbestimmung II",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt Sozialerziehung 9-11 (2.1): Engagement in Initiativen und Verbaenden, Streitverhinderung durch gelingende Kommunikation, Staerkung der Zivilcourage.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 64,
+          "physical_page": 64
+        },
+        "cited_text": "Streitverhinderung durch gelingende Kommunikation",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhalt 2.2 (9-11): ausserschulische Unterstuetzung, u. a. Schule ohne Rassismus / Schule mit Courage.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 64,
+          "physical_page": 64
+        },
+        "cited_text": "Schule ohne Rassismus",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 56,
+          "printed_page": 56
+        },
+        {
+          "physical_page": 57,
+          "printed_page": 57
+        },
+        {
+          "physical_page": 58,
+          "printed_page": 58
+        },
+        {
+          "physical_page": 59,
+          "printed_page": 59
+        },
+        {
+          "physical_page": 60,
+          "printed_page": 60
+        },
+        {
+          "physical_page": 61,
+          "printed_page": 61
+        },
+        {
+          "physical_page": 62,
+          "printed_page": 62
+        },
+        {
+          "physical_page": 63,
+          "printed_page": 63
+        },
+        {
+          "physical_page": 64,
+          "printed_page": 64
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.7 Sozial- und Rechtserziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.7 Sozial- und Rechtserziehung",
+        "printed_page_range": "56–64"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

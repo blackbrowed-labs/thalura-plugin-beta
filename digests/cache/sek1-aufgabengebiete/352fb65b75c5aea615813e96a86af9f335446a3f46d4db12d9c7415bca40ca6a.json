@@ -1,0 +1,398 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:352fb65b75c5aea615813e96a86af9f335446a3f46d4db12d9c7415bca40ca6a"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The aim of intercultural education (Interkulturelle Erziehung) is the acquisition of competences for orientation in a society shaped by diversity, and its active shaping.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Ziel des Aufgabengebietes Interkulturelle Erziehung ist der Erwerb von Kompetenzen zur Ori-\nentierung in einer von Diversität geprägten Gesellschaft und die aktive Gestaltung dieser.",
+        "residual_flags": []
+      },
+      {
+        "content": "Diversity-aware and discrimination-critical teaching conveys societal diversity as normal and enriching; students learn to perceive people in their individuality and to value their diversity.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Diversitätsbewusster und diskriminierungskritischer Unterricht vermittelt gesellschaftliche Viel-\nfalt als normal und bereichernd. Schülerinnen und Schüler lernen, die Menschen in ihrer Indi-\nvidualität bewusst wahrzunehmen und sie in ihrer Vielfalt wertzuschätzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Aufgabengebiet focuses on the dimensions of ethnicity, religion or worldview, and skin colour, also in combination with further diversity dimensions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Im Fokus des Auf-\ngabengebietes stehen die Dimensionen ethnische Zugehörigkeit, Religion bzw. Weltanschau-\nung sowie Hautfarbe, auch in Kombination mit weiteren Diversitätsdimensionen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Diversity-sensitive, discrimination-critical pedagogy supports students in finding their identity, in developing acceptance of a plural democratic society, and in recognising societal discrimination.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Eine diversitätssensible und diskriminierungskritische Pädagogik unterstützt die Schülerinnen \nund Schüler bei der eigenen Identitätsfindung, bei der Entwicklung von Akzeptanz und Wert-\nschätzung einer von Pluralität geprägten demokratischen Gesellschaft sowie beim Erkennen \ngesellschaftlicher Diskriminierungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Focus 'Diversitätsbewusstheit': students learn to perceive, value and also critically question differences in behaviour and opinion, recognising that every person is shaped by an individual background that can influence behaviour and judgement patterns.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Diversitätsbewusstheit: Die Schülerinnen und Schüler lernen, Unterschiede in Verhalten und \nMeinung wahrzunehmen, wertzuschätzen, aber auch kritisch zu hinterfragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Focus 'Identität und Zugehörigkeit': students are supported in developing their identity, become aware of actual and ascribed characteristics, reflect their own life situation, and practise perspective-taking; they perceive that a person can belong to several groups at once without contradiction.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Sie nehmen wahr, \ndass jeder Mensch verschiedenen Gruppen zugleich angehören kann und diese Zugehörig-\nkeiten einander nicht ausschließen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Focus 'Benachteiligung und Empowerment': students develop an understanding of the links between diversity, inequality and power relations, are sensitised to social justice, and are empowered to recognise and counter devaluation and to stand up for their own and others' needs.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Benachteiligung und Empowerment: Die Schülerinnen und Schüler entwickeln ein Ver-\nständnis für die Zusammenhänge von Diversität, Ungleichheit und Machtverhältnissen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural education thereby supports conscious handling of conflicts and the development of constructive solutions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Damit \nunterstützt die Interkulturelle Erziehung den bewussten Umgang mit Konflikten und das Ent-\nwickeln konstruktiver Lösungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching-material selection has particular importance: all students should be represented with their reference groups and ways of life so they can connect lesson topics to their own reality.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Einen \nbesonderen Stellenwert hat die Auswahl des Unterrichtsmaterials, in dem alle Schülerinnen \nund Schüler mit ihren Bezugsgruppen und ihren Lebensweisen repräsentiert sein sollten.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Erkennen: students recognise diversity inside and outside the school community, the significance of identity and multiple belonging, and the effects of discrimination and racism at personal and societal level.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "E3 – Benachteiligung und Empowerment \nDie Schülerinnen und Schüler \nerkennen die Auswirkungen von Diskriminierung und Rassismus auf persönlicher und gesellschaftlicher \nEbene.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Bewerten B1: students value diversity as the normality of society and a strength of the community and treat it appreciatively.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "werten Vielfalt als Normalität der Gesellschaft und Stärke einer Gemeinschaft und gehen anerkennend \nund wertschätzend damit um.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, B3: students question societal and their own stereotypes by engaging with actual and ascribed characteristics of individuals and groups, and try out strategies of self-strengthening.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "hinterfragen gesellschaftliche und eigene Stereotype, indem sie sich mit tatsächlichen sowie zugeschrie-\nbenen Merkmalen von Individuen und Gruppen auseinandersetzen, und erproben Strategien der Selbst-\nstärkung.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Handeln: students deal appreciatively with diversity and find presentation formats for it, resolve conflicts taking identity and experiences of disadvantage into account, and plan actions against stereotypes.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "H2 – Identität und Zugehörigkeit \nDie Schülerinnen und Schüler \nlösen Konflikte unter Berücksichtigung der Identität und der Benachteiligungserfahrungen aller Beteilig-\nten.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sekundarstufe I, E1/E2: students name and compare their cultural self-identities and multiple group memberships, examine personal links to historically significant events, and know the concept of the culture pyramid and the extended concept of culture.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "a) kennen das Konzept der Kulturpyramide und den erweiterten Kulturbegriff.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, E3: students know the historical roots of racism and recognise the mechanisms of racism and discrimination at personal and societal level.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "a) kennen die historischen Wurzeln von Rassismus. \nb) erkennen die Wirkungsweise von Rassismus und Diskriminierung auf persönlicher und gesellschaftli-\ncher Ebene.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, B1: students value diversity as the normality of the post-migrant society and as potential for the community, and question familiar views and notions of normality at personal, societal and media level.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "a) werten Vielfalt als Normalität der postmigrantischen Gesellschaft und als Potenzial für die Gemein-\nschaft.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, B2: students assess cultural ascriptions in media depictions and analyse the danger of upgrading one's own group by devaluing others (Othering) in current and historical contexts.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "b) analysieren die Gefahr der Aufwertung der eigenen Gruppe durch Abwertung anderer (Othering) in \naktuellen und historischen Kontexten.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, B3: students critically evaluate how individuals, groups and states profit from or are disadvantaged by racism and colonialism, and assess the link between participation opportunities/barriers and societal power relations.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "b) bewerten den Zusammenhang zwischen Teilhabemöglichkeiten bzw. Teilhabebarrieren und gesell-\nschaftlichen Machtverhältnissen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, Handeln: students shape negotiation processes in situations marked by diversity and power asymmetries, contribute to appreciation of diversity in school, apply strategies against discrimination, and act appropriately in situations of danger.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "a) wenden aktiv Strategien gegen Diskriminierung und für die Stärkung Benachteiligter an. \nb) handeln bei Gefährdungssituationen angemessen und nutzen Hilfsangebote.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content (grades 5/6), Themenbereich 1: identity and belonging ('I am unique'; name, family, languages), diversity in the class including its representation in illustrations and teaching materials, and the optional quarter/city project.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "1.2 Vielfalt in unserer Klasse \n• Beziehungen stärken: Gemeinsamkeiten in der neuen Klasse \nentdecken und Individualität der anderen anerkennen \n• Gruppenzugehörigkeiten in unserer Klasse / Mehrfachzugehörig-\nkeit als Regelfall",
+        "residual_flags": []
+      },
+      {
+        "content": "Content (grades 5/6), Themenbereich 2: the class in the school community/quarter, power asymmetries (e.g. in the schoolyard), making diversity visible, plus perspective-taking and empathy.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "2.1.1 Unsere Klasse in der Schulgemeinschaft bzw. in un-\nserem Quartier \n• Vielfalt in der Klasse / in der Schule / im Quartier sowie ihre Re-\npräsentanz in Abbildungen und Unterrichtsmaterialien \n• Machtasymmetrien, z. B. auf dem Schulhof",
+        "residual_flags": [
+          "source-ordering-anomaly: 'Themenbereich 2 … 2.1 Eine Schule, viele Blickwinkel' is printed BEFORE 'Themenbereich 1: Diversitätsbewusstheit' on physical page 36"
+        ]
+      },
+      {
+        "content": "Content 2.2 (grades 5/6) 'Raus aus der Schublade': development and function of stereotypes, stereotypical descriptions of groups, effects on those affected, and language awareness — developing a discrimination-aware view of language and checking external vs. self-designations.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "2.2.2 Sprache bewusst wahrnehmen \n• Sprachen in unserer Klasse, Schule  \n• Sprache, die nicht verletzt – einen diskriminierungsbewussten \nBlick auf Sprache entwickeln \n• Fremdbezeichnungen vs. Selbstbezeichnungen prüfen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 3 (grades 7–10): diversity categories and their legal basis (Art. 3 GG, Allgemeines Gleichbehandlungsgesetz), the extended concept of culture/culture pyramid, and features of the post-migrant society including flight, immigration and emigration.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "3.1 Diversität – Grundlagen \n• Diversitätskategorien  \n• gesetzliche Grundlagen  \n(Art. 3 GG, Allgemeines Gleichbehandlungsgesetz)",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 4 (grades 7–10): prejudice and stereotypes, forms of discrimination, the concept of group-focused enmity, intersectionality, civil courage, and widening perspectives (e.g. the history of Black people in Germany, African achievements, indigenous role models).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "4.1.2 Diskriminierung \n• Formen der Diskriminierung \n• Konzept der gruppenbezogenen Menschenfeindlichkeit  \n• Konzept der Intersektionalität",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 4.2 (grades 7–10) 'Rassismus': history of racism since the 15th century, racism and slavery during industrialisation from the perspective of those affected, present-day forms of racism, civil courage and empowerment.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.4 Interkulturelle Erziehung",
+          "printed_page": 38,
+          "physical_page": 38
+        },
+        "cited_text": "4.2.1 Kolonialismus und Rassismus \n• Geschichte des Rassismus seit dem 15. Jahrhundert \n• Rassismus und Sklaverei während der Industrialisierung aus \nPerspektive der Betroffenen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        },
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        },
+        {
+          "physical_page": 37,
+          "printed_page": 37
+        },
+        {
+          "physical_page": 38,
+          "printed_page": 38
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.4 Interkulturelle Erziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.4 Interkulturelle Erziehung",
+        "printed_page_range": "33–38"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

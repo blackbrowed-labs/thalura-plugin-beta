@@ -1,0 +1,185 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8b79bcf8aab7581c2079139e24440ff3b8fb931ebd91148253b0001648b7f1a4"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Im ersten Teil des Prüfungsgesprächs stellen beide Prüflinge jeweils eine zentrale Person vor (jeweils ca. 3 Minuten).",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "Im ersten Teil des Prüfungsgesprächs stellen die beiden Prüflinge jeweils eine zentrale \nPerson vor (jeweils ca. 3 Minuten",
+        "residual_flags": []
+      },
+      {
+        "content": "Der erste Teil aus Kurzpräsentation und vorbereitetem Dialog dauert insgesamt maximal 15 Minuten.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Dieser erste Teil (Kurzpräsentation und vorbereiteter Dialog) dauert insge-\nsamt maximal 15 Minuten",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Kern der mündlichen Prüfung ist das dialogische Prüfungsgespräch.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Der Kern der mündlichen Prüfung ist das dialogische Prüfungsgespräch",
+        "residual_flags": []
+      },
+      {
+        "content": "Der zweite Teil wird von Fragen und Impulsen der Prüfenden geprägt.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Der zweite Teil wird von Fragen und Impulsen der Prüfenden geprägt",
+        "residual_flags": []
+      },
+      {
+        "content": "Die letzten Minuten sind für direkte Fragen an einzelne Prüflinge außerhalb des dialogischen Settings vorgesehen, um unterschiedliche Beteiligung auszugleichen.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Die letzten Minuten sind für direkte Fragen an einzelne Prüflinge",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Prüferinnen und Prüfer führen das Gespräch flexibel, sodass alle Anforderungsbereiche abgedeckt werden.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Die Prüferinnen und Prüfer führen das Gespräch flexibel, sodass alle Anforderungsbe-\nreiche abgedeckt werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Jeder Prüfling wird zu allen Anforderungsbereichen befragt.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Jeder Prüfling wird zu allen Anforderungsbereichen befragt",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Gesprächsführung ist dialogisch und fordert die Prüflinge überwiegend spontan.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Die Gesprächsführung ist dialogisch und fordert die Prüflinge überwiegend",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Prüfung ist so zu gestalten, dass jeder Prüfling etwa 15 Minuten Redezeit erhält.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Die Prüfung ist so zu gestalten, dass jeder Prüfling etwa 15 Minuten Redezeit",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Zweitprüfer dokumentiert den Verlauf der Prüfung und achtet darauf, dass jeder Prüfling zu jedem Anforderungsbereich Leistungen erbringen kann und die Zeit gleichmäßig verteilt ist.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "Der Zweitprüfer dokumentiert den Verlauf der Prüfung und achtet darauf, dass jeder \nPrüfling die Gelegenheit erhält, zu jedem Anforderungsbereich Leistungen zu erbringen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "ii. Möglicher Ablauf des Prüfungsgesprächs",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ff39b24a73d4c543603e814ebd894fef5ec4db901f3cecc00e9664c4e9b38f92"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-religion",
+      "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Kerncurriculum-Uebersicht Jahrgang 5/6: Verbindlich sind Modul 2.1, Modul 2.4, zwei der drei Module 1.1, 1.2, 2.2 sowie Modul 1.3 oder 2.3.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "Kerncurriculum-Übersicht",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "5/6 \n- Modul 2.1 \n- Modul 2.4 \n- zwei der drei Module \n1.1., 1.2., 2.2.",
+        "residual_flags": []
+      },
+      {
+        "content": "Themenbereiche fuer Jahrgang 5/6 sind u. a. 1.1 Religion und Religionen, 1.2 Vielfalt der Gottes- und Transzendenzvorstellungen, 1.3 Menschliche Grunderfahrungen, 2.1 Zentrale Personen der Religionen, 2.2 Beten/Meditieren, 2.3 Schoepfung und 2.4 Miteinander gerecht leben.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "Kerncurriculum-Übersicht",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "1.1 Religion und \nReligionen \n1.2 Vielfalt der Got-\ntes- und Transzen-\ndenzvorstellungen \n1.3 Menschliche \nGrunderfahrungen \n \n2.1 Zentrale  \nPersonen der  \nReligionen \n2.2 Beten/ \nMeditieren \n2.3 Schöpfung \n2.4 Miteinander \ngerecht leben",
+        "residual_flags": []
+      },
+      {
+        "content": "Kerncurriculum-Uebersicht Jahrgang 7-10: Verbindlich sind Modul 3.4, Modul 4.1, Modul 4.2, Modul 3.1 oder 3.2 sowie Modul 3.3 oder 4.3.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "Kerncurriculum-Übersicht",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "7-10 \n- Modul 3.4 \n- Modul 4.1 \n- Modul 4.2 \n- Modul 3.1 oder 3.2 \n- Modul 3.3 oder 4.3",
+        "residual_flags": []
+      },
+      {
+        "content": "Themenbereiche fuer Jahrgang 7-10 umfassen 3.1 Glaubensfreiheiten und Glaubenspflichten, 3.2 Diesseits- und Jenseitsvorstellungen, 3.3 Digitales Ich - digitale Welten, 3.4 Verantwortung fuer die Schoepfung und 4.1 Zentrale Personen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "Kerncurriculum-Übersicht",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "3.1 Glaubens- \nfreiheiten und  \nGlaubenspflichten \n3.2 Diesseits-  \nund Jenseits- \nvorstellungen \n3.3 Digitales Ich – \ndigitale Welten \n3.4 Verantwortung \nfür die Schöpfung \n4.1 Zentrale  \nPersonen",
+        "residual_flags": []
+      },
+      {
+        "content": "Fuer die Vorstufe sind Modul 5.1 und Modul 5.2 oder 5.3 verbindlich; Themenbereiche sind 5.1 Zentrale Quellen und 5.2 Leben und Tod.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "Kerncurriculum-Übersicht",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "- Modul 5.1 \n- Modul 5.2 oder 5.3 \n5.1 Zentrale  \nQuellen \n \n5.2 Leben  \nund Tod",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Kerncurriculum-Übersicht"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-religion",
+        "section_anchor": "Kerncurriculum-Übersicht",
+        "printed_page_range": "26"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

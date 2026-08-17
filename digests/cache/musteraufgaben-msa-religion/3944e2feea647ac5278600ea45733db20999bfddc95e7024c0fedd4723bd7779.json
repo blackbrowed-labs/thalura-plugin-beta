@@ -1,0 +1,194 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:3944e2feea647ac5278600ea45733db20999bfddc95e7024c0fedd4723bd7779"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Themenbekanntgabe erfolgt zwei Wochen vor der Prüfung.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "Themenbekanntgabe (zwei Wochen vor der",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Fach bzw. der Lernbereich ist Religion, das Thema lautet Zentrale Personen der Religionen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "Zentrale Personen der Reli",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Prüfungsformat ist eine Gruppenprüfung mit gemeinsamer Vorbereitungszeit und mit fachpraktischem Anteil.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "mit fachpraktischem Anteil",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Unterricht wurden Jesus, Muhammed, Ali und Buddha als zentrale Personen ihrer jeweiligen Religion behandelt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "Im Unterricht haben wir uns mit Jesus, Muhammed, Ali und Buddha als den zentralen Per",
+        "residual_flags": []
+      },
+      {
+        "content": "Als hilfreiche Kompetenz gilt, Leben, Botschaften und heutige Bedeutung mehrerer zentraler Personen darzustellen, zu erläutern und zu vergleichen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "das Leben, die Botschaften und die heutige Bedeutung von mehreren zentralen Per",
+        "residual_flags": []
+      },
+      {
+        "content": "Eine weitere Kompetenz ist, in einer kleinen Gruppe einen Dialog zu religiösen Fragen strukturiert zu führen und eine Aufgabe gemeinsam zu lösen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "eine Aufgabe mit anderen gemeinsam l",
+        "residual_flags": []
+      },
+      {
+        "content": "Die genaue Aufgabenstellung erhält der Prüfling erst am Tag der Prüfung.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "Die genaue Aufgabenstellung erh",
+        "residual_flags": []
+      },
+      {
+        "content": "Bei Versäumnis wegen Krankheit muss dies sofort gemeldet und der Grund nachgewiesen werden, etwa mit einem Attest.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "musst du das sofort melden und den Grund nachweisen",
+        "residual_flags": []
+      },
+      {
+        "content": "Wer die Abschlussprüfung mehr als zweimal unterbricht, hat sie nicht bestanden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "mehr als zweimal unterbrichst, gilt sie als nicht bestanden",
+        "residual_flags": []
+      },
+      {
+        "content": "Wer ohne wichtigen Grund und ohne Abmeldung einen Prüfungstermin verpasst, bekommt keinen Abschluss.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "ohne wichtigen Grund und ohne Abmeldung einen Pr",
+        "residual_flags": []
+      },
+      {
+        "content": "Bei Täuschung kann die Prüfungsleitung über Ausschluss oder Wiederholung von Prüfungsteilen entscheiden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "kann die Prüfungsleitung entscheiden, dass du von der \nPrüfung ausgeschlossen wirst oder Teile der Pr",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 1
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I.a. Themenbekanntgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "I.a. Themenbekanntgabe",
+        "printed_page_range": "1"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

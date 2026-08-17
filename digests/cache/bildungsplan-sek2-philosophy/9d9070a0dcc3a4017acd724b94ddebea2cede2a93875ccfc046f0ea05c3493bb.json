@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:9d9070a0dcc3a4017acd724b94ddebea2cede2a93875ccfc046f0ea05c3493bb"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Compulsory module 'Zugänge zur Wirklichkeit': knowledge and reality; sources of our knowledge and their reliability; realist and constructivist positions.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2: Was können wir wissen?",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Erkenntnis und Wirklichkeit \n• Quellen unseres Wissens und ihre Zuverlässigkeit \n• Realistische und konstruktivistische Positionen",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 1 'Wissen, Wissenschaft, Skeptizismus': trust and mistrust in science; significance and limits of science; science and pseudoscience.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2: Was können wir wissen?",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Wissenschaftsvertrauen und Wissenschaftsmisstrauen \n• Bedeutung und Grenzen der Wissenschaft \n• Wissenschaft und Pseudowissenschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 2 'Sprache, Denken, Handeln': the influence of language on our thinking and our understanding of the world.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2: Was können wir wissen?",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Der Einfluss der Sprache auf unser Denken und unser \nWeltverständnis",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 3 'Religionsphilosophie': faith and rationality; religion in the context of contemporary history and culture; proofs of God.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 2: Was können wir wissen?",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Glaube und Rationalität \n• Religion im Kontext von Zeitgeschichte und Kultur \n• Gottesbeweise",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 2: Was können wir wissen?"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 2: Was können wir wissen?",
+        "printed_page_range": "16–17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

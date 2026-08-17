@@ -1,0 +1,141 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c4807e627be0b9a939548ec7dcac9cee5a15e86daf6d886989fc05a698f9d287"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Class tests and exams check learning success, determine individual support needs and compare the level reached with the level expected.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Klassenarbeiten und Klausuren dienen der Überprüfung der Lernerfolge der einzelnen Schü-\nlerinnen und Schüler, der Ermittlung ihres individuellen Förderbedarfs und dem normierten \nVergleich des erreichten Lernstands mit dem erwarteten Lernstand",
+        "residual_flags": []
+      },
+      {
+        "content": "They cover all levels of understanding from reproduction to problem solving and also demand transfer performance.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Sie umfassen alle Verständnisebenen von der Reproduktion bis zur \nProblemlösung und verlangen auch Transferleistungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the gymnasiale Oberstufe, task wording uses the operators (Operatoren) laid down in the rules for the central written examination tasks of the relevant Abitur cohort.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "In der gymnasialen Oberstufe werden bei der Formulierung der Aufgaben die \nOperatoren verwendet, die in den für den jeweiligen Abiturjahrgang geltenden Regelungen für \ndie zentralen schriftlichen Prüfungsaufgaben",
+        "residual_flags": []
+      },
+      {
+        "content": "In the gymnasiale Oberstufe exams should be handed back at the latest after three weeks.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "In \nder gymnasialen Oberstufe soll die Rückgabe der Klausuren spätestens nach drei Wochen \nerfolgen.",
+        "residual_flags": []
+      },
+      {
+        "content": "If more than a third of the students score 'mangelhaft' or 'ungenuegend' (or an equivalent result), class and school leadership must be informed.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Hat mehr als ein Drittel der Schülerinnen und Schüler in einer Klassenarbeit oder einer Klausur \nein mangelhaftes oder ungenügendes oder ein diesen Noten entsprechendes Ergebnis erzielt,",
+        "residual_flags": []
+      },
+      {
+        "content": "Grading an exam or equivalent performance as 'ausreichend' (5 points) presupposes at least fifty percent of the expected performance.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Bewertung von Klausuren und entsprechenden Leistungen mit der Note ausreichend \n(5 Punkte) setzt voraus, dass mindestens fünfzig Prozent der erwarteten Leistung erbracht \nwurden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "3 Klassenarbeiten und Klausuren sowie entsprechende Leistungen",
+        "printed_page_range": "7–10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

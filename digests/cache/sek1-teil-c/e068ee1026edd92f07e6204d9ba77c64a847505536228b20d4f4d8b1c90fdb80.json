@@ -1,0 +1,213 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e068ee1026edd92f07e6204d9ba77c64a847505536228b20d4f4d8b1c90fdb80"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Alte Sprachen — primacy of work on the text: performance shown in dealing with Latin/Greek texts carries the greatest weight and cannot be replaced by performance delivered in other contexts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die im Umgang mit lateinischen bzw. griechischen Texten gezeigten Leistungen haben das \ngrößte Gewicht und können nicht durch in anderen Zusammenhängen erbrachte Leistungen \nersetzt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for text work (part 1): knowledge of Latin/Greek (vocabulary, morphology, syntax, technical terms); reliability in accessing linguistic knowledge; capacity for language and text reflection (rendering words, concepts and phrases in accordance with sense; grasping formal and syntactic structures; overall text comprehension); structured and systematic approach to translating; inclusion of the results of pre-translation text exploration.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Für die Textarbeit gelten insbesondere folgende Bewertungskriterien: \n• \nKenntnisse in der lateinischen bzw. griechischen Sprache (Wortschatz, Formenlehre, \nSyntax, Fachtermini) \n• \nSicherheit in der Verfügbarkeit sprachlicher Kenntnisse \n• \nFähigkeit zur Sprach- und Textreflexion (sinngemäß richtige Wiedergabe von Wörtern, \nBegriffen und Wendungen; Erfassen formaler und syntaktischer Strukturen; Textver-\nständnis insgesamt) \n• \nstrukturiertes und systematisches Vorgehen beim Übersetzen \n• \nEinbeziehung der Ergebnisse der Textvorerschließung",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for text work (part 2): ability to use subject aids (textbook, grammar, dictionary if applicable); to express oneself appropriately and aptly in the target language; to draw on basic knowledge of areas of Greco-Roman antiquity; to establish links between Greco-Roman antiquity and the present.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "• \nFähigkeit, fachliche Hilfsmittel (Lehrbuch, Grammatik; ggf. Wörterbuch) zu benutzen \n• \nFähigkeit, sich angemessen und treffend in der Zielsprache auszudrücken \n• \nFähigkeit, auf Grundkenntnisse in verschiedenen Bereichen der griechisch-römischen \nAntike zurückzugreifen \n• \nFähigkeit, Bezüge zwischen der griechischen-römischen Antike und der Gegenwart \nherzustellen",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'der griechischen-römischen Antike' (elsewhere 'griechisch-römischen'); kept as printed"
+        ]
+      },
+      {
+        "content": "Criteria for text work (part 3): ability to establish text references in interpretation or comment; correct use of technical language and terms; originality in creative interpretation tasks; ability to develop understanding and openness through engagement with other cultural values.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "• \nFähigkeit, Textbezüge bei der Interpretation oder Stellungnahme herzustellen \n• \nkorrekter Gebrauch von Fachsprache und Fachausdrücken \n• \nOriginalität bei kreativen Aufgabenstellungen zur Textinterpretation \n• \nFähigkeit, durch die Auseinandersetzung mit anderen kulturellen Wertvorstellungen \nVerständnis und Offenheit zu entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessed written performance checks are written regularly in Latin and Greek lessons to check knowledge of the language (vocabulary, morphology, syntax, technical terms) and competencies in handling isolated grammatical phenomena.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Zur Überprüfung der Kenntnisse in der lateinischen bzw. griechischen Sprache (Wortschatz, \nFormenlehre, Syntax, Fachtermini) sowie der Kompetenzen im Umgang mit isolierten gram-\nmatischen Phänomenen werden im Latein- und Griechischunterricht regelmäßig bewertete \nLeistungsfeststellungen geschrieben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Class tests in the classical languages consist of two parts: a translation task and a task part; the translation task proves comprehension of an unknown Latin/Greek text.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Klassenarbeiten bestehen in den Alten Sprachen aus zwei Teilen: einer Übersetzungsaufgabe \nund einem Aufgabenteil. In der Übersetzungsaufgabe wird das Verständnis eines unbekann-\nten lateinischen bzw. griechischen Textes nachgewiesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The task part checks competencies and knowledge not already captured by the translation (grammar, cultural context, possibly metre); from the third year of learning at the latest it contains at least one task aimed at interpreting the translated text.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Der Aufgabenteil dient insbeson-\ndere der Überprüfung von Kompetenzen und Kenntnissen, die nicht bereits durch die Über-\nsetzungsaufgabe erfasst wurden. Insbesondere kann er Aufgaben zur Grammatik, zum kultu-\nrellen Kontext und ggf. zur Metrik enthalten. Spätestens ab dem dritten Lernjahr umfasst er \nmindestens eine Aufgabe, die auf die Interpretation des übersetzten Textes zielt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Class tests must be designed so the task part does not predominate either in the required working time or in the assessment.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Klassenarbeiten sind so anzulegen, dass der Aufgabenteil in der erforderlichen Bearbeitungs-\nzeit und in der Bewertung nicht überwiegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Threshold for 'ausreichend' on the translation part: it may only be given if the overall sense of the text is still understood; as a rule that is no longer the case if the translation has more than TEN (whole) errors per hundred words of the Latin/Greek text.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "In Klassenarbeiten darf für den Übersetzungsteil die Note „ausreichend“ nur dann erteilt wer-\nden, wenn der vorgelegte Text in seinem Gesamtsinn noch verstanden ist. Davon kann in der \nRegel nicht mehr ausgegangen werden, wenn die Übersetzung auf je hundert Wörter des la-\nteinischen bzw. griechischen Textes in der Summe mehr als zehn (ganze) Fehler aufweist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Threshold for 'gut': as a rule it may be given if the translation has no more than FIVE (whole) errors per hundred words of the Latin/Greek text.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die \nNote „gut“ kann in der Regel dann erteilt werden, wenn die Übersetzung auf je hundert Wörter \ndes lateinischen bzw. griechischen Textes in der Summe nicht mehr als fünf (ganze) Fehler \naufweist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Error weighting: comprehension is judged by how far the German translation succeeded; an error's weight follows above all the disturbance of sense it causes in the German text, NOT the degree of violation of the Latin/Greek grammatical or lexical system.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Das Verständnis des lateinischen bzw. griechischen Textes wird danach bewertet, inwieweit \ndie Übersetzung ins Deutsche gelungen ist. Für die Gewichtung eines Fehlers bedeutet dies: \n• \nSie richtet sich vor allem nach der Störung des Sinns, die im deutschen Text von dem \nFehler verursacht wird, und nicht nach dem Grad des Verstoßes gegen das gramma-\ntische oder lexikalische System der lateinischen bzw. griechischen Sprache.",
+        "residual_flags": []
+      },
+      {
+        "content": "Deviations in grammar and vocabulary from the source text are NOT counted as errors if they hit the sense of the source text or represent only slight inaccuracies.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "• \nIn Grammatik und Vokabular kann es Abweichungen vom lateinischen bzw. griechi-\nschen Ausgangstext geben, die nicht als Fehler gewertet werden, wenn sie den Sinn \ndes Ausgangstextes treffen oder nur leichte Ungenauigkeiten darstellen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7a) Alte Sprachen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7a) Alte Sprachen",
+        "printed_page_range": "16–17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

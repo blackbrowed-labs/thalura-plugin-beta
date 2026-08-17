@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8fcd0bc9bf8527d978f93ca409ba6b3bb66601a9b40354f4d7a5c3546884e4a6"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content: mind and personal identity; mind, brain and personal identity; the mind-body problem (Leib-Seele-Problem).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1 — Mentales und Physisches",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Geist und personale Identität \n• Geist, Gehirn und personale Identität \n• Das Leib-Seele-Problem",
+        "residual_flags": []
+      },
+      {
+        "content": "Concepts in brackets: consciousness, experience, sensations, attitudes, dispositions, intentionality, other minds.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1 — Mentales und Physisches",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "(Bewusstsein, Erleben, Empfindungen, Einstellungen, Dispositio-\nnen, Intentionalität, Fremdpsychisches)",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised requirement level: causes and effects of mental states (mental causation, causality).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1 — Mentales und Physisches",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Zusätzlich im erhöhten Anforderungsniveau: \nUrsachen und Wirkungen mentaler Zustände \n(mentale Verursachung, Kausalität)",
+        "residual_flags": []
+      },
+      {
+        "content": "Specialist terms for this module: res cogitans, res extensa.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1 — Mentales und Physisches",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "res cogitans, res extensa",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 1 — Mentales und Physisches"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 1 — Mentales und Physisches",
+        "printed_page_range": "14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

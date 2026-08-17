@@ -1,0 +1,131 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:09cc7ad12c4fd466d7fafe66e067e516603aaf25dba17371dad5821485693816"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The overview table organises the modules for grades 8, 9 and 10 under three topic areas: 'Auf der Suche nach dem Guten', 'Auf der Suche nach Wahrheit' and 'Zukunftsfragen'.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Übersicht über die Themenbereiche und Module",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Module der \nJahrgangsstufen 8, 9, \n10 \nAuf der Suche \nnach dem Guten \nAuf der Suche \nnach Wahrheit \nZukunftsfragen",
+        "residual_flags": [
+          "source-inconsistency-verbatim: the table column reads 'Auf der Suche nach Wahrheit' while the module sheets head the same topic area 'Auf der Suche nach der Wahrheit'"
+        ]
+      },
+      {
+        "content": "First compulsory-module row: Werte und Normen (PM1), Meinen und Wissen (PM2), Gerechtigkeit (PM3).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Übersicht über die Themenbereiche und Module",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Werte und Normen \n(PM1) \nMeinen und Wissen \n(PM2) \nGerechtigkeit \n(PM3)",
+        "residual_flags": []
+      },
+      {
+        "content": "First elective-module row: Freundschaft und Liebe (WM1), Prüfen von Informationen und Wissensansprüchen (WM2), Träume von einer besseren Welt (WM3).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Übersicht über die Themenbereiche und Module",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Freundschaft und Liebe \n(WM1) \nPrüfen von \nInformationen und \nWissensansprüchen \n(WM2) \nTräume von einer \nbesseren Welt \n(WM3)",
+        "residual_flags": []
+      },
+      {
+        "content": "Second compulsory-module row: Grundsätze ethischen Denkens und Handelns (PM4), Wahrheit und Wirklichkeit (PM5), Mensch und Technik (PM6).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Übersicht über die Themenbereiche und Module",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Grundsätze ethischen \nDenkens und Handelns \n(PM4) \nWahrheit und \nWirklichkeit (PM5) \nMensch und Technik \n(PM6)",
+        "residual_flags": []
+      },
+      {
+        "content": "Second elective-module row: Glück und Sinn im Leben (WM4), Mythos und Logos (WM5), Dystopien und Utopien (WM6).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Übersicht über die Themenbereiche und Module",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Glück und Sinn im \nLeben (WM4) \nMythos und Logos \n(WM5) \nDystopien und Utopien \n(WM6)",
+        "residual_flags": []
+      },
+      {
+        "content": "Third rows: compulsory modules Freiheit (PM7), Wahrnehmen und Erkennen (PM8), Gerechtigkeit und nachhaltige Entwicklung (PM9); elective modules Frieden (WM7), Sprache und Welterschließung (WM8), Verantwortung (WM9).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Übersicht über die Themenbereiche und Module",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Freiheit (PM7) \nWahrnehmen und \nErkennen (PM8) \nGerechtigkeit und \nnachhaltige Entwicklung \n(PM9) \nWahlmodul \nFrieden (WM7) \nSprache und Welt-\nerschließung (WM8) \nVerantwortung \n(WM9)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Übersicht über die Themenbereiche und Module"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Übersicht über die Themenbereiche und Module",
+        "printed_page_range": "14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

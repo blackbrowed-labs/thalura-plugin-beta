@@ -1,0 +1,128 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:193ac2f5f6f5b67f76270ed1425d164e334b1f5cb831b49a6b4031f71decb3f4"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The philosophical problem reflection is graded as an overall performance.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5 Bewertung der Prüfungsleistung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die philosophische Problemreflexion ist als Gesamtleistung zu bewerten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The margin correction has an ascertaining character.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5 Bewertung der Prüfungsleistung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Randkorrektur hat dabei feststellenden Charakter.",
+        "residual_flags": []
+      },
+      {
+        "content": "A binding set of correction marks (Korrekturzeichen) is prescribed.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5 Bewertung der Prüfungsleistung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Folgende Korrekturzeichen sind verbindlich:",
+        "residual_flags": []
+      },
+      {
+        "content": "The grade 'gut' (11 points) requires a comprehensive, differentiated and independent problem reflection.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5 Bewertung der Prüfungsleistung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Note „gut“ (11 Punkte) soll erteilt werden, wenn die philosophische Problemreflexion umfassend und differenziert sowie selbstständig geleistet wurde.",
+        "residual_flags": []
+      },
+      {
+        "content": "Grading standards are formulated on the basis of these aspects for the concrete task.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5 Bewertung der Prüfungsleistung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Bewertungsmaßstäbe sind auf der Grundlage dieser Aspekte gemäß der konkreten Aufgabenstellung zu formulieren.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.5 Bewertung der Prüfungsleistung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "4.5 Bewertung der Prüfungsleistung",
+        "printed_page_range": "12–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

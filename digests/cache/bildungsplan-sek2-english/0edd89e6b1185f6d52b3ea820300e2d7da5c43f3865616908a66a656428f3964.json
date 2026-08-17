@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0edd89e6b1185f6d52b3ea820300e2d7da5c43f3865616908a66a656428f3964"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Rationale: as a consequence of the British Empire and US dominance, English has become the world's most important language.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 3 Politics, Culture and Society – between Tradition and Change: ein weiteres englischsprachiges Land",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Als Konsequenz des weltumspannenden British Empire und US-ameri-\nkanischer politischer, militärischer und kultureller Dominanz hat sich \nEnglisch zur wichtigsten Sprache der Welt entwickelt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Colonialism has left deep traces in the politics, society and economy of all English-speaking societies.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 3 Politics, Culture and Society – between Tradition and Change: ein weiteres englischsprachiges Land",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Allen englischsprachigen Ge-\nsellschaften gemeinsam ist die Tatsache, dass der Kolonialismus in Po-\nlitik, Gesellschaft und Wirtschaft tiefe Spuren hinterlassen hat.",
+        "residual_flags": []
+      },
+      {
+        "content": "Postcolonial literature opens new perspectives on colonial history, migration and hybrid cultural identities ('The Empire writes back').",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 3 Politics, Culture and Society – between Tradition and Change: ein weiteres englischsprachiges Land",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Aus-\neinandersetzung mit der kolonialen Vergangenheit hat eine reichhaltige \nLiteratur hervorgebracht, die neue Perspektiven auf die Kolonialge-\nschichte, Migration und hybride kulturelle Identitäten eröffnet („The Em-\npire writes back“).",
+        "residual_flags": []
+      },
+      {
+        "content": "This topic is particularly suited to transcultural learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 3 Politics, Culture and Society – between Tradition and Change: ein weiteres englischsprachiges Land",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Das Thema eignet sich \nbesonders für das transkulturelle Lernen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: the legacy of British rule (postcolonial experiences, asymmetric power relations, relations to Britain, migration, economic relations).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 3 Politics, Culture and Society – between Tradition and Change: ein weiteres englischsprachiges Land",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "the legacy of British rule (e. g. postcolonial experiences, asymmet-\nric power relations, relations to Britain, migration, economic relations)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S1–4 3 Politics, Culture and Society – between Tradition and Change: ein weiteres englischsprachiges Land"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "S1–4 3 Politics, Culture and Society – between Tradition and Change: ein weiteres englischsprachiges Land",
+        "printed_page_range": "27–28"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

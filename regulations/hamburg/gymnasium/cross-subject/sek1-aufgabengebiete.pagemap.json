@@ -2,7 +2,7 @@
   "document_id": "sek1-aufgabengebiete",
   "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
   "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 77,
   "page_identity": {
     "model": "simple",
@@ -99,8 +99,8 @@
     },
     {
       "section_anchor": "1.1 Didaktische Grundsätze",
-      "printed_page_start": 4, "printed_page_end": 4,
-      "physical_page_start": 4, "physical_page_end": 4,
+      "printed_page_start": 4, "printed_page_end": 5,
+      "physical_page_start": 4, "physical_page_end": 5,
       "ordinance": null,
       "grades": "5–10",
       "hazards": []

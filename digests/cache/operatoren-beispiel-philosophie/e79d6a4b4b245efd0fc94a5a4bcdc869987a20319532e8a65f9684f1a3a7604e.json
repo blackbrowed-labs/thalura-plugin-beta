@@ -1,0 +1,122 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e79d6a4b4b245efd0fc94a5a4bcdc869987a20319532e8a65f9684f1a3a7604e"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-philosophie",
+      "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Operator Stellung nehmen (take a position; listed together with Bewerten) is defined as working out an explicitly personal assessment of a problem or given problem statement in a differentiated way.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Stellung nehmen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Eine explizit persönliche Einschätzung eines Problems oder einer \ngegebenen Problemstellung differenziert erarbeiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Example task prompt on justice: take a position on whether a just state can exist.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Stellung nehmen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Nehmen Stellung zu der Frage, ob es einen gerechten Staat geben \nkann",
+        "residual_flags": [
+          "source anomaly preserved: 'Nehmen Stellung zu der Frage' — the pronoun 'Sie' is missing"
+        ]
+      },
+      {
+        "content": "Step 2: name the criteria of assessment; equal rules and rights for all, or the safeguarding of freedoms, can serve as the criterion for a just state.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Stellung nehmen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Als Kriterium für Gerechtigkeit eines Staates kann das Gelten gleicher Regeln und \nRechte für alle genutzt werden oder auch die Wahrung von Freiheitsrechten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (argumentation): adduce arguments that allow the problem to be assessed with the criteria shown, and critically reflect on the problem statement.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Stellung nehmen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Argumente anführen, die es ermöglichen, mithilfe der aufgezeigten Kriterien die Problem-\nstellung einzuschätzen; Problemstellung ggf. kritisch reflektieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 4 (conclusion): formulate the assessment (approving or rejecting) in a differentiated way, leave it open where appropriate, and summarize it at the end.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Stellung nehmen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Einschätzung (zustimmend oder ablehnend) differenziert formulieren bzw. ggf. offenlassen, \nEinschätzung abschließend zusammenfassen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Stellung nehmen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-philosophie",
+        "section_anchor": "Stellung nehmen",
+        "printed_page_range": "15–16"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

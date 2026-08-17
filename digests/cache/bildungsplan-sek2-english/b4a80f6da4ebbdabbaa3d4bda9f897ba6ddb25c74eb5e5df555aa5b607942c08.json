@@ -1,0 +1,137 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b4a80f6da4ebbdabbaa3d4bda9f897ba6ddb25c74eb5e5df555aa5b607942c08"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Focus of the USA module: the tension between the promise ('life, liberty and the pursuit of happiness') and the reality of 21st-century American society, showing a plurality of perspectives.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 1 Politics, Culture and Society – between Tradition and Change: USA",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Im Mittelpunkt des Unterrichts soll daher die Ausei-\nnandersetzung mit dem Versprechen („life, liberty and the pursuit of hap-\npiness“) und der Realität der amerikanischen Gesellschaft des 21. Jahr-\nhundert stehen und eine Vielzahl von unterschiedlichen Perspektiven \naufgezeigt werden.",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'der amerikanischen Gesellschaft des 21. Jahrhundert stehen' (missing genitive -s: 'Jahrhunderts')"
+        ]
+      },
+      {
+        "content": "The deep split of American society between a traditional-conservative and a progressive current is to be examined.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 1 Politics, Culture and Society – between Tradition and Change: USA",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Hier ist besonders die tiefe Spaltung der Gesell-\nschaft in den Blick zu nehmen, die die Politik in den letzten Jahrzehnten \nbestimmt",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: American ideals and realities — freedom, equality and the pursuit of happiness.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 1 Politics, Culture and Society – between Tradition and Change: USA",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "American ideals and realities: freedom, equality and the pursuit of \nhappiness",
+        "residual_flags": []
+      },
+      {
+        "content": "Example aspect: American Dream vs. American nightmare, the US seen through the eyes of a diverse population.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 1 Politics, Culture and Society – between Tradition and Change: USA",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "American Dream vs. American nightmare: the United States seen \nthrough the eyes of a diverse population (e.g... Native Americans, \nAfrican Americans, Latino Americans, Asian-Americans, Cauca-\nsian Americans)",
+        "residual_flags": [
+          "source-typo-verbatim: original reads '(e.g... Native Americans' — three dots after 'e.g'"
+        ]
+      },
+      {
+        "content": "Binding content: overview of the political system (institutions, voting system, two-party system, constitution, Supreme Court).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 1 Politics, Culture and Society – between Tradition and Change: USA",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Overview of the political system (e.g. institutions and basic princi-\nples, voting system, two-party system, role of the constitution and the \nSupreme Court)",
+        "residual_flags": []
+      },
+      {
+        "content": "At raised level, aspects of history and present of the target culture are treated in depth, e.g. founding the nation: ideas and ideologies.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 1 Politics, Culture and Society – between Tradition and Change: USA",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "founding the nation: ideas and ideologies (Manifest Destiny, American \nexceptionalism)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S1–4 1 Politics, Culture and Society – between Tradition and Change: USA"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "S1–4 1 Politics, Culture and Society – between Tradition and Change: USA",
+        "printed_page_range": "23–24"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

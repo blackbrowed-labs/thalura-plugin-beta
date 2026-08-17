@@ -2,7 +2,7 @@
   "document_id": "praeambel",
   "document_title": "Präambel",
   "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 8,
   "page_identity": {
     "model": "simple",
@@ -43,9 +43,9 @@
     {
       "section_anchor": "Aktualisierung und Weiterentwicklung der bestehenden Lernkultur",
       "printed_page_start": 4,
-      "printed_page_end": 4,
+      "printed_page_end": 5,
       "physical_page_start": 4,
-      "physical_page_end": 4,
+      "physical_page_end": 5,
       "ordinance": null,
       "grades": null,
       "hazards": []

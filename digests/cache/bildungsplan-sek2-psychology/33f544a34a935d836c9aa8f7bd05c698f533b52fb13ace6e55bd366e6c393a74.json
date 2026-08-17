@@ -1,0 +1,299 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:33f544a34a935d836c9aa8f7bd05c698f533b52fb13ace6e55bd366e6c393a74"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The core curriculum uses at most half the available time, leaving room for individual deepening and priorities depending on course profile and time.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Das Kerncurriculum umfasst von der insgesamt zur Verfügung stehenden Zeit maximal die \nHälfte, sodass – je nach Profil- und Interessenlage der jeweiligen Kurse und der faktisch ver-\nfügbaren Zeit – individuelle Vertiefungen und Schwerpunktsetzungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Each module contains an additivum for the elevated requirement level (eA), as opposed to the basic level (gA).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Module beinhalten diesbezüglich jeweils ein Additivum für das erhöhte Anforderungs-\nniveau (eA; im Gegensatz zum grundlegenden Anforderungsniveau, gA), die in den Modulen",
+        "residual_flags": []
+      },
+      {
+        "content": "The core curriculum of the upper secondary level comprises four thematic fields, each with an obligatory (elective-)compulsory module and supplementary elective modules.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Das Kerncurriculum der gymnasialen Oberstufe umfasst vier Themenfelder mit je einem obli-\ngatorisch zu unterrichtenden Pflicht- bzw. Wahlpflichtmodul und",
+        "residual_flags": []
+      },
+      {
+        "content": "The assignment of thematic areas to the semesters is a strong recommendation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Zuordnung der Themenbereiche zu den Semestern der gymnasialen Oberstufe ist eine",
+        "residual_flags": []
+      },
+      {
+        "content": "The respective compulsory module of a thematic area is obligatory to teach.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Das jeweilige Pflichtmodul eines Themenbereichs ist obligatorisch zu unterrichten",
+        "residual_flags": []
+      },
+      {
+        "content": "In the S3 area (Diagnostik und Intervention) a choice must be made about which elective-compulsory module is taken into the school-internal curriculum.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "ist eine Auswahl zu treffen, welches der angege-\nbenen Wahlpflichtmodule (Klinische Psychologie, Gesundheitspsychologie, Arbeits- und Or-\nganisationspsychologie) in das schulinterne Curriculum aufgenommen wird",
+        "residual_flags": []
+      },
+      {
+        "content": "Via the A-Heft, priorities from two thematic areas are prescribed for the central written Abitur examinations.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Mit dem A-Heft werden Schwerpunkte aus zwei Themenbereichen für die zentralen \nschriftlichen Abiturprüfungen vorgegeben",
+        "residual_flags": []
+      },
+      {
+        "content": "Beyond the subject theories, the underlying paradigms and research methods of psychology are to be taken up across modules and in a spiral form in lessons.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Neben den konkret zu behandelnden Fachtheorien sind zudem die den Theorien zugrunde \nliegenden Hauptströmungen bzw. Paradigmen sowie die Forschungsmethoden der Psycholo-\ngie modulübergreifend und spiralförmig im Unterricht aufzugreifen",
+        "residual_flags": []
+      },
+      {
+        "content": "The essential technical terms of the taught modules are binding to convey.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die wesentlichen Fachbegriffe der unterrichteten Module sind verbindlich zu vermitteln",
+        "residual_flags": []
+      },
+      {
+        "content": "Students apply learning-psychological regularities to promote self- and external motivation (H1).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "wenden lernpsychologische Gesetzmäßigkeiten zur \nFörderung der Selbst- und Fremdmotivation an (H1)",
+        "residual_flags": []
+      },
+      {
+        "content": "For the S3 thematic area no supplementary elective selection is provided.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Keine ergänzende Auswahl vorgesehen",
+        "residual_flags": []
+      },
+      {
+        "content": "One elective module may be freely chosen, unless the A-Heft regulates otherwise.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "modulen kann eines frei gewählt werden, sofern dies über das A-Heft nicht anderweitig",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        },
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.3 Inhalte"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "2.3 Inhalte",
+        "printed_page_range": "13–36"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:174dbee5e1c422fb339668198d18c30321420516189bde7f0b12e081f04b83ce"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "An assessment for special-educational-needs support is carried out on written application by the guardians, or where the student is to attend a Sonderschule at the guardians' wish.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 2 — Sonderpädagogischer Förderbedarf, Förderschwerpunkte",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Eine Überprüfung auf sonderpädagogischen Förderbedarf erfolgt nach dieser \nVerordnung, wenn die Sorgeberechtigten eine solche schriftlich beantragen oder, \nwenn die Schülerin oder der Schüler auf Wunsch der Sorgeberechtigten eine Son-\nderschule besuchen soll.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guardians must be appropriately involved and their consent to the assessment is to be sought.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 2 — Sonderpädagogischer Förderbedarf, Förderschwerpunkte",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Die Sorgeberechtigten sind ange-\nmessen zu beteiligen, ihre Zustimmung zur Überprüfung ist anzustreben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Support focus 'Lernen' exists where there is considerable need for support in building appropriate learning and achievement behaviour and basic cognitive structures.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 2 — Sonderpädagogischer Förderbedarf, Förderschwerpunkte",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Sonderpädagogischer Förderbedarf im Schwerpunkt Lernen besteht, wenn bei \neiner Schülerin oder einem Schüler erheblicher Unterstützungsbedarf beim Auf-\nbau eines für das schulische Lernen angemessenen Lern- und Leistungsverhal-\ntens sowie beim Erwerb grundlegender kognitiver Strukturen festgestellt wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Support focus 'Sprache' exists where there is considerable need for support in building and using linguistic action competence.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 2 — Sonderpädagogischer Förderbedarf, Förderschwerpunkte",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Sonderpädagogischer Förderbedarf im Schwerpunkt Sprache besteht, wenn bei \neiner Schülerin oder einem Schüler erheblicher Unterstützungsbedarf beim Auf-\nbau und der Nutzung von sprachlicher Handlungskompetenz festgestellt wird",
+        "residual_flags": []
+      },
+      {
+        "content": "Support focus 'emotionale und soziale Entwicklung' exists where there is considerable need for support in developing age-appropriate work and social behaviour.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 2 — Sonderpädagogischer Förderbedarf, Förderschwerpunkte",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Sonderpädagogischer Förderbedarf im Schwerpunkt emotionale und soziale Ent-\nwicklung besteht, wenn bei einer Schülerin oder einem Schüler erheblicher Unter-\nstützungsbedarf bei der Entwicklung eines altersangemessenen Arbeits- und \n­Sozialverhaltens festgestellt wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Support focus 'Sehen' exists where there is need for support in perceiving and processing visually conveyed stimuli or in compensating for a serious reduction of vision.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 2 — Sonderpädagogischer Förderbedarf, Förderschwerpunkte",
+          "printed_page": 62,
+          "physical_page": 62
+        },
+        "cited_text": "Sonderpädagogischer Förderbedarf im Schwerpunkt Sehen besteht, wenn bei ei-\nner Schülerin oder einem Schüler Unterstützungsbedarf hinsichtlich der Entwick-\nlung von Fähigkeiten zur Wahrnehmung und Verarbeitung optisch vermittelter \nUmweltreize oder zur Kompensation von Begleiterscheinungen im Zusammen-\nhang mit einer erheblichen Minderung des Sehvermögens festgestellt wird.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 59,
+          "printed_page": 59
+        },
+        {
+          "physical_page": 60,
+          "printed_page": 60
+        },
+        {
+          "physical_page": 61,
+          "printed_page": 61
+        },
+        {
+          "physical_page": 62,
+          "printed_page": 62
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "AO-SF Abschnitt 2 — Sonderpädagogischer Förderbedarf, Förderschwerpunkte"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "AO-SF Abschnitt 2 — Sonderpädagogischer Förderbedarf, Förderschwerpunkte",
+        "printed_page_range": "59–62"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

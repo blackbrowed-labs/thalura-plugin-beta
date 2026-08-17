@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:54b204e485e51359c5f4f6cb6fd514e9757fb4e6ab9b26540dba18293971ca56"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Marks are set within a pedagogical-professional overall assessment based on the Klausuren and equivalent work plus documented oral, written and practical work in ongoing lessons.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 10 Leistungsbewertung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "im Rahmen einer pädagogisch-fachlichen Ge-\nsamtbewertung auf Grund der Leistungen in den Klausuren und den ihnen gleichgestell-\nten Arbeiten sowie der dokumentierten mündlichen, schriftlichen und praktischen \nLeistungen in der laufenden Unterrichtsarbeit festgesetzt",
+        "residual_flags": []
+      },
+      {
+        "content": "At the start of every half-year the subject teachers explain the essential assessment criteria and the weighting of individual results in the overall result.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 10 Leistungsbewertung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Fachlehrkräfte erläutern \nden Schülerinnen und Schülern zu Beginn eines jeden Halbjahres die wesentlichen Be-\nwertungskriterien und Anteile der Einzelleistungen an der Gesamtleistung.",
+        "residual_flags": []
+      },
+      {
+        "content": "For serious deficiencies in linguistic correctness or external form, up to two points of the simple weighting must be deducted in written work.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 10 Leistungsbewertung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Bei erheblichen Mängeln in der sprachlichen Richtigkeit oder der äußeren Form sind \nbei der Bewertung der schriftlichen Arbeiten je nach Schwere und Häufigkeit bis zu zwei \nPunkte der einfachen Wertung abzuziehen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 10 Leistungsbewertung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 10 Leistungsbewertung",
+        "printed_page_range": "13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

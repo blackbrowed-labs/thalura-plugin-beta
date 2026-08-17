@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e178cfb951eb9a98cffa67c832b649ef35f7342913a338bb9dc69a14a2b6f328"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The grade 'gut' (11 points) requires a comprehensive, differentiated and independent problem reflection.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5.2 Definition von „gut“ und „ausreichend“",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Note „gut“ (11 Punkte) soll erteilt werden, wenn die philosophische Problemreflexion umfassend und differenziert sowie selbstständig geleistet wurde.",
+        "residual_flags": []
+      },
+      {
+        "content": "The grade 'ausreichend' is defined at 5 points.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5.2 Definition von „gut“ und „ausreichend“",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Note „ausreichend“ (5 Punkte) soll erteilt werden, wenn die philosophische",
+        "residual_flags": []
+      },
+      {
+        "content": "For presentationally designed exam performances, special aspects are considered.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5.2 Definition von „gut“ und „ausreichend“",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Für präsentativ gestaltete Prüfungsleistungen ist besonders zu berücksichtigen, dass",
+        "residual_flags": []
+      },
+      {
+        "content": "For a 'good' presentational performance, a differentiated audience orientation must be recognizable.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5.2 Definition von „gut“ und „ausreichend“",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "ein differenzierter Adressatenbezug erkennbar ist,",
+        "residual_flags": []
+      },
+      {
+        "content": "For an 'adequate' presentational performance, an aesthetic condensation must be recognizable at least in rudimentary form.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5.2 Definition von „gut“ und „ausreichend“",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "eine ästhetische Verdichtung in Ansätzen erkennbar ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Grading standards are formulated from these aspects according to the concrete task.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "4.5.2 Definition von „gut“ und „ausreichend“",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Bewertungsmaßstäbe sind auf der Grundlage dieser Aspekte gemäß der konkreten Aufgabenstellung zu formulieren.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.5.2 Definition von „gut“ und „ausreichend“"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "4.5.2 Definition von „gut“ und „ausreichend“",
+        "printed_page_range": "14–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

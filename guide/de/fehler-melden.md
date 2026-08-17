@@ -12,6 +12,28 @@ sollte. Damit die Entwickler so etwas beheben können, brauchen sie mehr als
 die stellt Thalura dir auf Wunsch zusammen — als eine einzige Datei, die du
 prüfst und selbst verschickst.
 
+## Prüfe zuerst: Läuft Thalura auf deinem Computer?
+
+Zwei Beobachtungen haben fast immer dieselbe Ursache: Die Schuljahresübersicht
+liegt nicht in deinem Lehrer-Ordner, und in einer Einheitenplanung lässt sich
+keine einzige Quellenangabe anklicken. Beides entsteht, wenn deine Aufgabe in
+Claude Cowork in der Cloud läuft statt auf deinem Computer. Gemeldet wird das
+nicht: Es erscheint keine Warnung, kein Schritt bricht ab, und die Dokumente
+sehen fertig aus — deshalb steht diese Prüfung vor allen anderen.
+
+**So prüfst du es:** Liegt die Schuljahresübersicht in deinem Lehrer-Ordner und
+lässt sich in der Verankerung im Bildungsplan wenigstens eine Quellenangabe
+anklicken, dann hat Thalura auf deinem Computer gearbeitet. (Dass einzelne
+Angaben ohne Link bleiben, ist normal: Nicht zu jedem Dokument gibt es eine
+offizielle Online-Fassung.) Sonst schalte unter **Settings → Cowork** die
+Einstellung **„Run new tasks in the cloud"** aus — die Einstellung, die neue
+Aufgaben in der Cloud statt auf diesem Computer startet —, starte danach eine
+neue Aufgabe und sieh nach, ob sich damit erledigt hat, was dir aufgefallen
+ist. Mehr dazu unter [Installation](./installation.md). Bleibt es dabei, melde
+den Fehler wie unten beschrieben — das ist dann genau der richtige Weg.
+
+So ist der Stand heute; ändert sich daran etwas, steht es in `CHANGELOG.md`.
+
 ## Wann du einen Fehler meldest
 
 Immer dann, wenn sich **Thalura selbst** komisch verhält: Etwas sieht falsch

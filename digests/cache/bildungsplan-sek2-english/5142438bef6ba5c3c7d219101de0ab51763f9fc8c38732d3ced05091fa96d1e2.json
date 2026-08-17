@@ -1,0 +1,221 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5142438bef6ba5c3c7d219101de0ab51763f9fc8c38732d3ced05091fa96d1e2"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Cross-curricular competences (überfachliche Kompetenzen) are the basis for successful learning development and for acquiring subject competences.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2 Kompetenzen und Inhalte der Neueren Fremdsprachen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Überfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den \nErwerb fachlicher Kompetenzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competences are assigned to four areas (personal, motivational, learning-method and social competences).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2 Kompetenzen und Inhalte der Neueren Fremdsprachen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die überfachlichen Kompetenzen lassen \nsich vier Bereichen zuordnen:",
+        "residual_flags": []
+      },
+      {
+        "content": "They must be taken into account when drawing up the school-internal curriculum (schulinternes Curriculum).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2 Kompetenzen und Inhalte der Neueren Fremdsprachen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die überfachlichen Kompetenzen sind bei der \nErarbeitung des schulinternen Curriculums zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural competence: by the end of the Studienstufe students can act communicatively in direct and media-mediated intercultural situations.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2 Kompetenzen und Inhalte der Neueren Fremdsprachen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Schülerinnen und Schüler können in direkten und in medial vermittelten interkulturellen Situationen kommu-\nnikativ handeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Listening/viewing comprehension: students can understand authentic audio and audiovisual texts when representative varieties of the target language are spoken.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2 Kompetenzen und Inhalte der Neueren Fremdsprachen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Schülerinnen und Schüler können authentische Hör- und Hörsehtexte verstehen, sofern repräsentative Va-\nrietäten der Zielsprache gesprochen werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Speaking: students can take part in conversations largely fluently, linguistically correctly and appropriately for addressee and situation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2 Kompetenzen und Inhalte der Neueren Fremdsprachen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler können sich weitgehend flüssig, sprachlich korrekt und adressatengerecht sowie \nsituationsangemessen an Gesprächen beteiligen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Kompetenzen und Inhalte der Neueren Fremdsprachen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "2 Kompetenzen und Inhalte der Neueren Fremdsprachen",
+        "printed_page_range": "11–34"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:3db69dfadddac899dc3fef93e3fd3976191f6c9e763d662a3963ea94c4d1fda3"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Aim of Sek II language teaching: enabling students to take part in foreign-language discourse and to act and judge reflectively and independently.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Ziel des Sprachenunterrichts der Sekundarstufe II ist es, Schülerinnen und Schüler zu befähi-\ngen, an fremdsprachlichen Diskursen teilzunehmen sowie reflektiert und selbstständig \n(sprachlich) zu handeln und zu urteilen.",
+        "residual_flags": [
+          "heading-rendering: the page renders the section heading as 'Inhalte' without the '2.3' number"
+        ]
+      },
+      {
+        "content": "Binding reading load: at least two full literary works (Ganzschriften) in the target language at basic level, at least three at raised level, one of them from the second half of the 20th or the 21st century.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Im Unterricht der weitergeführten Fremdsprache werden im Verlauf der Studienstufe auf \ngrundlegendem Anforderungsniveau mindestens zwei, auf erhöhtem Anforderungsniveau \nmindestens drei literarische Ganzschriften in der Zielsprache gelesen, auf erhöhtem Anforde-\nrungsniveau eine davon aus der zweiten Hälfte des 20. oder aus dem 21. Jahrhundert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Structure of the core curriculum: four topic areas (Themenbereiche) with eight topics in total; at least four topics must be covered during the Studienstufe.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Das Kerncurriculum weist vier Themenbereiche mit insgesamt acht Themen aus. \nIm Verlauf der Studienstufe sind insgesamt mindestens vier Themen zu behandeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Treating a target culture (Bezugskultur) is compulsory content of Studienstufe foreign-language teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Die Behandlung einer Bezugskultur ist verpflichtender Inhalt des Fremdsprachenunterrichts \nder Studienstufe.",
+        "residual_flags": []
+      },
+      {
+        "content": "In English, topic area 1 has three modules (USA / UK / a further anglophone target culture), at least one of which must be chosen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Im Fach Englisch gibt es zum Themenbereich 1 der Bezugskultur drei Module (USA/UK/wei-\ntere anglophone Bezugskultur), von denen mindestens eines zur Bearbeitung ausgewählt wer-\nden muss.",
+        "residual_flags": []
+      },
+      {
+        "content": "At least two of the seven remaining topics must be selected; the fourth topic may be taken from the core curriculum or chosen freely by school or teacher.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Von den sieben weiteren Themen sind mindestens zwei zur Bearbeitung auszuwählen. Das \nvierte zu bearbeitende Thema kann den in den Kerncurricula vorgegebenen Themenbereichen \nentnommen oder von der Schule bzw. Lehrkraft frei gewählt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Central written Abitur requirements can restrict topic choice; topics prescribed there are binding.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Einschränkungen bei der Auswahl der Themen können sich aus den Vorgaben für die zentra-\nlen schriftlichen Abiturprüfungen ergeben. Die dort vorgesehenen Themen sind verbindlich.",
+        "residual_flags": []
+      },
+      {
+        "content": "Each topic has binding content requiring basic knowledge (Grundwissen); this content is marked in bold.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "In jedem Thema gibt es verbindliche Inhalte, zu denen ein Grundwissen erworben werden \nmuss. Diese Inhalte sind durch Fettdruck hervorgehoben.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.3 Inhalte"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "2.3 Inhalte",
+        "printed_page_range": "22–34"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

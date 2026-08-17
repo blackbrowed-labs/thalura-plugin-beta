@@ -1,0 +1,142 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:faeb9a9e15ae99f03a33057908e5544688c5fc9b78128de1d9285ddbc4a6de04"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students are required to present subject matters precisely, as far as possible in educational language and using technical terms, and to produce coherent texts; weaker writers need targeted aids like writing frames (Schreibrahmen).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "wie zum Beispiel Schreibrahmen, angewiesen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are taught skills for planning, writing and revising a text, and writing strategies are fostered within subject-specific writing tasks.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "das Planen, Verschriftlichen und",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachbewusstheit (language awareness) is the ability to make language and language use an object of thinking, comprising metalinguistic knowledge and the ability to adapt language use to the communicative situation.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "wird die Fähigkeit verstanden, Sprache und Sprach",
+        "residual_flags": []
+      },
+      {
+        "content": "Fostering awareness of word structure (morphology) and sentence structure (syntax) is linked to higher spelling and reading comprehension and is primarily an object of German lessons.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Bau von Wörtern (Morphologie)",
+        "residual_flags": []
+      },
+      {
+        "content": "In subject teaching, language awareness is fostered in a subject- and topic-related way; students learn to use linguistic registers deliberately and purposefully.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "sprachliche Register bewusst und zielgerichtet zu verwenden",
+        "residual_flags": []
+      },
+      {
+        "content": "Students adapt their language use to the communicative situation by increasingly consciously switching between everyday, educational and technical language.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "zwischen von Alltagssprache, Bildungs- und Fachsprache wechseln",
+        "residual_flags": []
+      },
+      {
+        "content": "Multilingualism is used in class, depending on subject context and group composition, for language comparison to develop language awareness, benefiting both multilingual and monolingual German students.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.4 Sprachbewusstheit",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "zum Sprachvergleich ge",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.4 Sprachbewusstheit"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "2.4 Sprachbewusstheit",
+        "printed_page_range": "9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

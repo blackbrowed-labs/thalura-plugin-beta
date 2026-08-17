@@ -1,0 +1,109 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6ff5337f95a137610fdfa445d481d843b39520baa26e9bfed6cb53d7b144ddf6"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The AO-SF is the ordinance on the education of students with special-educational-needs support (sonderpädagogischer Förderbedarf).",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF — Inhaltsübersicht",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "Verordnung über die Ausbildung  \nvon Schülerinnen und Schülern \nmit sonderpädagogischem  \nFörderbedarf\n(AO-SF)",
+        "residual_flags": []
+      },
+      {
+        "content": "It dates from 31 October 2012.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF — Inhaltsübersicht",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "Vom 31. Oktober 2012 (HmbGVBl. S. 467)",
+        "residual_flags": []
+      },
+      {
+        "content": "The table of contents lists § 2 Sonderpädagogischer Förderbedarf with a page reference that breaks the ascending order of the following entries (§§ 3-5 point to page 60).",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF — Inhaltsübersicht",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "§ 2\t\nSonderpädagogischer Förderbedarf...........................................................62",
+        "residual_flags": [
+          "source-anomaly-verbatim: TOC page reference for § 2 reads '62' although §§ 3-9 that follow it are listed at pages 60-63; in the body § 2 begins on the page carrying § 1's section (printed 59/60)"
+        ]
+      },
+      {
+        "content": "Section 5 of the AO-SF covers performance assessment, certificates and leaving qualifications.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF — Inhaltsübersicht",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "ABSCHNITT 5\nLeistungsbewertung, Zeugnisse und Abschlüsse",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 57,
+          "printed_page": 57
+        },
+        {
+          "physical_page": 58,
+          "printed_page": 58
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "AO-SF — Inhaltsübersicht"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "AO-SF — Inhaltsübersicht",
+        "printed_page_range": "57–58"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

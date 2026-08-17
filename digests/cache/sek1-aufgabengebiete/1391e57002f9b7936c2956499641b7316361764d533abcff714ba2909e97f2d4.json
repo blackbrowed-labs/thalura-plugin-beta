@@ -1,0 +1,353 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1391e57002f9b7936c2956499641b7316361764d533abcff714ba2909e97f2d4"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The goal of career orientation is to strengthen students' individual career-choice competence.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Ziel der beruflichen Orientierung ist es, die individuelle Berufswahlkompetenz",
+        "residual_flags": []
+      },
+      {
+        "content": "Career orientation gives students the space to clarify their interests, strengths and abilities.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Berufliche Orientierung bietet den Schülerinnen und Schülern den notwendigen Raum",
+        "residual_flags": []
+      },
+      {
+        "content": "Dynamic changes in the labour market and living environment make transition decisions a challenge for all involved.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die dynamischen Veränderungen des Arbeitsmarktes und der Lebenswelt",
+        "residual_flags": []
+      },
+      {
+        "content": "The task area requires all subject teachers to give impulses for a career perspective.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "alle Fachlehrkräfte Impulse für eine berufliche Perspektive",
+        "residual_flags": []
+      },
+      {
+        "content": "Practical vocational and real-life experiences, prepared and reflected upon in school, let students apply and deepen competences.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Praktische berufliche und lebensweltliche Erfahrungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Competence requirements are defined for the end of grade 6.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Anforderungen am Ende der Jahrgangsstufe 6",
+        "residual_flags": []
+      },
+      {
+        "content": "Students engage with their individual interests, abilities and strengths.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "setzen sich mit ihren individuellen Interessen, Fähigkeiten und Stärken auseinander.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students know what constitutes a profession.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "wissen, was einen Beruf ausmacht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students know various paths from school into work.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "kennen verschiedene Wege von der Schule in den Beruf.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students reflect on their own attitudes and values regarding working life.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "reflektieren ihre eigenen Einstellungen und Werte in Bezug auf Gegebenheiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are able to weigh consumption decisions considering economic, ecological and social aspects.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "sind in der Lage, Konsumentscheidungen abzuwägen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students actively use practical learning opportunities inside and outside school.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "nutzen aktiv praktische Lernangebote innerhalb und außerhalb der Schule",
+        "residual_flags": []
+      },
+      {
+        "content": "Competence requirements are defined for the end of lower secondary level I.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Anforderungen am Ende der Sekundarstufe I",
+        "residual_flags": []
+      },
+      {
+        "content": "Students determine their individual learning, exploration and counselling needs.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "ermitteln ihren individuellen Lern-, Erkundungs- und Beratungsbedarf.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students know and compare various career biographies, job profiles and study/training paths.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "kennen und vergleichen verschiedene Erwerbsbiografien, Berufsbilder",
+        "residual_flags": []
+      },
+      {
+        "content": "From grade 8 at the latest, students systematically document information in a career-orientation portfolio.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "dokumentieren spätestens ab Jahrgang 8 systematisch",
+        "residual_flags": []
+      },
+      {
+        "content": "Students justify their career-choice decisions clearly and precisely.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "begründen ihre Berufswahlentscheidungen klar und präzise.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content is organised under Themenbereich 1: Leben und Arbeit.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Themenbereich 1: Leben und Arbeit",
+        "residual_flags": []
+      },
+      {
+        "content": "During the orientation stage students develop ideas and wishes for their future.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Im Verlauf der Orientierungsstufe entwickeln die Schülerinnen",
+        "residual_flags": []
+      },
+      {
+        "content": "A second content area is Themenbereich 2: Anschlussorientierung.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Themenbereich 2: Anschlussorientierung",
+        "residual_flags": []
+      },
+      {
+        "content": "At the end of secondary level I students formulate an independent, justified transition decision.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Am Ende der Sekundarstufe I formulieren sie eine eigenständige",
+        "residual_flags": []
+      },
+      {
+        "content": "Content covers compulsory-schooling-fulfilling transitions after grade 9.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "schulpflichterfüllende Anschlüsse nach Jahrgang 9",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Berufsorientierung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.1 Berufsorientierung",
+        "printed_page_range": "8–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:d112d8db19cff4afb7f6e4af40e61496d4441085989cba15a0462055878bf2b4"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "English offers many points of connection to the cross-cutting perspective of values education and value orientation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Das Fach Englisch bietet viele Bezugspunkte zu der Leitperspektive Wertebildung/Werteori-\nentierung.",
+        "residual_flags": []
+      },
+      {
+        "content": "English lessons systematically develop varied intercultural communicative competences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Im Englischunterricht werden systematisch vielfältige interkulturelle kommunikative \nKompetenzen entwickelt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students engage with the everyday life, attitudes and opinions of children and young people in the anglophone language and culture areas and, over lower secondary, increasingly learn about their cultural, social and historical circumstances.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Schülerinnen und Schüler setzen sich mit dem Alltagsleben so-\nwie den Einstellungen und Meinungen von Kindern und Jugendlichen in den anglophonen \nSprach- und Kulturräumen auseinander und lernen im Verlauf der Sekundarstufe I zunehmend \nderen kulturelle, gesellschaftliche und historische Gegebenheiten kennen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Literary texts are especially suited here to strengthening learners' capacity for empathy.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Literarische Texte \neignen sich hier besonders, um die Empathiefähigkeit der Lernenden zu stärken.",
+        "residual_flags": []
+      },
+      {
+        "content": "English lessons let students compare their own social reality with the different cultures of the English-speaking world and reflect on it critically from ethical and social viewpoints.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Der Englischunterrichtet bietet den Schülerinnen und Schülern die Möglichkeit, ihre eigene \ngesellschaftliche Realität mit den unterschiedlichen Kulturen im englischsprachigen Raum zu \nvergleichen und unter ethischen und sozialen Gesichtspunkten kritisch zu reflektieren.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "This allows students to develop personal core competences such as respect and an understanding of democracy.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Dies \nerlaubt es ihnen, personale Grundkompetenzen wie Respekt und Demokratieverständnis aus-\nzubilden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Designing learning situations that take account of diversity and different cultural identities fosters tolerance of ambiguity, acceptance and appreciation of difference.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Durch die Gestaltung von Lernsituationen, die Diversität und verschiedene kulturelle \nIdentitäten berücksichtigen, werden Ambiguitätstoleranz, Akzeptanz und Wertschätzung von \nVerschiedenheit gefördert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Education for sustainable development has gained importance worldwide in recent years and now permeates all areas of life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Erziehung und Bildung für eine nachhaltige Entwicklung hat in den letzten Jahren weltweit \nan Bedeutung gewonnen und durchdringt inzwischen alle Lebensbereiche.",
+        "residual_flags": []
+      },
+      {
+        "content": "English as an international lingua franca plays an outstanding role in the accompanying political and social discourses.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "In den damit ein-\nhergehenden politischen und gesellschaftlichen Diskursen spielt Englisch als internationale \nVerkehrssprache eine herausragende Rolle.",
+        "residual_flags": []
+      },
+      {
+        "content": "English enables students to approach, grasp and reflect on sustainability-relevant topics through language acquisition and engagement with conditions in the anglophone language and culture area.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Englisch ermöglicht es den Schülerinnen und \nSchülern, sich durch den Spracherwerb und die Auseinandersetzung mit den Gegebenheiten \nim anglophonen Sprach- und Kulturraum nachhaltigkeitsrelevanten Themen zu nähern, sie zu \nbegreifen und ihr eigenes Handeln diesbezüglich zu reflektieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "This access initially consists of a linguistic component tied to expanding communicative ability.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Dieser Zugang besteht mit dem Ausbau der Kommunikationsfähigkeit zunächst aus einer \nsprachlichen Komponente.",
+        "residual_flags": []
+      },
+      {
+        "content": "English teaching conveys intercultural communicative competences that matter for understanding in encounters and for exchange within education for sustainable development.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Der Englischunterricht vermittelt interkulturelle kommunikative \nKompetenzen, die zur Verständigung bei Begegnungen und für den Austausch im Rahmen \neiner Bildung für eine nachhaltige Entwicklung von Bedeutung sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "By engaging with other cultures, students encounter other value systems, perspectives and solution approaches, and develop empathy and judgement.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Schülerinnen und Schüler \nsetzen sich durch die Beschäftigung mit anderen Kulturen auch mit anderen Wertvorstellun-\ngen, Perspektiven und Lösungsansätzen für Probleme auseinander und entwickeln dabei Em-\npathie und Urteilsfähigkeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are thereby enabled to use language for peace and social justice and to contribute to societal change towards sustainable development.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Sie werden dadurch befähigt, Sprache für Frieden und soziale Ge-\nrechtigkeit einzusetzen und damit zu gesellschaftlichen Veränderungen im Sinne einer nach-\nhaltigen Entwicklung beizutragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "English lessons also treat numerous globally relevant topics from ecology, economy and society.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Des Weiteren werden im Unterrichtsfach Englisch zahlreiche global relevante Themen aus \nden Bereichen Ökologie, Ökonomie und Gesellschaft bearbeitet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Literary and fictional approaches supplement knowledge transfer with subjective experiences in different social contexts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Literarische und fiktionale \nZugänge ergänzen den Aspekt der Wissensvermittlung durch subjektive Erfahrungen in unter-\nschiedlichen gesellschaftlichen Kontexten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The effects of global disparities on individual and society are mirrored directly in film, music and literature and foster students' problem awareness for sustainability topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Auswirkungen globaler Disparitäten auf Indivi-\nduum und Gesellschaft werden in Film, Musik und Literatur unmittelbar gespiegelt und fördern \nbei den Schülerinnen und Schülern ein Problembewusstsein für Themen der Nachhaltigkeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "English makes varied contributions to meeting a culture of digitality confidently and productively.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Das Fach Englisch leistet vielfältige Beiträge, um einer Kultur der Digitalität souverän und pro-\nduktiv zu begegnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "It contributes to both individual and collective expansion of a functional competence.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Es trägt sowohl zur individuellen als auch zur gemeinschaftlichen Erwei-\nterung einer funktionalen Kompetenz bei.",
+        "residual_flags": []
+      },
+      {
+        "content": "Because English acts as a lingua franca on the internet, the English language carries particular significance in the digital space.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Vor dem Hintergrund, dass Englisch im Internet die Rolle einer Lingua franca einnimmt, kommt \nder englischen Sprache im digitalen Raum eine besondere Bedeutung zu.",
+        "residual_flags": []
+      },
+      {
+        "content": "Using digital media and tools in English lessons opens access to numerous cultural, global discourses and perspectives in the foreign language.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Der Einsatz digitaler \nMedien und Werkzeuge im Englischunterricht eröffnet einen Zugang zu zahlreichen kulturellen \nglobalen Diskursen und Perspektiven in der Fremdsprache.",
+        "residual_flags": []
+      },
+      {
+        "content": "Digital communication and cooperation can thereby be practised appropriately to the situation in authentic English-language contexts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Dadurch können digitale Kommu-\nnikation und Kooperation in authentischen englischsprachigen Kontexten situationsadäquat \npraktiziert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The particular potential of digital media use in English lessons lies in the asynchronous or synchronous production of multimodal interactive texts and their reception in the public sphere of the digital space.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Das besondere Potenzial der digitalen Mediennutzung im Englischunterricht liegt in der asyn-\nchronen/synchronen Produktion multimodaler interaktiver Texte und deren Rezeption in der \nÖffentlichkeit des digitalen Raumes.",
+        "residual_flags": []
+      },
+      {
+        "content": "English lessons let students reflect on the opportunities and risks of their media use and, where appropriate, modify their own use.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Der Englischunterricht bietet den Schülerinnen und Schü-\nlern die Möglichkeit, Chancen und Risiken ihres Mediengebrauchs zu reflektieren und ggfs. \ndie eigene Nutzung zu modifizieren.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+        "printed_page_range": "10–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

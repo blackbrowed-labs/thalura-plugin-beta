@@ -1,0 +1,77 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0e89b5963c4a412d52cc377096fec9ae9fa92205efbc29b6205a6e8a5e79063f"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Sprachhandlung 3 FRAGEN — purpose: asking indicates which knowledge element is sought in order to fill a knowledge gap, and at the same time reveals the questioner's state of knowledge on the problem area in the classroom context.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "3. FRAGEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Das Fragen zeigt an, welches Wissensele-\nment gesucht wird, um eine Wissenslücke \nzu füllen. Zugleich macht es im Unter-\nrichtskontext den entsprechenden Kennt-\nnisstand des/der Fragenden zum Problem-\nkreis deutlich.",
+        "residual_flags": []
+      },
+      {
+        "content": "Descriptors 3.1–3.6: identify oral or written questions by word order (e.g. predicate first: 'Erklärst du mir das?'), by question words and by intonation, and reproduce them in one's own words; utter and note questions on a matter or texts; identify and name the aim/purpose of the question; distinguish and use question types and forms (open questions, W-questions, yes/no questions); plan and carry out a subject-related survey, poll or interview questions; and develop or check questions or question collections with others.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "3. FRAGEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "3.1 mündlich oder schriftlich geäußerte Fragen anhand ihrer Wortstellung (z.B. Prädikat in Erststellung: \nErklärst du mir das?), an der Verwendung von Fragewörtern sowie bei mündlichen Fragen durch die \nIntonation identifizieren und in eigenen Worten wiedergeben \n3.2 zu einem Sachverhalt oder zu Texten Fragen äußern und notieren \n3.3 das Ziel bzw. den Zweck der Frage identifizieren und benennen \n3.4 Fragetypen und Frageformen unterscheiden (z.B. offene Fragen, W-Fragen, Ja-/Nein-Fragen) und \ngezielt einsetzen \n3.5 eine fachbezogene Befragung, eine Umfrage oder Fragen für ein Interview planen und durchführen \n3.6 im Austausch mit Anderen Fragen oder Fragesammlungen zu einem fachbezogenen Sachverhalt \nentwickeln oder prüfen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3. FRAGEN"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "3. FRAGEN",
+        "printed_page_range": "19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

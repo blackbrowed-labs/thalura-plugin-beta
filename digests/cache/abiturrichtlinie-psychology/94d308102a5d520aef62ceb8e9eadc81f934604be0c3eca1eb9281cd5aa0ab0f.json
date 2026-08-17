@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:94d308102a5d520aef62ceb8e9eadc81f934604be0c3eca1eb9281cd5aa0ab0f"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Den Aufgaben wird eine Beschreibung der erwarteten Leistungen samt Angabe von Bewertungskriterien beigegeben.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.4 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizont)",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "der Angabe von Bewertungskriterien beigegeben",
+        "residual_flags": []
+      },
+      {
+        "content": "Die konkreten Leistungserwartungen werden in einem Erwartungshorizont formuliert.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.4 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizont)",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die konkreten Leistungserwartungen werden in einem Erwartungshorizont formuliert",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Bewertung der Gesamtleistung muss sich stringent aus der Bewertung der Teilleistungen ergeben.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.4 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizont)",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "muss sich stringent aus der Bewertung der Teilleistungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Von den Prüflingen beschrittene Lösungswege, die sinnvoll begründbar vom Erwartungshorizont abweichen, sind positiv zu bewerten.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.4 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizont)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "begründbar vom Erwartungshorizont abweichen, positiv zu bewerten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Grundsätzlich werden im Erwartungshorizont die Anforderungsbereiche benannt.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.4 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizont)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "werden im Erwartungshorizont die Anforderungsbereiche benannt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.4 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizont)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "4.4 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizont)",
+        "printed_page_range": "10–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:4d6e6bd184613870d1648d59a7a505940ca1dcf6db5b52cfff8532a21dc71d15"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A1 (end of grade 6): students understand everyday utterances via familiar words and sentences when spoken very slowly, clearly and with pauses/repetition.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler verstehen alltägliche",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 (raised requirement, grade 6): students understand short texts and conversations spoken in clearly articulated standard language at a slow pace about familiar content.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler verstehen kurze Texte",
+        "residual_flags": []
+      },
+      {
+        "content": "A1 competency: students understand familiar expressions, questions and sentences, including corresponding messages from their classmates.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "verstehen vertraute Ausdrücke, Fragen und Sätze,",
+        "residual_flags": []
+      },
+      {
+        "content": "A1 competency: students follow short classroom discussions on familiar and practised topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "folgen kurzen Unterrichtsgesprächen zu vertrauten",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 competency: students follow the classroom conversation (prompts, questions).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "folgen dem Unterrichtsgespräch (Aufforderungen,",
+        "residual_flags": []
+      },
+      {
+        "content": "A2- (first general school-leaving qualification): students understand sentences on familiar content when spoken slowly and clearly and repeated.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "ten, wenn langsam und deutlich",
+        "residual_flags": []
+      },
+      {
+        "content": "A2- competency: students follow simple utterances in the classroom conversation when spoken clearly.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "folgen einfachen Äußerungen im",
+        "residual_flags": []
+      },
+      {
+        "content": "A2+ competency: students follow the classroom conversation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "folgen dem Unterrichtsgespräch,",
+        "residual_flags": [
+          "page-multi-match:physical-16-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "B1- competency: students understand short and simple telephone conversations, announcements, messages and spoken information.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "verstehen kurze und einfache",
+        "residual_flags": [
+          "page-multi-match:physical-16-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Requirement levels with a view to the Studienstufe (upper secondary) are presented for grade 9 and the transition.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Anforderungsniveaus mit Blick auf die Studienstufe",
+        "residual_flags": []
+      },
+      {
+        "content": "B1- (grade 9, transition to Studienstufe): students understand information and conversations on familiar content even with unknown but contextually inferable words.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "und Gespräche zu vertrauten Inhalten, auch",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ (transition to Studienstufe): students extract main statements and specific details from uncomplicated factual information, conversations, talks and audio-(visual) texts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "zierten Sachinformationen, Gesprächen, Vorträgen",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ competency: students follow the essential points of a longer discussion and argumentation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "folgen den wesentlichen Punkten einer längeren",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ competency: students extract essential information from authentic films, film excerpts or audio-(visual) texts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "entnehmen authentischen Filmen, Filmausschnitten",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "K1 Hör- und Hör-Sehverstehen (Rezeption)",
+        "printed_page_range": "15–17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

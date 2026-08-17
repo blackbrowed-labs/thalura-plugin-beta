@@ -1,0 +1,631 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e999ad22f68e586c22364e4e46592ef8a4ad72306a4a1e0a529c3b22ffe41e30"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Chapter 1 of the curriculum is titled \"Lernen im Fach Philosophie\" and opens with section 1.1 on didactic principles (Didaktische Grundsätze).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "1 Lernen im Fach Philosophie \n1.1 Didaktische Grundsätze",
+        "residual_flags": []
+      },
+      {
+        "content": "In philosophy lessons students take phenomena and problems of their own life-world (Lebenswelt) as the starting point in order to develop philosophical questions, which they then pursue jointly as a community of inquiry (Forschungsgemeinschaft).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Philosophieunterricht nehmen die Schülerinnen und Schüler Phänomene und Probleme ih-\nrer Lebenswelt zum Ausgangspunkt, um philosophische Fragen zu entwickeln, die von ihnen \ngemeinsam als Forschungsgemeinschaft verfolgt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Philosophy teaching deliberately makes room for hesitant, unhurried reflectiveness, on the basis of which questions are found and formulated.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Philosophieunterricht bietet \nRaum für eine zögerliche Nachdenklichkeit, auf deren Basis Fragen gefunden und formuliert",
+        "residual_flags": []
+      },
+      {
+        "content": "Errors and detours are regarded as meaningful components of processes of experience and learning, not as failures.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Fehler und Umwege werden dabei als bedeutsame Bestandteile von Erfahrungs- und \nLernprozessen angesehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning processes and learning outcomes are designed and evaluated jointly, and (also digital) opportunities are opened up to follow learning paths that differ in content and method, which eases internal differentiation (Binnendifferenzierung), e.g. with regard to interests and prior knowledge.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Lernprozesse und Lernergebnisse werden gemeinsam gestaltet \nund evaluiert, und es werden (auch digitale) Möglichkeiten eröffnet, inhaltlich und methodisch \nunterschiedliche Lernpfade zu beschreiten, so dass eine Binnendifferenzierung z. B. in Rück-\nsicht auf Interessen und Vorkenntnisse erleichtert wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching starts from students' preconceptions and subjective theories and from their own questions and problematisations; the students share responsibility for shaping their learning paths.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Unterricht nimmt seinen Ausgang \nvon Präkonzepten und subjektiven Theorien sowie von den Fragen bzw. Problematisierungen \nder Schülerinnen und Schüler, die für die Gestaltung ihrer Lernwege eine Mitverantwortung \ntragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The aim is to clarify the presuppositions and conditions of our thinking and acting as well as the concepts by which we refer to them. (The printed text reads \"Han-dels\" where \"Handelns\" is meant.)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Ziel ist das Klären von Voraussetzungen und Bedingungen unseres Denkens und Han-\ndels sowie von Begrifflichkeiten, mit denen wir uns auf diese beziehen.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "Before answers are sought it must be clarified what exactly is being asked, whether the question can be answered at all, and if so in what way and with which methods.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Bevor nach Antworten \nauf Fragen gesucht wird, ist zu klären, was genau erfragt wird, ob die Frage beantwortet werden \nkann und ggf. in welcher Weise bzw. mit welchen Methoden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Within a conceptual-analytic clarification — examining e.g. definitions, classifications, presuppositions, rules of inference and conclusions — philosophical problems can frequently already be solved or dissolved. (The printed text reads \"Schussfolgerungen\" for \"Schlussfolgerungen\".)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Rahmen einer begrifflich-ana-\nlytischen Klärung, bei der z. B. Definitionen, Klassifikationen, Voraussetzungen, Schlussregeln \nund Schussfolgerungen genauer in den Blick genommen werden, können philosophische Prob-\nleme häufiger bereits gelöst bzw. aufgelöst werden.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "Other questions require specific knowledge, which stems for example from life-world experience or from the sciences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Andere Fragen erfordern spezifisches Wis-\nsen. Dieses Wissen stammt z. B. aus lebensweltlicher Erfahrung oder aus den Wissenschaften",
+        "residual_flags": []
+      },
+      {
+        "content": "Such knowledge is to be brought into philosophy lessons so that connections can be recognised and the plausibility of particular claims or assumptions can be judged.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "und ist in den Philosophieunterricht einzubeziehen, um Zusammenhänge zu erkennen und die \nPlausibilität bestimmter Behauptungen oder Annahmen beurteilen zu können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under the principle of problem orientation (Problemorientierung), philosophical problems that are located and formulated in relation to the students' life-world stand at the centre of the lesson.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Problemorientierung \nIm Zentrum des Unterrichts stehen philosophische Probleme, die in Bezug auf die Lebenswelt \nder Schülerinnen und Schüler aufgefunden und formuliert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Theories, theses, arguments or perspectives from the philosophical tradition and from academic philosophy come into play insofar as they contribute to dealing with these problems.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Theorien, Thesen, Argu-\nmente oder Perspektiven der philosophischen Tradition und Fachwissenschaft kommen ins \nSpiel, insofern sie einen Beitrag zur Auseinandersetzung mit diesen Problemen leisten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Problems do not arise only where contradictory assumptions or positions confront one another.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Prob-\nleme ergeben sich nicht allein dann, wenn sich widersprüchliche Annahmen oder Positionen \ngegenüberstehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Problems frequently arise already from the fact that it is unclear which presuppositions are being made and how particular concepts are defined.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Probleme stellen sich bereits häufig dadurch, dass nicht klar ist, von wel-\nchen Voraussetzungen ausgegangen wird und wie bestimmte Begriffe definiert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Philosophy lessons meet this difficulty by giving a role to phases of clarifying what is presupposed, what is in question, and how the question can and should be pursued.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Dieser \nSchwierigkeit wird in besonderer Weise im Philosophieunterricht begegnet, indem Phasen der \nKlärung dessen, was vorausgesetzt wird, was in Frage steht und wie der Frage nachgegangen \nwerden kann und soll, eine Rolle spielen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Jointly developing and formulating guiding questions (Leitfragen) that express philosophical problems is an essential task of the lesson.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die gemeinsame Entwicklung und Formulierung von \nLeitfragen, die philosophische Probleme ausdrücken, ist eine wesentliche Aufgabe des Unter-\nrichts.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teachers support students in articulating their own experiences and personal interests and in relating these to philosophical concepts, theses, arguments and lines of thought, so that by reflecting on their problem-solving activity they can recognise and consciously practise philosophical methods.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Hierzu unterstützen die Lehrenden die Schülerinnen und Schüler darin, eigene Erfah-\nrungen und persönliche Interessen zu artikulieren sowie diese auf fachphilosophische Begriffe, \nThesen, Argumente und Denkwege zu beziehen, um durch Reflexion der problemlösenden \nAktivitäten fachphilosophische Methoden zu erkennen und bewusst einüben zu können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Engaging with philosophical theories and positions serves to bring new questions, theses, arguments and perspectives into the discussion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die \nAuseinandersetzung mit philosophischen Theorien und Positionen dient dazu, neue Fragen, \nThesen, Argumente und Perspektiven in die Diskussion zu bringen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In each case it must be examined jointly how far these theories and positions actually advance the process of clarification.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Dabei ist jeweils gemein-\nsam zu prüfen, inwiefern sie den Klärungsprozess voranbringen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under the principle of the community of inquiry (Forschungsgemeinschaft), students and teachers together form such a community in the lesson.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Schülerinnen und Schüler und die Lehrkräfte bilden im Unterricht eine Forschungsgemein-\nschaft.",
+        "residual_flags": []
+      },
+      {
+        "content": "They jointly set themselves research goals and work out questions, theses and arguments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Sie setzen sich gemeinsam Forschungsziele, erarbeiten Fragen, Thesen, Argumente",
+        "residual_flags": []
+      },
+      {
+        "content": "They also work out perspectives and judge the results of their own philosophising.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "oder Perspektiven und beurteilen die Ergebnisse ihres Philosophierens.",
+        "residual_flags": []
+      },
+      {
+        "content": "The course of the research process depends on the experiences, questions, thoughts and perspectives that the students bring into it.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Verlauf des For-\nschungsprozesses hängt von den Erfahrungen, Fragen, Gedanken und Perspektiven ab, die \ndie Schülerinnen und Schüler in ihn einbringen.",
+        "residual_flags": []
+      },
+      {
+        "content": "For that reason the process cannot be planned completely in advance.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Er ist deshalb nicht vollständig im Vorhinein \nplanbar.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teachers ensure openness towards new thoughts and perspectives that can give the lesson new turns.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Lehrkräfte sorgen für Offenheit gegenüber neuen Gedanken und Perspektiven, \ndie dem Unterricht neue Wendungen geben können.",
+        "residual_flags": []
+      },
+      {
+        "content": "In doing so the teachers themselves also become learners.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Dabei werden die Lehrenden selbst auch \nzu Lernenden.",
+        "residual_flags": []
+      },
+      {
+        "content": "At the same time teachers have the task of structuring the students' questions, thoughts and perspectives and the discussions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Gleichzeitig haben sie die Aufgabe, die Fragen, Gedanken und Perspektiven \nder Schülerinnen und Schüler und die Diskussionen zu strukturieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teachers also do this by introducing new questions, theses, arguments or perspectives as impulses, e.g. through selected materials such as texts, pictures, cartoons, films, pieces of music, artworks or visualisations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Dies geschieht auch \ndadurch, dass die Lehrkräfte neue Fragen, Thesen, Argumente oder Perspektiven z. B. durch \nausgewählte Materialien wie Texte, Bilder, Karikaturen, Filme, Musikstücke, Kunstwerke oder \nVisualisierungen als Impulse einbringen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under the principle of judgement formation (Urteilsbildung), the aim of the lesson is that students gain orientation in thinking and acting through methodically guided reflection.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Urteilsbildung \nZiel des Unterrichts ist eine Orientierung der Schülerinnen und Schüler im Denken und Han-\ndeln durch eine methodisch geleitete Reflexion.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students should not only think the chosen guiding questions through together but finally also arrive at judgements of their own that can become guiding for their thinking and acting, and reflect which perspective on phenomena and which ways of acting are implied by particular judgements.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Dazu sollen sie die gewählten Leitfragen nicht \nnur gemeinsam durchdenken, sondern schließlich auch zu eigenen Urteilen gelangen, die für \nihr Denken und Handeln leitend werden (können), sowie reflektieren, welche Perspektive auf \nbestimmte Phänomene und welche Handlungsweisen mit bestimmten Urteilen impliziert sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "A philosophical judgement is a reasoned judgement and is thereby demarcated from mere opinion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Ein philosophisches Urteil ist ein begründetes Urteil und damit von bloßer Meinung abge-\ngrenzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "It is grounded in the interim results of the joint research processes and takes account of different perspectives and arguments as well as of the situatedness of judgement formation within this community of inquiry under particular social and cultural circumstances.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Es gründet in den Zwischenergebnissen der gemeinsamen Forschungsprozesse und \nberücksichtigt unterschiedliche Perspektiven und Argumente wie auch die Situierung der Ur-\nteilsbildung in dieser Forschungsgemeinschaft unter bestimmten gesellschaftlichen und kultu-\nrellen Umständen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In judgement formation these differing perspectives are reflected upon and arguments are weighed against one another.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "In der Urteilsbildung werden diese unterschiedlichen Perspektiven reflek-\ntiert und Argumente gegeneinander abgewogen.",
+        "residual_flags": []
+      },
+      {
+        "content": "It can also be a legitimate outcome to recognise that an adequate judgement cannot yet be given.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sinnvoll kann aber ggf. auch die Einsicht \nsein, ein angemessenes Urteil noch nicht abgeben zu können.",
+        "residual_flags": []
+      },
+      {
+        "content": "In that case the knowledge a judgement requires must be identified and obtained, e.g. from the relevant academic disciplines.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Dann müssen notwendige \nKenntnisse, die ein Urteil erfordert, identifiziert und z. B. in den Fachwissenschaften eingeholt \nwerden.",
+        "residual_flags": []
+      },
+      {
+        "content": "This indicates the close connection between philosophy teaching and other subjects and makes cross-curricular projects desirable.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Hierin deutet sich der enge Zusammenhang an, in dem der Philosophieunterricht zu \nanderen Fächern steht und fachübergreifende Projekte wünschenswert macht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under the principle of critical thinking (Kritisches Denken), philosophy lessons foster a critical intellectual attitude that also implies awareness of how one's own and others' ways of thinking arise, and the capacity for self-criticism.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Kritisches Denken \nDer Philosophieunterricht fördert eine kritische Geisteshaltung, die auch ein Bewusstsein für \ndie Entstehung eigener und fremder Denkweisen sowie die Fähigkeit zur Selbstkritik impliziert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Critical thinking guides the finding of questions and problems as well as the methodical engagement with them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Kritisches Denken leitet das Finden von Fragen und Problemen sowie die methodische Aus-\neinandersetzung mit ihnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In contrast to everyday usage, where \"Kritik\" often means a negative judgement or destructive feedback, in philosophy lessons \"Kritik\" and \"kritisieren\" (from the Greek verb krinein) mean precise distinguishing.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Im Gegensatz zum alltäglichen Sprachgebrauch, der unter „Kritik“ \nhäufig eine negative Beurteilung oder eine destruktive Rückmeldung versteht, ist im Philoso-\nphieunterricht mit „Kritik“ und „kritisieren“ (vom griechischen Verb krinein) das genaue Unter-\nscheiden gemeint.",
+        "residual_flags": []
+      },
+      {
+        "content": "Critical thinking involves, on the one hand, the basic willingness and ability to call things into question and to get to the bottom of them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Zum kritischen Denken gehört einerseits die grundsätzliche Bereitschaft \nund Fähigkeit, Dinge infrage zu stellen und ihnen auf den Grund zu gehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In doing so, what seems self-evident also comes into view.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Dabei gerät auch \ndas scheinbar Selbstverständliche in den Blick.",
+        "residual_flags": []
+      },
+      {
+        "content": "On the other hand critical thinking requires methods for pursuing the questions raised in a joint investigation and for testing claims and arguments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Andererseits erfordert das kritische Denken \nMethoden, um aufgeworfenen Fragen in einer gemeinsamen Untersuchung nachgehen und \nBehauptungen und Argumente prüfen zu können.",
+        "residual_flags": []
+      },
+      {
+        "content": "The question of what exactly is at issue for the community of investigation and how (with which methods and knowledge) it can be pursued, together with agreement on conceptual and argumentative insights, guides the subject-methodological planning and conduct of lessons.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Frage dessen, was für die Untersu-\nchungsgemeinschaft genau in Frage steht und wie (mit welchen Methoden und Kenntnissen) \nman dieser Frage nachgehen kann sowie die Verständigung über begrifflich-argumentative \nEinsichten leiten daher die fachmethodische Planung und Durchführung des Unterrichts.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.1 Didaktische Grundsätze"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "1.1 Didaktische Grundsätze",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

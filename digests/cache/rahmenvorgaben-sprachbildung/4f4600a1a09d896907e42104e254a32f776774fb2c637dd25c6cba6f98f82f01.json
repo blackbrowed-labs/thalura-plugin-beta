@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:4f4600a1a09d896907e42104e254a32f776774fb2c637dd25c6cba6f98f82f01"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Language is the central medium of instructional communication and of subject learning processes; subject learning happens primarily through linguistic action.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Fachliches Lernen findet im Unterricht vorrangig durch sprachliches Handeln statt",
+        "residual_flags": []
+      },
+      {
+        "content": "Educational language has central importance; its usage in subject teaching is based on everyday language but has particularities that can challenge students.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Sprachgebrauch im Fachunterricht basiert auf der Alltagssprache",
+        "residual_flags": []
+      },
+      {
+        "content": "Bildungssprache differs from everyday language through a stronger reference to written language and is therefore called conceptually written.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sie wird daher als konzeptio",
+        "residual_flags": []
+      },
+      {
+        "content": "Typical features of Bildungssprache on word level include function-verb constructions, nominalized verbs and adjectives, and means to establish content coherence.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "der Einsatz von Funktionsverbgefügen, nominalisierten Verben und Adjektiven",
+        "residual_flags": []
+      },
+      {
+        "content": "A further language challenge lies in the technical language, comprising technical terms, subject-specific sentence structures, discourse functions and text types.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Fachbegriffe, fachspezifische Satzstrukturen, Diskursfunktionen und Textsorten umfasst",
+        "residual_flags": []
+      },
+      {
+        "content": "Language requirements differ by subject, since each subject foregrounds different parts of educational language and has its own technical-language particularities.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die sprachlichen Anforderungen sind fachspezifisch unterschiedlich",
+        "residual_flags": []
+      },
+      {
+        "content": "Language is thus also a central object of learning, as these competencies are not acquired automatically by most students.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sprache ist also auch ein zentraler Lern",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are given the opportunity to formulate their own thoughts, feelings and ideas about a matter in their own words in everyday language, to enable subject-related understanding processes.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "eigenen Gedanken und Gefühle und Vorstellungen zu einem Sachverhalt",
+        "residual_flags": []
+      },
+      {
+        "content": "The use of Bildungssprache must be deliberately fostered; students can only show subject competencies with sufficient linguistic means (communicative function), and can only grasp new content with sufficient competencies (cognitive/epistemic function).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "kognitive oder epistemische Funktion von Sprache",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+        "printed_page_range": "5–6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -17,7 +17,8 @@ Unterrichtsstunde.
 ## Inhalt
 
 - **[Installation](./installation.md)** — Thalura in Claude Code oder Claude
-  Cowork einrichten, im Stable- oder Beta-Kanal.
+  Cowork einrichten, im Stable- oder Beta-Kanal; in Cowork gehört dazu die
+  Voraussetzung, dass Thalura auf deinem Computer läuft und nicht in der Cloud.
 - **[Erste Schritte](./erste-schritte.md)** — die Einrichtung starten, dein
   Lehrerprofil anlegen und dein erstes Material erzeugen.
 - **[Aktualisieren](./aktualisieren.md)** — neue Versionen einspielen und

@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e4ed8e4f03ec657764d2699e96a0ca49ce48fd5aa43044ac434cc225bad2e4e0"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The purpose of asking (Fragen) is to indicate which knowledge element is sought to fill a knowledge gap, also revealing the asker's state of knowledge.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 3: FRAGEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Das Fragen zeigt an, welches Wissensele",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can identify orally or in-writing posed questions by word order and question words and reproduce them in their own words.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 3: FRAGEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "an der Verwendung von Fragewörtern",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can distinguish question types and forms (e.g. open questions, W-questions, yes/no questions) and use them purposefully.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 3: FRAGEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Fragetypen und Frageformen unterscheiden",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can plan and carry out a subject-related survey, poll or interview questions.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 3: FRAGEN",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "eine fachbezogene Befragung, eine Umfrage oder Fragen für ein Interview planen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 3: FRAGEN"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 3: FRAGEN",
+        "printed_page_range": "19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

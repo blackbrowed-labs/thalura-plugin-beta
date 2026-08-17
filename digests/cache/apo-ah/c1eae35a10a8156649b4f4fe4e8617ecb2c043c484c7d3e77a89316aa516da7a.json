@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c1eae35a10a8156649b4f4fe4e8617ecb2c043c484c7d3e77a89316aa516da7a"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Time in upper secondary, including the school year preceding the Studienstufe, is at least two and at most four years; on direct entry into the Studienstufe at most three years.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 4 Verweildauer, Rücktritt",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Verweildauer in der gymnasialen Oberstufe einschließlich des der Studienstufe \nvorausgehenden Schuljahres beträgt mindestens zwei und höchstens vier Jahre, bei un-\nmittelbarem Eintritt in die Studienstufe beträgt sie höchstens drei Jahre.",
+        "residual_flags": []
+      },
+      {
+        "content": "A stay abroad of up to one year is not counted against the permitted duration.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 4 Verweildauer, Rücktritt",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Ein bis zu einjähriger Auslandsaufenthalt wird \nnicht auf die Verweildauer angerechnet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Stepping back (Rücktritt) must be granted if the student did not achieve admission to the written examination.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 4 Verweildauer, Rücktritt",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der Rück-\ntritt ist zu gestatten, wenn die Schülerin oder der Schüler die Zulassung zur schriftli-\nchen Prüfung nicht erreicht hat",
+        "residual_flags": []
+      },
+      {
+        "content": "Attendance of upper secondary may not be interrupted for more than one year, or three years where parental leave is taken.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 4 Verweildauer, Rücktritt",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der Besuch der gymnasialen Oberstufe darf nicht länger als ein Jahr, bei Inanspruch-\nnahme von Elternzeit nicht länger als drei Jahre, unterbrochen werden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 4 Verweildauer, Rücktritt"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 4 Verweildauer, Rücktritt",
+        "printed_page_range": "8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

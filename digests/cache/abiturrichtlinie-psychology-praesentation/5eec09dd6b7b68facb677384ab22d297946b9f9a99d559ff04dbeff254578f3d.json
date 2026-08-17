@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5eec09dd6b7b68facb677384ab22d297946b9f9a99d559ff04dbeff254578f3d"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology-praesentation",
+      "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "This Erwartungshorizont refers to the task, not to the concretisation the examinee develops and presents in the documentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "bezieht sich auf die Aufgabenstellung, nicht auf die vom \nPrüfling zu erarbeitende und in der Dokumentation darzustellende Konkretisierung",
+        "residual_flags": []
+      },
+      {
+        "content": "The examinee receives a task naming only one operator and must concretise it into sub-tasks with operators of the other requirement levels.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "eine Aufgabenstellung unter Nennung nur eines \nOperators und wäre gehalten, diese in Form von Teilaufgaben mit geeigneten Operato-\nren auch der anderen Anforderungsbereiche zu konkretisieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Points not mentioned may also count positively if they are sensible and purposeful within the presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Auch nicht erwähnte Angaben können positiv in die Bewertung der Präsentationsprü-\nfung einfließen, wenn sie innerhalb der Darstellung sinnvoll und zielführend sind",
+        "residual_flags": []
+      },
+      {
+        "content": "Expected is a structured, balanced lecture.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "ein strukturierter, abgewogener Vortrag",
+        "residual_flags": []
+      },
+      {
+        "content": "The higher the requirement level in which the examinee mainly operates, the better the exam is graded.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Je höher der Anforderungsbereich, in dem sich der Prüfling schwerpunktmäßig bewegt, \ndesto besser ist die Prüfung zu bewerten",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirement level I: describing the theories, e.g. attachment research (inner working model, Bowlby) and Modelllernen after Bandura.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Darstellung, Beschreibung der jeweiligen Theorien, z. B.: \n•\nBindungsforschung mit Fokus auf der Theorie des inner working model nach Bowlby,\n•\nModelllernen nach Bandura",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirement level II: application/transfer, e.g. acquisition phase (observing relevant behaviour of caregivers) and execution phase (showing observed behaviour in similar situations).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Anwendung, Transfer von Fachwissen auf konkrete Problemstellung, z. B.: \n•\nAneignungsphase: Beobachtung von relevantem Verhalten bei Erziehungspersonen\n(Umgang mit Beobachtenden oder anderen Kindern),\n•\nAusführungsphase: Zeigt beobachtetes Verhalten in ähnlichen Situationen",
+        "residual_flags": []
+      },
+      {
+        "content": "A special feature: behaviour need not be shown immediately, and vicarious and self-reinforcement can serve as reinforcement.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Verhalten muss nicht zwangsläufig sofort gezeigt werden.\n○\nAls Verstärkung können auch stellvertretende Verstärkung und Selbst-Verstär-\nkung herangezogen werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirement level III: judgement on the possibility of explaining the phenomenon alternatively, e.g. Modelllernen as a less differentiated but comprehensible alternative approach.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Bewertung, Urteil bzgl. der Möglichkeit, das Phänomen alternativ zu erklären, z. B.: \n•\nModelllernen stellt einen nicht ganz so differenzierten, grundsätzlich aber nachvoll-\nziehbaren, alternativen Erklärungsansatz dar",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology-praesentation",
+        "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — IV Erwartungshorizont",
+        "printed_page_range": "7–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

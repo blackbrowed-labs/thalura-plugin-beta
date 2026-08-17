@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5bdc1e9a452438df763c551679bf41d4760e803ea306b1e12da911d93eaf3f7b"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy-praesentation",
+      "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The rubric refers to the task statement, not to the candidate's own concretization.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "III Erwartungshorizont [Magritte]",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Dieser Erwartungshorizont bezieht sich auf die Aufgabenstellung, nicht auf die vom Prüfling zu erarbeitende und in der Dokumentation darzustellende Konkretisierung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The higher the requirement level in which the candidate mainly operates, the better the grade.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "III Erwartungshorizont [Magritte]",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Je höher der Anforderungsbereich, in dem sich der Prüfling schwerpunktmäßig bewegt, desto besser ist die Prüfung zu bewerten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Expected epistemological point: distinguishing objective from subjective components of cognition is problematic.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "III Erwartungshorizont [Magritte]",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Es ist problematisch zu unterscheiden, welche Teile der Erkenntnis objektiv und welche subjektiv sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Expected point: the unusual title seems prima facie not to fit the picture.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "III Erwartungshorizont [Magritte]",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Der Titel ist eher ungewöhnlich und scheint prima facie nicht zum Bild zu passen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Expected point: Carte blanche is not a copy of a sensory impression like a photograph.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "III Erwartungshorizont [Magritte]",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Blankovollmacht ist kein Abbild eines sinnlichen Eindrucks wie etwa die Fotografie",
+        "residual_flags": []
+      },
+      {
+        "content": "Expected point: man bears responsibility for interpretations; pictures can deceive and mislead.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "III Erwartungshorizont [Magritte]",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Der Mensch hat zugleich Verantwortung für Deutungen. Bilder können täuschen und in die Irre führen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "III Erwartungshorizont [Magritte]"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy-praesentation",
+        "section_anchor": "III Erwartungshorizont [Magritte]",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

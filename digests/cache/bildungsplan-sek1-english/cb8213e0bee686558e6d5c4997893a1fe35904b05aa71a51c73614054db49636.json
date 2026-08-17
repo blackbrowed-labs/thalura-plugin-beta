@@ -1,0 +1,156 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:cb8213e0bee686558e6d5c4997893a1fe35904b05aa71a51c73614054db49636"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The base grammar provides an overview of grammatical structures.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.4 Basisgrammatik",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Die Basisgrammatik bietet eine Übersicht über grammatische",
+        "residual_flags": [
+          "page-multi-match:physical-59-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "The 5/6 base grammar covers formation and use of active tenses.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.4 Basisgrammatik",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Bildung und Gebrauch der folgenden Zeitformen im Aktiv:",
+        "residual_flags": [
+          "page-multi-match:physical-59-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "The 7/8 base grammar covers formation and use of passive tenses.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.4 Basisgrammatik",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Bildung und Gebrauch der folgenden Zeitformen im Passiv:",
+        "residual_flags": []
+      },
+      {
+        "content": "The 7/8 base grammar covers expressing modalities and conditions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.4 Basisgrammatik",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Modalitäten und Bedingungen ausdrücken",
+        "residual_flags": []
+      },
+      {
+        "content": "The 7/8 base grammar covers giving reasons and formulating comments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.4 Basisgrammatik",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Begründungen geben und Kommentare formulieren",
+        "residual_flags": []
+      },
+      {
+        "content": "The 9/10 base grammar covers adverbial clauses: temporal, local, concessive, final.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.4 Basisgrammatik",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Adverbialsätze: temporal, lokal, konzessiv, final",
+        "residual_flags": []
+      },
+      {
+        "content": "Continuous practice in meaningful thematic contexts is needed to ensure progression in confident use.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.4 Basisgrammatik",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "kontinuierliche Praxis in sinnvollen thematischen Zusammenhän-",
+        "residual_flags": [
+          "page-multi-match:physical-60-earliest-of-2-candidate-pages"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 59,
+          "printed_page": 59
+        },
+        {
+          "physical_page": 60,
+          "printed_page": 60
+        },
+        {
+          "physical_page": 61,
+          "printed_page": 61
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.4 Basisgrammatik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "2.4 Basisgrammatik",
+        "printed_page_range": "59–61"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:78434e9db758cfda51cdea804956d0c79f4c9ae8e5404b0e6c1ed8d51d5c2503"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Abitur certificate goes to whoever, as determined by the report conference, has reached the overall qualification required for the general higher-education entrance qualification.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 18 Zeugnis der allgemeinen Hochschulreife",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Das Zeugnis der allgemeinen Hochschulreife erhält nach Feststellung durch die Zeug-\nniskonferenz, wer in der Studienstufe einschließlich der Abiturprüfung die für den Er-\nwerb der allgemeinen Hochschulreife erforderliche Gesamtqualifikation erreicht hat.",
+        "residual_flags": []
+      },
+      {
+        "content": "Point scores of subjects that do not enter the overall qualification are put in brackets.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 18 Zeugnis der allgemeinen Hochschulreife",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die Punktzahlen von Fächern, die nicht in die Gesamtqualifikation einge-\nhen, werden in Klammern gesetzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "For repeated subjects, only the point score of the second pass is listed.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 18 Zeugnis der allgemeinen Hochschulreife",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Bei wiederholten Fächern wird nur die Punktzahl des \nzweiten Durchgangs aufgeführt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 18 Zeugnis der allgemeinen Hochschulreife"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 18 Zeugnis der allgemeinen Hochschulreife",
+        "printed_page_range": "17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

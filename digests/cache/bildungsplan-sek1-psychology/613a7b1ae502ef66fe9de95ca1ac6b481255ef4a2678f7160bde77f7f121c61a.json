@@ -1,0 +1,159 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:613a7b1ae502ef66fe9de95ca1ac6b481255ef4a2678f7160bde77f7f121c61a"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-psychology",
+      "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Values education/values orientation (W): in a constantly changing global world, learners must develop competences to participate in social life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "In einer sich ständig verändernden globalen Welt müssen Lernende ihre Kompetenzen wei-\nterentwickeln, um am gesellschaftlichen Miteinander zu partizipieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Psychology supports students in developing their own value system and in dealing constructively with differing value systems.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "unterstützt sie in der Entwicklung eines eigenen Wertesystems und leistet \neinen wichtigen Beitrag in einem gelingenden Umgang mit unterschiedlichen Wertesystemen",
+        "residual_flags": []
+      },
+      {
+        "content": "Handling of psychological phenomena has always been subject to change, illustrated by comparing the different images of humankind within the main currents of psychology.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "der sich über die Betrachtung und Gegenüberstellung der verschiedenen Menschenbilder",
+        "residual_flags": []
+      },
+      {
+        "content": "Education for sustainable development (BNE): students engage with the reciprocal relationship of humans and environment and its influence on experience and behaviour.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Bildung für nachhaltige Entwicklung (BNE)",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are sensitised to perceive environmental influences and to recognise and reflect on non-sustainable attitudes, including regarding their own health.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "nicht-nachhaltige Einstellungen – auch bzgl. ihrer eigenen Gesundheit – zu erkennen und zu \nreflektieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Living and learning in a digitally shaped world (D): digital education aims to prepare students for challenges in digital professional and everyday life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Leben und Lernen in einer digital geprägten Welt (D)",
+        "residual_flags": []
+      },
+      {
+        "content": "'Support' does not mean that analogue methods are entirely replaced by digital ones.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "dass analoge Verfahren gänzlich gegen digitale ausgetauscht werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Psychology teaching must include a critical engagement with the demands, possibilities, chances and risks of a digitally shaped world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "auch eine kritische Auseinandersetzung mit den Anforderungen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-psychology",
+        "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+        "printed_page_range": "6–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:54c831734898a4990ca27bb9de5586c482b553841002be0ad44bbcb77f8ae913"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Constructions and interpretations of the self include the acting and descriptive self based on James's I and Me distinction of 1890.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.3 Selbst und Identität",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "handelndes und deskriptives Selbst, z. B auf Basis der Unter-\nscheidung von „Ich“ und „Mich“ nach James (1890)",
+        "residual_flags": []
+      },
+      {
+        "content": "Sources of self-knowledge include personal sources such as introspection and self-reflection and their limits and error-proneness.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.3 Selbst und Identität",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Introspektion, Selbstreflexion und deren Grenzen/ \nFehleranfälligkeit",
+        "residual_flags": []
+      },
+      {
+        "content": "Social sources of self-knowledge include attachment processes, social appraisal and social comparisons.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.3 Selbst und Identität",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Bindungsprozesse und soziale Einschätzung \no soziale Vergleiche",
+        "residual_flags": []
+      },
+      {
+        "content": "For the advanced level, regulation processes in an interpersonal context draw on Tajfel and Turner's social identity theory.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.3 Selbst und Identität",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Theorie der sozialen Identität \nnach Tajfel und Turner",
+        "residual_flags": []
+      },
+      {
+        "content": "The self as mental representation is treated as self-concept based on Hannover's work as a cognitive representation of self-knowledge.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.3 Selbst und Identität",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Selbstkonzept (z. B. auf Basis der Arbeiten von Hannover, \n1997) als kognitive Repräsentation unserer Selbstkenntnis",
+        "residual_flags": []
+      },
+      {
+        "content": "Regulatory functions include Duval and Wicklund's theory of objective self-awareness.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.3 Selbst und Identität",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Theorie der objektiven Selbstaufmerksamkeit von Duval und \nWicklund",
+        "residual_flags": []
+      },
+      {
+        "content": "Self-regulation is covered via the TOTE cycle in the approach of Carver and Scheier.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.3 Selbst und Identität",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "TOTE-Kreislauf im Ansatz von Carver und \nScheier",
+        "residual_flags": []
+      },
+      {
+        "content": "For the advanced level, research methods include the Rosenberg Self-Esteem Scale and the Implicit Association Test for implicit self-esteem.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.3 Selbst und Identität",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Rosenberg Self-Es-\nteem-Skala (RSES, Rosenberg) \n• Messung des impliziten Selbstwerts mithilfe des Impliziten \nAssoziationstests (IAT)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S4.3 Selbst und Identität"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S4.3 Selbst und Identität",
+        "printed_page_range": "32–33"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

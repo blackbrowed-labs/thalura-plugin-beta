@@ -1,0 +1,142 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c79fb9e5dcac8c5298cd92e8c40d5380555a99bdd227983cccf5700b1950f139"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Personality is described via stable, durable behavior patterns (traits).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.3 Eigenschaftstheorien",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "stabile, dauerhafte \nVerhaltensmuster (traits)",
+        "residual_flags": []
+      },
+      {
+        "content": "Trait theories include factor analysis after Eysenck.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.3 Eigenschaftstheorien",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Faktorenanalyse nach Eysenck",
+        "residual_flags": []
+      },
+      {
+        "content": "The Five-Factor Model is the Big Five.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.3 Eigenschaftstheorien",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Modell (The Big Five)",
+        "residual_flags": []
+      },
+      {
+        "content": "Environmental influences include society, culture and family.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.3 Eigenschaftstheorien",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Gesellschaft, Kultur, Familie",
+        "residual_flags": []
+      },
+      {
+        "content": "Research method: Eysenck Personality Questionnaire.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.3 Eigenschaftstheorien",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Eysenck Personality Questionnaire",
+        "residual_flags": []
+      },
+      {
+        "content": "Research method: Minnesota Multiphasic Inventory (MMPI).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.3 Eigenschaftstheorien",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Minnesota Multiphasic Inventory (MMPI)",
+        "residual_flags": []
+      },
+      {
+        "content": "Research method: NEO Personality Inventory (NEO-PI).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.3 Eigenschaftstheorien",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "NEO Personality Inventory (NEO-PI)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S2.3 Eigenschaftstheorien"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S2.3 Eigenschaftstheorien",
+        "printed_page_range": "24"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

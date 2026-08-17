@@ -46,6 +46,45 @@ Arbeitsbereich findet. Alles, was du anlegst, bleibt in diesem Ordner.
 Verbinde anschließend deinen Lehrer-Ordner (unter `mnt/<Ordner>`); Thalura
 erkennt ihn beim Start automatisch.
 
+## Voraussetzung: Thalura läuft auf deinem Computer
+
+Das Folgende gilt für Claude Cowork. Thalura muss auf deinem Computer laufen,
+nicht in der Cloud. Läuft eine Aufgabe in der Cloud, fehlen deinen Ergebnissen
+mehrere Dinge, die dieses Handbuch dir zusagt — welche, steht gleich unten.
+
+So stellst du es ein: Öffne **Settings → Cowork** und schalte
+**„Run new tasks in the cloud"** aus — die Einstellung, die neue Aufgaben in
+der Cloud statt auf diesem Computer startet — und starte danach eine neue
+Aufgabe in Cowork. Die Einstellung wirkt nur auf neu gestartete Aufgaben; die
+Aufgabe, in der du gerade bist, wechselt damit nicht auf deinen Computer.
+
+Das steht auf dem Spiel, solange eine Aufgabe in der Cloud läuft:
+
+- Keine einzige Quellenangabe in deinen Dokumenten lässt sich anklicken — die
+  Verweise auf den Bildungsplan bleiben durchgehend Text.
+- Die Schuljahresübersicht wird nicht geschrieben, auch nicht nach der ersten
+  eingetragenen Unterrichtseinheit.
+- Deine Dokumente entstehen ohne die Vorlage deiner Schule — ohne deine Kopf-
+  und Fußzeile und ohne deinen Namen als Autor in den Dateieigenschaften.
+- Jede Frage an die offiziellen Vorgaben braucht wieder die volle Wartezeit,
+  auch wenn dieselbe Stelle längst nachgelesen ist.
+
+Nichts davon wird als Fehler gemeldet: Es erscheint keine Warnung, kein Schritt
+bricht ab, und die fertigen Dokumente sehen aus, als wäre alles erledigt. Genau
+deshalb steht hier eine Probe — von allein fällt es dir nicht auf.
+
+**So prüfst du es:** Sobald deine erste Unterrichtseinheit eingetragen ist, muss
+die Schuljahresübersicht direkt in deinem Lehrer-Ordner liegen. Liegt sie nicht
+dort, lief die Aufgabe in der Cloud: Schalte die Einstellung wie oben
+beschrieben aus und starte eine neue Aufgabe. Zur Gegenprobe öffnest du die
+Verankerung im Bildungsplan einer Einheitenplanung — lässt sich dort wenigstens
+eine Quellenangabe anklicken, hat Thalura auf deinem Computer gearbeitet. (Dass
+einzelne Angaben ohne Link bleiben, ist normal: Nicht zu jedem Dokument gibt es
+eine offizielle Online-Fassung.)
+
+Das ist der Stand heute. Ändert sich daran etwas, findest du es in
+`CHANGELOG.md`.
+
 ## Berechtigungen in Cowork
 
 Cowork fragt standardmäßig vor jeder Aktion nach („Ask before acting"). Da

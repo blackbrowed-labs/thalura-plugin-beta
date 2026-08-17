@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:29765631699429791a532fb1a428ceccc3d27bf82ef80dbaa54a2ea43391eea4"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Anlage 5a converts the § 9 grades into grades on the middle requirement level geared to the mittlerer Schulabschluss.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 5a Umwandlung der Noten nach § 9 in Noten der mittleren Anforderungsebene",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Umwandlung der Noten nach § 9 in Noten, die sich auf die mittlere, auf den Erwerb  \ndes mittleren Schulabschlusses ausgerichtete Anforderungsebene beziehen",
+        "residual_flags": []
+      },
+      {
+        "content": "The annex is referenced by § 33 (6), § 37 (6) and § 40 (6).",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 5a Umwandlung der Noten nach § 9 in Noten der mittleren Anforderungsebene",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "(zu § 33 Absatz 6, § 37 Absatz 6 und § 40 Absatz 6)",
+        "residual_flags": []
+      },
+      {
+        "content": "The right-hand column gives the grade relating to the middle requirement level.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 5a Umwandlung der Noten nach § 9 in Noten der mittleren Anforderungsebene",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Note, die sich auf die  \nmittlere Anforderungsebene bezieht",
+        "residual_flags": []
+      },
+      {
+        "content": "At the bottom of the conversion table, 2 and 1 points map to 'ausreichend' and 0 points to 'ungenügend'.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 5a Umwandlung der Noten nach § 9 in Noten der mittleren Anforderungsebene",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "2 Punkte\n1 Punkte\nungenügend",
+        "residual_flags": [
+          "source-typo-verbatim: original reads '1 Punkte' (grammatically it should read '1 Punkt')"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 47,
+          "printed_page": 47
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Anlage 5a Umwandlung der Noten nach § 9 in Noten der mittleren Anforderungsebene"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "Anlage 5a Umwandlung der Noten nach § 9 in Noten der mittleren Anforderungsebene",
+        "printed_page_range": "47"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

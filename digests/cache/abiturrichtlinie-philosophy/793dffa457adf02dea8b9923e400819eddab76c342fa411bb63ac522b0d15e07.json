@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:793dffa457adf02dea8b9923e400819eddab76c342fa411bb63ac522b0d15e07"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The oral exam refers to content/competence areas of at least two semesters of the Studienstufe.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die mündliche Prüfung bezieht sich auf Inhalts- bzw. Kompetenzbereiche mindestens zweier Semester der Studienstufe.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates may submit one content/competence area in writing by a deadline set by the school.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Prüflinge können dem Fachprüfungsausschuss bis zu einem von der Schule",
+        "residual_flags": []
+      },
+      {
+        "content": "The exam lasts about 30 minutes, as does the preparation time.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die Prüfung dauert etwa 30 Minuten, die Vorbereitungszeit ebenso.",
+        "residual_flags": []
+      },
+      {
+        "content": "The candidate is given a written task for the oral exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Für die mündliche Prüfung wird dem Prüfling eine schriftliche Aufgabe vorgelegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Vorgaben zur Bewertung enthalten spezifische Aussagen ueber die Anforderungen an eine gute sowie eine ausreichende Leistung.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die Vorgaben zur Bewertung der Prüfungsleistung enthalten spezifische Aussagen über \ndie Anforderungen an eine „gute“ sowie eine „ausreichende“ Leistung.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+        "printed_page_range": "16–17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

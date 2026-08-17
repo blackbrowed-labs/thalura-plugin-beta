@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8d037e40a525691d48073852730da7fc98630b92cd896e8b31ba10da09172f47"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Anlage 9 (to § 39 (4)) is the timetable for the Studienstufe of the berufliches Gymnasium.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 9 Stundentafel für die Studienstufe des beruflichen Gymnasiums",
+          "printed_page": 52,
+          "physical_page": 52
+        },
+        "cited_text": "Stundentafel für die Studienstufe des beruflichen Gymnasiums",
+        "residual_flags": []
+      },
+      {
+        "content": "In the Technik specialisation the schools offer specific focus areas.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 9 Stundentafel für die Studienstufe des beruflichen Gymnasiums",
+          "printed_page": 52,
+          "physical_page": 52
+        },
+        "cited_text": "In der Fachrichtung Technik bieten die Schulen spezielle Schwerpunkte an.",
+        "residual_flags": []
+      },
+      {
+        "content": "Subjects marked with footnote 3 are taught with 4 weekly lessons.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 9 Stundentafel für die Studienstufe des beruflichen Gymnasiums",
+          "printed_page": 52,
+          "physical_page": 52
+        },
+        "cited_text": "Das Fach wird mit 4 Wochenstunden unterrichtet.",
+        "residual_flags": []
+      },
+      {
+        "content": "If no Seminar is taught, its hours pass to the subject taught at the raised requirement level within the subject cluster.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 9 Stundentafel für die Studienstufe des beruflichen Gymnasiums",
+          "printed_page": 52,
+          "physical_page": 52
+        },
+        "cited_text": "Wird kein Seminar unterrichtet, entfallen die Stunden auf das  \nauf erhöhtem Anforderungsniveau unterrichtete Fach im Fächerverbund.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 52,
+          "printed_page": 52
+        },
+        {
+          "physical_page": 53,
+          "printed_page": 53
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Anlage 9 Stundentafel für die Studienstufe des beruflichen Gymnasiums"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "Anlage 9 Stundentafel für die Studienstufe des beruflichen Gymnasiums",
+        "printed_page_range": "52–53"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

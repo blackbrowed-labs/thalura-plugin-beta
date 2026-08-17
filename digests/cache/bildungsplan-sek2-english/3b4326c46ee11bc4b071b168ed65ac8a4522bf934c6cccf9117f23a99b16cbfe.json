@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:3b4326c46ee11bc4b071b168ed65ac8a4522bf934c6cccf9117f23a99b16cbfe"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Topic 4 addresses individual and collective identity, diversity and social coexistence, both in students' own world and in anglophone language and culture areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 2: Lebens- und Erfahrungswelt Heranwachsender",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "In diesem Thema setzen sich die Schülerinnen und Schüler mit Fragen \nauseinander, die sich auf individuelle und kollektive Identität, Diversität \nund gesellschaftliches Zusammenleben sowohl in ihrer eigenen Lebens-\nwelt als auch in anglophonen Sprach- und Kulturräumen beziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The topic allows subject-specific access via film and literature and contributes to personality development.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 2: Lebens- und Erfahrungswelt Heranwachsender",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Das \nThema erlaubt fachspezifische Zugriffe über Film und Literatur, die den \nSchülerinnen und Schülern neue Perspektiven aufzeigen, und trägt da-\nmit in besonderem Maße zur Persönlichkeitsbildung der Schülerinnen \nund Schüler bei.",
+        "residual_flags": []
+      },
+      {
+        "content": "Cross-cutting educational fields (Aufgabengebiete) named for this area include intercultural education, sex education and health promotion.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 2: Lebens- und Erfahrungswelt Heranwachsender",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Interkulturelle  \nErziehung \n• Sexualerziehung \n• Gesundheitsförde-\nrung",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content block: Questions of identity — ambitions and obstacles, conformity vs. individualism.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "Themenbereich 2: Lebens- und Erfahrungswelt Heranwachsender",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Questions of identity: ambitions and obstacles, conformity vs. \nindividualism",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 2: Lebens- und Erfahrungswelt Heranwachsender"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "Themenbereich 2: Lebens- und Erfahrungswelt Heranwachsender",
+        "printed_page_range": "29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:af054bf68f1c84280d515be200aeb4028090b86708a11632c4dc82de5a8ed39e"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Sprachhandlung 15 ZUSAMMENFASSEN — purpose: to reduce the knowledge in an extensive linguistic presentation to the essential knowledge elements, in order to enable quick knowledge transfer or to document essential subject matters for oneself.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "15. ZUSAMMENFASSEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Der Zweck des Zusammenfassens ist es, \ndas Wissen in einer umfangreichen \nsprachlichen Darstellung auf die wesentli-\nchen Wissenselemente zu reduzieren, um \neine zügige Wissensweitergabe zu ermög-\nlichen oder wesentliche fachbezogene \nSachverhalte für sich selbst zu dokumen-\ntieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Descriptors 15.1–15.5: identify essential and inessential knowledge elements in a summarizing presentation; apply criteria for deciding which linguistic expressions are kept (key words) and which should be reformulated; use superordinate or more abstract expressions to condense detailed presentations; put the essential knowledge elements into another linguistic form by arranging them in an appropriate order and partly detaching from the wording of the extensive presentation; and take notes as a basis for a written presentation.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "15. ZUSAMMENFASSEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "15.1 in einer zusammenfassenden sprachlichen Darstellung die wesentlichen und unwesentlichen Wis-\nsenselemente identifizieren \n15.2 Kriterien anwenden, nach denen sie entscheiden, welche sprachlichen Ausdrucksformen in einer \nZusammenfassung erhalten bleiben (Schlüsselwörter) und welche umformuliert werden sollten \n15.3 übergeordnete bzw. abstraktere sprachliche Ausdrücke verwenden, um detaillierte Darstellungen \nsprachlich zu bündeln \n15.4 die wesentlichen Wissenselemente in eine andere sprachliche Form bringen, indem sie diese in \neine angemessene Reihenfolge bringen und sich vom sprachlichen Ausdruck der umfangreichen \nDarstellung in Teilen lösen \n15.5 Notizen anfertigen, um sie als Grundlage für eine schriftliche Darstellung zu verwenden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Descriptors 15.6–15.10: reproduce essential knowledge elements in writing as a summary/Inhaltsangabe or a protocol; briefly summarize a result (e.g. of group work) with others; paraphrase written passages or audio texts in simple form using the wording and order of the original; compile and summarize information from several sources in writing; and summarize information from texts with commentary. NOTE: 15.9 is missing a connective.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "15. ZUSAMMENFASSEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "15.6 wesentliche Wissenselemente schriftlich in Form einer Inhaltsangabe/Zusammenfassung oder ei-\nnes Protokolls wiedergeben \n15.7 im Austausch mit Anderen ein Ergebnis, z.B. einer Gruppenarbeit, kurz zusammenfassen. \n15.8 schriftliche Passagen oder Audiotexte in einfacher Form paraphrasieren und dabei den Wortlaut \nund die Reihenfolge des Originaltextes verwenden \n15.9 Informationen aus mehreren Quellen zusammenstellen schriftlich zusammenfassen \n15.10 Informationen aus Texten kommentierend zusammenfassen",
+        "residual_flags": [
+          "source anomaly: descriptor 15.9 'Informationen aus mehreren Quellen zusammenstellen schriftlich zusammenfassen' — connective ('und') missing between 'zusammenstellen' and 'schriftlich'"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "15. ZUSAMMENFASSEN"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "15. ZUSAMMENFASSEN",
+        "printed_page_range": "25"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

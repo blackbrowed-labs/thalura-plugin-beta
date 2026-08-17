@@ -1,0 +1,315 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0395765c7c5b21b0bb221d3007b2483605894d87f8ccaad605416aa6b8253873"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Unterrichtseinheit zum Pflichtmodul umfasste 18 Unterrichtsstunden bzw. 9 Doppelstunden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "umfasste 18 Unterrichtsstunden",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Lerngruppe gibt es Schülerinnen und Schüler mit christlichem, islamischem und alevitischem sowie ohne spezifischen religiösen Hintergrund.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "christlichem, islami-\nschem und alevitischem",
+        "residual_flags": []
+      },
+      {
+        "content": "Zum Einstieg wurde eine TOP-20-Liste der wichtigsten Personen der Welt erstellt und diskutiert.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "TOP-20-Liste der wichtigsten Per",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Erarbeitungsphase wurden über drei Doppelstunden Biografie, historischer Kontext, Lebensweise und zentrale Botschaften der Personen in Gruppenarbeit erarbeitet.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "die Biografie, der historische Kontext, die Lebensweise und die zentralen",
+        "residual_flags": []
+      },
+      {
+        "content": "Jede zentrale Person wurde im Plenum im Umfang von jeweils einer Doppelstunde vorgestellt und vertieft.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "wurde dann im Plenum im Umfang von jeweils einer Doppelstunde",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Prüfungsthese, dass alle zentralen Personen im Kern das Gleiche vertreten, wurde im Unterricht nicht thematisiert.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "der Religionen im Kern das Gleiche vertreten, wurde nicht thematisiert",
+        "residual_flags": []
+      },
+      {
+        "content": "Für jeden Prüfling beginnt das Prüfungsgespräch mit Fragen aus dem Anforderungsbereich I.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "mit Fragen aus dem Anforderungsbe",
+        "residual_flags": []
+      },
+      {
+        "content": "Darüber hinaus soll jedem Prüfling Gelegenheit gegeben werden, Fragen aus den Anforderungsbereichen II und III zu beantworten, ohne Überforderung.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "den Anforderungsbereichen II und III zu beantworten",
+        "residual_flags": []
+      },
+      {
+        "content": "Fragen zu den Bereichen II und III sollen erst gestellt werden, wenn die darunter liegenden Bereiche hinreichend sicher beantwortet wurden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "sollen \ndaher erst gestellt werden, wenn der Prüfling die Fragen zu den darunter liegenden An-\nforderungsbereichen mit hinreichender Sicherheit beantworten konnte",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Fragenkatalog enthält Impulse für alle drei Anforderungsebenen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "enthält Impulse für das Prüfungsgespräch und für alle drei",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich I: Es soll dargestellt werden, was Jesus unter dem Reich Gottes versteht.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Stelle dar, was Jesus unter",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich I: Die Situation in Mekka, in die Muhammed mit seiner Botschaft kam, soll beschrieben werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Beschreibe die Situation in Mekka, in die Muhammed mit seiner Botschaft kam.",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich I: Die zentrale Botschaft von Ali soll dargestellt werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Stelle die zentrale Botschaft von Ali dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich I: Es soll skizziert werden, was Buddha unter dem Mittleren Weg versteht.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Skizziere, was Buddha unter dem Mittleren Weg versteht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich II: Der Einsatz von Jesus und Ali für die Armen soll verglichen werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Vergleicht Jesu und Alis Einsatz",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich II: Buddhas achtfacher Pfad soll mit den Muhammed offenbarten Geboten Gottes verglichen werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Vergleicht Buddhas achtfachen Pfad mit den Muhammed offenbarten Geboten",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich II: Die Stellung Alis als Mitglied von Muhammeds Familie soll analysiert werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Analysiere die Stellung Alis als Mitglied von Muhammeds Familie.",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich III: Die Prüflinge sollen begründet Stellung nehmen, ob es wichtig ist, dass die zentralen Personen im Kern das Gleiche wollten.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "dass die zentralen Personen im \nKern das gleiche wollten",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich III: Aus atheistischer Sicht soll Stellung genommen werden, ob eine gemeinsame Kernbotschaft die Aussagen wichtiger machen würde.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Nehmt aus atheistischer Sicht Stellung, ob eine gemeinsame Kernbotschaft aller",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsbereich III: Aus atheistischer Sicht soll beurteilt werden, ob die Botschaften der zentralen Personen heute noch relevant sind.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+          "printed_page": 4,
+          "physical_page": 9
+        },
+        "cited_text": "Beurteile aus atheistischer Sicht: Sind die Botschaften der zentralen Personen \nheute noch relevant",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 3
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 4
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "I.c.ii. Fragen und Impulse für das Prüfungsgespräch",
+        "printed_page_range": "3–4"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

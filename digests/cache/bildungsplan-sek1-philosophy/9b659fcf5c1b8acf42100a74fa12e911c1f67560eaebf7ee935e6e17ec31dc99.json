@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:9b659fcf5c1b8acf42100a74fa12e911c1f67560eaebf7ee935e6e17ec31dc99"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken PM7 (grade 10, 'Auf der Suche nach dem Guten'): different forms of freedom, the influences on human volition and action, what exactly freedom is, and how freedom and responsibility are connected.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 7: Freiheit",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "In diesem Modul werden verschiedene Formen von Freiheit beleuch-\ntet, und es wird der Frage nachgegangen, welchen Einflüssen Men-\nschen in ihren Willens- und Handlungsentscheidungen ausgesetzt \nsind, was genau unter Freiheit zu verstehen ist und wie Freiheit und \nVerantwortung zusammenhängen.",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      },
+      {
+        "content": "Contents of PM7 include determinants of action and behaviour, and freedom of action versus freedom of will.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 7: Freiheit",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "• Determinanten des Handelns und Verhaltens \n• Handlungsfreiheit und Willensfreiheit",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': freedom can be reflected on as a central value belonging to basic and human rights.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 7: Freiheit",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Freiheit kann als zentraler Wert und zu den Grund- und Menschen-\nrechten gehörig reflektiert werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'BNE': students can include essential aspects of education for sustainable development in their reflections.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 7: Freiheit",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Schülerinnen und Schüler können wesentliche Aspekte der Bil-\ndung für nachhaltige Entwicklung in ihre Überlegungen einbeziehen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Pflichtmodul 7: Freiheit"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Pflichtmodul 7: Freiheit",
+        "printed_page_range": "27"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

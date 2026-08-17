@@ -1,0 +1,155 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1c41e82ab253f029768a8788114b8f384cd1963e87131da2d64caed307da3917"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Basic concepts of stress research cover stress and stress forms.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.2 Gesundheitspsychologie",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Grundbegriffe der Stressforschung \n• Stress und Stressformen",
+        "residual_flags": []
+      },
+      {
+        "content": "Types of stress are distinguished as acute/chronic and eustress/distress.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.2 Gesundheitspsychologie",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Arten von Stress (akut/chronisch, Eustress/Disstress)",
+        "residual_flags": []
+      },
+      {
+        "content": "Stressors are classified as physiological, social, economic/ecological and occupational.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.2 Gesundheitspsychologie",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Klassifikation von Stressoren (physiologisch, sozial, ökono-\nmisch/ \nökologisch, beruflich)",
+        "residual_flags": []
+      },
+      {
+        "content": "Stress reactions are described as cognitive, emotional, behavioral and physiological.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.2 Gesundheitspsychologie",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Stressreaktionen (kognitiv, emotional, behavioral, physiolo-\ngisch)",
+        "residual_flags": []
+      },
+      {
+        "content": "Physiological stress theories are Cannon's fight-or-flight and Selye's general adaptation syndrome.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.2 Gesundheitspsychologie",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Fight-or-Flight von Cannon \n• Allgemeines Adaptationssyndrom von Selye",
+        "residual_flags": []
+      },
+      {
+        "content": "Psychological stress theories include Lazarus and Folkman's transactional stress model with coping strategies and Antonovsky's salutogenesis concept.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.2 Gesundheitspsychologie",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Transaktionales Stressmodell von Lazarus und Folkman (Co-\npingstrategien) \n• Salutogenesekonzept von Antonovsky (Kohärenzsinn)",
+        "residual_flags": []
+      },
+      {
+        "content": "Stress management approaches include Meichenbaum's stress inoculation training, Kaluza's stress management program and mindfulness trainings.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.2 Gesundheitspsychologie",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Meichenbaums Stressimpfungstraining \n• Kaluzas Stressbewältigungsprogramm \n• Achtsamkeitstrainings",
+        "residual_flags": []
+      },
+      {
+        "content": "Research methods include psychophysiological measurement such as cortisol and questionnaires such as Antonovsky's short coherence questionnaire.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S3.2 Gesundheitspsychologie",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "psychophysiologische Messung (z. B. Cortisol) \n• Fragebögen, z. B. Kurzfragebogen zum Kohärenzgefühl nach \nAntonovsky",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S3.2 Gesundheitspsychologie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S3.2 Gesundheitspsychologie",
+        "printed_page_range": "27"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

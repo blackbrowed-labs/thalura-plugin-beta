@@ -1,0 +1,149 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:2fb1f36da62ba16c7cbc20e076bba6ea4a958120afd5487ff495a380d738b7d8"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The second sample task is 'Canada: Self-Image and Self-Representation' at the raised requirement level (eA).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Canada: Self-Image and Self-Representation (eA)",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Canada: Self-Image and Self-Representation (eA)",
+        "residual_flags": []
+      },
+      {
+        "content": "It links the candidate's content area 'Canada – A Land of Diversity' (S3) with the examiner-added competence area of speech analysis (S1).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Canada: Self-Image and Self-Representation (eA)",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Gewählter Inhaltsbereich des Prüflings:  \nCanada – A Land of Diversity (S3)",
+        "residual_flags": []
+      },
+      {
+        "content": "Task 1 requires an analysis of Canada's self-image based on Justin Trudeau's Canada House address of 26 November 2015.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Canada: Self-Image and Self-Representation (eA)",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "1. Analyse Canada’s image of itself. Base your analysis on Justin Trudeau’s Address at \nthe Canada House in London on November 26th, 2015.",
+        "residual_flags": []
+      },
+      {
+        "content": "The expected-answer horizon (Erwartungshorizont) centres on Canada defining itself as a multicultural society whose diversity is its strength.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Canada: Self-Image and Self-Representation (eA)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "• Canada defines itself as a multicultural society; Canada’s diversity is \nsupposed to be Canada’s strength.",
+        "residual_flags": []
+      },
+      {
+        "content": "As in the Crash example, one overall grade is formed across both parts with the language performance predominating.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Canada: Self-Image and Self-Representation (eA)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Für die beiden Teile der Präsentationsprüfung wird eine Gesamtnote gebildet, bei der \ndie sprachliche Leistung überwiegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "A Fachgespräch prompt asks the candidate to explain and illustrate why Canada is often called a land of diversity.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Thema: Canada: Self-Image and Self-Representation (eA)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Explain why Canada is often called a land of diversity. Illustrate this by giving various \nexamples.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Thema: Canada: Self-Image and Self-Representation (eA)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Thema: Canada: Self-Image and Self-Representation (eA)",
+        "printed_page_range": "13–18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

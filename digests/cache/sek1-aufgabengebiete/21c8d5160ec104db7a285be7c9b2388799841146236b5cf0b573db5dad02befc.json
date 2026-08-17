@@ -1,0 +1,115 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:21c8d5160ec104db7a285be7c9b2388799841146236b5cf0b573db5dad02befc"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The educational mandate of the school includes non-subject-bound tasks and questions to which several or all subjects contribute.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "1 Lernen in den Aufgabengebieten",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Bildungs- und Erziehungsauftrag der Schule umfasst Aufgaben und Fragestellungen, die \nnicht fachgebunden sind und zu denen mehrere oder alle Fächer einen Beitrag leisten",
+        "residual_flags": []
+      },
+      {
+        "content": "The competences to be acquired are divided into the competence areas Erkennen, Bewerten and Handeln, which marks the emphasis of the Aufgabengebiete.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "1 Lernen in den Aufgabengebieten",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Einteilung der zu erwerbenden Kompetenzen in die Kompetenzbereiche \n• \nErkennen, \n• \nBewerten und \n• \nHandeln \nverdeutlicht die Schwerpunktsetzung der Aufgabengebiete",
+        "residual_flags": []
+      },
+      {
+        "content": "The Aufgabengebiete have a cross-subject orientation towards socially relevant themes similar to that of the guiding perspectives (Leitperspektiven).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "1 Lernen in den Aufgabengebieten",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Aufgabengebiete haben eine ähnliche fach- und inhaltsübergreifende Ausrichtung auf ge-\nsellschaftlich relevante Themen wie die Leitperspektiven",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching in the Aufgabengebiete comprises in total roughly one tenth of the basic teaching hours (Grundstunden).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "1 Lernen in den Aufgabengebieten",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Der Umfang des Unterrichts in den Aufgabengebieten umfasst insgesamt etwa ein Zehntel der \nGrundstunden",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Lernen in den Aufgabengebieten"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "1 Lernen in den Aufgabengebieten",
+        "printed_page_range": "4–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

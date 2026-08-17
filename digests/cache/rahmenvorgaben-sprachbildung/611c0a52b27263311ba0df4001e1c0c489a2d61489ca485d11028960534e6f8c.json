@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:611c0a52b27263311ba0df4001e1c0c489a2d61489ca485d11028960534e6f8c"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The purpose of defining is to lay out the content of a concept and delimit it from other concepts.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 8: DEFINIEREN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Das Definieren hat den Zweck, den Inhalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can reproduce a definition for a technical term or subject concept.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 8: DEFINIEREN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "eine Definition für einen Fachbegriff",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can find a superordinate term for a concept and identify and name the characteristics typical of it.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 8: DEFINIEREN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "zu einem Begriff einen Oberbegriff finden",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can formulate a definition as a complete sentence and support it with examples.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 8: DEFINIEREN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "eine Definition als vollständigen Satz formulieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can define subject-related concepts in writing and, in exchange with others, check or jointly create definitions.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 8: DEFINIEREN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "fachbezogene Konzepte schriftlich definieren",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 8: DEFINIEREN"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 8: DEFINIEREN",
+        "printed_page_range": "21"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

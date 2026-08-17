@@ -1,0 +1,139 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f8f9ee80f2b9b0b7c386bac1dc48083e29ca62404bdf1fd7347f814d3f65c8a2"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "One overall grade is formed for both exam parts, with the language performance carrying the greater weight.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — VI Bewertungshinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Für die beiden Teile der Präsentationsprüfung wird eine Gesamtnote gebildet, bei der \ndie sprachliche Leistung überwiegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment is based on the descriptor tables of Abiturrichtlinie 2018, Annex 2 English.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — VI Bewertungshinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Der Bewertung werden die Deskriptorentabellen zugrunde gelegt, die in der Abiturricht-\nlinie 2018, Anlage 2 Englisch, enthalten sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "The tables reproduced here are excerpts, adapted in the sub-area 'inhaltliche Aufgabenerfüllung' to the concrete exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — VI Bewertungshinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die folgenden Tabellen sind Auszüge aus diesen Deskriptorentabellen. Sie wurden im \nTeilbereich „inhaltliche Aufgabenerfüllung“ der konkreten Prüfung angepasst.",
+        "residual_flags": []
+      },
+      {
+        "content": "Part 1 of the assessment covers the coherent presentation, rated on content/task fulfilment, monological language, and presenting.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — VI Bewertungshinweise",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Bewertung Teil 1: Zusammenhängende Darstellung bzw. Präsentation",
+        "residual_flags": []
+      },
+      {
+        "content": "For a 'gut' Fachgespräch the candidate grasps most essential aspects, analyses competently and almost completely, and structures content largely aptly and clearly.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — VI Bewertungshinweise",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "• erfasst die Mehrzahl der wesentlichen \nAspekte, \n• analysiert sachkompetent und nahezu \nvollständig,",
+        "residual_flags": []
+      },
+      {
+        "content": "For a 'ausreichend' Fachgespräch the candidate grasps few essential aspects and analyses superficially and/or presents results with little coherence.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crash — VI Bewertungshinweise",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "• erfasst wenige wesentliche Aspekte, \n• analysiert oberflächlich und / oder \nstellt Ergebnisse in viele Passagen we-\nnig zusammenhängend dar,",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'in viele Passagen' (grammatically 'in vielen Passagen'; the parallel Teil-1 table reads 'in vielen Passagen')"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Crash — VI Bewertungshinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Crash — VI Bewertungshinweise",
+        "printed_page_range": "10–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

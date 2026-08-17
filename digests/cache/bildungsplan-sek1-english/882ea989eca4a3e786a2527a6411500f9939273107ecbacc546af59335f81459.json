@@ -1,0 +1,181 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:882ea989eca4a3e786a2527a6411500f9939273107ecbacc546af59335f81459"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students engage with their own health, nature and the effects of their actions on the environment.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "der eigenen Gesundheit, der Natur, den Auswirkungen des eigenen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students hold a standpoint in discussions on societal topics and sustain the conversation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "vertreten in Diskussionen zu gesellschaftlichen Themen einen",
+        "residual_flags": []
+      },
+      {
+        "content": "The bold-printed topics are compulsory to cover.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "Die fettgedruckten Themen sind verpflichtend zu behandeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "A content strand covers critical engagement with health topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "Kritische Auseinandersetzung mit Gesundheitsthemen",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspects include talking about health issues.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "talking about health issues",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspects include health and well-being.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "health and well-being",
+        "residual_flags": []
+      },
+      {
+        "content": "A content strand covers critical engagement with environment, nature and science topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "Kritische Auseinandersetzung mit Themen aus Umwelt, Natur",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspects include preserving nature: biodiversity, climate, pollution.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "preserving nature: biodiversity, climate, pollution",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspects include scientific and technological innovation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "scientific and technological innovation",
+        "residual_flags": []
+      },
+      {
+        "content": "Students engage with globally relevant problems and critically examine different solution approaches.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "Problemen und setzen sich kritisch mit unterschiedlichen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 57,
+          "printed_page": 57
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 9/10/11 Nature, health, science - global challenges",
+        "printed_page_range": "57"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

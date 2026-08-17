@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:dc25fc2bfbf99f0fc6450a6284102d3377f844ef2fff636fcf256ce0bece7e17"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Competence area A HÖREN — descriptors 1–2: students can distinguish language actions such as question, request, plea on subject topics, and infer the meaning of subject-related words and sentences from context.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "1. sprachliche Handlungen wie Frage, Aufforderung, Bitte u. a. zu fachbezogenen Themen unterscheiden \n2. die Bedeutung von fachbezogenen Wörtern und Sätzen aus dem Kontext erschließen",
+        "residual_flags": []
+      },
+      {
+        "content": "A HÖREN — descriptors 3–5: understand the main subject statements of talks or media-conveyed texts and distinguish important from incidental, grasp and reproduce factual information and connections while listening, and grasp heard talks as a whole.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "3. die fachbezogenen Hauptaussagen aus Vorträgen oder medial vermittelten Texten verstehen und dabei Wichtiges von Nebensächlichem unter-\nscheiden \n4. beim Zuhören Sachinformationen und Zusammenhänge erfassen und wiedergeben \n5. gehörte Vorträge als Ganzes erfassen",
+        "residual_flags": []
+      },
+      {
+        "content": "A HÖREN — descriptor 6: apply listening-comprehension strategies, e.g. note key points, name what was not understood in listening texts and contributions and ask targeted questions to infer unknown words, reflect on the content of what was said via (follow-up) questions, and open up what was not understood as well as central statements through targeted follow-up questions.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "6. Strategien des Hörverstehens anwenden, z.B. \n• \nStichpunkte zur Unterstützung des Hörverständnisses notieren \n• \nNichtverstandenes aus Hörtexten und Redebeiträgen im Fachkontext benennen und gezielt nachfragen, um die Bedeutung unbekannter Wör-\nter und Wendungen zu erschließen \n• \nmit Hilfe von (Rück-)Fragen über den Aussagegehalt des Gesagten reflektieren \n• \ndurch gezielte Rückfragen Nichtverstandenes sowie zentrale Aussagen aus Hörtexten und Vorträgen erschließen",
+        "residual_flags": []
+      },
+      {
+        "content": "A HÖREN — descriptor 7: reflect on and judge what was heard — draw conclusions and take a subject-related stance, and assess with reasons the quality and credibility of media-conveyed texts and talks (including from the internet).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "7. Gehörtes reflektieren und beurteilen \n• \nSchlüsse aus dem Gehörten ziehen und fachbezogen Stellung dazu nehmen \n• \nQualität und Glaubwürdigkeit von medial vermittelten Texten und Vorträgen (auch aus dem Internet) begründet einschätzen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "A. HÖREN (ZUHÖREN & SACHTEXTE VERSTEHEND HÖREN)",
+        "printed_page_range": "15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

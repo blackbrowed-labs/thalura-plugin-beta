@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ea675df2475478e2f6dac6555059fd4effd3a0b064042252352c58aaf23c4733"
+  },
+  "freshness": [
+    {
+      "document_id": "praeambel",
+      "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content specifications are binding, whereas the references in the first and third columns are recommendations only.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Die Kerncurricula und ihre schulindividuelle Ausgestaltung",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Während die inhaltlichen Vorgaben verbindlich sind, dienen die Verweise in der ersten und",
+        "residual_flags": []
+      },
+      {
+        "content": "Schools may replace the recommended references with self-chosen ones, and a subject department may substitute its own systematic mapping of competencies to content.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Die Kerncurricula und ihre schulindividuelle Ausgestaltung",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "So können die empfohlenen Bezüge durch selbst gewählte, andere Bezüge ersetzt wer-",
+        "residual_flags": []
+      },
+      {
+        "content": "Core curricula normally occupy only part of the available teaching time — as a rule about half — with school-internal curricula determining the use of the rest.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Die Kerncurricula und ihre schulindividuelle Ausgestaltung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Behandlung der Kerncurricula beansprucht bei normaler Unterrichtsgestaltung nur",
+        "residual_flags": []
+      },
+      {
+        "content": "The proportion is stated explicitly as, in general, half of the available teaching time.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Die Kerncurricula und ihre schulindividuelle Ausgestaltung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "einen Teil der zur Verfügung stehenden Unterrichtszeit, in der Regel die Hälfte.",
+        "residual_flags": []
+      },
+      {
+        "content": "School-internal curricula coordinate the teaching offer across year groups and subjects at the level of the individual school.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Die Kerncurricula und ihre schulindividuelle Ausgestaltung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Schulinterne Curricula sichern die Abstimmung der Un-",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Die Kerncurricula und ihre schulindividuelle Ausgestaltung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "praeambel",
+        "section_anchor": "Die Kerncurricula und ihre schulindividuelle Ausgestaltung",
+        "printed_page_range": "6–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

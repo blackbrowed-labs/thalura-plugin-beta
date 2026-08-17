@@ -1,0 +1,802 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:23e82f627cd0aebc76a9d3ce49e26dd6968f416ba93a2ff7c1e6a016ceec5dc5"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-religion",
+      "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Cross-curricular competences form the basis for successful learning development and for acquiring subject competences, and are of central importance for coping with different demands and problems.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Überfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den \nErwerb fachlicher Kompetenzen. Sie sind fächerübergreifend relevant und bei der Bewältigung \nunterschiedlicher Anforderungen und Probleme von zentraler Bedeutung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Conveying cross-curricular competences is the joint task and joint goal of all school subjects and of school life as a whole.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Vermittlung \nüberfachlicher Kompetenzen ist somit die gemeinsame Aufgabe und gemeinsames Ziel aller \nUnterrichtsfächer sowie des gesamten Schullebens.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competences are assigned to four areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die überfachlichen Kompetenzen lassen \nsich vier Bereichen zuordnen:",
+        "residual_flags": []
+      },
+      {
+        "content": "Personal competences comprise attitudes and stances towards oneself; pupils are to develop trust in their own abilities and in the effectiveness of their own action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegen-\nüber. Die Schülerinnen und Schüler sollen Vertrauen in die eigenen Fähigkeiten und \ndie Wirksamkeit des eigenen Handelns entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivational attitudes describe the ability and willingness to commit oneself to things and to become engaged.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für \nDinge einzusetzen und zu engagieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning-method competences are the basis for a conscious acquisition of knowledge and competences and thus for goal-directed, self-regulated learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Lernmethodische Kompetenzen bilden die Grundlage für einen bewussten Erwerb \nvon Wissen und Kompetenzen und damit für ein zielgerichtetes, selbstgesteuertes Ler-\nnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Social competences are needed in order to deal and cooperate appropriately with other people.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen um-\ngehen und zusammenarbeiten zu können.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competences are to be understood across year groups: unlike the subject competences, they are not set out differentiated by year level in the framework plans.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die in der nachfolgenden Tabelle genannten überfachlichen Kompetenzen sind jahrgangs-\nübergreifend zu verstehen, d. h., sie werden anders als die fachlichen Kompetenzen in den \nRahmenplänen nicht für unterschiedliche Jahrgangsstufen differenziert ausgewiesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competences must be taken into account when developing the school-internal curriculum.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die überfachlichen Kompetenzen sind bei der \nErarbeitung des schulinternen Curriculums zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Religious education opens up religion in three competence areas which are closely interlinked and mutually conditioning, so that they claim no absolute separation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Der Religionsunterricht erschließt Religion in drei Kompetenzbereichen. Diese Kompetenzbe-\nreiche sind eng miteinander verschränkt, da sie sich wechselseitig bedingen. Deshalb bean-\nspruchen sie keine absolute Trennschärfe.",
+        "residual_flags": []
+      },
+      {
+        "content": "Dialogue competence (D) is the ability to communicate respectfully and with a change of perspective about religious and worldview questions, experiences, convictions and ways of life, and to perceive and value religious diversity.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Dialogkompetenz (D) \nFähigkeit zu einer respektvollen, die Perspektiven wechselnden Kommunikation über religiöse \nund weltanschauliche Fragen, Erfahrungen, Überzeugungen und Lebensweisen der Schüle-\nrinnen und Schüler vor dem Hintergrund religiöser Überlieferungen sowie zur Wahrnehmung \nund Wertschätzung religiöser Vielfalt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Judgement competence (U) is the ability to reflect on questions against the background of religious traditions and convictions and to reach a justified judgement relevant to one's own self-understanding and action; the source has the ungrammatical \"relevantem Urteil\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Urteilskompetenz (U) \nFähigkeit, Fragen vor dem Hintergrund religiöser Überlieferungen und Überzeugungen zu re-\nflektieren und zu einem begründeten, für das eigene Selbstverständnis und Handeln relevan-\ntem Urteil zu kommen.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "Orientation competence is the ability to perceive the questions relevant in one's own life and to orient oneself in and through religion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Orientierungskompetenz \nFähigkeit, die im eigenen Leben relevanten Fragen wahrzunehmen und sich in und durch Re-\nligion zu orientieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Orientation competence subdivides into four partial competences corresponding to the four topic areas of the core curriculum; the source reads \"den vier Themenbereiche\" instead of \"Themenbereichen\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Orientierungskompetenz untergliedert sich in vier Teilkompetenzen, die mit den vier The-\nmenbereiche des Kerncurriculums (s. u.) korrespondieren:",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "Asking about religions (R) is the ability to understand ways of life and belief, history, sources and teachings of religions and cultures, to open them up expertly from their respective inside view, and to reflect on their relevance for one's own life and for society.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach Religionen fragen (R) \nFähigkeit, Lebens- und Glaubensformen, Geschichte, Quellen und Lehren von Religionen \nund Kulturen zu verstehen, sie sachkundig aus der jeweiligen Innensicht zu erschließen, \nsie miteinander in Beziehung zu setzen, sich zu einzelnen Religionen, ihren individuellen \nAusprägungen und anderen Lebensauffassungen ins Verhältnis zu setzen und die Rele-\nvanz für das eigene Leben und die Gesellschaft zu reflektieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Asking about God, the divine and transcendence (G) is the ability to link questions of the ground, meaning and responsibility of life with that question and with the understandings found in religious traditions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach Gott/Göttlichem/Transzendenz fragen (G) \nFähigkeit, Fragen nach Grund, Sinn und Verantwortung des Lebens mit der Frage nach \nGott/Göttlichem/Transzendenz und den Verständnissen von Gott/Göttlichem/Transzen-\ndenz in religiösen Überlieferungen zu verknüpfen und dadurch die eigenen Vorstellungen \nvon Gott/Göttlichem/Transzendenz und ihre Lebensrelevanz zu entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Asking about the human being (M) is the ability to develop and reflect on one's own identity and the understanding of others within the horizon of religious messages and worldview perspectives, opening up existential experiences and seeing the human being as part of creation; the source has the ungrammatical \"der Menschen als Teil der Schoepfung\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach dem Menschen fragen (M) \nFähigkeit, die eigene Identität und das Verständnis von anderen im Horizont religiöser \nBotschaften und weltanschaulicher Perspektiven zu entwickeln und zu reflektieren, indem \nexistenzielle Erfahrungen erschlossen, eigene Begabungen entdeckt, Ambivalenzen \nmenschlicher Existenz thematisiert, Beziehungen zu anderen Menschen und zu Gott/Gött-\nlichem/Transzendenz in den Blick genommen und der Menschen als Teil der Schöpfung \nverstanden wird.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "Asking about human responsibility in the world (V) is the ability to relate one's own conceptions of responsible action to conceptions from religions and relevant contexts and, building on that, to act responsibly.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach der Verantwortung des Menschen in der Welt fragen (V) \nFähigkeit, eigene Vorstellungen von verantwortlichem Handeln und Vorstellungen aus Re-\nligionen und relevanten Kontexten aufeinander zu beziehen, zu reflektieren und, darauf \naufbauend, verantwortungsbewusst zu handeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "The individual competences can be acquired, deepened and practised in all topic and question areas; the source prints \"an allen Themenbereichen und Fragenbereiche\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die einzelnen Kompetenzen können an allen Themenbereichen und Fragenbereiche erwor-\nben, vertieft und geübt werden.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "Dialogue and judgement competence are fostered equally across all topics, whereas the partial competences of orientation competence are the focus of individual topic and question areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Während die Dialog- und Urteilskompetenz an allen Themen \ngleichermaßen gefördert wird, stehen die Teilkompetenzen der Orientierungskompetenz im \nFokus jeweils einzelner Themenbereiche und Fragenbereiche.",
+        "residual_flags": []
+      },
+      {
+        "content": "The competence formulations contain bracketed expressions to be read as alternatives: \"(religious) convictions\" covers both non-religious and religious convictions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "beinhalten die nachfolgenden Kompetenzformulie-\nrungen alternativ zu verstehende Klammerausdrücke: Wenn dort z. B. von „…in (religiösen) \nÜberzeugungen…“ (s. u. unter U1) die Rede ist, dann sind damit sowohl Überzeugungen ge-\nmeint, die nicht religiös sind, als auch solche, die religiös sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Minimum requirements apply to pupils in the individual competence areas of religious education at the Gymnasium.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Im Religionsunterricht des Gymnasiums gelten für die Schülerinnen und Schüler in den ein-\nzelnen Kompetenzbereichen nachfolgende Mindestanforderungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The minimum requirements relate to all modules set out in the core curricula; where there is a choice, the requirements attached to the chosen modules apply.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Sie beziehen sich auf alle Module, die in den Kerncurricula ausgewiesen sind. Bei Wahlmög-\nlichkeiten sind die Anforderungen zu berücksichtigen, die sich auf die gewählten Module be-\nziehen und dort aufgeführt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The assignment of requirements to year levels assumes two lessons per week in years 7/8 with core-curriculum modules 3.1-3.4 and four lessons in years 9/10 with modules 4.1-4.3 and 5.1-5.3.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Zuordnung zu einzelnen Jahrgangsstufen orientiert sich an einer Stundenverteilung von \nzwei Unterrichtsstunden in den Jahrgangsstufen 7/8 (mit den Kerncurricula-Modulen 3.1 – 3.4) \nund vier Unterrichtsstunden in den Jahrgangsstufen 9/10 (mit den Kerncurricula-Modulen 4.1 \n– 4.3 und 5.1 – 5.3).",
+        "residual_flags": []
+      },
+      {
+        "content": "If the hourly allocation table is implemented differently, the requirements are to be achieved according to the religious education actually taught.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Bei einer anderen Umsetzung der Kontingentstundentafel sind die Anfor-\nderungen nach dem jeweils erteilten Religionsunterricht zu erreichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Minimum requirements are stated at three checkpoints: end of year 6, end of year 8, and for the transition into the Studienstufe.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Mindestanforderungen am \nEnde der Jahrgangsstufe 6 \nMindestanforderungen am \nEnde der Jahrgangsstufe 8 \nMindestanforderungen für \nden Übergang in die \nStudienstufe",
+        "residual_flags": [
+          "page-multi-match:physical-13-earliest-of-6-candidate-pages"
+        ]
+      },
+      {
+        "content": "Pupils acquire the competences on the basis of four topic areas: religions, God/the divine/transcendence, the human being, and responsibility.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Die Schülerinnen und Schüler erwerben im Religionsunterricht die Kompetenzen anhand von \nvier Themenbereichen: Religionen, Gott/Göttliches/Transzendenz, Mensch und Verantwor-\ntung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Because religious education is geared to the concrete composition of the learning group and the school environment, subject conferences and individual teachers concretise the core curriculum and shape teaching through a didactic circular movement.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Da der Religionsunterricht auf die konkrete Zusammensetzung der Lerngruppe und des \nSchulumfelds ausgerichtet ist, konkretisieren die Fachkonferenzen und die einzelnen Lehr-\nkräfte das Kerncurriculum und gestalten den Religionsunterricht durch eine didaktische Kreis-\nbewegung:",
+        "residual_flags": []
+      },
+      {
+        "content": "For each year level the core curriculum names cross-religious question areas, which are specified further with regard to the pupils and to the religion-specific contents and sources.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Für jede Jahrgangsstufe benennt das Kerncurricu-\nlum religionenübergreifende Fragenbereiche, die \nim Hinblick auf die Schülerinnen und Schüler und \ndie religionenspezifischen Inhalte und Quellen nä-\nher bestimmt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The core curriculum only names examples of pupils' questions; further questions can also be relevant for teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Auch \nweitere Fragen können unterrichtsrelevant sein. \nDas Kerncurriculum nennt hier nur Beispiele.",
+        "residual_flags": []
+      },
+      {
+        "content": "While aspects from the respective context are indispensable for understanding and therefore binding for all, the unavoidable selection of religious perspectives is oriented first on the religious composition of the learning group and its lifeworld; the religions occurring there must be addressed in class.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "orientiert sich die aus zeitlichen Gründen unvermeidbare Auswahl der religiösen \nPerspektiven zunächst an der religiösen Zusammensetzung der Lerngruppe und der Lebens-\nwelt: Die dort vorkommenden Religionen sind auch im Unterricht zu thematisieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Beyond that, significance for European cultural history and the current social situation must be taken into account.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Darüber \nhinaus sind die Bedeutung für die europäische Kulturgeschichte und die aktuelle gesellschaft-\nliche Situation zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Differentiated and individualised learning arrangements must ensure that every pupil can encounter the perspective of their own religion of origin intensively while also getting to know the perspectives of further religions and life views in their lifeworld.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Mithilfe differenzierter und individualisierter Lernarrangements ist sicherzustellen, dass jede \nSchülerin bzw. jeder Schüler – sofern vorliegend – der Perspektive der eigenen (Herkunfts-) \nReligion(en) intensiv begegnen kann und zugleich die Perspektiven weiterer Religionen und \nLebensauffassungen seiner Lebenswelt näher kennenlernt.",
+        "residual_flags": []
+      },
+      {
+        "content": "The religion-specific contents and sources each comprise an A part and a B part; the contents of the A part address all pupils regardless of their religious background. The source prints \"B- Teil\" with a stray space.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Die nachfolgend aufgeführten re-\nligionenspezifischen Inhalte und Quellen umfassen deshalb jeweils einen A-Teil und einen \nB- Teil: Die Inhalte des A-Teils richten sich an alle Schülerinnen und Schüler, unabhängig von \nihrem religiösen Hintergrund.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "The distinction between A and B part does not serve performance differentiation but aims at the interlocking of dialogue and religion-specific orientation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Die Unterscheidung von A- und B-Teil dient nicht der Leistungsdif-\nferenzierung, sondern zielt auf das Ineinander von Dialog und religionenspezifischer Orientie-\nrung.",
+        "residual_flags": []
+      },
+      {
+        "content": "It is compulsory that for every question area all pupils work on the A part of three religious perspectives and the B part of one religious perspective, alongside the aspects of the context.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Verpflichtend ist, dass alle Schülerinnen und Schüler für jeden Fragenbereich – neben den \nAspekten des Kontexts – den A-Teil von drei religiösen Perspektiven und den B-Teil einer \nreligiösen Perspektive bearbeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "An exception are modules in year 5, for which no B part is set out, in order to leave enough time to establish topic-differentiated working.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Eine Ausnahme bilden Module in Jahrgangsstufe 5, bei de-\nnen kein B-Teil ausgewiesen wurde, um ausreichend Zeit für die Etablierung themendifferen-\nzierten Arbeitens zu geben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Where more than three religions of origin are of particular relevance in a learning group, teaching may still be limited to three perspectives in individual question areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Sofern in einer Lerngruppe mehr als drei (Herkunfts-)Religionen \nvon besonderer Relevanz für einzelne Schülerinnen und Schüler sind, kann sich der Unterricht \ndennoch auf die Bearbeitung von drei Perspektiven bei einzelnen Fragenbereichen beschrän-\nken.",
+        "residual_flags": []
+      },
+      {
+        "content": "In that case it must be ensured that in the course of the school year every religion of origin represented in the group and covered by the core curriculum is addressed in at least one question area; more than three perspectives may always be worked on.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Dann ist jedoch zu gewährleisten, dass im Verlauf des Schuljahres zumindest bei einem \nFragenbereich jede (Herkunfts-)Religion thematisiert wird, die in der Lerngruppe vertreten und \nim Kerncurriculum berücksichtigt ist. Es können immer auch mehr als drei Perspektiven bear-\nbeitet werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Only the thematisation of the religious perspectives set out in the core curriculum is binding; further religious and denominational perspectives may be added by the school and vocational training authority after corresponding decisions of the joint commissions with the religious communities.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Im Religionsunterricht ist deshalb nur die Thematisierung der religiösen Perspektiven \nverbindlich, die im Kerncurriculum ausgewiesen sind. Weitere religiöse und konfessionelle \nPerspektiven können von der Behörde für Schule und Berufsbildung nach entsprechenden \nBeschlüssen der Gemischten Kommissionen mit den Religionsgemeinschaften ergänzt wer-\nden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In all cases the religious backgrounds and perspectives that pupils bring with them are to be met with pedagogical appreciation and their contributions taken up.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In allen Fällen gilt es, den religiösen Hintergründen und Perspektiven, die die Schülerin-\nnen und Schüler mitbringen, pädagogisch wertschätzend zu begegnen und Unterrichtsbei-\nträge aufzugreifen.",
+        "residual_flags": []
+      },
+      {
+        "content": "No scientifically exact transliteration with diacritical marks is used; established spellings are used so that teachers can research easily.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Im Folgenden wird auf eine wissen-\nschaftlich exakte Transliteration mit diakritischen Zeichen verzichtet. Etablierte Schreibweisen \nwerden verwendet, die der Lehrkraft eine einfache Recherche ermöglichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Particular attention is paid to words whose spelling or original-language use is religiously significant, such as the Jewish \"G'tt\" and the Islamic \"Allah\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Besondere Aufmerksamkeit gilt Wörtern, deren Schreibweise (wie beim jüdischen „G’tt“) oder \noriginalsprachliche Verwendung (wie beim islamischen „Allah“) religiös bedeutsam sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the specifically Islamic aspects of the framework plan, \"Gott\" is combined with the proper name \"Allah\" as \"Allah/Gott\", since using both names has a tradition in German; the source has a double space after \"Eigennamen\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Bei \nden spezifisch islamischen Aspekten des Rahmenplans wird „Gott“ mit dem Eigennamen  \n„Allah“ zu „Allah/Gott“ verbunden, da die Verwendung beider Namen im Deutschen Tradition \nhat.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "References to holy scriptures are to be understood as didactic hints and mostly do not intend their literal inclusion in lessons.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Die Verweise auf Heilige Schriften sind als didaktische Hinweise zu verstehen und intendieren \nzumeist nicht deren wörtlichen Einbezug in den Unterricht.",
+        "residual_flags": []
+      },
+      {
+        "content": "References to persons support teachers in identifying relevant positions in the given context but do not oblige them to treat those positions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Verweise auf Personen unterstützen die Lehrkraft darin, im jeweiligen Kontext relevante Posi-\ntionen zu identifizieren, die für die unterrichtliche Bearbeitung aufbereitet werden können, ver-\npflichten aber nicht zu deren Behandlung.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the core curriculum the individual technical terms are set in italics in the content column and are introduced into lessons in nominalised form.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Kerncurriculum sind die einzelnen Fachbegriffe in der \nInhaltsspalte kursiv gesetzt. In den Unterricht werden sie in der substantivierten Form einge-\nbracht.",
+        "residual_flags": []
+      },
+      {
+        "content": "The interdisciplinary column of each module carries references to the relevant guiding perspective: value education (W), education for sustainable development (BNE) or living and learning in a digitally shaped world (D).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "In der fach-\nübergreifenden Spalte jedes Moduls finden sich Verweise auf die jeweils relevante Leitper-\nspektive Wertebildung und Werteorientierung (W), Bildung für nachhaltige Entwicklung (BNE) \noder Leben und Lernen in einer digital geprägten Welt (D).",
+        "residual_flags": []
+      },
+      {
+        "content": "In the subject-related column, the letter denotes the school stage - \"G\" for primary school, \"I\" for lower secondary and \"II\" for upper secondary - and the number the respective core-curriculum module.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Dabei steht der Buchstabe für die Schulstufe („G“ für die Grundschule, „I“ für die Sekun-\ndarstufe I und „II“ für die Sekundarstufe II) und die Nummer für das jeweilige Modul des \nKerncurriculums.",
+        "residual_flags": []
+      },
+      {
+        "content": "The core curriculum is structured into individual modules, each devoted to one question area; some modules are compulsory, for others a selection can be made from a set or all can be taught.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Das Kerncurriculum gliedert sich in einzelne Module, die sich jeweils einem Fragenbereich \nwidmen. Einige Module sind verpflichtend, bei anderen kann eine Auswahl aus einem Set von \nModulen vorgenommen oder es können alle unterrichtet werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In addition there is free space that schools can use, along the didactic principles of the framework plan, to deepen aspects of existing modules or to work on further question areas not set out in the core curriculum.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Darüber hinaus gibt es einen \nFreiraum, den Schulen entlang der didaktischen Prinzipien dieses Rahmenplans zur Vertie-\nfung einzelner Aspekte aus den bestehenden Modulen oder zur Bearbeitung weiterer, im \nKerncurriculum nicht ausgewiesener Fragenbereiche nutzen können.",
+        "residual_flags": []
+      },
+      {
+        "content": "For years 5/6 modules 2.1 and 2.4 are binding, plus two of the three modules 1.1, 1.2 and 2.2, and either module 1.3 or 2.3.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "5/6 \n- Modul 2.1 \n- Modul 2.4 \n- zwei der drei Module \n1.1, 1.2, 2.2  \n- Modul 1.3 oder 2.3",
+        "residual_flags": []
+      },
+      {
+        "content": "For years 7 to 10 modules 3.4, 4.1, 4.2 and 5.1 are binding, plus module 3.1 or 3.2, module 3.3 or 4.3, and module 5.2 or 5.3.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "7-10 \n- Modul 3.4 \n- Modul 4.1 \n- Modul 4.2 \n- Modul 5.1 \n- Modul 3.1 oder 3.2 \n- Modul 3.3 oder 4.3  \n- Modul 5.2 oder 5.3",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-religion",
+        "section_anchor": "2 Kompetenzen und Inhalte im Fach Religion",
+        "printed_page_range": "10–22"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

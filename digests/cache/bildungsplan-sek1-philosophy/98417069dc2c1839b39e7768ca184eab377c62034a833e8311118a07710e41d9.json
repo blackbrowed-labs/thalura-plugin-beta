@@ -1,0 +1,1703 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:98417069dc2c1839b39e7768ca184eab377c62034a833e8311118a07710e41d9"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Section 2.2 on subject competencies states that in philosophy lessons students engage with fundamental questions and problems that touch on their understanding of the world and of themselves.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "2.2 Fachliche Kompetenzen \nIm Philosophieunterricht setzen sich die Schülerinnen und Schüler mit grundsätzlichen Fragen \nund Problemen auseinander, die ihr Welt- und Selbstverständnis berühren.",
+        "residual_flags": []
+      },
+      {
+        "content": "They subject both their own and pre-existing interpretations to fundamental reflection.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Sie unterziehen \neigene und vorgefundene Deutungen einer grundlegenden Reflexion.",
+        "residual_flags": []
+      },
+      {
+        "content": "Drawing on philosophical approaches, they also develop and justify options for action of their own for which they can take responsibility.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In Rekurs auf philoso-\nphische Ansätze werden auch eigene verantwortbare Handlungsoptionen entwickelt und ge-\nrechtfertigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "The basic dimensions of subject-specific thinking and acting are questioning, analysing, arguing, discussing, reflecting and judging. (The printed text reads \"Denkens und Handels\" where \"Handelns\" is meant.)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Somit wird über die Grunddimensionen fachlichen Denkens und Handels (Fragen, \nAnalysieren, Argumentieren, Diskutieren, Reflektieren und Urteilen)",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "Through these dimensions not only understanding is built up but — in combination with subject knowledge from other disciplines — a basis is also laid for shaping one's own life and social life responsibly.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "nicht nur Verstehen auf-\ngebaut, sondern (in Verbindung mit Fachwissen aus anderen Disziplinen) auch für die verant-\nwortungsvolle Gestaltung des eigenen und des gesellschaftlichen Lebens eine Basis gelegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "The goal of philosophy teaching is to train the capacity for reflection with regard to fundamental questions and concepts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Ziel des Philosophieunterrichts ist die Schulung des Reflexionsvermögens in Bezug auf grund-\nsätzliche Fragen und Begrifflichkeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "This capacity enables students to examine definitions, assertions and public debates critically.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Dieses Vermögen befähigt zur kritischen Überprüfung \nvon Definitionen, Behauptungen und gesellschaftlichen Debatten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Philosophy lessons put students in a position to find fundamental questions and to think them through further independently and creatively.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Schülerinnen und Schü-\nler werden im Philosophieunterricht in die Lage versetzt, grundsätzliche Fragen zu finden und \ndiese eigenständig und kreativ weiterzudenken.",
+        "residual_flags": []
+      },
+      {
+        "content": "Such questions are the condition and the starting point of philosophising.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Diese Fragen sind Bedingung und Ausgangs-\npunkt des Philosophierens.",
+        "residual_flags": []
+      },
+      {
+        "content": "In philosophical problem reflection specific abilities are applied, so that philosophical questions, positions and models of thought are developed, reconstructed, analysed, explained and finally judged in argumentative terms.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In der philosophischen Problemreflexion werden spezifische Fä-\nhigkeiten angewendet, so dass philosophische Fragen, Positionen und Denkmodelle entwi-\nckelt, rekonstruiert, analysiert, erläutert und schließlich argumentativ beurteilt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Where applicable, students must work out what it is that they themselves cannot (yet) do.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Gege-\nbenenfalls muss von den Schülerinnen und Schülern herausgearbeitet werden, dass es ihnen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students may have to work out that it is not (yet) possible for them to deliver a judgement and which preconditions must be met for it — e.g. subject knowledge, factual knowledge, knowledge of methods, and knowledge of general and particular connections.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "(noch) nicht möglich ist, ein Urteil abzugeben und welche Voraussetzungen (z. B. Fachwissen, \nFaktenwissen, Methodenkenntnisse, Kenntnis allgemeiner und bestimmter Zusammenhänge) \nhierfür erfüllt sein müssen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Besides acquiring knowledge, lessons give students opportunities to apply their knowledge, to pursue questions about how it is acquired and applied, and to identify deficits in knowledge and competence with regard to particular questions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Neben dem Erwerb von Wissen bietet der Unterricht den Schüle-\nrinnen und Schülern auch Gelegenheiten, ihr Wissen anzuwenden und Fragen bezüglich sei-\nnes Erwerbs und seiner Anwendung nachzugehen sowie Wissens- und Kompetenzdefizite \nbezüglich bestimmter Fragen zu identifizieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "The basis for extending the capacity for judgement is the acquisition of competencies, knowledge and specific basic attitudes.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Grundlage für die Erweiterung des Urteilsvermögens ist der Erwerb von Kompetenzen, Kennt-\nnissen und spezifischen Grundhaltungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The competencies listed refer to expected knowledge, abilities, skills and dispositions that are acquired in philosophy lessons in written, oral and where applicable presentational form.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die aufgeführten Kompetenzen beziehen sich auf \nerwartete Kenntnisse, Fähigkeiten, Fertigkeiten und Dispositionen, die im Philosophieunter-\nricht in schriftlicher, mündlicher und ggf. präsentativer Form erworben werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Examples of the forms in which they are acquired are writing philosophical essays, philosophical dialogues, philosophical disputations, Socratic conversations, developing podcasts, and visualisations as well as pictorial and scenic presentations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "z. B. im Ver-\nfassen philosophischer Essays sowie in philosophischen Dialogen, philosophischen Streitge-\nsprächen, sokratischen Gesprächen, in der Entwicklung von Podcasts oder auch in Visualisie-\nrungen sowie bildlichen und szenischen Darstellungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The competencies are assigned to competency areas (Kompetenzbereiche) that represent the basic dimensions of subject-specific thinking and acting.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Sie sind Kompetenzbereichen zuge-\nordnet, die Grunddimensionen fachlichen Denkens und Handelns darstellen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The first competency area is \"Fragen\" — questioning competence, abbreviated F.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Kompetenzbereich Fragen (Fragekompetenz, F)",
+        "residual_flags": []
+      },
+      {
+        "content": "Every competency table has four columns: the sub-competency (Teilkompetenz) and minimum requirements for the first general school-leaving certificate (ersten allgemeinbildenden Schulabschluss), for the intermediate school-leaving certificate (mittleren Schulabschluss), and for transition to the upper secondary phase (Übergang in die Studienstufe).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Teilkompetenz \nMindest-\nanforderungen für \nden ersten \nallgemeinbildenden \nSchulabschluss \nMindest-\nanforderungen für \nden mittleren \nSchulabschluss \nMindest-\nanforderungen für \nden Übergang in die \nStudienstufe",
+        "residual_flags": [
+          "page-multi-match:physical-10-earliest-of-7-candidate-pages"
+        ]
+      },
+      {
+        "content": "Sub-competency F1: presenting what is questionable in the life-world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "F1 \nFragwürdiges in \nder Lebenswelt \ndarstellen",
+        "residual_flags": []
+      },
+      {
+        "content": "F1, minimum requirement for the first general school-leaving certificate: students present, with support, fundamental problems and uncertainties in connection with life-world phenomena (e.g. friendship and love).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "stellen grundlegende \nProblemstellungen und \nUnklarheiten im \nZusammenhang mit \nlebensweltlichen \nPhänomenen (z. B. \nFreundschaft und Liebe) \nmit Hilfestellung dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "F1, minimum requirement for the intermediate school-leaving certificate: students present these fundamental problems and uncertainties without support.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "stellen grundlegende \nProblemstellungen und \nUnklarheiten im \nZusammenhang mit \nlebensweltlichen \nPhänomenen (z. B. \nFreundschaft und Liebe) \ndar,",
+        "residual_flags": []
+      },
+      {
+        "content": "F1 at the intermediate level additionally requires students to question given intuitions, proposed answers, attempted solutions, justifications, positions, arguments and habits.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "hinterfragen vorliegende \nIntuitionen, \nAntwortvorschläge, \nLösungsansätze, \nBegründungen, Positionen, \nArgumente und \nGewohnheiten,",
+        "residual_flags": []
+      },
+      {
+        "content": "F1 at the intermediate level also requires presenting radical questioning and wonder — including with regard to the (apparently) self-evident — as an essential element of philosophising.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "stellen radikales Fragen \nund Staunen – auch in \nBezug auf das (scheinbar) \nSelbstverständliche – als \nwesentliches Element des \nPhilosophierens dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "F1, minimum requirement for transition to the Studienstufe: students present the fundamental problems and uncertainties in a differentiated way and systematise them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "stellen grundlegende \nProblemstellungen und \nUnklarheiten im \nZusammenhang mit \nlebensweltlichen \nPhänomenen (z. B. \nFreundschaft und Liebe) \ndifferenziert dar und \nsystematisieren diese,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level students additionally test intuitions, proposed answers and positions for plausibility and consistency, e.g. with creatively constructed counterexamples and thought experiments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "und prüfen \ndiese z. B. mit kreativ \nkonstruierten \nGegenbeispielen und \nGedankenexperimenten \nauf Plausibilität und \nKonsistenz,",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency F2: distinguishing philosophical from non-philosophical questions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "F2 \nPhilosophische \nvon nicht-\nphilosophischen \nFragen \nunterscheiden",
+        "residual_flags": []
+      },
+      {
+        "content": "F2 at the first general school-leaving certificate level: students distinguish, with support, philosophical questions as conceptual-fundamental questions from non-philosophical (empirical) ones.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "unterscheiden mit \nHilfestellung \nphilosophische Fragen als \nbegrifflich-grundsätzliche \nvon nicht-philosophischen \n(empirischen) Fragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "F2 at the intermediate level: students make that distinction without support and explain the difference between philosophical and non-philosophical questions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "erläutern den Unterschied \nzwischen philosophischen \nund nicht-philosophischen \nFragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "F2 at the Studienstufe level additionally requires investigating the differences in the methods of answering the two kinds of question.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "untersuchen Unterschiede \nin den Methoden ihrer \nBeantwortung,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level students also explain the difference between philosophical and non-philosophical questions and clarify how they are connected.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "erläutern den Unterschied \nzwischen philosophischen \nund nicht-philosophischen \nFragen und klären ihren \nZusammenhang.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency F3: formulating philosophical questions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "F3 \nPhilosophische \nFragen formulieren",
+        "residual_flags": []
+      },
+      {
+        "content": "F3 at the first general school-leaving certificate level: students formulate philosophical questions under guidance out of their own experiences, life-world contexts and the carrying out of given thought experiments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "formulieren unter Anleitung \naus eigenen Erfahrungen, \nlebensweltlichen \nKontexten sowie aus der \nDurchführung \nvorgegebener \nGedankenexperimente \nphilosophische Fragen,",
+        "residual_flags": []
+      },
+      {
+        "content": "They also formulate philosophical questions under guidance in relation to sources, presentations and data of various kinds.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "formulieren unter Anleitung \nphilosophische Fragen in \nBezug auf Quellen, \nDarstellungen und Daten \nunterschiedlicher Art.",
+        "residual_flags": []
+      },
+      {
+        "content": "F3 at the intermediate level additionally requires formulating philosophical questions that are implicitly contained in philosophical and literary texts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "formulieren philosophische \nFragen, die in \nphilosophischen und \nliterarischen Texten implizit \nenthalten sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "F3 at the Studienstufe level: students formulate such philosophical questions independently rather than under guidance.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "formulieren selbstständig \naus eigenen Erfahrungen, \nlebensweltlichen \nKontexten sowie aus der \nDurchführung \nvorgegebener \nGedankenexperimente \nphilosophische Fragen,",
+        "residual_flags": []
+      },
+      {
+        "content": "They also independently formulate philosophical questions in relation to sources, presentations and data of various kinds.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "formulieren selbstständig \nphilosophische Fragen in \nBezug auf Quellen, \nDarstellungen und Daten \nunterschiedlicher Art,",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency F4: relating concrete questions from the life-world context and abstract philosophical thoughts, concepts and questions to one another.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "F4 \nKonkrete \nFragestellungen \naus dem \nlebensweltlichen \nKontext und \nabstrakte \nphilosophische \nGedanken, Begriffe \nund Fragen \nzueinander in \nBeziehung setzen",
+        "residual_flags": []
+      },
+      {
+        "content": "F4 at the first general school-leaving certificate level: students make philosophical thoughts, concepts and questions more precise in a guided way, drawing on life-world experiences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "präzisieren angeleitet \nphilosophische Gedanken, \nBegriffe und Fragen unter \nEinbezug lebensweltlicher \nErfahrungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "F4 at the intermediate level: students make them more precise with support, drawing on life-world experiences and taking general connections into account. (The printed cell erroneously repeats \"Gedanken, Begriffe und\".)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "präzisieren mit \nHilfestellung \nphilosophische Gedanken, \nBegriffe und Gedanken, \nBegriffe und Fragen unter \nEinbezug lebensweltlicher \nErfahrungen und unter \nBerücksichtigung \nallgemeiner \nZusammenhänge.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "F4 at the Studienstufe level: students make philosophical thoughts, concepts and questions more precise independently, drawing on life-world experiences and taking general connections into account.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "präzisieren eigenständig \nphilosophische Gedanken, \nBegriffe und Fragen unter \nEinbezug lebensweltlicher \nErfahrungen und unter \nBerücksichtigung \nallgemeiner \nZusammenhänge,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level students also present the connection between abstract philosophical thoughts, concepts and questions (e.g. \"Ist der Mensch frei?\") and concrete questions (e.g. \"Wie/mit welcher Methode kann man klären, ob jemand aus freiem Willen gehandelt hat?\").",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "stellen den \nZusammenhang zwischen \nabstrakten \nphilosophischen \nGedanken, Begriffen und \nFragen einerseits (z. B.: \n„Ist der Mensch frei?“) und \nkonkreten Fragen \nandererseits (z. B.: \n„Wie/mit welcher Methode \nkann man klären, ob \njemand aus freiem Willen \ngehandelt hat?“) dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "The second competency area is \"Analysieren\" — analytical competencies, abbreviated A.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Kompetenzbereich Analysieren (Analysekompetenzen, A)",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency A1: analysing presuppositions and lines of thought.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "A1 \nVoraussetzungen \nund Denkwege \nanalysieren",
+        "residual_flags": []
+      },
+      {
+        "content": "A1 at the first general school-leaving certificate level: students identify, with support, prejudices, habits, difficulties of understanding and missing knowledge that stand in the way of a reasoned proposed solution or a clear positioning, in themselves and in others, and analyse causes and reasons. (The printed cell breaks \"Verständnisschwierigkeiten\" mid-word without a hyphen.)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "identifizieren mit \nHilfestellung Vorurteile, \nGewohnheiten, \nVerständnisschwierigkeite\nn und fehlendes Wissen \nfür einen begründeten \nProblemlösungsvorschlag \noder eine klare \nPositionierung bei sich und \nanderen und analysieren \nUrsachen und Gründe.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "A1 at the intermediate level: students identify these prejudices, habits, difficulties of understanding and missing knowledge without support and analyse causes and reasons.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "identifizieren Vorurteile, \nGewohnheiten, \nVerständnis-\nschwierigkeiten und \nfehlendes Wissen für einen \nbegründeten \nProblemlösungsvorschlag \noder eine klare \nPositionierung bei sich und \nanderen und analysieren \nUrsachen und Gründe,",
+        "residual_flags": []
+      },
+      {
+        "content": "A1 at the intermediate level additionally requires distinguishing intuitive positionings and unfounded convictions from judgements formed in a methodically comprehensible way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "unterscheiden intuitive \nPositionierungen und \nunbegründete \nÜberzeugungen von \nmethodisch \nnachvollziehbar gebildeten \nUrteilen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A1 at the Studienstufe level: students identify them in a differentiated way and analyse causes and reasons in a differentiated way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "identifizieren differenziert \nVorurteile, Gewohnheiten, \nVerständnis-\nschwierigkeiten und \nfehlendes Wissen für einen \nbegründeten \nProblemlösungsvorschlag \noder eine klare \nPositionierung bei sich und \nanderen und analysieren \ndifferenziert Ursachen und \nGründe,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level students also analyse, in a differentiated way, the reasons for disagreements and for remaining uncertainties.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "analysieren differenziert \nGründe für Meinungs-\nverschiedenheiten und \nUnklarheiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency A2: analysing concepts and statements in their context.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "A2 \nBegriffe und \nAussagen in ihrem \nZusammenhang \nanalysieren",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 at the first general school-leaving certificate level: students analyse, with support, the meaning or meanings of concepts and statements and take their context into account.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "analysieren mit \nHilfestellung die \nBedeutung bzw. \nBedeutungen von \nBegriffen und Aussagen \nund berücksichtigen dabei \nihren Kontext.",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 at the intermediate level: students analyse the meanings of concepts and statements as well as their characteristic features, taking the context into account.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "analysieren die Bedeutung \nbzw. Bedeutungen von \nBegriffen und Aussagen \nsowie ihre \ncharakteristischen \nMerkmale",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 at the intermediate level additionally requires distinguishing descriptive from normative concepts and statements as well as necessary from sufficient conditions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "unterscheiden deskriptive \nund normative Begriffe \nbzw. Aussagen sowie \nnotwendige und \nhinreichende \nBedingungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 at the Studienstufe level additionally requires distinguishing descriptive clarifications of a concept (how is the concept used?) from normative ones (how should the concept be used?).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "unterscheiden deskriptive \nBegriffsklärungen (wie wird \nein Begriff verwendet?) \nvon normativen (wie sollte \nder Begriff verwendet \nwerden?).",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency A3: analysing assertions and inferences. (The printed heading breaks \"Schlussfolgerungen\" mid-word without a hyphen.)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "A3 \nBehauptungen und \nSchlussfolgerunge\nn analysieren",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "A3 at the first general school-leaving certificate level: students analyse assertions and inferences with support and examine them for intelligibility, cogency and relevance with regard to a question.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "analysieren mit \nHilfestellung \nBehauptungen und \nSchlussfolgerungen und \nprüfen diese auf ihre \nVerständlichkeit, \nSchlüssigkeit und \nRelevanz hinsichtlich einer \nFragestellung.",
+        "residual_flags": []
+      },
+      {
+        "content": "A3 at the intermediate level additionally requires testing generalisations by means of examples and counterexamples.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "prüfen \nVerallgemeinerungen \nmithilfe von Beispielen und \nGegenbeispielen,",
+        "residual_flags": []
+      },
+      {
+        "content": "A3 at the intermediate level also requires examining assertions and inferences for coherence and freedom from contradiction.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "prüfen Behauptungen und \nSchlussfolgerungen auf \nihre Stimmigkeit und \nWiderspruchsfreiheit,",
+        "residual_flags": []
+      },
+      {
+        "content": "A3 at the intermediate level also requires analysing arguments with regard to their logical consistency.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "analysieren Argumente \nhinsichtlich ihrer \nFolgerichtigkeit,",
+        "residual_flags": []
+      },
+      {
+        "content": "A3 at the intermediate level also requires analysing and reconstructing philosophical approaches in their basic ideas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "analysieren und \nrekonstruieren \nphilosophische Ansätze in \nihren Grundgedanken.",
+        "residual_flags": []
+      },
+      {
+        "content": "A3 at the Studienstufe level requires reconstructing philosophical approaches in a differentiated way and distinguishing inductive from deductive inferences together with their respective claims to validity.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "rekonstruieren \nphilosophische Ansätze \ndifferenziert, \nunterscheiden induktive \nund deduktive Schlüsse \nsowie deren \nGeltungsansprüche.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency A4: analysing the design devices of digital and analogue media offerings.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "A4 \nGestaltungsmittel \nvon digitalen und \nanalogen \nMedienangeboten \nanalysieren",
+        "residual_flags": []
+      },
+      {
+        "content": "A4 at the first general school-leaving certificate level: students analyse, with support, design devices and the effect of (analogue and digital) media in a rudimentary way and pose philosophical questions about them in a guided manner. (The printed cell reads \"ansatzweise- und stellen\".)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "analysieren mit \nHilfestellung \nGestaltungsmittel sowie \ndie Wirkung von (analogen \nund digitalen) Medien \nansatzweise- und stellen in \ndiesem Zusammenhang \nangeleitet philosophische \nFragen",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "The example question given for A4 is in what way our perception and our thinking are influenced by particular design devices and what consequences this has, e.g. for our understanding of perceiving, knowing and holding an opinion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "(z. B.: Auf welche \nWeise werden unsere \nWahrnehmung und unser \nDenken durch bestimmte \nGestaltungsmittel \nbeeinflusst und welche \nKonsequenzen hat das \nz. B. für unser Verständnis \nvon Wahrnehmen, Wissen \nund Meinen?).",
+        "residual_flags": []
+      },
+      {
+        "content": "A4 at the intermediate level: students analyse design devices and the effect of media and pose philosophical questions about them without support.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Medien und \nstellen in diesem \nZusammenhang \nphilosophische Fragen",
+        "residual_flags": []
+      },
+      {
+        "content": "A4 at the Studienstufe level: students analyse design devices and the effect of media in a differentiated way and pose philosophical questions in that connection.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Medien \ndifferenziert und stellen in \ndiesem Zusammenhang \nphilosophische Fragen",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level students also draw consequences from this for their own use of media and for its general use.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "ziehen hieraus \nKonsequenzen für den \neigenen wie auch für den \nallgemeinen Gebrauch von \nMedien.",
+        "residual_flags": []
+      },
+      {
+        "content": "The third competency area is \"Argumentieren und Diskutieren\" — argumentation and discourse competencies, abbreviated D.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Kompetenzbereich Argumentieren und Diskutieren (Argumentations- und \nDiskurskompetenzen, D)",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency D1: presenting and defending philosophical assertions and arguments in a comprehensible way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "D1 \nPhilosophische \nBehauptungen \nund Argumente \nnachvollziehbar \ndarstellen und \nverteidigen",
+        "residual_flags": []
+      },
+      {
+        "content": "D1 at the first general school-leaving certificate level: students contribute, with support and in written and oral form, rudimentary factual contributions to philosophical questions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "tragen mit Hilfestellung (in \nschriftlicher und mündlicher \nForm) im Ansatz sachliche \nBeiträge zu \nphilosophischen Fragen \nvor,",
+        "residual_flags": []
+      },
+      {
+        "content": "At that level they give rudimentary justifications and explain their own thoughts and contributions in a rudimentary way, where appropriate with the help of examples and experiences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "geben ansatzweise \nBegründungen, \nerläutern eigene Gedanken \nund Beiträge im Ansatz, \nggf. mithilfe von Beispielen \nund Erfahrungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "D1 at the intermediate level: students contribute factual contributions to philosophical questions in written and oral form, without support.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "tragen (in schriftlicher und \nmündlicher Form) \nsachliche Beiträge zu \nphilosophischen Fragen \nvor,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the intermediate level they give rudimentary justifications and also demand justifications from others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "geben ansatzweise \nBegründungen und \nfordern diese ein,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the intermediate level they explain their own thoughts and contributions as well as those of others, where appropriate with the help of examples and experiences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "erläutern eigene \nGedanken und Beiträge \nwie auch die anderer, ggf. \nmithilfe von Beispielen \nund Erfahrungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "D1 at the Studienstufe level: students contribute differentiated factual contributions to philosophical questions in written and oral form.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "tragen (in schriftlicher und \nmündlicher Form) \ndifferenziert sachliche \nBeiträge zu philosophischen \nFragen vor,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level they give differentiated justifications and demand them from others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "geben differenziert \nBegründungen und fordern \ndiese ein,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level they explain their own and others' thoughts and contributions in a differentiated way, where appropriate with examples and experiences and by recourse to the presuppositions of chains of argument.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "erläutern differenziert eigene \nGedanken und Beiträge wie \nauch die anderer ggf. mithilfe \nvon Beispielen und \nErfahrungen und in Rekurs \nauf Voraussetzungen von \nArgumentationsgängen,",
+        "residual_flags": []
+      },
+      {
+        "content": "In doing so they work out, where applicable, the different premises and perspectives involved.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "arbeiten dabei ggf. \nunterschiedliche Prämissen \nund Perspektiven heraus.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency D2: criticising philosophical assertions and arguments in a factual manner.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "D2 \nPhilosophische \nBehauptungen \nund Argumente \nsachlich \nkritisieren",
+        "residual_flags": []
+      },
+      {
+        "content": "D2 at the first general school-leaving certificate level: students criticise philosophical assertions and arguments in a factual and reasoned way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "kritisieren philosophische \nBehauptungen und \nArgumente sachlich und \nbegründet.",
+        "residual_flags": []
+      },
+      {
+        "content": "D2 at the intermediate level: students criticise their own and other people's philosophical assertions and arguments factually and with reasons, including in dealing with critical follow-up questions and objections.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "kritisieren (eigene und \nfremde) philosophische \nBehauptungen und \nArgumente sachlich und \nbegründet, auch in der \nAuseinandersetzung mit \nkritischen Rückfragen \nund Einwänden,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the intermediate level they reformulate their own position where appropriate, or abandon it in the face of good arguments presented in the discussion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "reformulieren ggf. die \neigene Position oder \ngeben sie ggf. angesichts \nguter in der Diskussion \npräsentierter Argumente \nauf.",
+        "residual_flags": []
+      },
+      {
+        "content": "D2 at the Studienstufe level additionally requires that the criticism be intersubjectively comprehensible.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "und intersubjektiv \nnachvollziehbar auch in der \nAuseinandersetzung mit \nkritischen Rückfragen und \nEinwänden,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level students defend philosophical assertions and arguments with good reasons, or recognise them where appropriate as being in need of correction and greater precision.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "verteidigen mit guten \nGründen philosophische \nBehauptungen und \nArgumente oder erkennen \ndiese ggf. als korrektur- und \npräzisionsbedürftig,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level they also make suggestions, where appropriate, for justifying and/or reformulating other people's positions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "machen ggf. Vorschläge für \ndie Begründung und/oder \nReformulierung der \nPosition(en) anderer.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency D3: discussing philosophical assertions and arguments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "D3 \nPhilosophische \nBehauptungen \nund Argumente \nerörtern",
+        "residual_flags": []
+      },
+      {
+        "content": "D3 at the first general school-leaving certificate level: students contrast (mutually contradictory) positions with one another and in doing so present other people's positions appropriately and factually.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "stellen (sich \nwidersprechende) \nPositionen einander \ngegenüber und stellen \ndabei auch die Position \nanderer angemessen und \nsachlich dar,",
+        "residual_flags": []
+      },
+      {
+        "content": "At that level they discuss their own positions taking experiences and examples into account.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "erörtern eigene Positionen \nunter Berücksichtigung von \nErfahrungen und \nBeispielen.",
+        "residual_flags": []
+      },
+      {
+        "content": "D3 at the intermediate level: students discuss their own and other people's (contradictory) positions taking experiences and examples into account and including an analysis of other people's concepts, assertions and arguments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "erörtern eigene und \nfremde \n(widersprechende) \nPositionen unter \nBerücksichtigung von \nErfahrungen und \nBeispielen sowie unter \nEinbezug einer Analyse \nvon Begriffen, \nBehauptungen und \nArgumenten anderer.",
+        "residual_flags": []
+      },
+      {
+        "content": "D3 at the Studienstufe level: students contrast contradictory positions in a differentiated way and present other people's positions appropriately, factually and together with their respective justifications.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "stellen (sich \nwidersprechende) Positionen \ndifferenziert einander \ngegenüber und stellen dabei \nauch die Position anderer \nangemessen und sachlich \nund mit den jeweiligen \nBegründungen dar,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level the discussion includes a differentiated analysis of concepts, assertions and arguments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "sowie unter Einbezug einer \ndifferenzierten Analyse von \nBegriffen, Behauptungen \nund Argumenten,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level students take particular account of differing perspectives such as those arising from different culturally conditioned and religious presuppositions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "berücksichtigen dabei \ninsbesondere \nunterschiedliche \nPerspektiven, die sich z. B. \nim Zusammenhang mit \nunterschiedlichen kulturell \nbedingten und religiösen \nVoraussetzungen ergeben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency D4: visualising and presenting work results by using suitable media and presentation tools.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "D4 \nArbeitsergebnisse \ndurch den Einsatz \ngeeigneter \nMedien/ \nPräsentations-\ntools visualisieren \nund präsentieren",
+        "residual_flags": []
+      },
+      {
+        "content": "D4 at the first general school-leaving certificate level: students visualise and present work results by using suitable media and presentation tools.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "visualisieren und \npräsentieren \nArbeitsergebnisse durch \nden Einsatz geeigneter \nMedien/Präsentationstools.",
+        "residual_flags": []
+      },
+      {
+        "content": "D4 at the intermediate level additionally requires discussing the appropriateness of the chosen means of presentation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Medien/Präsentations-\ntools und diskutieren die \nAngemessenheit der \ngewählten \nDarstellungsmittel.",
+        "residual_flags": []
+      },
+      {
+        "content": "D4 at the Studienstufe level requires visualising and presenting work results with suitable media and presentation tools and discussing the chosen means of presentation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Medien/Präsentationstools \nund diskutieren die \ngewählten \nDarstellungsmittel.",
+        "residual_flags": []
+      },
+      {
+        "content": "The fourth competency area is \"Reflektieren und Urteilen\" — competence in reflection and judgement, abbreviated R.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Kompetenzbereich Reflektieren und Urteilen (Reflexions- und Urteilskompetenz, R)",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency R1 concerns presuppositions and consequences of states of affairs, assertions and positions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "R1 \nVoraussetzungen \nund \nKonsequenzen \nvon \nSachverhalten, \nBehauptungen \nund Positionen",
+        "residual_flags": []
+      },
+      {
+        "content": "R1 at the first general school-leaving certificate level: students name what speaks for and what speaks against a thesis and formulate a reasoned judgement.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "benennen, was für und \nwas gegen eine These \nspricht, und formulieren \nein begründetes Urteil.",
+        "residual_flags": []
+      },
+      {
+        "content": "R1 at the intermediate level additionally requires independently explaining the presuppositions and consequences of states of affairs.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "erläutern eigenständig \nVoraussetzungen und \nKonsequenzen von \nSachverhalten,",
+        "residual_flags": []
+      },
+      {
+        "content": "R1 at the Studienstufe level requires explaining them independently and taking different perspectives into account.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "erläutern eigenständig und \nunter Berücksichtigung \nverschiedener Perspektiven",
+        "residual_flags": []
+      },
+      {
+        "content": "The R1 sub-competency label, continued from the preceding page, ends with the verbs \"erläutern und vergleichen\" (explain and compare).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "erläutern und \nvergleichen",
+        "residual_flags": []
+      },
+      {
+        "content": "On the basis of those explanations students compare assertions and positions with support.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "vergleichen auf dieser \nGrundlage unterstützt \nBehauptungen und \nPositionen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirement covers the presuppositions and consequences of states of affairs, assertions and positions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Konsequenzen von \nSachverhalten, \nBehauptungen und \nPositionen,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the highest requirement level students compare assertions and positions on that basis without the qualifier \"with support\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "vergleichen auf dieser \nGrundlage Behauptungen \nund Positionen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency R2: engaging with philosophical problems and positions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "R2 \nSich mit \nphilosophischen \nProblemen und \nPositionen \nauseinandersetzen",
+        "residual_flags": []
+      },
+      {
+        "content": "R2 at the first general school-leaving certificate level: students engage with philosophical problems and positions with support and respond to their interlocutors.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "setzen sich unterstützt mit \nphilosophischen \nProblemen und \nPositionen auseinander \nund gehen dabei auf ihre \nGesprächspartner ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "R2 at the intermediate level: students engage with philosophical problems and positions independently and respond to their interlocutors.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "setzen sich eigenständig \nmit philosophischen \nProblemen und Positionen \nauseinander und gehen \ndabei auf ihre \nGesprächspartner ein,",
+        "residual_flags": []
+      },
+      {
+        "content": "R2 at the intermediate level additionally requires judging their own and other people's positions on the basis of their own philosophical considerations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "beurteilen eigene und \nfremde Positionen auf der \nGrundlage eigener \nphilosophischer \nÜberlegungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "R2 at the Studienstufe level requires responding to interlocutors in a differentiated way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "gehen \ndabei differenziert auf ihre \nGesprächspartner ein,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level students also draw on answers from the philosophical tradition.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "beziehen Antworten der \nphilosophischen Tradition \nmit ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency R3: taking a reasoned position on philosophical questions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "R3 \nBegründet zu \nphilosophischen \nFragen Stellung \nnehmen",
+        "residual_flags": []
+      },
+      {
+        "content": "R3 at the first general school-leaving certificate level: students formulate a rudimentary position of their own on a guiding question and justify it in a rudimentary way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "formulieren im Ansatz \neine eigene Position zu \neiner Leitfrage und \nbegründen sie \nansatzweise.",
+        "residual_flags": []
+      },
+      {
+        "content": "R3 at the intermediate level: students formulate their own position on a guiding question and justify it with arguments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "formulieren eine eigene \nPosition zu einer Leitfrage \nund begründen sie mit \nArgumenten,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the intermediate level they defend their positioning with arguments against criticism.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "verteidigen ihre \nPositionierung mit \nArgumenten gegen Kritik.",
+        "residual_flags": []
+      },
+      {
+        "content": "R3 at the Studienstufe level: students formulate their own position on a guiding question in a differentiated way and justify it with arguments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "formulieren differenziert \neine eigene Position zu \neiner Leitfrage und \nbegründen sie mit \nArgumenten,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level they defend their positioning against criticism in a differentiated way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "verteidigen ihre \nPositionierung differenziert \nmit Argumenten gegen \nKritik,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Studienstufe level they also establish connections between their own position and other positions known from lessons.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "stellen Bezüge zwischen \nihrer eigenen Position und \nanderen, aus dem \nUnterricht bekannten \nPositionen her.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sub-competency R4: reflecting on and judging designations and formulations.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "R4 \nBenennungen und \nFormulierungen \nreflektieren und \nbeurteilen",
+        "residual_flags": []
+      },
+      {
+        "content": "R4 at the first general school-leaving certificate level: students reflect, with support, on their own use of language in relation to their intentions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "reflektieren mit \nHilfestellung die \nVerwendung der eigenen \nSprache in Bezug auf die \nIntentionen,",
+        "residual_flags": []
+      },
+      {
+        "content": "At that level they judge in a rudimentary way the appropriateness of language use in their own utterances and in those of others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "beurteilen ansatzweise \ndie Angemessenheit der \nVerwendung von Sprache \nin eigenen Äußerungen \nsowie in denen anderer.",
+        "residual_flags": []
+      },
+      {
+        "content": "R4 at the intermediate level: students reflect on their own use of language in relation to their intentions and note discrepancies where these occur.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "reflektieren die \nVerwendung der eigenen \nSprache in Bezug auf die \nIntentionen und stellen ggf. \nDiskrepanzen fest,",
+        "residual_flags": []
+      },
+      {
+        "content": "At the intermediate level they judge the appropriateness of language use in their own utterances and in those of others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "beurteilen die \nAngemessenheit der \nVerwendung von Sprache \nin eigenen Äußerungen \nsowie in denen anderer.",
+        "residual_flags": []
+      },
+      {
+        "content": "R4 at the Studienstufe level: students reflect in a differentiated way on their own use of language and that of others in relation to intentions and note discrepancies where these occur.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "reflektieren differenziert die \nVerwendung der eigenen \nSprache wie auch die \nanderer in Bezug auf die \nIntentionen und stellen ggf. \nDiskrepanzen fest,",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Fachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "2.2 Fachliche Kompetenzen",
+        "printed_page_range": "9–16"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:350942d418a3a9f92bd08b804261ced74dabe3f95907d966f895420c3fa0c3fb"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Entrants to the Vorstufe of the berufliches Gymnasium must have shown their particular aptitude and inclination for the vocational orientation of the programme in a letter of application.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 38 Übergang in die Vorstufe des beruflichen Gymnasiums",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "ihre besondere Eignung und Neigung für die berufsbezogene Ausrichtung \ndes Bildungsgangs in einem Bewerbungsschreiben dargelegt",
+        "residual_flags": []
+      },
+      {
+        "content": "Alternatively entry is possible with a mittlerer Schulabschluss from a vocational school with an average grade of at least 3.0.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 38 Übergang in die Vorstufe des beruflichen Gymnasiums",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "den mittleren Schulabschluss an einer beruflichen Schule oder im \nBildungsgang Abendschule am Campus Zweiter Bildungsweg mit der \nDurchschnittsnote von mindestens 3,0",
+        "residual_flags": []
+      },
+      {
+        "content": "Sport is disregarded when the average grade is computed.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 38 Übergang in die Vorstufe des beruflichen Gymnasiums",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Bei der Berechnung der Durchschnittsnote nach Satz 1 Nummer 3 bleibt das Fach Sport \naußer Betracht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Admission in hardship cases is decided by the competent authority.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 38 Übergang in die Vorstufe des beruflichen Gymnasiums",
+          "printed_page": 35,
+          "physical_page": 35
+        },
+        "cited_text": "Über die Aufnahme entscheidet die \nzuständige Behörde.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 38 Übergang in die Vorstufe des beruflichen Gymnasiums"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 38 Übergang in die Vorstufe des beruflichen Gymnasiums",
+        "printed_page_range": "35"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -30,6 +30,20 @@ sind besonders wertvoll, wenn du sie im Auge behältst:
 - **Bleibt alles stimmig?** Erkennt Thalura über Tage und Sitzungen hinweg wieder,
   wo ihr wart, und passen Übersichten, Pläne und Verweise noch zueinander?
 
+**Zwei dieser Punkte hängen an einer Einstellung.** Ob die Links die genannten
+Dokumente öffnen und ob deine Dokumente Kopf- und Fußzeile deiner Schule tragen,
+entscheidet sich daran, ob Thalura in Claude Cowork auf deinem Computer läuft
+oder in der Cloud. Läuft eine Aufgabe in der Cloud, bleiben die Quellenangaben
+durchgehend Text, die Dokumente entstehen ohne die Vorlage deiner Schule, und
+die Schuljahresübersicht wird nicht geschrieben — gemeldet wird davon nichts,
+die Ergebnisse sehen fertig aus. Vergewissere dich deshalb vor einer Rückmeldung
+zu diesen Punkten, dass deine Aufgabe auf deinem Computer lief: Schalte unter
+**Settings → Cowork** die Einstellung **„Run new tasks in the cloud"** aus — die
+Einstellung, die neue Aufgaben in der Cloud statt auf diesem Computer startet —
+und starte danach eine neue Aufgabe (Einzelheiten unter
+[Installation](./installation.md)). Dann geht deine Rückmeldung an Thalura und
+nicht an diese Einstellung.
+
 Ein ehrlicher Hinweis: Die Rückbindung an die offiziellen Vorgaben zielt derzeit
 auf Dokumente für das **Gymnasium**. Unterrichtest du an einer Stadtteilschule und
 fällt dir auf, dass eine Angabe erkennbar nicht zu deiner Schulform passt, ist das

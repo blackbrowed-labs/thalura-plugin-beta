@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:626544a56ec249b95f72442cdcdffe3171d7ad3d77f570fc99337a10355d9ce5"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy-praesentation",
+      "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The teacher may draw in particular on the listed writings.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Feuerbach]",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Es kann insbesondere auf folgende Schriften zurückgegriffen werden:",
+        "residual_flags": []
+      },
+      {
+        "content": "Feuerbach, Das Wesen des Christentums (1841) is listed.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Feuerbach]",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Feuerbach, Ludwig: Das Wesen des Christentums (1841).",
+        "residual_flags": []
+      },
+      {
+        "content": "A Marx title from 1844 is listed; the source prints 'Zur Kritik zur Hegelschen Rechtsphilosophie' (canonically 'Zur Kritik der Hegelschen Rechtsphilosophie').",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Feuerbach]",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Marx, Karl: Zur Kritik zur Hegelschen Rechtsphilosophie (1844).",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'Zur Kritik zur Hegelschen Rechtsphilosophie' (expected 'der')"
+        ]
+      },
+      {
+        "content": "Engels, Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie (1886) is listed.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Feuerbach]",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Engels, Friedrich: Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie (1886).",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Feuerbach]"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy-praesentation",
+        "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Feuerbach]",
+        "printed_page_range": "9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

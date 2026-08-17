@@ -1,0 +1,259 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:14eefb42e8e1c8cff04129c50e535f0376b2c1a166332754a4da1d8552df2be4"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt ",
+        "residual_flags": []
+      },
+      {
+        "content": "In diesem Themenbereich setzen sich die Schülerinnen und Schüler mit der eigenen Gesundheit, der Natur und den Auswirkungen ihres Handelns auf die Umwelt auseinander. Die Behandlung des Themas ist noch sehr eng an die Lebens- und Erfahrungswelt der Schülerinnen und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "In diesem Themenbereich setzen sich die Schülerinnen und Schüler mit \nder eigenen Gesundheit, der Natur und den Auswirkungen ihres Han-\ndelns auf die Umwelt auseinander. Die Behandlung des Themas ist noch \nsehr eng an die Lebens- und Erfahrungswelt der Schülerinnen und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Schüler geknüpft und ermöglicht es ihnen, in einfacher Form über Themen zu kommunizieren, die ihre eigene Person und ihre unmittelbare",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Schüler geknüpft und ermöglicht es ihnen, in einfacher Form über The-\nmen zu kommunizieren, die ihre eigene Person und ihre unmittelbare ",
+        "residual_flags": []
+      },
+      {
+        "content": "Umgebung betreffen. Dabei können die Schülerinnen und Schüler kurze",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Umgebung betreffen. Dabei können die Schülerinnen und Schüler kurze ",
+        "residual_flags": []
+      },
+      {
+        "content": "Vorträge zu Themen ihrer Wahl halten. Lesestrategien werden anhand von ersten didaktisierten Sachtexten geübt.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Vorträge zu Themen ihrer Wahl halten. Lesestrategien werden anhand \nvon ersten didaktisierten Sachtexten geübt. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die fettgedruckten Themen sind verpflichtend zu behandeln. Von den",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Die fettgedruckten Themen sind verpflichtend zu behandeln. Von den ",
+        "residual_flags": []
+      },
+      {
+        "content": "Aspekten muss jeweils mindestens eins ausgewählt werden.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Aspekten muss jeweils mindestens eins ausgewählt werden. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Bedeutung der eigenen Gesundheit",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Bedeutung der eigenen Gesundheit ",
+        "residual_flags": []
+      },
+      {
+        "content": "keeping fit; sports and fun",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "• keeping fit; sports and fun ",
+        "residual_flags": []
+      },
+      {
+        "content": "Bedeutung von Natur und Umwelt",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Bedeutung von Natur und Umwelt ",
+        "residual_flags": []
+      },
+      {
+        "content": "animals in their natural environment",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "• animals in their natural environment ",
+        "residual_flags": []
+      },
+      {
+        "content": "the weather report",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "• the weather report ",
+        "residual_flags": []
+      },
+      {
+        "content": "protecting the environment",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "• protecting the environment ",
+        "residual_flags": []
+      },
+      {
+        "content": "Beitrag zur Leitperspektive BNE:",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Beitrag zur Leitperspektive BNE: ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler setzen sich mit nachhaltigkeitsrelevanten Themen wie beispielsweise persönlichen Beiträgen zum Umwelt- und Naturschutz auseinander.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Die Schülerinnen und Schüler setzen sich mit nachhaltigkeitsrelevan-\nten Themen wie beispielsweise persönlichen Beiträgen zum Umwelt- \nund Naturschutz auseinander. ",
+        "residual_flags": []
+      },
+      {
+        "content": "[bleibt zunächst leer]",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "[bleibt zunächst \nleer] ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 47,
+          "printed_page": 47
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 4: Natur, Gesundheit, Wissenschaft und Umwelt — 5/6 Nature and health",
+        "printed_page_range": "47"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

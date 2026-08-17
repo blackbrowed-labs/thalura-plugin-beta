@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:cb760741120eb558d89c738085da93dd250a161a57403eb6c50c7009dd3e3de3"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Abitur examination counts as failed if the candidate withdraws after the start of the written examination for reasons of their own responsibility.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 28 Besondere Vorkommnisse",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "nach Beginn der schriftlichen Prüfung aus Gründen zurücktritt, die er \nselbst zu vertreten hat",
+        "residual_flags": []
+      },
+      {
+        "content": "If the examination procedure was not conducted properly, the competent authority may order a repeat of the whole examination or of individual examinations.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 28 Besondere Vorkommnisse",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Ist das Prüfungsverfahren nicht ordnungsgemäß verlaufen, so kann die zuständige \nBehörde die Wiederholung der gesamten Prüfung oder einzelner Prüfungen für alle oder \neinen Teil der Prüflinge anordnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A retroactive failure decision may be taken within five years of the date of the Abitur certificate, and the certificate is withdrawn.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 28 Besondere Vorkommnisse",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Die Entscheidung trifft die zuständige Behörde innerhalb von fünf Jahren seit dem \nDatum des Zeugnisses der allgemeinen Hochschulreife. Das Zeugnis wird eingezogen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 28 Besondere Vorkommnisse"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 28 Besondere Vorkommnisse",
+        "printed_page_range": "24"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

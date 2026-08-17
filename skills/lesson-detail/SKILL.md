@@ -217,10 +217,10 @@ Assessment Note: [optional — didactic hints for evaluation, if needed]
 
 (Every material gets a rubric. Consistency check: every expected performance must be achievable through the material.)
 
-Curriculum Reference: [document name, pp. X-Y, specific competencies]
+Curriculum Reference: [document name, page reference, specific competencies]
 ```
 
-The `Curriculum Reference` (Bildungsplan-Bezug) regulation citation renders as a link to its official source per `${CLAUDE_PLUGIN_ROOT}/references/document-metadata.md` → *Regulation-citation links* (best-effort page anchor; degrades to plain text where no source URL resolves). The citation text is unchanged.
+The `Curriculum Reference` (Bildungsplan-Bezug) page reference is written in the canonical form defined at `${CLAUDE_PLUGIN_ROOT}/references/regulation-naming.md` → *Teacher-Facing Citation Format*. The citation renders as a link to its official source per `${CLAUDE_PLUGIN_ROOT}/references/document-metadata.md` → *Regulation-citation links* (best-effort page anchor; degrades to plain text where no source URL resolves). The citation text is unchanged.
 
 ---
 

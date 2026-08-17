@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1925f175cd22d34cf5950a5e032abfe1520ccfffb3ed1fcbf7501c88770af76b"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Teaching must be arranged so that students can show oral as well as written and practical performance according to the nature of the subject.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Für die Bewertung der laufenden Unterrichtsarbeit ist der Unterricht so anzulegen, dass die \nSchülerinnen und Schüler sowohl mündliche als auch schriftliche und praktische Leistungen \nnach Art des Faches zeigen können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Grading of ongoing classroom work must not rest exclusively on oral or practical performance.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Bewertung der laufenden Unterrichtsarbeit darf sich \nnicht ausschließlich auf mündliche oder praktische Leistungen stützen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Unannounced graded performance checks may also take place within ongoing classroom work.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Im Rahmen der lau-\nfenden Unterrichtsarbeit können auch unangekündigte bewertete Leistungsfeststellungen er-\nfolgen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are involved in an age-appropriate way in decisions about lesson design and the forms of performance delivery.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Schülerinnen und Schüler werden in altersangemessener Weise an der Entscheidung über \ndie Gestaltung des Unterrichts und die Formen der Leistungserbringung beteiligt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Contemporary digital formats must be appropriately taken into account in oral, written and practical performance.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Bei der Erbringung mündlicher, schriftlicher und praktischer Leistungen sind zeitgemäße digi-\ntale Formate angemessen zu berücksichtigen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

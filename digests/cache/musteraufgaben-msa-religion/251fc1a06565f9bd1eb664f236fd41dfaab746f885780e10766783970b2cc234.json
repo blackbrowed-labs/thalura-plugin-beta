@@ -1,0 +1,159 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:251fc1a06565f9bd1eb664f236fd41dfaab746f885780e10766783970b2cc234"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die zentralen Personen bilden das Zentrum der jeweiligen Religion, auch im Bewusstsein der Schülerinnen und Schüler.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "bilden das Zentrum der jeweiligen Religion",
+        "residual_flags": []
+      },
+      {
+        "content": "An konkreten Personen wie Jesus, Muhammed und Buddha werden die Religionen festgemacht und erkundet.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Es sind die konkreten Personen wie Jesus, \nMuhammed, und Buddha, an denen Religion(en) festgemacht werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Die zentralen Personen kommen im Religionsunterricht seit der Grundschule immer wieder vor.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Die zentralen Personen kommen im Religionsunterricht seit der Grundschule immer wie",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Modul 4.1 in Jahrgang 9/10 bietet die Möglichkeit, Kenntnisse zusammenzufassen und zu systematisieren.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "In Jg. 9/10 bietet das entsprechende Modul 4.1 die",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Kerncurriculum sieht die Bearbeitung von historischem Kontext, zentralen Botschaften sowie Stellung und Bedeutung von drei zentralen Personen vor.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.b. Didaktische und methodische Erläuterungen",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Das Kerncurriculum sieht vor, „den historischen Kontext, die zentralen Botschaften und \ndie Stellung und Bedeutung“ von drei zentralen Personen zu bearbeiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu den zu erwerbenden Kompetenzen gehört R1: die zentralen Personen mehrerer Religionen in ihren historischen Kontext einordnen, ihre Botschaften skizzieren und vergleichen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.b. Didaktische und methodische Erläuterungen",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "R1: ordnen ansatzweise die zentralen Personen mehrerer Religionen in ihren \nhistorischen Kontext ein, skizzieren ihre zentralen Botschaften und vergleichen \nsie miteinander",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Rahmenplan weist zudem überfachliche Kompetenzen aus, etwa strukturiertes und systematisches Vorgehen beim Lernen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.b. Didaktische und methodische Erläuterungen",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "geht beim Lernen strukturiert und systematisch vor",
+        "residual_flags": []
+      },
+      {
+        "content": "Als weitere überfachliche Kompetenz gilt gute Zusammenarbeit mit anderen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II.b. Didaktische und methodische Erläuterungen",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "arbeitet gut mit anderen zusammen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "II.b. Didaktische und methodische Erläuterungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "II.b. Didaktische und methodische Erläuterungen",
+        "printed_page_range": "9–10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

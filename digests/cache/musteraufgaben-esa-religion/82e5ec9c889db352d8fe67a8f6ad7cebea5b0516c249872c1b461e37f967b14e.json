@@ -1,0 +1,210 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:82e5ec9c889db352d8fe67a8f6ad7cebea5b0516c249872c1b461e37f967b14e"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The topic area combines vividness with theologically grounded questions in an interreligious setting.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "kombiniert in einem interreligi-\nösen Setting Anschaulichkeit und lebensweltlich relevante, theologisch fundierte",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "The cooperative parts of the task aim at dialogue as a central form of learning in religious education.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Die kooperativen Teile \nder Prüfungsaufgabe zielen auf den Dialog als zentrale Lernform im Religionsunterricht",
+        "residual_flags": []
+      },
+      {
+        "content": "The central persons form the center of their respective religion, also in students' awareness.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Die zentralen Personen bilden das Zentrum der jeweiligen Religion",
+        "residual_flags": []
+      },
+      {
+        "content": "Interreligious dialogue is a continuous form of learning in religious education.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "ist durchgehende Lernform im Religionsunterricht",
+        "residual_flags": []
+      },
+      {
+        "content": "The core curriculum foresees treating the historical context, central messages and the position and significance of three central persons.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "den historischen Kontext, die zentralen Botschaften und",
+        "residual_flags": []
+      },
+      {
+        "content": "Competency R1: present the central persons of several religions and their central messages and compare them.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 10,
+          "physical_page": 15
+        },
+        "cited_text": "stellen die zentralen Personen mehrerer Religionen und ihre zentralen",
+        "residual_flags": []
+      },
+      {
+        "content": "The dialogic, communicative competence is shown in conducting the prepared dialogue.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "Die dialogische, kommunikative Kompetenz zeigt sich bei der",
+        "residual_flags": []
+      },
+      {
+        "content": "The preparation time including reading time is 30 minutes plus 30 minutes for the practical format.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "inklusive Einlesezeit beträgt 30 Minuten plus 30 Minu-\nten zur Umsetzung des fachpraktischen Formats",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "The exam should be designed so that each candidate gets about 15 minutes of speaking time.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "etwa 15 Minuten Redezeit",
+        "residual_flags": []
+      },
+      {
+        "content": "Each candidate is asked on all requirement areas.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "wird zu allen Anforderungsbereichen",
+        "residual_flags": []
+      },
+      {
+        "content": "Literature: the RUfa-Home course link is provided for guest or self-enrolment access.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "RUfa-Home: https://lms.lernen.hamburg/course/view.php?id=95458 (als Gast anmel",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "II. Erläuterung des Beispiels"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "II. Erläuterung des Beispiels",
+        "printed_page_range": "9–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:141b919c83b773dca215f85a21b52d49166140748921782ad3c3179146a94479"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "L3 Aussprache und Intonation",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "L3 Aussprache und Intonation ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den ersten allgemeinbildenden Schulabschluss",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Mindestanforderungen für \nden ersten allgemeinbilden-\nden Schulabschluss ",
+        "residual_flags": []
+      },
+      {
+        "content": "Ende der Jahrgangsstufe 8 mit Blick auf den mittleren",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Ende der Jahrgangsstufe 8 \nmit Blick auf den mittleren ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den mittleren Schulabschluss",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Mindestanforderungen für \nden mittleren Schulab-\nschluss ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über eine klare Aussprache zu vertrauten Themen, häufig werden Gesprächspartnerinnen und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Die Schülerinnen und Schüler ver-\nfügen über eine klare Aussprache \nzu vertrauten Themen, häufig wer-\nden Gesprächspartnerinnen und  ",
+        "residual_flags": []
+      },
+      {
+        "content": "-partner jedoch um Wiederholung bitten müssen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "-partner jedoch um Wiederholung \nbitten müssen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verwenden einfache vertraute Aussprache- und Intonationsmuster so korrekt, dass sie trotz eines merklichen Akzents verstanden werden, auch wenn manchmal eine Wiederholung erforderlich sein wird.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Die Schülerinnen und Schüler ver-\nwenden einfache vertraute Aus-\nsprache- und Intonationsmuster so \nkorrekt, dass sie trotz eines merkli-\nchen Akzents verstanden werden, \nauch wenn manchmal eine Wie-\nderholung erforderlich sein wird. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verwenden Aussprache- und Intonationsmuster weitgehend korrekt, auch wenn ein fremder Akzent deutlich wird und gelegentlich etwas falsch ausgesprochen wird.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Die Schülerinnen und Schüler ver-\nwenden Aussprache- und Intona-\ntionsmuster weitgehend korrekt, \nauch wenn ein fremder Akzent \ndeutlich wird und gelegentlich et-\nwas falsch ausgesprochen wird. ",
+        "residual_flags": []
+      },
+      {
+        "content": "beherrschen die Intonation von einfachen Aussagesätzen, Fragen und Aufforderungen im Allgemeinen klar genug, um verstanden zu werden, auch wenn ein fremder Akzent deutlich wahrnehmbar ist und häufig etwas falsch ausgesprochen wird,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• beherrschen die Intonation von \neinfachen Aussagesätzen, Fra-\ngen und Aufforderungen im All-\ngemeinen klar genug, um ver-\nstanden zu werden, auch wenn \nein fremder Akzent deutlich \nwahrnehmbar ist und häufig et-\nwas falsch ausgesprochen wird, ",
+        "residual_flags": []
+      },
+      {
+        "content": "tragen einfache, kurze und geübte Texte sinngestaltend vor.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• tragen einfache, kurze und ge-\nübte Texte sinngestaltend vor. ",
+        "residual_flags": []
+      },
+      {
+        "content": "übertragen verstärkt Aussprache- und Intonationsmuster auf neue Wörter und Redewendungen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• übertragen verstärkt Ausspra-\nche- und Intonationsmuster auf \nneue Wörter und Redewendun-\ngen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "tragen geübte Texte sinngestaltend vor.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• tragen geübte Texte sinngestal-\ntend vor. ",
+        "residual_flags": []
+      },
+      {
+        "content": "verfügen über eine klare Aussprache und Intonation, trotz eines hörbaren Akzents,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• verfügen über eine klare Aus-\nsprache und Intonation, trotz ei-\nnes hörbaren Akzents, ",
+        "residual_flags": []
+      },
+      {
+        "content": "wenden die Artikulation englischer Laute und Lautkombinationen auf neue Wörter an,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• wenden die Artikulation engli-\nscher Laute und Lautkombina-\ntionen auf neue Wörter an, ",
+        "residual_flags": []
+      },
+      {
+        "content": "tragen Sprech- und Lesetexte sinngestaltend vor.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• tragen Sprech- und Lesetexte \nsinngestaltend vor. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Anforderungsniveaus mit Blick auf die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Anforderungsniveaus mit Blick auf die Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen am Ende der Jahrgangsstufe 9 mit Blick auf den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Mindestanforderungen am Ende der Jahr-\ngangsstufe 9 mit Blick auf den Übergang in \ndie Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Mindestanforderungen für den Übergang in die Studienstufe",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Mindestanforderungen für den Übergang in \ndie Studienstufe ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verwenden Aussprache- und Intonationsmuster weitgehend korrekt, auch wenn ein fremder Akzent deutlich wird und gelegentlich etwas falsch ausgesprochen wird.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Die Schülerinnen und Schüler verwenden Ausspra-\nche- und Intonationsmuster weitgehend korrekt, auch \nwenn ein fremder Akzent deutlich wird und gelegent-\nlich etwas falsch ausgesprochen wird. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verfügen über eine gefestigte Aussprache und Intonation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Die Schülerinnen und Schüler verfügen über eine ge-\nfestigte Aussprache und Intonation. ",
+        "residual_flags": []
+      },
+      {
+        "content": "verfügen trotz eines ggf. hörbaren Akzents über eine klare Aussprache und Intonation,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• verfügen trotz eines ggf. hörbaren Akzents über \neine klare Aussprache und Intonation, ",
+        "residual_flags": []
+      },
+      {
+        "content": "wenden die Artikulation englischer Laute und Lautkombinationen auf neue Wörter an,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• wenden die Artikulation englischer Laute und Laut-\nkombinationen auf neue Wörter an, ",
+        "residual_flags": []
+      },
+      {
+        "content": "tragen Sprech- und Lesetexte sinngestaltend vor.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• tragen Sprech- und Lesetexte sinngestaltend vor. ",
+        "residual_flags": []
+      },
+      {
+        "content": "sprechen und intonieren klar und natürlich, möglicherweise auch mit leichter Akzentfärbung,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• sprechen und intonieren klar und natürlich, mögli-\ncherweise auch mit leichter Akzentfärbung, ",
+        "residual_flags": []
+      },
+      {
+        "content": "realisieren in authentischen Gesprächssituationen und einfach strukturierter freier Rede Aussprache und Intonation weitgehend angemessen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• realisieren in authentischen Gesprächssituationen \nund einfach strukturierter freier Rede Aussprache \nund Intonation weitgehend angemessen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erschließen auch schwierigere Wörter mit analogen und digitalen Werkzeugen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• erschließen auch schwierigere Wörter mit analogen \nund digitalen Werkzeugen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "tragen längere Passagen sinngestaltend vor.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "L3 Aussprache und Intonation",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "• tragen längere Passagen sinngestaltend vor. ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "L3 Aussprache und Intonation"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "L3 Aussprache und Intonation",
+        "printed_page_range": "36"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

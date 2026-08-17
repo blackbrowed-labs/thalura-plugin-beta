@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:915ba0c555a6d64b53261a9235ce14d3052d89b596f98c1c9b45692f75ca8804"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Mediation (Sprachmittlung) goal: rendering the essential content of authentic spoken or written texts into the other language, in writing and orally, for a given purpose.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K5 Sprachmittlung (Interaktion und Produktion)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die Schülerinnen und Schüler können – auch unter Verwendung von Hilfsmitteln und Strategien – wesentliche \nInhalte authentischer mündlicher oder schriftlicher Texte, auch zu weniger vertrauten Themen, in der jeweils \nanderen Sprache sowohl schriftlich als auch mündlich adressatengerecht und situationsangemessen für einen \nbestimmten Zweck wiedergeben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Basic level: summarising information in the other language appropriately for addressee and situation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K5 Sprachmittlung (Interaktion und Produktion)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Informationen adressatengerecht und situationsan-\ngemessen in der jeweils anderen Sprache zusam-\nmenfassend wiedergeben",
+        "residual_flags": []
+      },
+      {
+        "content": "Basic level: deploying intercultural competence and communicative strategies to convey content and intentions in the other language.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K5 Sprachmittlung (Interaktion und Produktion)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "interkulturelle Kompetenz und entsprechende kom-\nmunikative Strategien einsetzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Basic level: using aids such as dictionaries and compensation strategies such as paraphrase, plus gesture and facial expression.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K5 Sprachmittlung (Interaktion und Produktion)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Inhalte unter Nutzung von Hilfsmitteln, wie z. B. Wör-\nterbüchern, durch Kompensationsstrategien, wie z. \nB. Paraphrasieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Raised level adds adding explanations needed for comprehension and dealing creatively with the languages involved.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K5 Sprachmittlung (Interaktion und Produktion)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "für das Verstehen erforderliche Erläuterungen hinzu-\nfügen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K5 Sprachmittlung (Interaktion und Produktion)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "K5 Sprachmittlung (Interaktion und Produktion)",
+        "printed_page_range": "17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

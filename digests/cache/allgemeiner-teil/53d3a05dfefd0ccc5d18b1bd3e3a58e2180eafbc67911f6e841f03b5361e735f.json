@@ -1,0 +1,124 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:53d3a05dfefd0ccc5d18b1bd3e3a58e2180eafbc67911f6e841f03b5361e735f"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Stadtteilschule is a nine-stage school form comprising the classes and courses of year levels 5 to 13.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.2.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Stadtteilschule",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Die Stadtteilschule ist eine neunstufige Schulform und umfasst die Klassen und Kurse der \nJahrgangsstufen 5 bis 13.",
+        "residual_flags": []
+      },
+      {
+        "content": "Years 5-10 form lower secondary; upper secondary consists of the Vorstufe in year 11 and the Studienstufe with years 12 and 13.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.2.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Stadtteilschule",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Die Jahrgangsstufen 5-10 bilden die Sekundarstufe I, die gymnasi-\nale Oberstufe besteht aus der Vorstufe in Jahrgangsstufe 11 und der Studienstufe mit den \nJahrgangsstufen 12 und 13.",
+        "residual_flags": []
+      },
+      {
+        "content": "The competences in the lower-secondary framework plans name minimum requirements (Mindestanforderungen) that all students must reach.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.2.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Stadtteilschule",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Die in den Rahmenplänen der Sekundarstufe I ausgewiesenen Kompetenzen benennen Min-\ndestanforderungen, die alle Schülerinnen und Schüler erreichen müssen",
+        "residual_flags": []
+      },
+      {
+        "content": "Internal differentiation is the basic principle; external achievement-based differentiation may be applied where it improves support.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.2.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Stadtteilschule",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Innere Differenzierung ist Grundprinzip des Unterrichts in der Stadtteilschule. Eine äußere \nFachleistungsdifferenzierung kann erfolgen, wenn damit eine bessere Förderung der Schüle-\nrinnen und Schüler erreicht wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Career orientation runs in stages: clarifying interests and potential (year 8), trying out and reflecting on workplace practice (year 9), deciding and qualifying for the intended next step (year 10).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.2.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Stadtteilschule",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "die Klärung der \neigenen Interessen, Stärken und Potenziale (Jahrgang 8), die Erprobung und Reflexion be-\ntrieblicher Praxis (Jahrgang 9) sowie die Entscheidung und Qualifikation für den jeweiligen \nAnschlusswunsch (Jahrgang 10)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6.2.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Stadtteilschule"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "6.2.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Stadtteilschule",
+        "printed_page_range": "29–31"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

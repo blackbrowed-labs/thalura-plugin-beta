@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8f5639d1a56e7c326eafc94655d1c2ee52044f1f12a8ac43aa2268d8aff73ab5"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The Erwartungshorizont contains: assignment of the tasks to the requirement areas; the expected solutions and their assignment to the requirement areas; and if applicable a weighting of the sub-tasks.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Der Erwartungshorizont enthält:\n•\nAngaben zur Zuordnung der Aufgaben zu den Anforderungsbereichen,\n•\nAngaben zu den erwarteten Lösungen und deren Zuordnung zu den Anforderungsbe-\nreichen,\n•\nggf. eine Gewichtung der Teilaufgaben.",
+        "residual_flags": []
+      },
+      {
+        "content": "The assessment specifications state what constitutes a 'good' and an 'adequate' performance; Erwartungshorizont and assessment specifications are part of the exam record (Niederschrift).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Vorgaben zur Bewertung der Prüfungsleistung enthalten spezifische Aussagen über \ndie Anforderungen an eine „gute“ Leistung bzw. an eine „ausreichende“ Leistung. Der \nErwartungshorizont und die Vorgaben zur Bewertung der Prüfungsleistung sind Teil der \nNiederschrift über den Verlauf der mündlichen Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirement areas (Anforderungsbereiche) described under 3.2 apply in principle to the oral exam as well.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die unter 3.2 beschriebenen Anforderungsbereiche gelten grundsätzlich auch für die \nmündliche Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Both parts of this oral exam carry requirements in two areas; under Inhalt candidates must have secure structured orientation knowledge, reproduce and reorganize information from the sources, apply subject-specific analytical methods, establish connections within and beyond the subject, show understanding, problem awareness and judgement, and argue coherently and convincingly.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Für beide Teile dieser mündlichen Prüfung gelten Anforderungen in zwei Bereichen:\nInhalt\nDie Prüflinge \n•\nbesitzen gesichertes strukturiertes Orientierungswissen,\n•\nreproduzieren und reorganisieren Informationen aus der / den vorgelegten Quelle(n),\n•\nwenden fachspezifische analytische Methoden an,\n•\nstellen inhaltliche Zusammenhänge innerhalb des Fachbereichs und möglicherweise\ndarüber hinausgehend her,\n•\nzeigen Verständnis, Problembewusstsein und Urteilsfähigkeit,\n•\nargumentieren schlüssig und überzeugend.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under Sprache candidates must present complex matters clearly and in detail, use a differentiated and apt vocabulary, choose suitable discourse means from a repertoire, participate actively and defend their views, react spontaneously (with slight loss of complexity and fluency) and speak audience-appropriately with a secure choice of register.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "stellen komplexe Sachverhalte klar und detailliert dar und verknüpfen verschiedene\nAspekte,\n•\nverwenden einen dem Thema angemessenen differenzierten und treffenden Wort-\nschatz,\n•\nwählen aus einem verfügbaren Repertoire von Diskursmitteln geeignete Wendungen\naus, um das Wort zu ergreifen, eine Äußerung einzuleiten oder eigene Beiträge mit\ndenen anderer Gesprächsteilnehmer zu verknüpfen (Zustimmung, Ablehnung, Wider-\nspruch etc.),\n•\nbeteiligen sich aktiv am Gespräch, begründen und verteidigen eigene Ansichten,\n•\nreagieren spontan auf Fragen, Impulse und Arbeitsanweisungen – allerdings unter\nleichtem Verlust an Komplexität und Flüssigkeit,\n•\nsprechen adressatengerecht und sind sicher in der Wahl des Registers und der Spra-\nchebene.",
+        "residual_flags": []
+      },
+      {
+        "content": "Descriptor tables for Inhalt, monologisches Sprechen and interaktives Sprechen are given under 5.3, taking up and differentiating the criteria of 4.4.2.1; in the overall impression the linguistic components must predominate.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "5.1.2 Anforderungen und Bewertung",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Für die Bereiche Inhalt, monologisches Sprechen und interaktives Sprechen liegen unter \n5.3 Deskriptorentabellen vor, die die in 4.4.2.1 ausgeführten Kriterien aufnehmen und \ndifferenzieren. Bei der Bewertung des Gesamteindrucks müssen die sprachlichen Anteile \nüberwiegen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.1.2 Anforderungen und Bewertung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "5.1.2 Anforderungen und Bewertung",
+        "printed_page_range": "26"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

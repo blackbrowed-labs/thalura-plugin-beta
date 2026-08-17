@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:13ffbf6bd3fb34cf0d67273dffbea83e7047061bafd8c16d7618b5ce4aaf2361"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Bearbeitungszeit auf erhoehtem Niveau betraegt einschliesslich einer dreissigminuetigen Einlese- und Auswahlzeit 330 Minuten.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Einlese- und Auswahlzeit 330 Minuten",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Pruefungsaufgabe muss wesentliche Bezuege zu mindestens zwei psychologischen Hauptstroemungen enthalten.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "sie muss wesentliche Bezüge zu mindestens zwei psychologischen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Aufgabe darf sich nicht auf die Inhalte nur eines Schulhalbjahres beschraenken.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Sie darf sich nicht auf die Inhalte nur eines Schulhalbjahres",
+        "residual_flags": []
+      },
+      {
+        "content": "Jede Aufgabe kann in Teilaufgaben gegliedert sein, die jedoch nicht beziehungslos nebeneinander stehen sollen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.1 Allgemeine Hinweise",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Jede Aufgabe kann in Teilaufgaben gegliedert sein",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.1 Allgemeine Hinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "4.1 Allgemeine Hinweise",
+        "printed_page_range": "9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

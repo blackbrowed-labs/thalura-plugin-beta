@@ -1,0 +1,311 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:812b8fba0a5dba6b399d90103cfa73996e2a4515dcf002300b64ef2bb819347e"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Themenbereich 1: Persönliche Lebensgestaltung",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Themenbereich 1: Persönliche Lebensgestaltung ",
+        "residual_flags": []
+      },
+      {
+        "content": "In diesem Themenbereich geht es um das unmittelbare Lebensumfeld, die Beziehungen und Wünsche von Kindern. Sie sprechen über vertraute Themen, die ihre eigene Person und die unmittelbare Lebenswelt betreffen. Die Lernenden beschreiben sich und andere Personen und berichten über Alltagsbeschäftigungen und Ereignisse.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "In diesem Themenbereich geht es um das unmittelbare Lebensumfeld, \ndie Beziehungen und Wünsche von Kindern. Sie sprechen über ver-\ntraute Themen, die ihre eigene Person und die unmittelbare Lebenswelt \nbetreffen. Die Lernenden beschreiben sich und andere Personen und \nberichten über Alltagsbeschäftigungen und Ereignisse. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Erste kurze Vorträge zum persönlichen Lebensumfeld können den",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Erste kurze Vorträge zum persönlichen Lebensumfeld können den ",
+        "residual_flags": []
+      },
+      {
+        "content": "Schülerinnen und Schülern einen Einstieg in das Präsentieren in der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Schülerinnen und Schülern einen Einstieg in das Präsentieren in der ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die fettgedruckten Themen sind verpflichtend zu behandeln. Sofern mehrere Unterthemen ausgewiesen sind, werden mindestens zwei der genannten Aspekte ausgewählt.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Die fettgedruckten Themen sind verpflichtend zu behandeln. Sofern \nmehrere Unterthemen ausgewiesen sind, werden mindestens zwei der \ngenannten Aspekte ausgewählt. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Bedeutung von Familie und Freunden",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Bedeutung von Familie und Freunden ",
+        "residual_flags": []
+      },
+      {
+        "content": "roles in the family",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "• roles in the family ",
+        "residual_flags": []
+      },
+      {
+        "content": "Freizeit und Lebensgestaltung",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Freizeit und Lebensgestaltung ",
+        "residual_flags": []
+      },
+      {
+        "content": "activities in my free time",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "• activities in my free time ",
+        "residual_flags": []
+      },
+      {
+        "content": "using the internet and social media safely",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "• using the internet and social media safely ",
+        "residual_flags": []
+      },
+      {
+        "content": "(family/classroom) rules for media usage",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "• (family/classroom) rules for media usage ",
+        "residual_flags": []
+      },
+      {
+        "content": "Wünsche, Träume und Pläne",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Wünsche, Träume und Pläne ",
+        "residual_flags": []
+      },
+      {
+        "content": "birthday presents and party plans",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "• birthday presents and party plans ",
+        "residual_flags": []
+      },
+      {
+        "content": "hopes and ideas for the future",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "• hopes and ideas for the future ",
+        "residual_flags": []
+      },
+      {
+        "content": "Beitrag zur Leitperspektive D:",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Beitrag zur Leitperspektive D: ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler reflektieren Auswirkungen der Nutzung digitaler Medien auf die Gestaltung sozialer Beziehungen z. B. in Familie und Freundeskreis.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren Auswirkungen der Nutzung \ndigitaler Medien auf die Gestaltung sozialer Beziehungen z. B. in Familie \nund Freundeskreis. ",
+        "residual_flags": []
+      },
+      {
+        "content": "5/6 Schule, Ausbildung, Beruf",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "5/6 Schule, Ausbil-\ndung, Beruf ",
+        "residual_flags": []
+      },
+      {
+        "content": "5/6 Gesell. Zusammenleben",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "5/6 Gesell. Zusam-\nmenleben ",
+        "residual_flags": []
+      },
+      {
+        "content": "Natur, Gesundheit, Wissenschaft und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Natur, Ge-\nsundheit, Wis-\nsenschaft und ",
+        "residual_flags": []
+      },
+      {
+        "content": "[bleibt zunächst leer]",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "[bleibt zunächst \nleer] ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 44,
+          "printed_page": 44
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 1: Persönliche Lebensgestaltung — 5/6 Living together",
+        "printed_page_range": "44"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

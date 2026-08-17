@@ -1,0 +1,263 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c9db25a25b170350744e065ce3ccd2f71ecf1f1be183ec95cceee159d1ca46d4"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The oral exam is set at the achievement level (Anforderungsniveau) the candidate took in Psychology in the Studienstufe.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die mündliche Prüfung erfolgt auf dem Anforderungsniveau, das der Prüfling in der Stu-\ndienstufe im Fach Psychologie belegt hat.",
+        "residual_flags": []
+      },
+      {
+        "content": "The task must be designed so that performance in all three requirement areas (Anforderungsbereiche) can be shown.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Aufgabenstellung ist so zu gestalten, dass Leistungen in allen drei Anforderungs-be-\nreichen erbracht werden können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Tasks set in the Abitur written exam, and tasks set in prior class exams (Klausuren), cannot be the subject of the oral exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die in der Abiturklausur gestellten Aufgaben sowie \nAufgaben, die in Klausuren gestellt worden sind, können nicht Gegenstand der Prüfung \nsein.",
+        "residual_flags": []
+      },
+      {
+        "content": "All three requirement areas must be covered during the oral exam so every grade is attainable for the candidate.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "dass im Verlauf der mündlichen Prüfung alle drei Anforde-\nrungsbereiche abgedeckt werden, sodass für den Prüfling jede Note erreichbar ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "The candidate's performance is documented in a record (Niederschrift) of the course of the oral exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "wird in einer Niederschrift über den Verlauf der mündlichen \nPrüfung dokumentiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "The oral exam refers to content or competence areas of at least two semesters of the Studienstufe.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die mündliche Prüfung bezieht sich auf Inhalts- bzw. Kompetenzbereiche mindestens \nzweier Semester der Studienstufe.",
+        "residual_flags": []
+      },
+      {
+        "content": "The content areas are the six named in the Rahmenplan under 3.2.2: Wahrnehmung, Kommunikation/Interaktion, Entwicklung und Persönlichkeit, Motivation und Lernen, Aggression, and Psychische Gesundheit/Krankheit, Psychotherapie.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "(„Wahrnehmung“, „Kommunikation/Interaktion“, \n„Entwicklung und Persönlichkeit“, „Motivation und Lernen“, „Aggression“, „Psychische \nGesundheit/Krankheit, Psychotherapie“)",
+        "residual_flags": []
+      },
+      {
+        "content": "Despite exam-didactic emphasis, the tasks may not be restricted to the content/competence areas of only one semester.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "nicht auf die Inhalts- bzw. Kompetenzbereiche \nnur eines Semesters beschränken.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates may submit one content/competence area in writing by a school-set deadline; if the chairperson does not reject it as unsuitable in reasonable time, it becomes subject of the exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Lehnt die oder \nder Vorsitzende des Fachprüfungsausschusses diesen nicht in angemessener Zeit als \nungeeignet ab, ist er Gegenstand der Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The referent supplements the candidate's proposal with a further semester's area and notifies the candidate of both exam areas in writing two weeks before the exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "gibt dem Prüfling beide Prüfungsbereiche zwei Wochen vor der Prüfung \nschriftlich bekannt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Naming the content/competence areas must not pre-empt the task itself.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "darf die Aufgaben-\nstellung nicht vorwegnehmen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The oral exam has two equally weighted parts: the ability to give a presentation and the ability to hold a theme-bound discussion.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die mündliche Prüfung besteht aus zwei gleichwertigen Teilen, die einerseits die Fähig-\nkeit zum Vortrag, andererseits die zum themengebundenen Gespräch verlangen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The exam lasts about 30 minutes, with an equal preparation time.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Prüfung dauert etwa 30 Minuten, die Vorbereitungszeit ebenso.",
+        "residual_flags": []
+      },
+      {
+        "content": "The candidate is given a written task; the task type is a discussion (Erörterung) of psychological matters from presentations, with the same criteria as the written exam.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "ist eine Erörterung psychologischer Sachverhalte aus Darstellungen. Für die \nErstellung gelten grundsätzlich dieselben Kriterien wie für die schriftliche Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "If the preparation task refers to only one area, the second area is introduced via an impulse from the examiner, and overall both areas are considered in a balanced way.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "wird der zweite Inhalts- bzw. Kompetenzbereich durch einen \n­entsprechenden Impuls der Prüferin bzw. des Prüfers in die Prüfung eingebracht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Erwartungshorizont enthält Angaben zur Zuordnung der Aufgaben zu den Anforderungsbereichen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1.1 Form und Aufgabenstellung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Angaben zur Zuordnung der Aufgaben zu den Anforderungsbereichen,",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.1.1 Form und Aufgabenstellung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "5.1.1 Form und Aufgabenstellung",
+        "printed_page_range": "14–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:92df39aa55226472713e56009fa49c95feadbfc23ca3be491f1a34130224fc0a"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Prüfungsaufgabe bezieht sich auf das Pflichtmodul 4.1 im Themenbereich Religionen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c. Lehrkräftematerial",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "bezieht sich auf das Pflichtmodul 4.1",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Unterrichtseinheit umfasste 18 Unterrichtsstunden bzw. 9 Doppelstunden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c. Lehrkräftematerial",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "umfasste 18 Unterrichtsstunden",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Prüfungsthese, dass alle zentralen Personen im Kern das Gleiche vertreten, wurde im Unterricht nicht thematisiert.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c. Lehrkräftematerial",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "der Religionen im Kern das Gleiche vertreten, wurde nicht thematisiert",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Fragenkatalog enthält Impulse für das Prüfungsgespräch auf allen drei Anforderungsebenen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c. Lehrkräftematerial",
+          "printed_page": 3,
+          "physical_page": 8
+        },
+        "cited_text": "enthält Impulse für das Prüfungsgespräch und für alle drei",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Erwartungshorizont sieht vor, dass die Kurzpräsentationen zentrale Aspekte von Leben, Botschaft und Bedeutung der jeweiligen Person vorstellen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c. Lehrkräftematerial",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "zentrale Aspekte von Leben, Botschaft und \nBedeutung der jeweiligen Person vorstellen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Aufgabenstellung bezieht sich auf die abschlussbezogene Anforderungsebene; bei Über- oder Unterschreitung kommt das gesamte Notenspektrum von E1 bis G6 zur Anwendung.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c. Lehrkräftematerial",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "kommt das gesamte Notenspektrum von E1 bis G6 zur",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Dokumentationsbogen dient als Strukturvorschlag für das Protokoll der Prüfung.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c. Lehrkräftematerial",
+          "printed_page": 8,
+          "physical_page": 13
+        },
+        "cited_text": "Bei der nachfolgenden Tabelle handelt es sich um einen Strukturvorschlag",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 2
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 3
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I.c. Lehrkräftematerial"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "I.c. Lehrkräftematerial",
+        "printed_page_range": "2–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

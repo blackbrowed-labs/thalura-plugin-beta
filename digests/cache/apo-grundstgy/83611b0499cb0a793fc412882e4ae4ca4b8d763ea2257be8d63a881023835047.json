@@ -1,0 +1,149 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:83611b0499cb0a793fc412882e4ae4ca4b8d763ea2257be8d63a881023835047"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students may move up early to the next grade level on application, with the approval of the certificate conference (Zeugniskonferenz).",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 4 — Verlauf der Bildungsgänge",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Auf Antrag der bzw. des Sorgeberechtigten und mit Genehmigung der Zeug-\nniskonferenz können Schülerinnen und Schüler vorzeitig in die nächsthöhere \nJahrgangsstufe aufrücken",
+        "residual_flags": []
+      },
+      {
+        "content": "Beyond § 12(2), students in years 7 to 10 may repeat a grade once on application by the guardians.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 4 — Verlauf der Bildungsgänge",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Über die in Absatz 2 genannten Voraussetzungen hinaus können Schülerinnen \nund Schüler auf Antrag der Sorgeberechtigtenin den Jahrgangsstufen 7 bis 10 \neine Jahrgangsstufe einmalig wiederholen",
+        "residual_flags": [
+          "source-typo-verbatim: missing space — original reads 'auf Antrag der Sorgeberechtigtenin den Jahrgangsstufen 7 bis 10'"
+        ]
+      },
+      {
+        "content": "The repetition rule at the Gymnasium hinges on at least one year of continuous special support under § 4 VO-BF.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 4 — Verlauf der Bildungsgänge",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "im Gymnasium nach mindestens einjähriger durchgängiger  \nTeilnahme an der besonderen Förderung nach § 4 der Verordnung  \nüber die besondere Förderung von Schülerinnen und Schülern \ngemäß § 45 des Hamburgischen Schul-gesetzes (VO-BF) vom",
+        "residual_flags": [
+          "source-typo-verbatim: spurious hyphen — original reads 'des Hamburgischen Schul-gesetzes'"
+        ]
+      },
+      {
+        "content": "Transfer from year 6 to year 7 of the Gymnasium depends on the student's grades.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 4 — Verlauf der Bildungsgänge",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Der Übergang aus der Jahrgangsstufe 6 des Gymnasiums in die Jahrgangs-\nstufe 7 des Gymnasiums ist zulässig, wenn die Leistungen der Schülerin oder des \nSchülers",
+        "residual_flags": []
+      },
+      {
+        "content": "From year 7 the Stadtteilschule teaches all subjects except Sport on three curriculum-based requirement levels (Anforderungsebenen).",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 4 — Verlauf der Bildungsgänge",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Der Unterricht erfolgt mit Blick \nauf die an der Stadtteilschule erreichbaren Abschlüsse und Übergangsberechti-\ngungen ab Jahrgangsstufe 7 in allen Fächern und Lernbereichen bis auf das Fach \nSport auf drei bildungsplanbezogenen Anforderungsebenen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Internal differentiation (innere Differenzierung) is the basic principle of teaching in all learning groups.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 4 — Verlauf der Bildungsgänge",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Innere Differenzierung ist wegen der unterschiedlichen Anforderungsebenen, \nLernvoraussetzungen und Lernentwicklungsstände Grundprinzip des Unterrichts \nin allen Lerngruppen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "APO-GrundStGy Abschnitt 4 — Verlauf der Bildungsgänge"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "APO-GrundStGy Abschnitt 4 — Verlauf der Bildungsgänge",
+        "printed_page_range": "16–20"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

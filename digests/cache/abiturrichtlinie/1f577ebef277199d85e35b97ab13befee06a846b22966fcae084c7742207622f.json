@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1f577ebef277199d85e35b97ab13befee06a846b22966fcae084c7742207622f"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie",
+      "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Tasks in the subjects named in § 24 (1) APO-AH are set centrally by the Amt für Bildung or the HIBB.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "2.2 Aufgaben für die schriftliche Prüfung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Aufgaben in den in § 24 Absatz 1 APO-AH genannten Fächern werden vom Amt für \nBildung bzw. dem HIBB zentral gestellt.",
+        "residual_flags": []
+      },
+      {
+        "content": "The candidates' task papers contain notes on the weighting of the task parts; teacher documents additionally contain the grading rubric (Erwartungshorizont) and assessment specifications.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "2.2 Aufgaben für die schriftliche Prüfung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Aufgaben für die Prüflinge enthalten Hin-\nweise zur Gewichtung der Aufgabenteile. Die Unterlagen für die Lehrkräfte enthalten \nzusätzlich Erwartungshorizonte und Vorgaben zur Bewertung der Prüfungsleistung \n(siehe Ziffer 3.1).",
+        "residual_flags": []
+      },
+      {
+        "content": "In all modern foreign languages the candidate is presented with one listening-comprehension task, one mediation task (Sprachmittlung) and two writing tasks, of which one writing task must be worked on.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "2.2 Aufgaben für die schriftliche Prüfung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "In allen Neueren Fremdsprachen werden dem Prüfling jeweils eine Hörverstehensaufgabe, eine Sprachmittlungsaufgabe und zwei Schreibaufgaben \nvorgelegt. Von den zwei Schreibaufgaben muss der Prüfling eine Aufgabe bearbeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "In Mathematik, task I contains options for the candidate; in task II the candidate chooses between two tasks.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "2.2 Aufgaben für die schriftliche Prüfung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "In Mathematik enthält Aufgabe I Wahlmöglichkeiten für den Prüfling, in Aufgabe II wählt der Prüfling zwischen zwei Aufgaben aus.",
+        "residual_flags": []
+      },
+      {
+        "content": "Für fremdsprachlich unterrichtete und geprüfte Fächer gelten die dezentralen Regelungen.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "2.2 Aufgaben für die schriftliche Prüfung",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Bei den fremdsprachlich unterrichteten und geprüften Fächern aus dem gesellschafts-",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Aufgaben für die schriftliche Prüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie",
+        "section_anchor": "2.2 Aufgaben für die schriftliche Prüfung",
+        "printed_page_range": "5–6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

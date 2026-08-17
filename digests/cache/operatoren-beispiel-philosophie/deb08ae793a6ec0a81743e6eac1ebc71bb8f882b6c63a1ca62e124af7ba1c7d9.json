@@ -1,0 +1,109 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:deb08ae793a6ec0a81743e6eac1ebc71bb8f882b6c63a1ca62e124af7ba1c7d9"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-philosophie",
+      "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Operator Analysieren (analyse) is defined as examining a text's formal design and argumentative structure and presenting it interpretively, grasping explicit and implicit premises, presuppositions of thought and theses, and clarifying justificatory connections and intended inferences.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Analysieren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die formale Gestaltung und die Argumentationsstruktur eines \nTextes in einem Material untersuchen und interpretierend darstel-\nlen. Die expliziten und impliziten Prämissen, Denkvoraussetzungen \nund Thesen erfassen und formulieren, Begründungszusammen-\nhänge und intendierte Folgerungen klären",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction): concretize the problem, mark the essential elements of the material, present the analytical aspect and method and justify the choice.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Analysieren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Problemstellung aus der Aufgabe konkretisieren, wesentliche Elemente des Materials \nkenntlich machen und ggf. verkürzt darstellen, Analyseaspekt (ggf. auswählen,) darstellen, \nAnalysemethode ggf. darstellen und Auswahl begründen.",
+        "residual_flags": [
+          "source anomaly preserved: misplaced comma inside parentheses '(ggf. auswählen,)'"
+        ]
+      },
+      {
+        "content": "Step 2 (analysis): examine the essential elements within the analytical aspect using an analytical method, working out connections from own background knowledge and the material.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Analysieren",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Wesentliche Elemente des Materials im Rahmen des Analyseaspekts mithilfe einer Analyse-\nmethode untersuchen, dabei Zusammenhänge mithilfe eigenen Hintergrundwissens, eines \nAnalyseaspekts und des Materials herausarbeiten und ggf. zusätzlich erläutern.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (closing): present the result and, where appropriate, reflect on the suitability of the method.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Analysieren",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Ergebnis darstellen, ggf. Eignung der Methode reflektieren.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Analysieren"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-philosophie",
+        "section_anchor": "Analysieren",
+        "printed_page_range": "8–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

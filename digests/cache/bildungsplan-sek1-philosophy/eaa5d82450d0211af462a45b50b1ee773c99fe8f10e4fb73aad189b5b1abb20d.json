@@ -1,0 +1,315 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:eaa5d82450d0211af462a45b50b1ee773c99fe8f10e4fb73aad189b5b1abb20d"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Section 1.2 states that philosophy teaching contributes to developing competencies that promote the understanding of reality.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "1.2 Beitrag des Faches zu den Leitperspektiven \nDer Philosophieunterricht leistet einen Beitrag zur Entwicklung von Kompetenzen, die das Ver-\nstehen der Wirklichkeit fördern.",
+        "residual_flags": []
+      },
+      {
+        "content": "Orientation arises from the reflected engagement with the conditions, consequences and limits of human thinking and acting.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Aus der reflektierten Auseinandersetzung mit Bedingungen, \nKonsequenzen und Grenzen menschlichen Denkens und Handelns ergibt sich Orientierung",
+        "residual_flags": []
+      },
+      {
+        "content": "That reflected engagement yields orientation for the students' own judging and acting.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "für das eigene Urteilen und Handeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Through interdisciplinary and cross-curricular learning, subject-specific content is grasped in a larger context and socially relevant tasks become apparent.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Durch fächerverbindendes und fachübergreifendes Ler-\nnen werden fachspezifische Inhalte in einem größeren Kontext erfasst und gesellschaftlich \nrelevante Aufgaben deutlich.",
+        "residual_flags": []
+      },
+      {
+        "content": "Philosophy lessons therefore also offer opportunities to engage with questions of values education, of sustainable development, and of living and learning in the digital world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Damit bietet der Philosophieunterricht auch Möglichkeiten für \neine Auseinandersetzung mit Fragen der Wertebildung, der nachhaltigen Entwicklung und des \nLebens und Lernens in der digitalen Welt.",
+        "residual_flags": []
+      },
+      {
+        "content": "For the guiding perspective values education / value orientation (W), philosophy lessons foster engagement with values, attitudes and options for action as well as insight into the normative foundations of human action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Wertebildung/Werteorientierung (W) \nDer Philosophieunterricht fördert die Auseinandersetzung mit Werten, Einstellungen und \nHandlungsoptionen sowie die Einsicht in normative Grundlagen menschlichen Handelns.",
+        "residual_flags": []
+      },
+      {
+        "content": "It starts from concrete experiences and phenomena of individual and social life but is directed at conceptually clear statements and argumentation and at reasoned judgements that go beyond a mere expression of opinion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Da-\nbei nimmt er seinen Ausgang von konkreten Erfahrungen und Phänomenen des individuellen \nund gesellschaftlichen Lebens, ist aber auf begrifflich klare Aussagen und Argumentationen \nsowie begründete Urteile gerichtet, die über eine bloße Meinungsäußerung hinausgehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In philosophical problem reflection, dogmatic assertions and perspectives are fundamentally called into question.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "In \nder philosophischen Problemreflexion werden dogmatische Setzungen und Perspektiven \ngrundsätzlich hinterfragt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Community-stabilising and peace-securing values such as solidarity, respect, tolerance, a sense of responsibility, participation and empathy are highlighted.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Gemeinschaftsstabilisierende und friedenssichernde Werte, wie z. B. \nSolidarität, Respekt, Toleranz, Verantwortungsbewusstsein, Teilhabe und Empathie werden \nherausgestellt.",
+        "residual_flags": []
+      },
+      {
+        "content": "The potential misuse of these values is also reflected upon.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Auch der potenzielle Missbrauch dieser Werte wird reflektiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Truth is considered as an epistemic value, and its significance is also reflected upon in the context of moral values and norms.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Wahrheit wird \nals epistemischer Wert in den Blick genommen und dessen Bedeutung auch im Kontext mo-\nralischer Werte und Normen reflektiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "For the guiding perspective education for sustainable development (BNE), building the knowledge, abilities and attitudes required for a future-oriented and sustainable shaping of the world is an essential part of philosophy teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Bildung für nachhaltige Entwicklung (BNE) \nDie Ausbildung von Kenntnissen, Fähigkeiten und Haltungen, die für eine zukunftsorientierte \nund nachhaltige Gestaltung der Welt erforderlich sind, ist wesentlicher Teil des Philosophie-\nunterrichts.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students reflect on habits and behavioural patterns with regard to their sustainability and thereby establish links in content and method to other subjects.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren Gewohnheiten und Verhaltensmuster \nbezüglich ihrer Nachhaltigkeit und stellen dabei inhaltliche und methodische Bezüge zu ande-\nren Fächern her.",
+        "residual_flags": []
+      },
+      {
+        "content": "Existential social, ecological and economic challenges that make a transformation of our way of life necessary are analysed, drawing on subject knowledge and methodological abilities acquired in other subjects.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Existenzielle gesellschaftliche, ökologische und ökonomische Herausforde-\nrungen, die eine Transformation unserer Lebensweise notwendig machen, werden unter Ein-\nbezug von fachlichen und methodischen Kenntnissen und Fähigkeiten, die in anderen Fächern \nerworben werden, analysiert",
+        "residual_flags": []
+      },
+      {
+        "content": "Above all the social and cultural aspects of education for sustainable development are addressed while the various modules are worked through, e.g. social justice, educational opportunities, child poverty and children's rights.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "und vor allem soziale und kulturelle Aspekte von BNE werden im \nRahmen der Erarbeitung verschiedener Module in den Blick genommen (z. B. soziale Gerech-\ntigkeit, Bildungschancen, Kinderarmut, Kinderrechte).",
+        "residual_flags": []
+      },
+      {
+        "content": "For the guiding perspective living and learning in a digitally shaped world (D), digital media are used in philosophy for gaining knowledge, for documenting learning processes and for presenting and communicating learning outcomes.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Leben und Lernen in einer digital geprägten Welt (D) \nIm Fach Philosophie werden digitale Medien zur Erkenntnisgewinnung, zur Dokumentation von \nLernprozessen sowie zur Präsentation und Kommunikation von Lernergebnissen genutzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students learn to research information in digital media in a targeted way, to filter it appropriately and to assess its reliability and relevance for their own question.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Schü-\nlerinnen und Schüler lernen, Informationen in digitalen Medien gezielt zu recherchieren, sie in \ngeeigneter Weise zu filtern und bezüglich ihrer Zuverlässigkeit und Relevanz für ihre Fragestel-\nlung einzuschätzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They practise storing information, sharing it with one another and producing their own digital representations from it.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Sie üben sich darin, diese Informationen zu speichern, miteinander zu teilen \nund daraus eigene digitale Darstellungen zu produzieren",
+        "residual_flags": []
+      },
+      {
+        "content": "They also learn how digital media can be used to develop or carry forward thoughts collaboratively.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "und lernen, wie digitale Medien genutzt \nwerden können, um kollaborativ Gedanken zu entwickeln oder weiterzuführen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Besides digitalisation as a process of developing and applying technologies, digitality as the social and cultural reality that accompanies it is also reflected upon.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Neben der Digi-\ntalisierung als Prozess der Entwicklung und Anwendung von Technologien wird Digitalität als \ngesellschaftliche und kulturelle Realität, die mit Digitalisierung einhergeht, reflektiert.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+        "printed_page_range": "5–6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

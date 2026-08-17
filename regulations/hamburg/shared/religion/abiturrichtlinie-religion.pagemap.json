@@ -2,7 +2,7 @@
   "document_id": "abiturrichtlinie-religion",
   "document_title": "Abiturrichtlinie Religion",
   "source_pdf_sha256": "33f4d21680a35d21b532b95822e680c786368b87c53b51f61eae56a05de6c43a",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 19,
   "page_identity": {
     "offset": 0,
@@ -180,9 +180,9 @@
     {
       "section_anchor": "4.2 Aufgabenarten",
       "printed_page_start": 9,
-      "printed_page_end": 10,
+      "printed_page_end": 11,
       "physical_page_start": 9,
-      "physical_page_end": 10,
+      "physical_page_end": 11,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -260,9 +260,9 @@
     {
       "section_anchor": "5.1.1 Form und Aufgabenstellung",
       "printed_page_start": 15,
-      "printed_page_end": 15,
+      "printed_page_end": 16,
       "physical_page_start": 15,
-      "physical_page_end": 15,
+      "physical_page_end": 16,
       "ordinance": null,
       "grades": null,
       "hazards": []

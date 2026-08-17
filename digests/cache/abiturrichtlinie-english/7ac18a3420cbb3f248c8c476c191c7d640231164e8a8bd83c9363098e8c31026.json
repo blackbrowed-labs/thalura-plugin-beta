@@ -1,0 +1,437 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7ac18a3420cbb3f248c8c476c191c7d640231164e8a8bd83c9363098e8c31026"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Guided by instructions the candidate works on one or more English-language source texts (text reception) and writes a coherent independent text (written text production).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Anhand von Arbeitsanweisungen bearbeitet der Prüfling eine oder mehrere englisch-\nsprachige Textvorlagen (Textrezeption) und verfasst einen zusammenhängenden eigen-\nständigen Text (schriftliche Textproduktion).",
+        "residual_flags": []
+      },
+      {
+        "content": "Source texts in the extended text sense may be non-fiction texts (journalistic texts, reports, essays), literary texts (poems, song lyrics, novel excerpts, short stories, drama) and images/graphics (illustrations, cartoons, charts, diagrams, tables).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Vorlagen im Sinne eines erweiterten Textbegriffes können sein:\n•\nSachtexte (wie etwa journalistische Texte, Berichte oder Essays),\n•\nliterarische Texte (wie zum Beispiel Gedichte, Liedertexte, Auszüge aus Romanen,\nKurzgeschichten oder Dramen),\n•\nBilder und Grafiken (z. B. Illustrationen, Karikaturen, Schaubilder, Diagramme oder Ta-\nbellen).",
+        "residual_flags": []
+      },
+      {
+        "content": "Several sources of the same or different type may be combined but must be thematically linked; images and graphics may only be used in combination with other written sources.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Eine Verbindung mehrerer Vorlagen entweder derselben oder unterschiedlicher Art ist \nmöglich; die Vorlagen müssen thematisch miteinander verknüpft sein. Bilder und Grafi-\nken dürfen nur in Verbindung mit anderen schriftlichen Vorlagen Teil der Prüfung sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Source materials are authentic English texts, thematically significant, of a linguistic difficulty appropriate to the course type, and sufficiently complex in topic and structure.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Arbeitsvorlagen sind\n•\nauthentische Texte in englischer Sprache,\n•\nthematisch bedeutsam,\n•\neinem der Kursart angemessenen sprachlichen Schwierigkeitsgrad entsprechend,\n•\nin Thematik und Struktur hinreichend komplex.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for judging the difficulty of the sources: degree of encoding, degree of abstraction, complexity of the text or visual structure, information density, complexity of language (syntax, lexis, pragmatics), degree of deviation from standard language, extent of assumed factual knowledge.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Zur Einschätzung des Schwierigkeitsgrades der Vorlagen sind folgende Kriterien zu be-\nrücksichtigen:\n•\nGrad der Verschlüsselung,\n•\nAbstraktionsgrad,\n•\nKomplexität der Text- bzw. visuellen Struktur,\n•\nInformationsdichte,\n•\nKomplexität der verwendeten Sprache hinsichtlich Satzbau, Lexik, Pragmatik,\n•\nGrad der Abweichung von der Standardsprache,\n•\nUmfang der vorausgesetzten Sachkenntnis.",
+        "residual_flags": []
+      },
+      {
+        "content": "The text for raised level may contain at most 1000 words; the text for basic level and for the newly taken-up foreign language at most 800 words.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Der für das erhöhte Niveau vorgelegte Text darf maximal 1000 Wörter, der auf dem \ngrundlegenden Niveau und der für die neu aufgenommene Fremdsprache vorgelegte \nText darf maximal 800 Wörter umfassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Highly condensed and multiply coded texts (e.g. poems, film excerpts) or combination with visual material can justify deviation from the stated word counts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Stark verdichtete und mehrfach kodierte Texte (wie z. B. Gedichte und Filmausschnitte) \noder eine Kombination mit visuellen Materialien (z. B. Bilder, Grafiken) können eine Ab-\nweichung von den genannten Wortzahlen rechtfertigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "If several texts are presented, the word count applies to all texts together.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Werden mehrere Texte vorgelegt, gilt die Wortzahl für alle Texte zusammen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Tasks on discontinuous texts let candidates convert visual impulses into language, ensure the performance is not merely additively descriptive, and require explanation of the relation of picture elements and thematic placement of the image.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Aufgabenstellung zu diskontinuierlichen Texten ermöglicht es den Prüflingen, visuelle \nImpulse in Sprache umzusetzen. Sie stellt sicher, dass sich die Prüfungsleistung nicht auf \neine rein additiv deskriptive Leistung beschränkt. Vielmehr werden auch die Erläuterung \ndes Bezuges von Bildelementen zueinander und die Einordnung des Bildes in themati-\nsche Zusammenhänge gefordert.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the writing task candidates work on English-language sources at the levels of requirement areas I to III, with instructions allowing extended, mutually related answers.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "In der Schreibaufgabe bearbeiten die Prüflinge englischsprachige Vorlagen auf den Ebe-\nnen der Anforderungsbereiche I bis III.\nDie Arbeitsaufträge sind in allen Anforderungsbereichen so gestaltet, dass eine Entfal-\ntung der Antworten in längeren Textabschnitten, die inhaltlich und sprachlich aufeinan-\nder bezogen sind, möglich ist. Es werden folgende Aufgabenstellungen gegeben:",
+        "residual_flags": []
+      },
+      {
+        "content": "The tasks given are one Comprehension task, one Analysis task, and one task each in Comment or Creative Writing.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "eine Aufgabe zum Bereich Comprehension,\n•\neine Aufgabe zum Bereich Analysis,\n•\njeweils eine Aufgabe zum Bereich Comment oder Creative Writing.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the third requirement area candidates must choose between Comment and Creative Writing.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Im dritten Anforderungsbereich müssen die Prüflinge zwischen Comment und Creative \nWriting wählen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content weighting: Comprehension and Comment/Creative Writing each as a rule 30 percent of the content assessment; Analysis as a rule 40 percent.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die von den Prüflingen erbrachten inhaltlichen Leistungen im Bereich \nComprehension und Comment/Creative Writing gehen in der Regel zu jeweils 30 Prozent in \ndie Bewertung des Inhalts ein; die Leistungen im Bereich Analysis fließen in der Regel zu \n40 Prozent in die inhaltliche Bewertung ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates formulate results as self-contained, coherent texts and demonstrate written text production, command of linguistic means, methodological competences and knowledge of different forms of presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Prüflinge formulieren ihre Ergebnisse als in sich geschlossene, so weit wie möglich \nkohärente Texte. Sie weisen dabei besonders ihre Fertigkeiten aus den Bereichen schrift-\nliche Textproduktion, Verfügung über sprachliche Mittel und methodische Kompetenzen \nzur Textproduktion sowie die Kenntnis verschiedener Darstellungsformen nach.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the mediation task the essential content of one or more authentic German source texts is summarised in a situationally appropriate way for a specific purpose and addressee and transferred in writing into the target language.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "In der Sprachmittlungsaufgabe wird der wesentliche Gehalt eines oder mehrerer deut-\nscher authentischer Ausgangstexte situationsangemessen für einen bestimmten Zweck \nund Adressaten zusammengefasst und sinngemäß schriftlich in die Zielsprache übertra-\ngen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The mediation task is contextually embedded and addressee-related.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Aufgabe ist kontextuell eingebettet und adressatenbezogen.",
+        "residual_flags": []
+      },
+      {
+        "content": "It requires performance in requirement areas I and II.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Sie erfordert Leistungen in den Anforderungsbereichen I und II.",
+        "residual_flags": []
+      },
+      {
+        "content": "Decisive for assigning a mediation task to basic or raised level are the complexity of the source text, the resulting functional text-shortening strategies, and any intercultural information to be mediated beyond the text.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Entscheidend für die Zu-\nordnung einer Aufgabe zum grundlegenden oder erhöhten Anforderungsniveau sind die \nKomplexität des Ausgangstextes, die sich hieraus ergebenden erforderlichen funktiona-\nlen Strategien der Textkürzung und die ggf. zusätzlich zu den Informationen des Textes \nzu mittelnden interkulturellen Informationen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A basic-level task is further characterised by lower expectations regarding coherence, complexity, formal correctness and range of expression than at raised level.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Darüber hinaus kennzeichnet eine Aufgabe \nauf grundlegendem Niveau, dass an die Leistungen der Prüflinge geringere Erwartungen \nim Hinblick auf die Kohärenz, Komplexität, formale Richtigkeit und Variationsbreite im \nAusdruck der produzierten Texte gestellt werden als an die Leistungen auf erhöhtem \nNiveau.",
+        "residual_flags": []
+      },
+      {
+        "content": "The source text may consist of one or more, also discontinuous, texts and should total 400 to 650 words, or 350 to 500 words for the newly taken-up foreign language.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 12,
+          "printed_page_end": 13,
+          "physical_page": 12
+        },
+        "cited_text": "Der Ausgangstext kann aus einem oder mehreren, auch diskontinuierlichen, Texten be-\nEnglisch\t\n13\nstehen. Die Länge des der Aufgabe zugrunde liegenden Textes soll insgesamt 400 bis \n650 Wörter, für die neu aufgenommene Fremdsprache 350 bis 500 Wörter umfassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Lyrical texts and texts with a markedly stylistic ambition are not suitable as sources.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Lyrische Texte und Texte mit ausgeprägt stilistischem Anspruch sind als Vorlagen nicht \ngeeignet.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the listening part different partial competences are tested depending on the task.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Im Prüfungsteil Hörverstehen werden je nach Aufgabenstellung unterschiedliche Teil-\nkompetenzen überprüft.",
+        "residual_flags": []
+      },
+      {
+        "content": "The tasks test different listening styles and intentions: global listening (gist), detailed, selective and inferential listening (inferencing/deducing meaning).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Aufgaben testen verschiedene Hörstile und -intentionen:\n•\nglobales Hören (gist),\n•\ndetailliertes Hören,\n•\nselektives Hören,\n•\nschlussfolgerndes Hören (inferencing/deducing meaning).",
+        "residual_flags": []
+      },
+      {
+        "content": "Audio sources are as a rule no longer than five minutes each and are presented once or twice; total listening time is max. 10 minutes for single listening and can rise to 20 minutes with double listening.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Als auditive Textvorlage dienen Texte, die in der Regel nicht mehr als jeweils fünf Minuten \nlang sind. Sie werden den Prüflingen über einen Tonträger ein- oder zweimal dargeboten. \nDie Gesamtdauer der Hörbeispiele beträgt bei einfachem Hören maximal 10 Minuten. \nDurch ggf. zweimaliges Hören kann sich die Gesamthörzeit auf bis zu 20 Minuten erhöhen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Suitable sources are e.g. podcasts or radio/TV recordings of interviews, speeches, conversations, discussions, dialogues, talk shows and background reports.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Als Vorlagen geeignet sind beispielsweise:\n•\nPodcasts oder Radio-/Fernseh-Mitschnitte von Interviews, Reden, Gesprächen, Dis-\nkussionen, Dialogen, Talkshows, Hintergrundberichten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The speech tempo may vary and corresponds to native-level speakers; at raised requirement level standard varieties are possible; the source should contain a short situational embedding, and before listening candidates must have enough time to read the tasks.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Das Sprechtempo der Hörvorlage kann variieren und entspricht der Sprechweise von \nSprechern auf muttersprachlichem Niveau, wobei auf erhöhtem Anforderungsniveau \nStandardvarietäten möglich sind. Die Hörvorlage sollte eine kurze situative Einbettung \nenthalten. Vor dem Hören sollen die Prüflinge über ausreichend Zeit verfügen, die Aufga-\nbenstellung(en) zu lesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Possible task formats are closed tasks (e.g. matching, multiple choice) and semi-open tasks (e.g. short answers, gap filling, table completion, note taking).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Mögliche Formate für die Aufgaben zum Hörverstehen sind:\n•\ngeschlossene Aufgaben (z. B. matching, multiple choice)\n•\nhalboffene Aufgaben (z. B. short answers, gap filling, table completion, note taking)",
+        "residual_flags": []
+      },
+      {
+        "content": "The listening task requires performance in requirement areas I and II.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Aufgabenstellung erfordert Leistungen in den Anforderungsbereichen I und II.",
+        "residual_flags": []
+      },
+      {
+        "content": "Decisive for level assignment are the complexity of the listening text, its degree of encoding, the speed of speech and any background noise.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Entscheidend für die Zuordnung einer Aufgabe zum grundlegenden oder erhöhten An-\nforderungsniveau sind die Komplexität des Hörtextes, der Grad seiner Verschlüsselung, \ndie Geschwindigkeit des Gesprochenen und ggf. vorhandene Hintergrundgeräusche.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.2 Aufgabenarten"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "4.2 Aufgabenarten",
+        "printed_page_range": "11–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

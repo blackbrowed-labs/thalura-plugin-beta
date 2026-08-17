@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:aab080b5881d56bc6ab5ce6c3c57e3176f6c1ee5b9ece6071d6afe618d27be4b"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken WM7 (grade 10): which circumstances endanger peace and which conditions stabilise it; students examine reasons for conflict and violence.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 7: Frieden",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "In diesem Modul soll ergründet werden, welche Umstände Frieden \ngefährden und welche Bedingungen ihn stabilisieren. Die Schülerin-\nnen und Schüler untersuchen Gründe für Konflikte und Gewalt.",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      },
+      {
+        "content": "Contents of WM7: peace as a value; endangerment of peace through prejudice, discrimination and enemy images; value plurality, value conflicts and universal values.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 7: Frieden",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "• Frieden als Wert \n• Gefährdung des Friedens durch Vorurteile, Diskriminierungen und \nFeindbilder \n• Wertevielfalt, Wertekonflikte und universelle Werte",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': students recognise peace as an important democratic core value connected to freedom, security, solidarity and justice.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 7: Frieden",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Die Schülerinnen und Schüler erkennen Frieden als wichtigen demo-\nkratischen Grundwert und seine Verbindung zu anderen Werten wie \nz. B. Freiheit und Sicherheit, Solidarität und Gerechtigkeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'BNE': students recognise that sustainable development is not possible without peace.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 7: Frieden",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Die Schülerinnen und Schüler erkennen, dass nachhaltige Entwick-\nlung ohne Frieden nicht möglich ist.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Wahlmodul 7: Frieden"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Wahlmodul 7: Frieden",
+        "printed_page_range": "28"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

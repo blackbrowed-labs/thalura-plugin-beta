@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e1ad793b91ef73abdbab10c4648c4aa4a306f06d9a90fd47974734dc4c10d2e7"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The scope of the enrolment obligations in the Vorstufe and the Studienstufe follows, depending on the chosen specialisation, from Anlagen 8 and 9.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 40 Versetzung in die Studienstufe, mittlerer Schulabschluss (berufliches Gymnasium)",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Der Umfang der Belegverpflichtungen in der Vorstufe und der Studienstufe ergibt \nsich - abhängig von der gewählten Fachrichtung - aus den Anlagen 8 und 9.",
+        "residual_flags": []
+      },
+      {
+        "content": "The promotion decision is based on the grades and points of the Vorstufe year certificate.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 40 Versetzung in die Studienstufe, mittlerer Schulabschluss (berufliches Gymnasium)",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Grundlage der Entscheidung über die Versetzung in die Studienstufe sind die Noten \nbeziehungsweise Punkte des Jahreszeugnisses der Vorstufe.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are promoted with at least sufficient performance (4 points) in all subjects, or with a permitted compensation.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 40 Versetzung in die Studienstufe, mittlerer Schulabschluss (berufliches Gymnasium)",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Schülerinnen oder Schüler \nwerden versetzt, wenn sie in allen Fächern mindestens ausreichende Leistungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Poor performance in two subjects can be compensated by at least good performance (10 points) in two other subjects.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 40 Versetzung in die Studienstufe, mittlerer Schulabschluss (berufliches Gymnasium)",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "mangelhafte Leistungen (3 oder 2 Punkte oder 1 Punkt) in zwei Fächern \ndurch mindestens gute Leistungen (10 Punkte) in zwei anderen Fächern",
+        "residual_flags": []
+      },
+      {
+        "content": "Ein Ausgleich ist ausgeschlossen bei mangelhaften Leistungen in zwei der Faecher Deutsch, Mathematik, Englisch sowie einem profilgebenden Fach.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 40 Versetzung in die Studienstufe, mittlerer Schulabschluss (berufliches Gymnasium)",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "bei mangelhaften Leistungen (3 oder 2 Punkte oder 1 Punkt) in zwei der",
+        "residual_flags": []
+      },
+      {
+        "content": "Mit der Versetzung in die Studienstufe wird der mittlere Schulabschluss erreicht.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 40 Versetzung in die Studienstufe, mittlerer Schulabschluss (berufliches Gymnasium)",
+          "printed_page": 37,
+          "physical_page": 37
+        },
+        "cited_text": "Mit der Versetzung in die Studienstufe wird der mittlere Schulabschluss erreicht,",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        },
+        {
+          "physical_page": 37,
+          "printed_page": 37
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 40 Versetzung in die Studienstufe, mittlerer Schulabschluss (berufliches Gymnasium)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 40 Versetzung in die Studienstufe, mittlerer Schulabschluss (berufliches Gymnasium)",
+        "printed_page_range": "36–37"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

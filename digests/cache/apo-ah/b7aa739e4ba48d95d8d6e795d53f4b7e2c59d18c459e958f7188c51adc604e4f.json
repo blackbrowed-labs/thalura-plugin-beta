@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b7aa739e4ba48d95d8d6e795d53f4b7e2c59d18c459e958f7188c51adc604e4f"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students may, individually or in groups, produce a special learning achievement (besondere Lernleistung) spanning at least two semesters.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 8 Besondere Lernleistung",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Schülerinnen und Schüler können einzeln oder in Gruppen eine besondere Lern-\nleistung erbringen, die sich über mindestens zwei Semester erstreckt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Where it is brought into the overall qualification, the special learning achievement must be documented in writing.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 8 Besondere Lernleistung",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die besondere \nLernleistung ist in diesem Fall schriftlich zu dokumentieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students explain the results in a roughly thirty-minute subject discussion (Fachgespräch) and answer questions.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 8 Besondere Lernleistung",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Schülerinnen und Schü-\nler erläutern die Ergebnisse in einem etwa dreißigminütigen Fachgespräch und beant-\nworten Fragen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 8 Besondere Lernleistung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 8 Besondere Lernleistung",
+        "printed_page_range": "11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

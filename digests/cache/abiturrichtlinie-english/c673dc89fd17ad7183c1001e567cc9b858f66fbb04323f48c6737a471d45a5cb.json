@@ -1,0 +1,382 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c673dc89fd17ad7183c1001e567cc9b858f66fbb04323f48c6737a471d45a5cb"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The requirement areas at basic and raised level differ by type and complexity and by the degree of autonomy of the required performance; they demand different working methods.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Anforderungsbereiche auf grundlegendem und erhöhtem Niveau in der Abiturprü-\nfung unterscheiden sich nach der Art und Komplexität sowie dem Grad der Selbststän-\ndigkeit der geforderten Leistung; sie verlangen unterschiedliche Arbeitsweisen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The focus of requirements in the Abitur exam lies in requirement area II (Anforderungsbereich II).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Schwerpunkt der Anforderungen liegt in der Abiturprüfung im Anforderungsbereich II.",
+        "residual_flags": []
+      },
+      {
+        "content": "To increase transparency and comparability, three requirement areas can be described for both levels.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Zur Erhöhung der Transparenz und Vergleichbarkeit lassen sich für beide Niveaus drei \nAnforderungsbereiche beschreiben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirement area I concerns reproduction; it contains tasks demonstrating text comprehension, and a global or aspect-related summary of the text may be required. NOTE: the source misspells 'aspektbezogene' as 'aspektbzogene'.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Der Anforderungsbereich I bezieht sich auf Anforderungen im Bereich der Reprodukti-\non. Er enthält Aufgaben, die dem Nachweis des Textverständnisses dienen. Es kann eine \nglobale oder aspektbzogene Zusammenfassung des Textes gefordert werden.",
+        "residual_flags": [
+          "source-typo: 'aspektbzogene' (for 'aspektbezogene') preserved verbatim"
+        ]
+      },
+      {
+        "content": "AB I includes understanding and reproducing the content, central statements or problem of given materials, and appropriate, norm-conformant use of linguistic means for describing and condensing facts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "das Verstehen und die Wiedergabe des Inhalts, der zentralen Aussagen oder der Pro-\nblemstellung vorgegebener Materialien,\n•\ndie angemessene und normgerechte Verwendung der sprachlichen Mittel zur Be-\nschreibung und verkürzenden Wiedergabe von Sachverhalten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirement area II concerns reorganisation and analysis: explaining, processing and presenting known matters under new questions using subject-adequate methods, and independent transfer of learned material to comparable subject objects.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Der Anforderungsbereich II bezieht sich auf Anforderungen in den Bereichen Reorgani-\nsation und Analyse. Er umfasst das Erklären, Verarbeiten und Darstellen bekannter Sach-\nverhalte anhand neuer Fragestellungen und unter Anwendung fach- und sachadäquater \nMethoden sowie das selbstständige Übertragen von Gelerntem auf vergleichbare fach-\nbezogene Gegenstände.",
+        "residual_flags": []
+      },
+      {
+        "content": "At raised level, tasks may address the analysis of the linguistic or media-specific design of the source and its effect on the recipient.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Hinsichtlich der formalen Gestal-\ntung einer Vorlage können sich die Aufgaben auf dem erhöhten Niveau auf die Analyse \nder sprachlichen bzw. medienspezifischen Gestaltung der Vorlage und ihrer Wirkung auf \nden Rezipienten beziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "AB II includes: opening up and independently presenting content of complex materials; task-related reproduction of knowledge in a new context; systematic selection and application of subject methods; task-related analysis of text-design features (raised level only); norm- and function-appropriate use of a more differentiated repertoire of linguistic means.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "das Erschließen und sprachlich eigenständige und aufgabenbezogene Darstellen der\ninhaltlichen Aussagen von sprachlich und strukturell komplexen Materialien oder\nSachverhalten,\n•\ndie aufgabenbezogene Wiedergabe von Kenntnissen in einem neuen Zusammenhang,\n•\ndie planmäßige Auswahl und Anwendung von Fachmethoden (Erschließungstechniken,\nAnalyseverfahren) zur problemlösenden Bearbeitung einer komplexen Aufgabenstel-\nlung,\n•\ndie aufgabenbezogene Analyse von Textgestaltungsmerkmalen (bei Aufgaben auf\ndem erhöhten Anforderungsniveau),\n•\ndie norm- und funktionsgerechte Verwendung eines differenzierteren Repertoires\nsprachlicher Mittel.",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirement area III concerns evaluating and creating (Werten und Gestalten): planned processing of complex matters aiming at independent solutions, designs, interpretations, conclusions, justifications or evaluations, selecting suitable methods autonomously.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Der Anforderungsbereich III bezieht sich auf Anforderungen in den Bereichen Werten \nund Gestalten.\nEr umfasst planmäßiges Verarbeiten komplexer Sachverhalte und Materialien mit dem \nZiel, zu selbstständigen Lösungen, Gestaltungen oder Deutungen, Folgerungen, Begrün-\ndungen oder Wertungen zu gelangen. Dabei werden aus den gelernten Methoden oder \nLösungsverfahren die zur Bewältigung der Aufgabe geeigneten selbstständig ausgewählt \nund ggf. einer neuen Problemstellung angepasst.",
+        "residual_flags": []
+      },
+      {
+        "content": "AB III includes reasoned, evaluative conclusions from the analysis, placing results of AB I and II into the larger thematic context, and knowledge/application of conventions of text design for application-/production-oriented text forms.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "begründete, wertende Folgerungen aus den Ergebnissen der durchgeführten Analyse\noder Problemerörterung,\n•\ndie Einordnung der Ergebnisse aus den Anforderungsbereichen I und II in den größe-\nren thematischen Zusammenhang der Problemstellung,\n•\ndie Kenntnis und Anwendung der grundlegenden Konventionen der Textgestaltung\nanwendungs-/ produktionsorientierter Textformen,",
+        "residual_flags": []
+      },
+      {
+        "content": "AB III also includes using rhetorical, aesthetic-creative and reader-oriented linguistic means within the conventions of a situation-bound text type with its register (e.g. a personal or factual message, an appeal or a website, a diary entry, a newspaper commentary, a letter to the editor).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 6,
+          "printed_page_end": 7,
+          "physical_page": 6
+        },
+        "cited_text": "die Anwendung rhetorischer, ästhetisch-gestaltender und leserorientierter Sprachmit-\ntel in einem thematischen Bezug und innerhalb der Konventionen einer bestimmten si-\nEnglisch\t\n7\ntuationsgebundenen Textart mit dem dazugehörenden Register (z. B. eine persönliche \noder sachliche Mitteilung, ein Aufruf oder eine Website, eine Tagebuchaufzeichnung, \nein Zeitungskommentar, ein Leserbrief), welche einen inhaltlichen und ggf. formalen \nBezug zur Vorlage gewährleistet,",
+        "residual_flags": []
+      },
+      {
+        "content": "AB III further includes argumentative presentation of complex matters, justified commenting positions and target-text-bound text design in largely norm-conformant and differentiated form.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "die argumentierende Darlegung komplexer Sachverhalte, begründende, kommentie-\nrende Stellungnahme und zieltextgebundene Textgestaltung unter Verwendung der\ndazu erforderlichen sprachlichen Mittel in weitgehend normgerechter und differen-\nzierter Form.",
+        "residual_flags": []
+      },
+      {
+        "content": "The operators used in the central written Abitur tasks are defined in the following tables; corresponding formulations in Studienstufe exams are an important part of preparing students for the Abitur.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die in den zentralen schriftlichen Abituraufgaben verwendeten Operatoren werden in \nden folgenden Tabellen definiert und inhaltlich gefüllt. Entsprechende Formulierungen in \nden Klausuren der Studienstufe sind ein wichtiger Teil der Vorbereitung der Schülerinnen \nund Schüler auf das Abitur.",
+        "residual_flags": []
+      },
+      {
+        "content": "The table for the 'Schreiben' competence area also assigns operators to requirement areas I, II and III, though the concrete assignment can depend on task context and a sharp separation of requirement areas is not always possible.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Neben Definitionen und Beispielen enthält die Tabelle zum Kompetenzbereich „Schrei-\nben“ auch Zuordnungen zu den Anforderungsbereichen I, II und III, wobei die konkrete \nZuordnung auch vom Kontext der Aufgabenstellung abhängen kann und eine scharfe \nTrennung der Anforderungsbereiche nicht immer möglich ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "The tables contain the stock of operators agreed by all federal states in 2014 for the joint task pool of the Länder.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Tabellen enthalten den 2014 von allen Bundesländern vereinbarten Grundstock von \nOperatoren für den gemeinsamen Aufgabenpool der Länder.",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirements in the Abitur exam lie predominantly in requirement area II; a sufficient (ausreichende) performance cannot be achieved by reproducing knowledge (AB I) alone.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Anforderungen in der Abiturprüfung liegen schwerpunktmäßig im Anforderungsbe-\nreich II. Allein mit der Wiedergabe von Kenntnissen (Anforderungsbereich I) kann eine \nausreichende Leistung nicht erbracht werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Writing operators for AB I: outline, point out/state, summarize/sum up, each with definition and illustrating task example.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "für den Anforderungsbereich I\noutline\ngive the main features, structure or gener-\nal principles of sth. \nOutline the writer’s views on love, mar-\nriage and divorce. \npoint out, state\npresent the main aspects of sth. briefly \nand clearly \nPoint out the author’s ideas on…\nState your reasons for applying for a high \nschool year. \nsummarize, sum up\ngive a concise account of the main points \nor ideas of a text, issue or topic \nSummarize the text. \nSum up the information given about green \nenergy.",
+        "residual_flags": []
+      },
+      {
+        "content": "The operator 'describe' spans requirement areas I and II.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "für die Anforderungsbereiche I und II\ndescribe\ngive a detailed account of what sb./sth. is like\n• Describe the soldier’s appearance. (I)\n• Describe the way the playwright creates\nan atmosphere of suspense. (II)",
+        "residual_flags": []
+      },
+      {
+        "content": "AB II writing operators: analyze/examine, give/write a characterization of, contrast, explain, illustrate.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "für den Anforderungsbereich II\nanalyze, \nexamine\ndescribe and explain in detail\nAnalyze the way(s) in which atmosphere \nis created.\nExamine the opposing views on social \nclass held by the two protagonists. \ngive/write a characterization \nof\nprovide a thorough analysis of a character\nGive a characterization of the protagonist \nin the excerpt given. \ncontrast\nemphasize the differences between two or \nmore things\nContrast the author’s idea of human ag-\ngression with the theories of aggression \nyou are familiar with.\nexplain\nmake sth. clear\nExplain the protagonist’s obsession with \nmoney.\nillustrate\nuse examples to explain or make clear\nIllustrate the way in which school life in \nBritain differs from that in Germany.",
+        "residual_flags": []
+      },
+      {
+        "content": "Operators 'compare' and 'interpret' span requirement areas II and III.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "für die Anforderungsbereiche II und III\ncompare\nshow similarities and differences\nCompare the opinions on education held \nby the experts presented in the text.\ninterpret\nexplain the meaning or purpose of sth.\nInterpret the message of the cartoon.",
+        "residual_flags": []
+      },
+      {
+        "content": "AB III writing operators: assess/evaluate, comment (on), discuss, justify, write (+ text type).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "für den Anforderungsbereich III\nassess,\nevaluate\nexpress a well-founded opinion on the \nnature or quality of sb./sth. \nAssess the importance of learning lan-\nguages for somebody’s future.\nEvaluate the success of the steps taken \nso far to reduce pollution.\ncomment (on)\nstate one’s opinion clearly and support \none’s view with evidence or reason\nComment on the writer’s view on gender \nroles.\ndiscuss\ngive arguments or reasons for and \nagainst; especially to come to a \nwell-founded conclusion \nDiscuss whether social status determines \nsomebody’s future options.\njustify\nshow adequate grounds for decisions or \nconclusions\nYou are the principal of a school. Justify \nyour decision to forbid smoking on the \nschool premises.\nwrite (+ text type)\nproduce a text with specific features.\nWrite the ending of a story / a letter to the \neditor / a dialogue, etc.",
+        "residual_flags": []
+      },
+      {
+        "content": "For the competence area 'Sprachmittlung' the task instruction may be phrased in German or English depending on the situation, and the example tasks take addressee reference, situational appropriateness and an authentic action situation into account.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Aufgabenstellung kann abhängig von der Situation auf Deutsch oder Englisch for-\nmuliert sein. Die beispielhaften Aufgabenstellungen berücksichtigen Adressatenbezug, \nSituationsangemessenheit und authentische Handlungssituation.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sprachmittlung operators are explain; outline, present, summarize, sum up; and write (+ text type), each with culture-related clarification where necessary.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "explain\nmake sth. clear taking into account \nculture-related differences if neces-\nsary\nBased on the text on environmental policy explain the \nprinciple of waste separation in Germany.\noutline, present, sum-\nmarize, sum up\ngive a concise account of the main \npoints or ideas of a text clarifying \nculture-related aspects if necessary \nFor an international school project in the EU, present \nthe relevant information on the image of migrants in \nGerman media in a formal email.\nwrite (+ text type)\nproduce a text with specific features\nUsing the information in the input article write an ar-\nticle in English for your project website in which you \ninform your British partners how to get a sports schol-",
+        "residual_flags": []
+      },
+      {
+        "content": "The listening comprehension (Hörverstehen) competence area lists the operators complete/fill in, list/name, match, state and tick with illustrating examples.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "3 Anforderungsbereiche",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Kompetenzbereich „Hörverstehen“\nOperator\nIllustrierendes Aufgabenbeispiel\ncomplete,\nfill in \nComplete the sentences below using 1 to 5 words. Fill in the missing information using about \n1 to 5 words. \nlist,\nname\nList the most important aspects mentioned in the discussion. \nmatch\nMatch each person with one of the pictures. There is one more picture than you need. \nstate\nState the ideas supported by speaker A. \ntick\nTick the correct answer.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3 Anforderungsbereiche"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "3 Anforderungsbereiche",
+        "printed_page_range": "5–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

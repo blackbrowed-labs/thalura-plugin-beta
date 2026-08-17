@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:61610b9fe7b56abc213c871f3ebfc895799b34dc633d8efe5ef9d793354e05ce"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The competent authority issues administrative regulations on the form of the certificates.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 19 Form und Erteilung der Zeugnisse",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die zuständige Behörde erlässt Verwaltungsvorschriften zur Form der Zeugnisse.",
+        "residual_flags": []
+      },
+      {
+        "content": "Where no mark was given because lessons were cancelled, 'nicht erteilt' or 'wegen Unterrichtsausfalls keine Bewertung' is entered instead.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 19 Form und Erteilung der Zeugnisse",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "wird an der betreffenden Stelle des Halbjahres-, Jahres- und Abgangszeugnisses \nanstelle einer Note oder Punktzahl bei völligem Unterrichtsausfall „nicht erteilt“ und bei \nteilweisem Unterrichtsausfall „wegen Unterrichtsausfalls keine Bewertung“ eingetragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A certificate is produced in two copies.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 19 Form und Erteilung der Zeugnisse",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Ein Zeugnis wird in zwei Ausfertigungen erstellt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Certificates of the general higher-education entrance qualification are signed by the school management and a member of the examination commission.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 19 Form und Erteilung der Zeugnisse",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die Zeugnisse der allgemeinen Hochschulreife unter-\nschreiben die Schulleitung oder Abteilungsleitung und ein Mitglied der Prüfungskom-\nmission.",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Zeugnisse werden den Schuelerinnen und Schuelern ausgehaendigt, sofern nicht eine Erteilung auf anderem Wege geboten ist.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 19 Form und Erteilung der Zeugnisse",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Die Zeugnisse werden den Schülerinnen und Schülern ausgehändigt, sofern nicht",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 19 Form und Erteilung der Zeugnisse"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 19 Form und Erteilung der Zeugnisse",
+        "printed_page_range": "17–18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

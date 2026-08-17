@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8f09ad593fd8d808619d7c09a1c4dd9823b10389c252dc55a85db678de79218f"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Representatives of the competent authority, members of the examination commission and further teachers of the school may attend the oral or practical examination as guests.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 29 Gäste, Zuhörerinnen, Zuhörer",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Während der mündlichen oder praktischen Prüfung und anschließenden Beratung \nkönnen Vertreterinnen oder Vertreter der zuständigen Behörde, die Mitglieder der Prü-\nfungskommission sowie weitere Lehrkräfte der Schule als Gäste anwesend sein.",
+        "residual_flags": []
+      },
+      {
+        "content": "With the required consents, students of the Studienstufe who are not themselves candidates, and members of the parents' council, may listen in.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 29 Gäste, Zuhörerinnen, Zuhörer",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "insbesondere Schülerinnen und Schüler der Studienstufe, die nicht selbst \nPrüflinge sind, und Mitglieder des Elternrates zuhören.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guests and listeners have no right to ask questions and may not intervene in the examination.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 29 Gäste, Zuhörerinnen, Zuhörer",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Gäste, Zuhörerinnen und Zuhörer haben während der Prüfung kein Fragerecht und \ndürfen nicht in das Prüfungsgeschehen eingreifen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 29 Gäste, Zuhörerinnen, Zuhörer"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 29 Gäste, Zuhörerinnen, Zuhörer",
+        "printed_page_range": "24"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

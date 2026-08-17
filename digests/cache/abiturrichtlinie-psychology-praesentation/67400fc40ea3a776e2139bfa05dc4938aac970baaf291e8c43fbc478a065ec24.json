@@ -1,0 +1,354 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:67400fc40ea3a776e2139bfa05dc4938aac970baaf291e8c43fbc478a065ec24"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology-praesentation",
+      "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The revised sample tasks support teachers in designing the presentation exam (Präsentationsprüfung) per the newly drafted §26 of the APO-AH.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "nach den Vorgaben des neugefassten § 26 der Aus-\nbildungs- und Prüfungsordnung zum Erwerb der allgemeinen Hochschulreife (APO-AH)",
+        "residual_flags": []
+      },
+      {
+        "content": "Under the new §26(3) the presentation gets one third of the exam time, i.e. 10 minutes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "ein Drittel der Prüfungszeit, also 10 Minuten",
+        "residual_flags": []
+      },
+      {
+        "content": "The Fachgespräch is expanded to two thirds of the exam time, i.e. 20 minutes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "auf zwei Drittel der Prüfungszeit, also 20 Minuten",
+        "residual_flags": []
+      },
+      {
+        "content": "Per §26(5) the presentation's assessment may count no more than one third of the exam grade.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Bewertung der Präsentation zu nicht mehr als einem Drittel in die",
+        "residual_flags": []
+      },
+      {
+        "content": "The task must ensure the presentation covers competence/content areas of at least two semesters of the Studienstufe (Semesterübergriff).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "mindestens zweier \nSemester der Studienstufe beinhaltet",
+        "residual_flags": []
+      },
+      {
+        "content": "One of the two areas may predominate in the presentation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "einer der beiden Bereiche darf in der Präsentation",
+        "residual_flags": []
+      },
+      {
+        "content": "In the Fachgespräch both content/competence areas should come to bear in a balanced ratio.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "sollen sodann beide Inhalts- bzw. Kompetenzbereiche in einem",
+        "residual_flags": []
+      },
+      {
+        "content": "This follows the Abiturrichtlinie of 9 September 2021, section 5.2.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "9. September \n2021, Ziff. 5.2",
+        "residual_flags": []
+      },
+      {
+        "content": "Across the whole exam each of the two areas is tested in all three requirement levels, and both parts (presentation and Fachgespräch) must each cover all three requirement levels.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "jeder der beiden Bereiche im Fachgespräch ausrei-\nchend vertieft werden – auch der Bereich, der in der Präsentation mehr Raum eingenom-\nmen hat –, andererseits ist bei Umsetzung der Vorgaben ausgeschlossen, dass am Ende \nder Prüfung einer der beiden Bereiche zu wenig Berücksichtigung gefunden hat. \nHinsichtlich der Anforderungen ist zu beachten, dass mit Blick auf die gesamte Prüfung \njeder der beiden Inhalts- bzw. Kompetenzbereiche in allen drei Anforderungsbereichen \ngeprüft wird. Auch sind in beiden Prüfungsteilen, Präsentation und Fachgespräch, je-\nweils alle drei Anforderungsbereiche abzudecken",
+        "residual_flags": []
+      },
+      {
+        "content": "It is not required that within the presentation all three requirement levels are reached for each of the two areas.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Es ist aber nicht erforderlich, dass in-\nnerhalb der Präsentation für jeden der beiden Inhalts- bzw. Kompetenzbereiche alle drei \nAnforderungsbereiche erreicht werden",
+        "residual_flags": []
+      },
+      {
+        "content": "It is permissible for one required area to appear in the presentation only through thesis-like abbreviated remarks.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Wenn einer der beiden verpflichtend zu berück-\nsichtigenden Inhalts- bzw. Kompetenzbereiche in der Präsentation z. B. nur durch the-\nsenhaft verkürzte Ausführungen zur Geltung kommt, ist dies zulässig",
+        "residual_flags": []
+      },
+      {
+        "content": "Subject-specific rules for the Semesterübergriff arise from the differing subject and didactic structure of the subjects.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Fachspezifische Regelungen zur Umsetzung des Semesterübergriffs, die sich aus der \nunterschiedlichen fachlichen und didaktischen Struktur",
+        "residual_flags": []
+      },
+      {
+        "content": "In some subjects only the linking of two content areas in the task is possible.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "So ist in einzelnen Fächern nur die Verknüpfung zweier Inhaltsbereiche",
+        "residual_flags": []
+      },
+      {
+        "content": "The examples show a certain variance in scope and degree of operationalisation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "eine gewisse Varianz hin-\nsichtlich Umfang, Operationalisierungsgrad usw. feststellen",
+        "residual_flags": []
+      },
+      {
+        "content": "In every case an explicit task must be formulated.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "In jedem Fall muss eine explizite Aufgabenstellung formuliert sein",
+        "residual_flags": []
+      },
+      {
+        "content": "The task must enable and stimulate work in all three requirement levels.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Aufgabenstellung muss die Bearbeitung in allen drei Anforderungs-\nbereichen ermöglichen und anregen",
+        "residual_flags": []
+      },
+      {
+        "content": "The examinee must retain a design scope, which may (but need not) consist of developing an own guiding question.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Dieser Gestaltungsraum kann, muss \naber nicht darin bestehen, dass der Prüfling auf der Grundlage der Aufgabenstellung \neine eigene Leitfrage entwickelt",
+        "residual_flags": []
+      },
+      {
+        "content": "Shortening the presentation part to 10 minutes created varying revision needs across the sample tasks.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Je nach Offenheit der jeweiligen Beispielaufgabe ergab sich aus der Verkürzung des Prä-\nsentationsteils auf 10 Minuten",
+        "residual_flags": []
+      },
+      {
+        "content": "The shorter time can be met by a narrower thematic scope or less detailed presentation of solutions and arguments.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "durch einen engeren inhaltlichen Zuschnitt des Themas \noder durch eine geringere Ausführlichkeit bei der Darstellung von Lösungs- bzw. Re-\nchenwegen, Argumentationsgängen usw. Rechnung getragen werden",
+        "residual_flags": []
+      },
+      {
+        "content": "The Fachgespräch also draws in larger subject-related and interdisciplinary connections based on Studienstufe teaching.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "es bezieht auch größere fachliche und \nggf. fachübergreifende Zusammenhänge auf der Grundlage des Unterrichts in der Stu-\ndienstufe ein",
+        "residual_flags": []
+      },
+      {
+        "content": "A first, more open version of the Erwartungshorizont considers the examinee's design scope before a second version refines the expectations.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "eine erste, offenere Fassung des Erwar-\ntungshorizonts den Gestaltungsraum des Prüflings (s. o.), bevor eine zweite Fassung",
+        "residual_flags": []
+      },
+      {
+        "content": "Because the sample Erwartungshorizonte are not based on concrete teaching conditions or a documentation, they are partly more detailed than would be expected in practice.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Da sich die vorliegenden Erwartungshorizonte weder an konkre-\nten unterrichtlichen Voraussetzungen noch an einer Dokumentation orientieren, fallen \ndie hier vorliegenden Beispiele von Erwartungshorizonten teilweise ausführlicher aus, \nals dies in der Praxis zu erwarten wäre",
+        "residual_flags": []
+      },
+      {
+        "content": "The foreword is signed by Stephan Haupt, Grundsatzreferent for Gymnasium and gymnasiale Oberstufe.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Einleitung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Stephan Haupt \n(Grundsatzreferent Gymnasium und gymnasiale Oberstufe",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Einleitung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology-praesentation",
+        "section_anchor": "Einleitung",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

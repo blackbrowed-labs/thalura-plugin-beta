@@ -1,0 +1,132 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:72517f7b65c8724d3534d7c0a29dc9ffa05c9c93877619f0e4f5dc7a39caa44c"
+  },
+  "freshness": [
+    {
+      "document_id": "praeambel",
+      "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The preamble frames the new curriculum frameworks (Bildungspläne) as a continuation of Hamburg's proven learning culture (Lernkultur), not a policy reversal.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Präambel",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Die neuen Bildungspläne sollen die bewährte und erfolgreiche Hamburger Lernkultur stärken",
+        "residual_flags": []
+      },
+      {
+        "content": "The revision aims at updating and further developing the existing school and education provision with a sense of proportion, taking up new developments in school and society.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Präambel",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "sondern auf eine Aktualisierung und Weiterentwicklung des bestehenden",
+        "residual_flags": []
+      },
+      {
+        "content": "A general part covering all school forms describes the foundations of education at all Hamburg schools.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Präambel",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Ein allgemeiner Teil für alle Schulformen trägt den Gemeinsamkeiten des hamburgi-",
+        "residual_flags": []
+      },
+      {
+        "content": "Core curricula (Kerncurricula) are not a complete, closed offering: schools translate them into school-internal curricula reflecting their own profiles.",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Präambel",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Dabei stellen die Kerncurricula kein vollständiges, abgeschlossenes Angebot dar, sondern",
+        "residual_flags": []
+      },
+      {
+        "content": "Revising school-internal curricula must leave individual teachers an appropriate scope for design so they can address their particular learning group (Lerngruppe).",
+        "citation": {
+          "document_id": "praeambel",
+          "document_title": "Präambel",
+          "source_pdf_sha256": "7b20c82204079946757c447eace0ee8e33f26d6f56ab537a1be4319e679c9c37",
+          "section_anchor": "Präambel",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "besonderen Voraussetzungen und Bedürfnisse der jeweiligen Lerngruppe zu berücksichtigen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 3,
+          "printed_page": 3
+        },
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Präambel"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "praeambel",
+        "section_anchor": "Präambel",
+        "printed_page_range": "3–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

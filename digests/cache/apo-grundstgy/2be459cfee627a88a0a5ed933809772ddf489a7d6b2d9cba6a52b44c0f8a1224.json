@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:2be459cfee627a88a0a5ed933809772ddf489a7d6b2d9cba6a52b44c0f8a1224"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "All school forms must give students with special-educational-needs support particular support throughout their school career and integrate them into everyday school life.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 1 — Anwendungsbereich",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Alle Schulformen haben die Aufgabe, Schülerinnen und Schüler mit sonder­\npädagogischem Förderbedarf während des gesamten schulischen Werdegangs \nunter Berücksichtigung ihrer individuellen Bedürfnisse besonders zu fördern und \nsie in den Schulalltag zu integrieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "The aim of the support is the best possible development of individual learning potential and equality of access to the learning content.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 1 — Anwendungsbereich",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Das Ziel der Förderung liegt dabei im best-\nmöglichen Ausbau der individuellen Entwicklungs- und Lernmöglichkeiten und in \nder Herstellung von Chancengleichheit beim Zugang zu den Lerninhalten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The ordinance applies to all students with special-educational-needs support at general schools.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "AO-SF Abschnitt 1 — Anwendungsbereich",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "Diese Verordnung gilt für alle Schülerinnen und Schüler mit sonderpädago­\ngischem Förderbedarf an allgemeinbildenden Schulen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 59,
+          "printed_page": 59
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "AO-SF Abschnitt 1 — Anwendungsbereich"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "AO-SF Abschnitt 1 — Anwendungsbereich",
+        "printed_page_range": "59"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

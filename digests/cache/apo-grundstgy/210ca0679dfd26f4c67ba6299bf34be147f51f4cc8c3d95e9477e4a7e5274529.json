@@ -1,0 +1,141 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:210ca0679dfd26f4c67ba6299bf34be147f51f4cc8c3d95e9477e4a7e5274529"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Performance assessment covers written, oral and practical individual achievements, weighted by their share of the overall performance.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 2 — Leistungsbewertung und Einschätzung überfachlicher Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Gegenstand der Leistungsbewertung sind die schriftlichen, mündlichen und \npraktischen Einzelleistungen",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Gymnasium, grades in years 5 to 10 refer to the requirements of the Sek I curriculum framework (Bildungsplan) for the Gymnasium.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 2 — Leistungsbewertung und Einschätzung überfachlicher Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In den Jahrgangsstufen 5 bis 10 des Gymnasiums beziehen sich die Noten auf \ndie Anforderungen des Bildungsplans für die Sekundarstufe I des Gymnasiums.",
+        "residual_flags": []
+      },
+      {
+        "content": "Grades 2 to 5 may carry a plus or minus tendency mark, grade 1 only a minus; this does not apply to leaving or final certificates.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 2 — Leistungsbewertung und Einschätzung überfachlicher Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Bei den Noten „gut“ (2) bis „mangelhaft“ (5) kann eine vorhandene Tendenz \ndurch Zufügung eines Plus- oder Minuszeichens gekennzeichnet werden, bei der \nNote „sehr gut“ (1) durch Zufügung eines Minuszeichens. Dies gilt nicht für Zeug-\nnisnoten in Abgangs- oder Abschlusszeugnissen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A required piece of assessed work not delivered without an important reason counts as 'ungenügend' (6 / G6).",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 2 — Leistungsbewertung und Einschätzung überfachlicher Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Wird ein im Unterricht geforderter Leistungsnachweis ohne wichtigen Grund \nnicht erbracht, so entspricht dies der Note „ungenügend“ (6 beziehungsweise \nG6).",
+        "residual_flags": []
+      },
+      {
+        "content": "Granting compensatory measures (Nachteilsausgleich) leaves the subject-matter requirements untouched.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 2 — Leistungsbewertung und Einschätzung überfachlicher Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "eines Nachteilsausgleichs lässt die fachlichen Anforderungen unberührt.",
+        "residual_flags": []
+      },
+      {
+        "content": "A student excluded from continuing a test without being allowed to repeat it has the performance counted as not delivered.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 2 — Leistungsbewertung und Einschätzung überfachlicher Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Wird die Schülerin oder der Schüler von der Fortsetzung der Bearbeitung der \nAufgaben ausgeschlossen, ohne dass deren Wiederholung zugelassen wird, so \ngilt die jeweilige Leistung als nicht erbracht.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "APO-GrundStGy Abschnitt 2 — Leistungsbewertung und Einschätzung überfachlicher Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "APO-GrundStGy Abschnitt 2 — Leistungsbewertung und Einschätzung überfachlicher Kompetenzen",
+        "printed_page_range": "8–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

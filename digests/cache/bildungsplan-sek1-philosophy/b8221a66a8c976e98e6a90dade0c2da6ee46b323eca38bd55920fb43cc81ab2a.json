@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b8221a66a8c976e98e6a90dade0c2da6ee46b323eca38bd55920fb43cc81ab2a"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken WM6 (grade 9): how social coexistence would have to be organised so that it is just.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 6: Dystopien und Utopien",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "In diesem Modul soll der Frage nachgegangen werden, wie ein ge-\nsellschaftliches Zusammenleben organisiert sein müsste, sodass es \ngerecht zugeht.",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      },
+      {
+        "content": "Contents of WM6: fear of and hope for the future; ageing, dying and death in utopias and/or dystopias; aspects of an ideal society in utopias.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 6: Dystopien und Utopien",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Dystopie und Utopie \n• Zukunftsangst und -hoffnung \n• Alter, Sterben und Tod in Utopien und/oder Dystopien \n• Aspekte einer idealen Gesellschaft in Utopien",
+        "residual_flags": [
+          "source-inconsistency-verbatim: the contents block is headed 'Dystopie und Utopie' (singular) while the module title reads 'Wahlmodul 6: Dystopien und Utopien' (plural)"
+        ]
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': students question conceptions of coexistence with regard to the well-being of the members of society affected.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 6: Dystopien und Utopien",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Schülerinnen und Schüler hinterfragen Vorstellungen vom Zu-\nsammenleben im Hinblick auf das Wohlergehen",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'BNE': students discuss the significance of sustainability goals for life in an ideal world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 6: Dystopien und Utopien",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Schülerinnen und Schüler diskutieren die Bedeutung von Nach-\nhaltigkeitszielen für das Leben in einer idealen Welt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Wahlmodul 6: Dystopien und Utopien"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Wahlmodul 6: Dystopien und Utopien",
+        "printed_page_range": "26"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

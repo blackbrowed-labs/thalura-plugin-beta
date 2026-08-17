@@ -2,7 +2,7 @@
   "document_id": "abiturrichtlinie-philosophy",
   "document_title": "Abiturrichtlinie Philosophie",
   "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 20,
   "page_identity": {
     "model": "simple",
@@ -100,8 +100,8 @@
     },
     {
       "section_anchor": "4.5.1 Kriterien der Bewertung und Korrektur",
-      "printed_page_start": 12, "printed_page_end": 13,
-      "physical_page_start": 12, "physical_page_end": 13,
+      "printed_page_start": 12, "printed_page_end": 14,
+      "physical_page_start": 12, "physical_page_end": 14,
       "ordinance": null, "grades": null, "hazards": []
     },
     {
@@ -124,8 +124,8 @@
     },
     {
       "section_anchor": "5.1.1 Form und Aufgabenstellung",
-      "printed_page_start": 16, "printed_page_end": 16,
-      "physical_page_start": 16, "physical_page_end": 16,
+      "printed_page_start": 16, "printed_page_end": 17,
+      "physical_page_start": 16, "physical_page_end": 17,
       "ordinance": null, "grades": null, "hazards": []
     },
     {
@@ -142,8 +142,8 @@
     },
     {
       "section_anchor": "5.2.1 Form und Aufgabenstellung",
-      "printed_page_start": 18, "printed_page_end": 18,
-      "physical_page_start": 18, "physical_page_end": 18,
+      "printed_page_start": 18, "printed_page_end": 19,
+      "physical_page_start": 18, "physical_page_end": 19,
       "ordinance": null, "grades": null, "hazards": []
     },
     {

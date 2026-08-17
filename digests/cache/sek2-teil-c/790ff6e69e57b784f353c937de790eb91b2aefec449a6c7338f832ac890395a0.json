@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:790ff6e69e57b784f353c937de790eb91b2aefec449a6c7338f832ac890395a0"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Exams in Mathematics take into account both content-related and process-related mathematical competences.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8f) Mathematik",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Klausuren berücksichtigen sowohl die inhaltsbezogenen als auch die prozessbezogenen ma-\nthematischen Kompetenzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Every exam must integrate a general part with tasks securing the basic competences (Basiskompetenzen).",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8f) Mathematik",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "In jede Klausur ist ein allgemeiner Teil mit Aufgaben zur Sicherung der Basiskompetenzen zu \nintegrieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Exams must represent requirement levels I to III (reproducing, establishing connections, generalizing and reflecting) appropriately, with the focus on level II.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8f) Mathematik",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Klausuren sind so zu gestalten, dass in den Aufgaben die Anforderungsbereiche I bis III (Re-\nproduzieren, Zusammenhänge herstellen sowie Verallgemeinern und Reflektieren) angemes-\nsen repräsentiert sind und der Schwerpunkt auf dem Anforderungsbereich II liegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Suitable exam formats include open tasks requiring students to develop questions or offering different solution paths.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8f) Mathematik",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "offene Aufgaben, die verlangen, Fragestellungen zu entwickeln, oder die Gelegenheit \nbieten, unterschiedliche Lösungswege zu wählen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "8f) Mathematik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "8f) Mathematik",
+        "printed_page_range": "22"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

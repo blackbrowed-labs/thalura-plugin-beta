@@ -1,0 +1,213 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c728bc95a7709d9c58ead1ebf93041d74594f3d441bb65aa1d91f4498db36cd0"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Language is the central medium of classroom communication and of subject learning; subject learning happens in class primarily through language action (sprachliches Handeln).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sprache ist das zentrale Medium der unterrichtlichen Kommunikation sowie für fachliche Lern-\nprozesse. Fachliches Lernen findet im Unterricht vorrangig durch sprachliches Handeln statt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Even acquiring practical skills (e.g. in PE) or correctly applying formulae in physics and mathematics requires understanding and implementing the teacher's verbal explanations.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Selbst die Aneignung praktischer Fähigkeiten und Fertigkeiten, z.B. im Sportunterricht, oder \ndie korrekte Anwendung von Formeln im Physik- und Mathematikunterricht erfordert das Ver-\nstehen und Umsetzen sprachlicher Erklärungen und Erläuterungen seitens der Lehrkraft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Academic language (Bildungssprache) is of central importance for subject learning: language use in subject teaching builds on everyday language but has features that can be challenging for students.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Dabei kommt insbesondere der Bildungssprache eine zentrale Bedeutung für das fachliche \nLernen zu: Der Sprachgebrauch im Fachunterricht basiert auf der Alltagssprache, weist aber \nBesonderheiten auf, die für Schülerinnen und Schüler eine Herausforderung darstellen kön-",
+        "residual_flags": []
+      },
+      {
+        "content": "Over the school career language is increasingly marked by academic-language forms of expression, including in oral classroom communication.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Im Verlauf der Schulzeit ist die Sprache zunehmend gekennzeichnet durch bildungs-\nsprachliche Ausdrucksformen, auch in mündlichen Kommunikationssituationen im Unterricht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Bildungssprache differs from everyday language through a stronger relation to written language even in oral use, and is therefore called conceptually written (konzeptionell schriftlich).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Bildungssprache unterscheidet sich von der Alltagssprache durch einen stärkeren Bezug zur \ngeschriebenen Sprache, auch im mündlichen Sprachgebrauch. Sie wird daher als konzeptio-\nnell schriftlich bezeichnet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Typical features of Bildungssprache: at word level e.g. Funktionsverbgefüge, nominalized verbs and adjectives and cohesive devices; at sentence level relative clauses and nested subordinate clauses; at discourse level describing, explaining, comparing with corresponding, partly subject-specific text patterns and text forms.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Typische Merkmale der Bildungssprache sind auf Wortebene z.B. \nder Einsatz von Funktionsverbgefügen, nominalisierten Verben und Adjektiven, sowie sprach-\nliche Mittel zur Herstellung eines inhaltlichen Zusammenhangs. Auf Satzebene sind bestimmte \nsyntaktische Strukturen kennzeichnend, wie z.B. Relativsätze, geschachtelte Nebensätze, auf \nDiskursebene z.B. das Beschreiben, Erklären, Vergleichen mit entsprechenden, zum Teil fach-\nspezifischen, Textmustern und Textformen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Bildungssprache therefore makes different demands on students than everyday language, which is mostly situation-bound and dialogic.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Bildungssprache stellt damit andere Ansprüche \nan die Schülerinnen und Schüler als Alltagssprache, die meist situationsgebunden und dialo-\ngisch geprägt ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "A further challenge is technical language (Fachsprache), comprising technical terms, subject-specific sentence structures, discourse functions and text types; fachsprachliche elements are embedded both in subject texts (textbooks etc.) and in the teacher's classroom language.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Eine weitere sprachliche Herausforderung des Fachunterrichts liegt in der Fachsprache, die \nFachbegriffe, fachspezifische Satzstrukturen, Diskursfunktionen und Textsorten umfasst. \nFachsprachliche Elemente sind sowohl in Fachtexten (Schulbüchern etc.) als auch in der Un-\nterrichtssprache der Lehrperson eingebettet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Linguistic requirements differ by subject, since each subject foregrounds different sections of Bildungssprache and has its own fachsprachliche particularities.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die sprachlichen Anforderungen sind fachspezifisch unterschiedlich, da in jedem Fach andere \nAusschnitte der Bildungssprache im Vordergrund stehen und jedes Fach über eigene fach-\nsprachliche Besonderheiten verfügt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Most students do not acquire these subject-related academic and technical language competences automatically on the basis of everyday language and learned technical terms; language is therefore also a central object of learning in subject teaching.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die beschriebenen fachbezogenen bildungs- und fachsprachlichen Kompetenzen werden von \neinem Großteil der Schülerinnen und Schüler nicht automatisch auf der Grundlage von All-\ntagssprache sowie erlernten Fachbegriffen erworben. Sprache ist also auch ein zentraler Lern-\ngegenstand im Fachunterricht.",
+        "residual_flags": []
+      },
+      {
+        "content": "The starting point is students' linguistic preconditions (everyday language); students are given the opportunity to formulate their own thoughts, feelings and ideas about a matter in their own words — in everyday language — to enable and support subject-related understanding. NOTE: the source misspells 'Alltagsprache'.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Ausgangsbasis für den Verstehensaufbau und die Entwicklung sprachlicher Kompetenzen im \nFachunterricht sind die sprachlichen Voraussetzungen der Schülerinnen und Schüler (Alltags-\nsprache). Schülerinnen und Schülern wird im Fachunterricht die Gelegenheit gegeben ihre \neigenen Gedanken und Gefühle und Vorstellungen zu einem Sachverhalt in eigenen Worten \n– in der Alltagsprache – zu formulieren, um fachbezogene Verstehensprozesse zu ermögli-\nchen und zu unterstützen.",
+        "residual_flags": [
+          "source anomaly: '– in der Alltagsprache –' misspelled (missing 's'; elsewhere 'Alltagssprache')"
+        ]
+      },
+      {
+        "content": "The use of Bildungssprache must be deliberately fostered in language-sensitive subject teaching, because students can only show their subject competences if they have sufficient linguistic means (communicative function of language) and can only open up new subject matters, forms of representation and concepts with sufficient linguistic competence (cognitive or epistemic function of language).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Gebrauch von Bildungssprache muss gezielt in einem sprachsensiblen Fachunterricht ge-\nfördert werden, denn Schülerinnen und Schüler können ihre fachlichen Kompetenzen im Un-\nterricht nur dann zeigen, wenn sie über ausreichende sprachliche Mittel verfügen (kommuni-\nkative Funktion von Sprache). Sie können darüber hinaus neue fachbezogene Sachverhalte, \nDarstellungsformen und Konzepte nur mit ausreichenden sprachlichen Kompetenzen erschlie-\nßen und verstehen (kognitive oder epistemische Funktion von Sprache).",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
+        "printed_page_range": "5–6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

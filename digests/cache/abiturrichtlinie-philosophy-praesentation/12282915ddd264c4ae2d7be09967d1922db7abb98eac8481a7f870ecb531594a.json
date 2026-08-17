@@ -1,0 +1,92 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:12282915ddd264c4ae2d7be09967d1922db7abb98eac8481a7f870ecb531594a"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy-praesentation",
+      "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A theoretical source text and further writings cited in that volume may be used.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Magritte]",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Als Quelle für theoretische Überlegungen können z. B. folgender Text und weitere in dem Band zitierte Schriften verwendet werden:",
+        "residual_flags": []
+      },
+      {
+        "content": "The reference given is Moser, Sinnbild und Abbild – Zur Funktion des Bildes.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Magritte]",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Moser, Sybille-Karin: Sinnbild und Abbild – Zur Funktion des Bildes",
+        "residual_flags": []
+      },
+      {
+        "content": "The reference closes with the publisher/year and page range.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy-praesentation",
+          "document_title": "Präsentationsprüfung Philosophie Beispielaufgaben",
+          "source_pdf_sha256": "3f47a8d5faf75b79db431f460372cf4491a0db53fa0c4630904bbeb64b9bf18a",
+          "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Magritte]",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Universität Innsbruck1994, S. 3-22).",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'Innsbruck1994' with no space, and closes with an unbalanced parenthesis"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Magritte]"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy-praesentation",
+        "section_anchor": "VI Literatur- / Materialhinweise für die Lehrkraft [Magritte]",
+        "printed_page_range": "13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

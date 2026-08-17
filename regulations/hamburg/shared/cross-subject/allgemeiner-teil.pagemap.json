@@ -2,7 +2,7 @@
   "document_id": "allgemeiner-teil",
   "document_title": "Allgemeiner Teil",
   "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 36,
   "page_identity": {
     "model": "simple",
@@ -161,9 +161,9 @@
     {
       "section_anchor": "6.1.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Grundschule",
       "printed_page_start": 27,
-      "printed_page_end": 27,
+      "printed_page_end": 28,
       "physical_page_start": 27,
-      "physical_page_end": 27,
+      "physical_page_end": 28,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -181,9 +181,9 @@
     {
       "section_anchor": "6.2.1 Auftrag der Stadtteilschule",
       "printed_page_start": 28,
-      "printed_page_end": 28,
+      "printed_page_end": 29,
       "physical_page_start": 28,
-      "physical_page_end": 28,
+      "physical_page_end": 29,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -191,9 +191,9 @@
     {
       "section_anchor": "6.2.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Stadtteilschule",
       "printed_page_start": 29,
-      "printed_page_end": 30,
+      "printed_page_end": 31,
       "physical_page_start": 29,
-      "physical_page_end": 30,
+      "physical_page_end": 31,
       "ordinance": null,
       "grades": null,
       "hazards": []

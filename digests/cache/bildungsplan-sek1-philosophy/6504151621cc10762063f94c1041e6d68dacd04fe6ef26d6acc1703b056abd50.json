@@ -1,0 +1,160 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6504151621cc10762063f94c1041e6d68dacd04fe6ef26d6acc1703b056abd50"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In Philosophy teaching students engage with fundamental questions and problems that touch their understanding of the world and of themselves.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Philosophieunterricht setzen sich die Schülerinnen und Schüler mit grundsätzlichen Fragen \nund Problemen auseinander, die ihr Welt- und Selbstverständnis berühren.",
+        "residual_flags": []
+      },
+      {
+        "content": "The basic dimensions of subject-specific thinking and acting are named as questioning, analysing, arguing, discussing, reflecting and judging.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Somit wird über die Grunddimensionen fachlichen Denkens und Handels (Fragen, \nAnalysieren, Argumentieren, Diskutieren, Reflektieren und Urteilen)",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'Denkens und Handels' (expected 'Handelns')"
+        ]
+      },
+      {
+        "content": "The aim of Philosophy teaching is the training of the capacity for reflection on fundamental questions and concepts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Ziel des Philosophieunterrichts ist die Schulung des Reflexionsvermögens in Bezug auf grund-\nsätzliche Fragen und Begrifflichkeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Competency area 'Fragen' (questioning competency, F); its sub-competencies are tabulated against the minimum requirements for the transition into the Studienstufe.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Kompetenzbereich Fragen (Fragekompetenz, F) \nTeilkompetenz \nMindestanforderungen für den Übergang in die Studienstufe",
+        "residual_flags": []
+      },
+      {
+        "content": "Competency area 'Analysieren' (analysis competencies, A), likewise specified via minimum requirements for the transition into the Studienstufe.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Kompetenzbereich Analysieren (Analysekompetenzen, A) \nTeilkompetenz \nMindestanforderungen für den Übergang in die Studienstufe",
+        "residual_flags": []
+      },
+      {
+        "content": "Competency area 'Argumentieren und Diskutieren' (argumentation and discourse competencies, D).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Kompetenzbereich Argumentieren und Diskutieren (Argumentations- und \nDiskurskompetenzen, D)",
+        "residual_flags": []
+      },
+      {
+        "content": "Competency area 'Reflektieren und Urteilen' (reflection and judgement competency, R).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Kompetenzbereich Reflektieren und Urteilen (Reflexions- und Urteilskompetenz, R) \nTeilkompetenz \nMindestanforderungen für den Übergang in die Studienstufe",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Fachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "2.2 Fachliche Kompetenzen",
+        "printed_page_range": "9–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

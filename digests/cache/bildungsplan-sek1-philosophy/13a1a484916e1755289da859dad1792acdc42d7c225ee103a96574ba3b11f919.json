@@ -1,0 +1,225 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:13a1a484916e1755289da859dad1792acdc42d7c225ee103a96574ba3b11f919"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Chapter 2 opens by stating that cross-curricular competencies (überfachliche Kompetenzen) are the foundation for successful learning development and for acquiring subject-specific competencies.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Philosophie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Überfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den \nErwerb fachlicher Kompetenzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competencies are assigned to four areas (personal, motivational, learning-methodological, social).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Philosophie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die überfachlichen Kompetenzen lassen \nsich vier Bereichen zuordnen:",
+        "residual_flags": []
+      },
+      {
+        "content": "The stated aim of Philosophy teaching is to train the capacity for reflection on fundamental questions and concepts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Philosophie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Ziel des Philosophieunterrichts ist die Schulung des Reflexionsvermögens in Bezug auf grund-\nsätzliche Fragen und Begrifflichkeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The core curriculum (Kerncurriculum) comprises three topic areas (Themenbereiche), each with one compulsory module (Pflichtmodul) and one elective module (Wahlmodul).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Philosophie",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Das Kerncurriculum umfasst drei Themenbereiche, zu denen jeweils ein Pflichtmodul und ein \nWahlmodul formuliert sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Three compulsory modules are worked through in a school year with two weekly lessons; across the six weekly lessons prescribed from grade 7 in Sekundarstufe I, nine compulsory modules in total must be covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Philosophie",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "In einem Schuljahr mit zwei Wochenstunden sind insgesamt drei \nPflichtmodule zu erarbeiten, so dass im Laufe der in der Sekundarstufe I ab Jahrgangsstufe 7 \ngemäß Stundentafel vorgegebenen sechs Wochenstunden insgesamt neun Pflichtmodule zu \nerarbeiten sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "The module distribution assumes an ideal-typical spread of teaching across grades 8, 9 and 10, while schools remain free to distribute it differently.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Philosophie",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Im Folgenden wird von einer idealtypischen Verteilung des Unterrichts auf die Jahrgangsstufen \n8, 9 und 10 ausgegangen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Philosophie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "2 Kompetenzen und Inhalte im Fach Philosophie",
+        "printed_page_range": "8–32"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

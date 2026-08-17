@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:02027d441578662d3a5878a85d59da8471bc9fa7ee1c8c8c0e8ffc30edae16b2"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology-praesentation",
+      "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A special feature: behaviour need not be shown immediately, and vicarious and self-reinforcement can serve as reinforcement.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Verhalten muss nicht zwangsläufig sofort gezeigt werden.\n○\nAls Verstärkung können auch stellvertretende Verstärkung und Selbst-Verstär-\nkung herangezogen werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Level III: behaviourist theories apply but, due to the black-box principle, only cover observable behaviour, not the cognitive processes involved.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Behavioristische Lerntheorien können auf das Phänomen angewendet werden, auf-\ngrund des Prinzips der black box werden aber nur konkret beobachtbare Verhaltens-\nweisen berücksichtigt. Kognitive Prozesse, die vermutlich einen Teil des Phänomens\nausmachen, werden darüber nicht abgedeckt",
+        "residual_flags": []
+      },
+      {
+        "content": "The social-cognitive theory is a markedly more differentiated alternative explanation than the behaviourist approaches.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die sozial-kognitive Lerntheorie stellt im Vergleich zu den behavioristischen Ansät-\nzen einen deutlich differenzierteren alternativen Erklärungsansatz dar: Während der\nAneignungsphase wird das inner working model gebildet, welches, je nach situativen\nBedingungen sowie Verstärkungsprozessen und individuellen Persönlichkeitsfakto-\nren, im Rahmen von sozialen Handlungen abrufbereit ist",
+        "residual_flags": []
+      },
+      {
+        "content": "For the alternative task the research project should address question, hypotheses, choice of a research method and planning steps with a timetable.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Auseinandersetzung mit einem möglichen Forschungsvorhaben sollte folgende As-\npekte berücksichtigen: \n•\nFragestellung (durchaus im Sinne einer Leitfrage),\n•\nBegründete Hypothesenformulierung auf Basis der Theoriedarstellung (s. o.),\n•\nAuswahl einer Forschungsmethode, z. B.\n○\nExperten-Interview,\n○\nBindungs-Interview, z. B. auf Basis des Adult Attachment Questionnaire,\n○\nDarstellung eigens entworfener Interviewfragen,\n○\nLängsschnitt-Studie,\n•\nDarstellung planerischer Schritte mit Zeitplan",
+        "residual_flags": []
+      },
+      {
+        "content": "A 'good' performance (11 points) requires a suitable presentation form.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Leistung (11 Punkte) liegt vor, wenn der Prüfling \n•\neine geeignete Präsentationsform gewählt hat",
+        "residual_flags": []
+      },
+      {
+        "content": "For a good grade the theory foundations of attachment research and the selected learning theories are described completely and correctly (AFB I).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "die Theoriegrundlagen zur Bindungsforschung sowie zu den ausgewählten Lernthe-\norien in einem für die Lösung erforderlichen Maße vollständig und fachlich korrekt\nbeschreibt (AFB I)",
+        "residual_flags": []
+      },
+      {
+        "content": "The examinee applies the social-cognitive theory plus another justified learning theory precisely to relevant social situations (AFB II).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "die sozial-kognitive Lerntheorie bzw. das Modelllernen sowie eine weitere begründet\nausgewählte Lerntheorie beispielhaft und fachlich präzise auf eine oder mehrere re-\nlevante soziale Situationen anwendet (AFB II)",
+        "residual_flags": []
+      },
+      {
+        "content": "A 'sufficient' performance (05 points) requires an overall still suitable presentation form.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Leistung (05 Punkte) liegt vor, wenn der Prüfling \n•\neine im Ganzen noch geeignete Präsentationsform gewählt hat",
+        "residual_flags": []
+      },
+      {
+        "content": "For a sufficient grade the examinee applies two justified learning theories at a basic level to relevant social situations (AFB II).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "zwei begründet ausgewählte Lerntheorien grundlegend auf eine oder mehrere\nrelevante soziale Situationen anwendet (AFB II)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology-praesentation",
+        "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (eA) — V Bewertungshinweise",
+        "printed_page_range": "13–14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

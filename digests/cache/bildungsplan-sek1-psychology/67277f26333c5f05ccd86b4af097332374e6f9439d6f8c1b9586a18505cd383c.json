@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:67277f26333c5f05ccd86b4af097332374e6f9439d6f8c1b9586a18505cd383c"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-psychology",
+      "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In module M3 students get to know at least five paradigms of psychology and their differing views of human behaviour.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M3 Die Paradigmen der Psychologie (1. Lernjahr — Einführung in die Psychologie)",
+          "printed_page": 3,
+          "physical_page": 17
+        },
+        "cited_text": "lernen in diesem Modul mindestens \nfünf Paradigmen der Psychologie und deren verschiedene Sichtwei-\nsen auf das menschliche Verhalten kennen",
+        "residual_flags": []
+      },
+      {
+        "content": "Explanatory approaches cover main proponents, image of humankind, theoretical assumptions and historical context of the paradigms: depth psychology, behaviourism, cognitivism, Gestalt psychology and psychobiology.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M3 Die Paradigmen der Psychologie (1. Lernjahr — Einführung in die Psychologie)",
+          "printed_page": 3,
+          "physical_page": 17
+        },
+        "cited_text": "Hauptvertreter, Menschenbild, theoretische Grundannahmen, zeit-\nhistorischer Kontext der Paradigmen",
+        "residual_flags": []
+      },
+      {
+        "content": "Optionally, the emergence and explanatory value of further, more recent currents (e.g. neuropsychology) is addressed.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M3 Die Paradigmen der Psychologie (1. Lernjahr — Einführung in die Psychologie)",
+          "printed_page": 3,
+          "physical_page": 17
+        },
+        "cited_text": "optional weiterer, aktu-\nellerer Strömungen der Psychologie (z. B. Neuropsychologie)",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to values orientation (W): comparing the images of humankind across paradigms engages students with differing value standards and how societal norms and values change over time.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "M3 Die Paradigmen der Psychologie (1. Lernjahr — Einführung in die Psychologie)",
+          "printed_page": 3,
+          "physical_page": 17
+        },
+        "cited_text": "setzen sich im Vergleich der über die \nParadigmen beschriebenen Menschenbilder mit unterschiedlichen \nWertemaßstäben auseinander",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 3
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "M3 Die Paradigmen der Psychologie (1. Lernjahr — Einführung in die Psychologie)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-psychology",
+        "section_anchor": "M3 Die Paradigmen der Psychologie (1. Lernjahr — Einführung in die Psychologie)",
+        "printed_page_range": "3"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

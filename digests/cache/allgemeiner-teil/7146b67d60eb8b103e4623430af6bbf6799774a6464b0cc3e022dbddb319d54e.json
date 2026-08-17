@@ -1,0 +1,137 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7146b67d60eb8b103e4623430af6bbf6799774a6464b0cc3e022dbddb319d54e"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The task of the school and all its actors is to support children and young people so that they can unfold their individual potential, shape their lives independently, actively and responsibly, and participate in social, economic and cultural life.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Aufgabe der Schule und aller ihrer Akteure ist es, Kinder und Jugendliche so zu fördern, dass \nsie ihre individuellen Potenziale entfalten, ihr  Leben selbständig, aktiv und verantwortungsvoll \ngestalten sowie am gesellschaftlichen, wirtschaftlichen und kulturellen Leben teilhaben und \naktiv daran mitwirken können.",
+        "residual_flags": []
+      },
+      {
+        "content": "The core of the previous and the new curriculum frameworks (Bildungspläne) is competence orientation (Kompetenzorientierung), supplemented by core curricula (Kerncurricula) that support the acquisition of competences.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Kern der bisherigen und der neuen Bildungspläne ist die Kompetenzorientierung, die \ndie Bildungspläne und den Unterricht kennzeichnet. \nSie wird ergänzt um Kerncurricula, die das Erlernen der Kompetenzen unterstützen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The new curriculum frameworks prescribe binding educational content for roughly half of the teaching hours of a school subject; the other half is at the schools' disposal to deepen or add content.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Deshalb beschreiben die neuen Bildungspläne verbindliche Bildungsinhalte für rund die Hälfte \nder jeweiligen Unterrichtsstunden eines Schulfaches. Die andere Hälfte steht den Schulen zur \nGestaltung zur Verfügung, entweder um Bildungsinhalte zu vertiefen oder um weitere Bil-\ndungsinhalte im Unterricht aufzugreifen.",
+        "residual_flags": []
+      },
+      {
+        "content": "With the introduction of guiding perspectives (Leitperspektiven) as a new design element, engagement with relevant societal, economic, ecological and technological challenges is systematically anchored in the teaching of all subjects.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Mit der Einführung von Leit-\nperspektiven als neuem Gestaltungselement der Bildungspläne wird die Auseinandersetzung \nmit relevanten gesellschaftlichen, wirtschaftlichen, ökologischen und technologischen Heraus-\nforderungen systematisch im Unterricht aller Fächer verankert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Competences are never learned in a vacuum but always on concrete educational content; subject and factual content are a prerequisite and basis for learning competences.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Kompetenzen werden nicht im „luftleeren“ Raum erlernt, sondern immer an konkreten Bil-\ndungsinhalten. Die Kompetenz, Gedichte zu verstehen und zu interpretieren, wird erlernt durch \ndie Befassung mit Gedichten. Die Kompetenz, Lösungsstrategien für den Klimawandel zu ent-\nwickeln, wird erlernt durch die Befassung mit Phänomenen des Klimawandels. Fach- und \nSachinhalte sind insofern Voraussetzung und Grundlage für das Lernen von Kompetenzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Bildung und Erziehung sind als Aufgaben von Schule und Unterricht eng aufeinander bezogen (Schlussabschnitt, S. 7).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Bildung und Erziehung sind als Aufgaben von Schule und Unterricht eng aufeinander bezogen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Grundsätze"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "2 Grundsätze",
+        "printed_page_range": "5–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

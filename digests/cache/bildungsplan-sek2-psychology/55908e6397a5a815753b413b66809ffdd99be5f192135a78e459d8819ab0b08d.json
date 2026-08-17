@@ -1,0 +1,185 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:55908e6397a5a815753b413b66809ffdd99be5f192135a78e459d8819ab0b08d"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Überfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den Erwerb fachlicher Kompetenzen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Überfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den",
+        "residual_flags": []
+      },
+      {
+        "content": "Sie sind fächerübergreifend relevant und bei der Bewältigung unterschiedlicher Anforderungen und Probleme von zentraler Bedeutung.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "unterschiedlicher Anforderungen und Probleme von zentraler Bedeutung. Die Vermittlung",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Vermittlung überfachlicher Kompetenzen ist gemeinsame Aufgabe und Ziel aller Unterrichtsfächer und des gesamten Schullebens.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "die gemeinsame Aufgabe und gemeinsames Ziel aller",
+        "residual_flags": []
+      },
+      {
+        "content": "Die überfachlichen Kompetenzen lassen sich vier Bereichen zuordnen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die überfachlichen Kompetenzen lassen",
+        "residual_flags": []
+      },
+      {
+        "content": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegenüber.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegen-",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für Dinge einzusetzen und zu engagieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für",
+        "residual_flags": []
+      },
+      {
+        "content": "Lernmethodische Kompetenzen bilden die Grundlage für einen bewussten Erwerb von Wissen und ein zielgerichtetes, selbstgesteuertes Lernen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Lernmethodische Kompetenzen bilden die Grundlage für einen bewussten Erwerb",
+        "residual_flags": []
+      },
+      {
+        "content": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen umzugehen und zusammenzuarbeiten.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen um-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die überfachlichen Kompetenzen sind jahrgangsübergreifend zu verstehen und nicht nach Jahrgangsstufen differenziert ausgewiesen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "übergreifend zu verstehen, d. h., sie werden anders als die fachlichen Kompetenzen in den",
+        "residual_flags": []
+      },
+      {
+        "content": "Die überfachlichen Kompetenzen sind bei der Erarbeitung des schulinternen Curriculums zu berücksichtigen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Erarbeitung des schulinternen Curriculums zu berücksichtigen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Überfachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "2.1 Überfachliche Kompetenzen",
+        "printed_page_range": "8–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

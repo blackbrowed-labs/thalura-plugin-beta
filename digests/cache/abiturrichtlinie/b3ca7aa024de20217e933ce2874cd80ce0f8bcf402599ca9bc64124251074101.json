@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b3ca7aa024de20217e933ce2874cd80ce0f8bcf402599ca9bc64124251074101"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie",
+      "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "There are two types of oral examination: per § 26 (2) APO-AH and per § 26 (3) APO-AH (Präsentationsprüfung).",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5 Aufgaben für die mündliche Prüfung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Es gibt zwei Arten der mündlichen Prüfung: \n• \ndie mündliche Prüfung gemäß § 26 Absatz 2 APO-AH und \n• \ndie mündliche Prüfung gemäß § 26 Absatz 3 APO-AH (Präsentationsprüfung).",
+        "residual_flags": []
+      },
+      {
+        "content": "The oral examination covers, as a rule respecting thematic coherence, different content/competence areas from at least two semesters of the Studienstufe.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5 Aufgaben für die mündliche Prüfung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die mündliche Prüfung umfasst, in der Regel unter Beachtung thematischer Zusammen-\nhänge, unterschiedliche Inhalts- bzw. Kompetenzbereiche mindestens zweier Semester \nder Studienstufe.",
+        "residual_flags": []
+      },
+      {
+        "content": "Hints or allusions about the intended tasks to the candidate beyond what § 26 APO-AH prescribes are not permitted.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5 Aufgaben für die mündliche Prüfung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Hinweise und Andeutungen auf die vorgesehenen Aufgaben gegenüber dem Prüfling \nsind über das in § 26 APO-AH Vorgeschriebene hinaus nicht zulässig.",
+        "residual_flags": []
+      },
+      {
+        "content": "The oral examination must overall be designed so that every grade is attainable for the candidate.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5 Aufgaben für die mündliche Prüfung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die mündliche Prüfung muss insgesamt so angelegt sein, dass für den Prüfling jede Note \nerreichbar ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Referentin bzw. der Referent legt dem Fachprüfungsausschuss die Prüfungsunterlagen vor.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5 Aufgaben für die mündliche Prüfung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Referentin bzw. der Referent legt den Mitgliedern des Fachprüfungsausschusses",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5 Aufgaben für die mündliche Prüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie",
+        "section_anchor": "5 Aufgaben für die mündliche Prüfung",
+        "printed_page_range": "7–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

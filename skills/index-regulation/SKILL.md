@@ -27,7 +27,7 @@ A single `<stem>.pagemap.json` file written **next to `<stem>.pdf`** under `${CL
 - **`page_table`** — explicit per-physical-page mapping; the source of truth for printed↔physical resolution, not `offset`.
 - **`sections[]`** — heading → page-range index entries, each carrying `section_anchor`, printed and physical page ranges, `ordinance` (for composite documents), `grades`, and `hazards`.
 
-The emitted sidecar must pass all five self-validation checks (see "Self-validation" below) before being written.
+The emitted sidecar must pass all six self-validation checks (see "Self-validation" below) before being written.
 
 ---
 
@@ -63,6 +63,7 @@ Extract the document's heading structure to build the `sections[]` index. For ea
 
 - Determine the `section_anchor` — the heading text exactly as it will appear in a citation key, joining the citation, the registry pointer, and the page-map on one string.
 - Determine the physical and printed page range: `physical_page_start` / `physical_page_end` and `printed_page_start` / `printed_page_end`. For the printed range, use the `page_table` to convert from physical.
+- **`physical_page_end` is the page where the section's text actually ends — not the last page on which it *starts*.** A section's text routinely spills past a physical page boundary and continues at the top of the next page *before* the next heading appears. That spill-over is part of this section: its end is the physical page on which the **next heading** appears (that shared page carries this section's tail above the heading), or — if the section is the last one — the last page carrying its text. **The failure mode to avoid:** ending a section at the last page it *starts* on. When a section starts and ends on page *E* but its final paragraph continues onto *E+1* above the next heading, an end of *E* makes that paragraph **unreachable** — the reader opens only the declared pages, so it is never seen and can never be cited. Concretely: if the next section's heading appears partway down page *E+1* with this section's prose above it, this section ends on *E+1*, and the two sections legitimately share page *E+1* (adjacent sections sharing a boundary page is normal). Confirm the end against the rendered/extracted *E+1*: material text preceding the next heading belongs to *this* section. Self-validation check 6 verifies this mechanically.
 - For composite documents (`model: "composite"`), set `ordinance` to the short name of the contained ordinance this section belongs to, recovered from the running header on the rendered page.
 - For sections that govern specific grades or levels, set `grades` accordingly; set `null` otherwise.
 - **Record multi-page table spans.** Where a table continues across a physical page break (signaled by an incomplete final row, a mid-table break, or a *Fortsetzung* cue), record the table's **actual span** — the number of physical pages it occupies — so the continuation-bounded neighbour read at use time is bounded by data, not a fixed count. Record the actual span per section, not an assumed maximum (the largest single-logical-table span observed so far is 2 physical pages — but do not hard-code it).
@@ -122,7 +123,7 @@ Render **one page at a time** via the cheapest single-page renderer the runtime 
 
 ## Self-validation
 
-The generator runs these five checks on its own output before committing the sidecar. A failed check **flags for review and does not emit a gate-failing result** — it escalates to re-examine the relevant pages, or surfaces the failure as a noted residual. It never silently emits a sidecar that fails a gate.
+The generator runs these six checks on its own output before committing the sidecar. A failed check **flags for review and does not emit a gate-failing result** — it escalates to re-examine the relevant pages, or surfaces the failure as a noted residual. It never silently emits a sidecar that fails a gate.
 
 ### 1. Monotonicity
 
@@ -150,6 +151,12 @@ Every physical page from 1 to `physical_page_count` appears **exactly once** in 
 ### 5. Stamp
 
 `source_pdf_sha256` in the emitted sidecar matches the SHA-256 of the bundled PDF file at the time of generation. This is the join key the downstream reader's cache gates reuse on, and the value the regulation lint uses to detect staleness; an incorrect stamp makes the sidecar untrustworthy as a version identity.
+
+### 6. No clipped section end
+
+No section's declared end **clips** text that spills onto the following page before the next heading. For every section `S` whose immediate successor in reading order starts on page `end + 1`: extract that page and locate the successor's heading; if a material amount of body text (running header/footer stripped) **precedes** that heading, `S`'s text spills onto `end + 1` and its end must be `end + 1`, not `end`. The check **proposes** the correction with the preceding-text quote as evidence; a boundary is corrected only after confirming the preceding text is `S`'s and not one of the recurring false positives: a running header, a figure caption, or — most common — the successor being a **parent/container** section whose own front matter (e.g. a cover sheet) legitimately precedes its heading and is already reachable via that successor's page range.
+
+Because a corrected range changes the section's extracted source text, correcting a clip **must** bump `index_version` so every digest cached against the clipped range is invalidated (see "Regeneration trigger" and the digest-cache coupling).
 
 ---
 

@@ -1,0 +1,142 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:4115bbc154544bdc7e4099044df7451802cd2d85d91ca7d0820f9eca13a9cedf"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Memory processes include encoding, storage and retrieval.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.5 Gedächtnis",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Enkodierung, Speicherung, Abruf",
+        "residual_flags": []
+      },
+      {
+        "content": "Multi-store models include sensory registers (iconic, echoic).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.5 Gedächtnis",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "sensorische Register (z. B. ikonisch",
+        "residual_flags": []
+      },
+      {
+        "content": "Long-term memory includes categories, concepts and hierarchies.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.5 Gedächtnis",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Kategorien, Konzepte, Hierarchien",
+        "residual_flags": []
+      },
+      {
+        "content": "Memory theory: depth-of-processing theory after Craik and Lockhart.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.5 Gedächtnis",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Theorie der Verarbeitungstiefe nach Craik und Lockhart",
+        "residual_flags": []
+      },
+      {
+        "content": "Retention and forgetting include elaborative rehearsal and mnemonics.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.5 Gedächtnis",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "elaborierendes Wiederholen \n• Mnemotechniken",
+        "residual_flags": []
+      },
+      {
+        "content": "Research method: experiment on eyewitness testimony by Loftus.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.5 Gedächtnis",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Experiment zu Zeugenaussagen von Loftus",
+        "residual_flags": []
+      },
+      {
+        "content": "Research method: Implicit Association Test (IAT) after Greenwald et al.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S1.5 Gedächtnis",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Impliziter Assoziationstest (IAT) nach Greenwald et al.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S1.5 Gedächtnis"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S1.5 Gedächtnis",
+        "printed_page_range": "20"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:654e6d6daa072a79dbf885d3e42e5cf3a7c7e62ff941cfd50dd3dcb6f75aca40"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A1 (end of grade 6): students express themselves on familiar topics in routine situations using simple sentences or short phrases.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "ten Themen in routinemäßigen Situationen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 (raised, grade 6): students begin short conversations and understand enough to sustain them for a very short period.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Sie beginnen kurze Gespräche und verstehen",
+        "residual_flags": []
+      },
+      {
+        "content": "A1 competency: students participate in conversations on familiar topics and pose simple questions themselves.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "und stellen dabei selbst einfache Fragen,",
+        "residual_flags": []
+      },
+      {
+        "content": "A1 competency: students express feelings in a simple form.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "drücken Gefühle in einfacher Form aus",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 competency: students express agreement and rejection in brief sentences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "äußern Zustimmung und Ablehnung in knappen",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 competency: students formulate wishes, preferences and dislikes.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "formulieren Wünsche, Vorlieben und Abneigungen,",
+        "residual_flags": []
+      },
+      {
+        "content": "A2- competency: students ask and answer simple questions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "und beantworten dabei einfache",
+        "residual_flags": []
+      },
+      {
+        "content": "A2+ (grade 8, view to mittlerer Schulabschluss): students communicate in familiar real and digital situations on corresponding topics without too much effort.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "realen und digitalen Situationen zu",
+        "residual_flags": []
+      },
+      {
+        "content": "B1- (mittlerer Schulabschluss): students take part in conversations in real and digital situations, even without special preparation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "reitung, an Gesprächen in realen",
+        "residual_flags": [
+          "page-multi-match:physical-19-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "A2- competency: students say in short phrases how they are doing.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "sagen in kurzen Wendungen,",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ (transition to Studienstufe): students participate actively in conversations in real and digital situations on familiar and socially relevant topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Die Schülerinnen und Schüler beteiligen sich aktiv an",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+: this covers familiar as well as other topics of societal significance.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "vertraute sowie andere Themen von gesellschaftlicher",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ competency: students give concrete information about themselves and their ideas in interviews.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "geben in Interviews konkrete Auskünfte über sich",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "K2 An Gesprächen teilnehmen (Produktion)",
+        "printed_page_range": "18–20"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

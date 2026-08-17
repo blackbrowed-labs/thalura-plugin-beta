@@ -1,0 +1,124 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e918ce1b7c400c512f11ebc7c2616e0ee5ee7a015c2d35e3e1c0402fe44971a0"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "At the Gymnasium students follow an eight-year course of education aimed at the general higher-education entrance qualification.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3 Gymnasium",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Im Gymnasium lernen die Schülerinnen und Schüler in einem achtjährigen, auf die allgemeine \nHochschulreife ausgerichteten Bildungsgang.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Gymnasium is an eight-stage school form covering year levels 5 to 12.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3 Gymnasium",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Das Gymnasium ist eine achtstufige Schulform und umfasst die Jahrgangsstufen 5 bis 12.",
+        "residual_flags": []
+      },
+      {
+        "content": "The Gymnasium concludes with the Abitur examination; passing it confers the general higher-education entrance qualification.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3 Gymnasium",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Das Gymnasium schließt mit der Abiturprüfung ab. Mit dem erfolgreichen Abschluss dieser \nPrüfung wird die allgemeine Hochschulreife erworben.",
+        "residual_flags": []
+      },
+      {
+        "content": "All students learn a second foreign language continuously, as a rule from year 6 and at the latest from year 7.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3 Gymnasium",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "erlernen alle Schülerinnen und Schüler in der Regel ab der Jahrgangsstufe 6, spätes-\ntens aber ab der Jahrgangsstufe 7 durchgängig eine zweite Fremdsprache",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Gymnasium legt auf der Grundlage der Bildungspläne und der behördlichen Vorgaben Angebote zur beruflichen Orientierung fest (S. 33).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.3 Gymnasium",
+          "printed_page": 33,
+          "physical_page": 33
+        },
+        "cited_text": "Das Gymnasium legt auf der Grundlage der Bildungspläne und der behördlichen Vorgaben",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6.3 Gymnasium"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "6.3 Gymnasium",
+        "printed_page_range": "31–33"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

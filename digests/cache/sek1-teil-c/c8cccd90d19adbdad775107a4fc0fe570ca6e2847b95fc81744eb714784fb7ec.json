@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c8cccd90d19adbdad775107a4fc0fe570ca6e2847b95fc81744eb714784fb7ec"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "DaZ in preparatory classes (Vorbereitungsklassen) — the number of class tests follows the specifications for the subject German; because students are admitted on a rolling basis, expected learning levels differ so much that identical tasks for all students of a learning group are as a rule not possible.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Die Anzahl der Klassenarbeiten orientiert sich an den Vorgaben für das Fach Deutsch. Infolge \nder fortlaufenden Aufnahme von Schülerinnen und Schülern in Vorbereitungsklassen unter-\nscheiden sich die zu erwartenden Lern- und Leistungsstände in der Regel so, dass identische \nAufgabenstellungen für alle Schülerinnen und Schüler einer Lerngruppe nicht möglich sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Beyond setting different tasks, students may be granted different aids/support measures matched to their expected level — e.g. sentence scaffolds (Wortgeländer), picture dictionaries, word clusters, vocabulary books or learning posters.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Über die Stellung unterschiedlicher Aufgabenstellungen hinaus können den Schülerinnen und \nSchülern auch unterschiedliche, am jeweils zu erwartenden Lern- und Leistungsstand ausge-\nrichtete Hilfsmittel bzw. Unterstützungsmaßnahmen gewährt werden. Hierzu zählen z. B. \nWortgeländer, Bildwörterbücher, Wort-Cluster, Vokabelhefte oder Lernplakate.",
+        "residual_flags": []
+      },
+      {
+        "content": "Basically identical tasks may be modified, e.g. by adding illustrations, picture sequences, (picture) legends, sample solutions, word lists or explanations, by using cloze texts or text puzzles, by visual support (e.g. enlarging the font or other font adaptation), or by reading aloud.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Eine Modifika-\ntion grundsätzlich gleicher Aufgabenstellungen kann z. B. durch die Aufnahme zusätzlicher \nAbbildungen, Bildsequenzen, (Bild-)Legenden, Beispiellösungen, Wortlisten oder Erläuterun-\ngen, durch die Verwendung von Lückentexten oder Textpuzzles, durch eine visuelle Unterstüt-\nzung (z. B. die Vergrößerung der Schrift oder andere Schriftanpassung), durch das Vorlesen",
+        "residual_flags": []
+      },
+      {
+        "content": "A further modification option is additionally formulating the tasks in the student's language of origin (Herkunftssprache).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "oder durch die zusätzliche Formulierung von Aufgaben-\nstellungen in der Herkunftssprache erfolgen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural competency: alongside reflective and action competency, students' orientation knowledge is also checked.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Bereich der interkulturellen Kompetenz wird neben der Reflexions- und Handlungskompe-\ntenz auch das Orientierungswissen der Schülerinnen und Schüler überprüft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural criteria: accuracy and scope of socio-cultural orientation knowledge; differentiation in presenting cultural phenomena and one's own standpoints; use of suitable strategies in communication situations marked by linguistic and cultural diversity.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Es gelten insbesondere folgende Bewertungskriterien: \n• \nGenauigkeit und Umfang des soziokulturellen Orientierungswissens \n• \nDifferenziertheit bei der Darstellung kultureller Phänomene und eigener Standpunkte \n• \nEinsatz geeigneter Strategien in Kommunikationssituationen, die von sprachlicher und \nkultureller Diversität geprägt sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Functional communicative competency: communicative success and successful linguistic expression are weighted HIGHER than linguistic correctness.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Bereich der funktionalen kommunikativen Kompetenz werden kommunikativer Erfolg und \ngelungener sprachlicher Ausdruck höher gewichtet als sprachliche Korrektheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for reception and production: completeness and accuracy of information extraction from a spoken contribution or text (also auditory/audio-visual); and, for production, task and subject relatedness, independence and originality, linguistic clarity and cogency of thought, comprehensibility, length and complexity of the utterance, appropriate differentiation of vocabulary and structures, linguistic correctness, and genre-appropriate or situation-appropriate shaping of the text/contribution.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "im Bereich Sprachrezeption \n• \nVollständigkeit und Genauigkeit der Informationsentnahme aus einem Redebeitrag  \noder Text (auch auditiv oder audiovisuell) \nim Bereich Sprachproduktion \n• \nAufgaben- und Sachbezogenheit \n• \nSelbstständigkeit und Originalität \n• \nsprachliche Klarheit und gedankliche Stringenz \n• \nVerständlichkeit der Aussage \n• \nLänge und Komplexität der Äußerung \n• \nangemessene Differenziertheit von Wortschatz und Strukturen \n• \nsprachliche Richtigkeit \n• \ntextsortenspezifische Gestaltung des Textes bzw. situationsangemessene Gestaltung \ndes Redebeitrags",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for interaction: successful participation in conversations, discussions and debates; use of topic-specific, situation-appropriate and addressee-appropriate language means; spontaneity and originality of linguistic acting and reacting.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "im Bereich Interaktion \n• \nerfolgreiche Beteiligung an Gesprächen, Diskussionen und Debatten \n• \nVerwendung von themenspezifischen, situationsangemessenen und adressatenge-\nrechten Redemitteln \n• \nSpontaneität und Originalität des sprachlichen Agierens und Reagierens.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+        "printed_page_range": "20–21"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

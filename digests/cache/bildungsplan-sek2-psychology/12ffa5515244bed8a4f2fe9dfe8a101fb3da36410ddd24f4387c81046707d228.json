@@ -1,0 +1,301 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:12ffa5515244bed8a4f2fe9dfe8a101fb3da36410ddd24f4387c81046707d228"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Eine psychologisch informierte, kritische Reflexions- und Handlungskompetenz zeigt sich als Fähigkeit, bestimmte Operationen kompetent durchzuführen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Psychologieunterricht als die Fähigkeit, bestimmte Operationen kompetent durchzuführen. Es",
+        "residual_flags": []
+      },
+      {
+        "content": "Es lassen sich vier fachspezifische Kompetenzbereiche unterscheiden, die miteinander verschränkt und nur idealtypisch zu trennen sind.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "lassen sich vier fachspezifische Kompetenzbereiche unterscheiden, die miteinander ver-",
+        "residual_flags": []
+      },
+      {
+        "content": "Fachkompetenz ist die Fähigkeit, psychische und soziale Phänomene mit psychologischen Methoden, Modellen oder Theorien wissenschaftsgeleitet zu analysieren und zu erklären.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Unter Fachkompetenz wird die Fähigkeit, Fertigkeit und Bereitschaft verstanden, psy-",
+        "residual_flags": []
+      },
+      {
+        "content": "Methodenkompetenz ist die Befähigung zu zielgerichtetem und planmäßigem Vorgehen bei der Bearbeitung von Fragestellungen und Problemen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Unter Methodenkompetenz wird die Bereitschaft und Befähigung zu zielgerichtetem",
+        "residual_flags": []
+      },
+      {
+        "content": "Urteilskompetenz ist die Fähigkeit, eigenständige Bewertungen vorzunehmen und den eigenen Urteilsprozess kritisch zu hinterfragen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Unter Urteilskompetenz wird die Fähigkeit, Fertigkeit und Bereitschaft verstanden, zu",
+        "residual_flags": []
+      },
+      {
+        "content": "Handlungskompetenz ist die Fähigkeit, psychologische Erkenntnisse konstruktiv auf soziale Situationen und die Gestaltung des eigenen Lebens anzuwenden.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Unter Handlungskompetenz wird die Fähigkeit, Fertigkeit und Bereitschaft verstan-",
+        "residual_flags": []
+      },
+      {
+        "content": "Grundlage der Handlungskompetenz ist es, die erworbene Fach-, Methoden- und Urteilskompetenz einzusetzen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "die erworbene Fach-,",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Fachkompetenz gehört, psychische und soziale Phänomene systematisch zu beobachten und differenziert wahrzunehmen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Psychische und soziale Phänomene und Probleme systematisch beobachten und dif-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Fachkompetenz gehört, Beobachtung, erfahrungsbedingte Interpretation und Beurteilung voneinander zu trennen und Informationsquellen kritisch zu bewerten.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Beobachtung, erfahrungsbedingte Interpretation und Beurteilung psychischer und so-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Methodenkompetenz gehört, relevante psychologische Quellen mit zielgerichteten Suchstrategien zu suchen und zu identifizieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Relevante psychologische Quellen in verschiedenen analogen und digitalen Umgebun-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Urteilskompetenz gehört, eigene und fremde Wertvorstellungen, Positionen und Interessen zu psychologischen Sachverhalten darzustellen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Eigene und fremde Wertvorstellungen, Positionen und Interessen bezüglich psychi-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Urteilskompetenz gehört, fachlich fundierte und begründete eigene Positionen zu entwickeln.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Fachlich fundierte und begründete eigene Positionen über psychische und soziale Phä-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Anforderungen auf grundlegendem und auf erhöhtem Niveau unterscheiden sich in qualitativer und quantitativer Hinsicht.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "tem Niveau in qualitativer und quantitativer Hinsicht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Ist Psychologie Prüfungsfach, muss es in der Vorstufe (Stadtteilschule) oder Klasse 10 (Gymnasium) mindestens ein halbes Jahr unterrichtet worden sein.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "(am Gymnasium) mindestens ein halbes Jahr lang unterrichtet worden sein. Über Ausnahmen",
+        "residual_flags": []
+      },
+      {
+        "content": "Fachkompetenz F1 gA verlangt das Beschreiben psychischer und sozialer Phänomene aus verschiedenen Disziplinen der Psychologie.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "beschreiben psychische und soziale Phänomene",
+        "residual_flags": []
+      },
+      {
+        "content": "Fachkompetenz eA F2 verlangt das Erläutern von Phänomenen unter Heranziehung des tiefenpsychologischen, behavioristischen und kognitivistischen Paradigmas.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "schen, behavioristischen und kognitivistischen Para-",
+        "residual_flags": []
+      },
+      {
+        "content": "Methodenkompetenz M4 verlangt, nach angeleiteter Recherche eine eigene Untersuchung zu entwerfen und begleitet durchzuführen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "entwerfen vor dem Hintergrund einer angeleiteten",
+        "residual_flags": []
+      },
+      {
+        "content": "Urteilskompetenz eA U5 verlangt das Erörtern der Stärken und Schwächen traditioneller Paradigmen vor dem Hintergrund aktueller Entwicklungen und Forschungsbefunde.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "erörtern vor dem Hintergrund aktueller Entwicklun-",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Fachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "2.2 Fachliche Kompetenzen",
+        "printed_page_range": "9–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

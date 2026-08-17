@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:528ebda74b2fda7e40ba4c8c3a67df4cf7bfabb026201a90f936e3bffbd6a95b"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Individual and social influences on perception may repeat content from semester topic S1.2 General Psychology.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.2 Soziale Wahrnehmung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Individuelle und soziale Einflussfaktoren auf die Wahr-\nnehmung \n• ggf. Wiederholung der Inhalte aus Semesterthema S1.2: „All-\ngemeine Psychologie",
+        "residual_flags": []
+      },
+      {
+        "content": "The theory of social perception after Bruner and Postman and optionally Bem's self-perception theory are treated.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.2 Soziale Wahrnehmung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Theorie der sozialen Wahrnehmung nach Bruner und \nPostman und ggf. ergänzend Selbstwahrnehmungstheorie \nnach Bem",
+        "residual_flags": []
+      },
+      {
+        "content": "A supplementary perception and judgment error is the fundamental attribution error.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.2 Soziale Wahrnehmung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "fun-\ndamentaler Attributionsfehler",
+        "residual_flags": []
+      },
+      {
+        "content": "The influence of implicit memory contents on perception covers causes and effects of the stereotype threat effect based on Steele and Aronson.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.2 Soziale Wahrnehmung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Stereotype-Threat-Effekts \nauf Basis der Untersuchungen von Steele & Aronson",
+        "residual_flags": []
+      },
+      {
+        "content": "Priming in social-psychological research distinguishes different forms of priming with research and everyday references.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.2 Soziale Wahrnehmung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Priming in der sozialpsychologischen Forschung: Unterschei-\ndung verschiedener Formen von Priming sowie Forschungs- \nund Alltagsbezüge",
+        "residual_flags": []
+      },
+      {
+        "content": "Research methods include Harris's experiment on the fundamental attribution error and the Implicit Association Test.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S4.2 Soziale Wahrnehmung",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "Experiment zum fundamentalen Attributionsfehler von Harris \n• Impliziter Assoziationstest (IAT)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S4.2 Soziale Wahrnehmung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S4.2 Soziale Wahrnehmung",
+        "printed_page_range": "31"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

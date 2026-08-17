@@ -1,0 +1,257 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:63ddb8683d5d44c707654f5ecc06cf707b31d6920454bb39dd79de5cb76a4ab6"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Language is the central medium of instructional communication and of subject learning processes; subject learning happens in class primarily through linguistic action.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Fachliches Lernen findet im Unterricht vorrangig durch sprachliches Handeln statt",
+        "residual_flags": []
+      },
+      {
+        "content": "Educational language (Bildungssprache) has central importance for subject learning; usage in subject teaching is based on everyday language but has particularities that can challenge students.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "kommt insbesondere der Bildungssprache eine zentrale Bedeutung",
+        "residual_flags": []
+      },
+      {
+        "content": "Bildungssprache differs from everyday language through a stronger reference to written language and is therefore called conceptually written (konzeptionell schriftlich).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sie wird daher als konzeptio",
+        "residual_flags": []
+      },
+      {
+        "content": "A further language challenge of subject teaching lies in the technical language (Fachsprache), comprising technical terms, subject-specific sentence structures, discourse functions and text types.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "in der Fachsprache, die",
+        "residual_flags": []
+      },
+      {
+        "content": "Language is thus also a central object of learning in subject teaching, since these competencies are not acquired automatically by most students.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sprache ist also auch ein zentraler Lern",
+        "residual_flags": []
+      },
+      {
+        "content": "The use of Bildungssprache must be deliberately fostered in a language-sensitive subject teaching, because students can only show their subject competencies when they have sufficient linguistic means (communicative function of language).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Gebrauch von Bildungssprache muss gezielt in einem sprachsensiblen Fachunterricht ge",
+        "residual_flags": []
+      },
+      {
+        "content": "The language-sensitive subject teaching considers the language requirements of the concrete subject context and the differing language learning prerequisites of the students.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "die sprachlichen Anforderungen des konkreten fachlichen Kontextes",
+        "residual_flags": []
+      },
+      {
+        "content": "A central goal is to link subject and language learning so that students can build the necessary subject-specific language competencies to participate successfully.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "fachliches und sprachliches Lernen so zu verkn",
+        "residual_flags": []
+      },
+      {
+        "content": "The subject teaching builds on the reading and writing competencies conveyed by German lessons (Deutschunterricht), focusing more strongly on dealing with subject-specific factual texts (Sachtexte).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Der Fachunterricht baut auf diesen grundle",
+        "residual_flags": []
+      },
+      {
+        "content": "Reading competence has a central influence on learning success and is called a key competence for school success.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Sie wird daher auch als Schl",
+        "residual_flags": []
+      },
+      {
+        "content": "Reading fluency (Leseflüssigkeit) is the basic prerequisite for understanding texts also in subject teaching.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "die Grundvoraussetzung für das Verstehen von Texten",
+        "residual_flags": []
+      },
+      {
+        "content": "In subject teaching students use writing in a documenting function and a communicative function; writing also serves to gain insights.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "das Schreiben in dokumentierender Funk",
+        "residual_flags": []
+      },
+      {
+        "content": "The development of spelling competence (Rechtschreibkompetenz) is an object of German lessons, not of subject teaching, but spelling is attended to in all subjects and fields.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "ist Lerngegenstand des Deutschunterrichts",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Kompetenzerwerb im Fachunterricht erfolgt vor allem durch sprachliches Handeln.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "2 Didaktische Grundsätze",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Da der Kompetenzerwerb im Fachunterricht vor allem durch sprachliches Handeln erfolgt",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Didaktische Grundsätze"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "2 Didaktische Grundsätze",
+        "printed_page_range": "5–11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:684bb204dca2ff1a8d38639a980c04d2296eb111b4b9d1e103692025c1e49401"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Candidates are expected to prepare the short presentation and the following dialogue during the preparation time.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "sind gehalten, sich in der Vorbereitungszeit auf die Kurzpräsentation und \nden anschließenden Dialog vorzubereiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Each candidate first prepares the short presentation individually, e.g. by noting keywords for a talk.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "indem er sich z. B. Stichpunkte für einen Vortrag notiert",
+        "residual_flags": []
+      },
+      {
+        "content": "The two candidates must also prepare the dialogue together.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "gemeinsam den Dialog vorbereiten",
+        "residual_flags": []
+      },
+      {
+        "content": "For Jesus: life as a Jew under Roman occupation, itinerant preacher, commitment to the outcast and disenfranchised.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "Jesus: Leben als Jude unter römischer Besatzung, Wanderprediger",
+        "residual_flags": []
+      },
+      {
+        "content": "For Muhammed: oppression in pre-Islamic times, life as a merchant, revelation, monotheism/Tawhid.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "in vorislamischer Zeit, Leben als \nKaufmann, Offenbarung",
+        "residual_flags": []
+      },
+      {
+        "content": "For Ali: growing up as part of Muhammed's family (Ehlibeyt), commitment to justice and to the poor.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "Aufwachsen als Teil von Muhammeds Familie (Ehlibeyt)",
+        "residual_flags": []
+      },
+      {
+        "content": "The vita of a further central person not treated in class (e.g. Mosche) could also be introduced by the candidates.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "einer weiteren zentralen Person der Religionen, die im Unterricht \nnicht thematisiert wurde",
+        "residual_flags": []
+      },
+      {
+        "content": "Finally the candidates themselves take a stance on the role-model character of the central persons.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "selbst zum Vorbildcharakter der zentralen Personen \nStellung nehmen",
+        "residual_flags": []
+      },
+      {
+        "content": "An example argument: they are exemplary because they committed themselves to justice, a goal of unchanged relevance.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "sind vorbildlich, weil sie sich für Gerechtig-\nkeit eingesetzt haben",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "An example argument: Jesus is exemplary because he cared for the marginalized in society.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "weil er sich um die Ausgegrenzten in der Gesellschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "A possible rejecting argument: Jesus is a failed person who could not assert his ideas.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "Jesus ist eine gescheiterte Person, die sich mit ihren Ideen nicht durchsetzen",
+        "residual_flags": []
+      },
+      {
+        "content": "A possible rejecting argument: Muhammed triggered the emergence of a great empire, which led to many wars.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "hat die Entstehung eines Großreiches angestoßen, was zu vielen \nKriegen",
+        "residual_flags": []
+      },
+      {
+        "content": "An additional challenge is to spontaneously bring a third central person of a religion into the dialogue without prior hints.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "eine dritte zentrale Person einer Re-\nligion in den Dialog einzubeziehen",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "Candidates achieve a special performance when they present with extensive technical terminology and argumentation.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "erbringen eine besondere Leistung, wenn sie mit einer umfangreichen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die aufgezeigten Lösungsoptionen zeigen nur mögliche Aspekte und Argumente auf.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iii. Erwartungshorizont",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "Die hier aufgezeigten Lösungsoptionen zeigen lediglich mögliche Aspekte und",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "iii. Erwartungshorizont"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "iii. Erwartungshorizont",
+        "printed_page_range": "5–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

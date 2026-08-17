@@ -2,7 +2,7 @@
   "document_id": "abiturrichtlinie-psychology",
   "document_title": "Abiturrichtlinie Psychologie",
   "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 18,
   "page_identity": {
     "model": "simple",
@@ -135,9 +135,9 @@
     {
       "section_anchor": "3.1 Allgemeine Hinweise",
       "printed_page_start": 4,
-      "printed_page_end": 4,
+      "printed_page_end": 5,
       "physical_page_start": 4,
-      "physical_page_end": 4,
+      "physical_page_end": 5,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -195,9 +195,9 @@
     {
       "section_anchor": "4.4 Beschreibung der erwarteten Prüfungsleistung (Erwartungshorizont)",
       "printed_page_start": 10,
-      "printed_page_end": 10,
+      "printed_page_end": 11,
       "physical_page_start": 10,
-      "physical_page_end": 10,
+      "physical_page_end": 11,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -255,9 +255,9 @@
     {
       "section_anchor": "5.1.1 Form und Aufgabenstellung",
       "printed_page_start": 14,
-      "printed_page_end": 14,
+      "printed_page_end": 15,
       "physical_page_start": 14,
-      "physical_page_end": 14,
+      "physical_page_end": 15,
       "ordinance": null,
       "grades": "Sek II",
       "hazards": []
@@ -285,9 +285,9 @@
     {
       "section_anchor": "5.2.1 Form und Aufgabenstellung",
       "printed_page_start": 16,
-      "printed_page_end": 16,
+      "printed_page_end": 17,
       "physical_page_start": 16,
-      "physical_page_end": 16,
+      "physical_page_end": 17,
       "ordinance": null,
       "grades": "Sek II",
       "hazards": []

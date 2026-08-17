@@ -1,0 +1,195 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6635459023b5465b4230419c880aeebec3fe4ebaafdac8f72ad67d1655649e1c"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A1 (end of grade 6): students read and understand short, simple texts with familiar names, words and basic phrases, aided by rereading or pictures.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K4 Leseverstehen (Rezeption)",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "kurze, einfache Texte mit bekannten Namen, Wörtern",
+        "residual_flags": []
+      },
+      {
+        "content": "A1 competency: students follow the plot of short, simple, also didacticised stories and picture stories and recognise connections.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K4 Leseverstehen (Rezeption)",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "folgen dem Handlungsverlauf kurzer, einfacher,",
+        "residual_flags": []
+      },
+      {
+        "content": "A2 competency: students understand obvious connections of short, simple factual texts globally.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K4 Leseverstehen (Rezeption)",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "verstehen offensichtliche Zusammenhänge kurzer,",
+        "residual_flags": []
+      },
+      {
+        "content": "A2- (first general leaving qualification): students read and understand short, simple texts on familiar topics with known vocabulary.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K4 Leseverstehen (Rezeption)",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Texte zu vertrauten Themen mit",
+        "residual_flags": [
+          "page-multi-match:physical-24-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "A2+ (grade 8): students read and understand simple texts with vocabulary from known topic fields where individual unknown words are contextually inferable.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K4 Leseverstehen (Rezeption)",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "und verstehen einfache Texte,",
+        "residual_flags": []
+      },
+      {
+        "content": "B1- (mittlerer Schulabschluss): students increasingly independently understand didacticised and uncomplicated authentic texts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K4 Leseverstehen (Rezeption)",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "didaktisierte und unkomplizierte",
+        "residual_flags": [
+          "page-multi-match:physical-25-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "A2+ competency: students grasp the overall message of texts on concrete everyday topics despite a small share of unknown but inferable words.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K4 Leseverstehen (Rezeption)",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "erfassen die Gesamtaussage",
+        "residual_flags": [
+          "page-multi-match:physical-24-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "A2+/B1- competency: students recognise the most important points in simple newspaper articles on familiar topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K4 Leseverstehen (Rezeption)",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "in einfachen Zeitungsartikeln zu",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ (transition to Studienstufe): students extract specific information from longer, clearly structured factual texts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K4 Leseverstehen (Rezeption)",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "entnehmen längeren, klar gegliederten Sachtexten",
+        "residual_flags": []
+      },
+      {
+        "content": "B1+ competency: students recognise the genre, structure and intention of non-fictional texts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "K4 Leseverstehen (Rezeption)",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "erkennen Textsorte, Struktur und Intention von",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K4 Leseverstehen (Rezeption)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "K4 Leseverstehen (Rezeption)",
+        "printed_page_range": "24–26"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

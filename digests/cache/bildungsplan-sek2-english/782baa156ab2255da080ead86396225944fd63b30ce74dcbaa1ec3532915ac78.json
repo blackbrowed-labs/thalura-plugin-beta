@@ -1,0 +1,117 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:782baa156ab2255da080ead86396225944fd63b30ce74dcbaa1ec3532915ac78"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Listening/viewing: students can understand authentic audio and audiovisual texts.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K Kommunikative Fertigkeiten",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Schülerinnen und Schüler können authentische Hör- und Hörsehtexte verstehen",
+        "residual_flags": []
+      },
+      {
+        "content": "They can extract main statements and individual pieces of information and place them in thematic contexts.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K Kommunikative Fertigkeiten",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Sie können dabei Hauptaussagen und Einzelinformationen ent-\nnehmen und diese Informationen in thematische Zusammenhänge einordnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The competence tables set a raised requirement level of B2+/C1 above the basic level.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K Kommunikative Fertigkeiten",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "erhöhtes Anforderungsniveau \nB2+/C1",
+        "residual_flags": [
+          "page-multi-match:physical-14-earliest-of-4-candidate-pages"
+        ]
+      },
+      {
+        "content": "Speaking: students can participate in conversations largely fluently and appropriately for addressee and situation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K Kommunikative Fertigkeiten",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler können sich weitgehend flüssig, sprachlich korrekt und adressatengerecht sowie \nsituationsangemessen an Gesprächen beteiligen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K Kommunikative Fertigkeiten"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "K Kommunikative Fertigkeiten",
+        "printed_page_range": "14–17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

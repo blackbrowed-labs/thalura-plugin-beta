@@ -1,0 +1,155 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:279ab84a245effe5e71a31122666f80dda1c90aff63b362885e04f0ac32f24b2"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Aufgabenstellung bezieht sich auf die abschlussbezogene Anforderungsebene.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "bezieht sich auf die abschlussbezogene Anforderungsebene",
+        "residual_flags": []
+      },
+      {
+        "content": "Werden die Anforderungen über- oder untertroffen, kommt das gesamte Notenspektrum von E1 bis G6 zur Anwendung.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "kommt das gesamte Notenspektrum von E1 bis G6 zur",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Prüfungsgespräch muss die Gelegenheit zur Erreichung höherer Noten sichergestellt werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "muss die Gelegenheit zur Erreichung höherer Noten \nsichergestellt werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Umrechnung in eine abschlussbezogene Note erfolgt erst mit der Festsetzung der Zeugnisnote.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "Die Umrechnung in eine abschlussbezogene Note erfolgt erst mit",
+        "residual_flags": []
+      },
+      {
+        "content": "Eine E3 wird u. a. vergeben, wenn zentrale Aspekte von Leben und Botschaft mehrerer Personen richtig und differenziert dargestellt werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "Die Leistung wird mit einer E3 bewertet, wenn",
+        "residual_flags": []
+      },
+      {
+        "content": "Für eine E3 müssen die Fragen in den Anforderungsbereichen I und II treffend und im Bereich III schlüssig beantwortet werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "in den Anforderungsbereichen I und II tref-\nfend beantwortet werden und auch schlüssige Antworten im Anforderungs",
+        "residual_flags": []
+      },
+      {
+        "content": "Eine G2 wird u. a. vergeben, wenn Aspekte von Leben und Botschaft mehrerer Personen im Kern richtig dargestellt werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "Die Leistung wird mit einer G2 bewertet, wenn",
+        "residual_flags": []
+      },
+      {
+        "content": "Für eine G2 müssen die Fragen im Anforderungsbereich I richtig und im Bereich II im Ansatz beantwortet werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "im Anforderungsbereich I richtig beantwortet \nwerden und auch Antworten im Anforderungsbereich II im Ansatz geleistet",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I.c.iv. Bewertungshinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "I.c.iv. Bewertungshinweise",
+        "printed_page_range": "7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "document_id": "sic-leitfaden",
   "document_title": "Das schulinterne Curriculum – Ein Leitfaden zur Implementation der neuen Bildungspläne",
   "source_pdf_sha256": "c4c363f7cd9768c22b61675cee96acf3c6b27775d8a20b21d0f5c193c4b66f2e",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 44,
   "page_identity": {
     "offset": 0,
@@ -100,8 +100,8 @@
     },
     {
       "section_anchor": "1.5 Zur Funktion schulinterner Curricula",
-      "printed_page_start": 8, "printed_page_end": 10,
-      "physical_page_start": 8, "physical_page_end": 10,
+      "printed_page_start": 8, "printed_page_end": 11,
+      "physical_page_start": 8, "physical_page_end": 11,
       "ordinance": null, "grades": null,
       "hazards": ["diagram"]
     },
@@ -142,8 +142,8 @@
     },
     {
       "section_anchor": "2.3 Erläuterungen zur Musterstruktur für die Erarbeitung digitaler schulinterner Fachcurricula",
-      "printed_page_start": 16, "printed_page_end": 16,
-      "physical_page_start": 16, "physical_page_end": 16,
+      "printed_page_start": 16, "printed_page_end": 17,
+      "physical_page_start": 16, "physical_page_end": 17,
       "ordinance": null, "grades": null,
       "hazards": []
     },

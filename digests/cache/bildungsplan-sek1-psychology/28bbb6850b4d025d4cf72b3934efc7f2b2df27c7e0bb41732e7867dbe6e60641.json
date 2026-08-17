@@ -1,0 +1,280 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:28bbb6850b4d025d4cf72b3934efc7f2b2df27c7e0bb41732e7867dbe6e60641"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-psychology",
+      "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Aim 1: students become acquainted, in a propaedeutic way, with basic topics, theories and research methods of psychology and thereby grasp features of scientific thinking and working.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "machen sich wissenschaftspropädeutisch mit den ver-\nschiedenen grundlegenden Themen, Theorien und Forschungsmethoden der Psycho-\nlogie bekannt",
+        "residual_flags": []
+      },
+      {
+        "content": "Aim 2: on the basis of acquired knowledge, processes of critical self- and other-reflection are initiated, partly because psychology concerns very personal areas of each individual.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Prozesse der kritischen Selbst- und Fremdreflexion initiiert",
+        "residual_flags": []
+      },
+      {
+        "content": "Aim 3: digital competences matter in psychological research and application, so competent handling of digital media is acquired as a significant cultural technique.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Daher wird der kompetente Um-\ngang mit digitalen Medien als signifikante Kulturtechnik erworben und aktiv angewendet",
+        "residual_flags": []
+      },
+      {
+        "content": "While the first aim is pursued explicitly, fostering critical self- and other-reflection can only ever happen implicitly.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "kann die \nFörderung der kritischen Selbst- und Fremdreflexion immer nur implizit erfolgen",
+        "residual_flags": []
+      },
+      {
+        "content": "The subject matter is psychological everyday phenomena of experience and behaviour, which have concrete significance in students' own lives.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Mittelpunkt des Unterrichts stehen vor allem psychische Alltagsphänomene des Erlebens \nund Verhaltens",
+        "residual_flags": []
+      },
+      {
+        "content": "The systematic use of language actions (technical language, operators) serves as methodological tooling in psychology teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "der systematische Einsatz von Sprachhandlungen (Fachsprache, Opera-\ntoren) als methodisches Handwerkszeug",
+        "residual_flags": []
+      },
+      {
+        "content": "Students learn that psychology has no single true doctrine but a range of more or less useful theories and hypotheses with differing domains of validity.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "dass es in der Psychologie nicht eine wahre \nLehre, sondern eine Reihe von mehr oder weniger nützlichen Theorien und Hypothesen mit \nunterschiedlichen Geltungsbereichen gibt",
+        "residual_flags": []
+      },
+      {
+        "content": "On the basis of a paradigm-oriented didactics, the various currents of psychology are placed in their respective historical context.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "auf der Basis der paradigmenorientierten Didaktik",
+        "residual_flags": []
+      },
+      {
+        "content": "The reference to students' life-world must be established through a selection of topics and examples that do not directly intrude into their privacy.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "die nicht direkt in ihre Privatsphäre eindringen",
+        "residual_flags": []
+      },
+      {
+        "content": "Because it addresses misunderstandings, deviant behaviour and psychosocial disorders, the subject demands particular sensitivity and readiness to counter prejudice and assume social responsibility.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "verlangt er den Schülerinnen und Schülern eine besondere \nSensibilität und implizit auch die Bereitschaft ab, Vorurteilen entgegenzutreten",
+        "residual_flags": []
+      },
+      {
+        "content": "Plurality of life-worlds: the teaching includes students' diverse backgrounds and supports openness and the ability to change perspective.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Psycho-\nlogieunterricht verlangt von den Lernenden daher ein großes Maß an Offenheit und Toleranz",
+        "residual_flags": []
+      },
+      {
+        "content": "Personal affectedness may arise for each student; no one may feel pressured to disclose private data or take a personal stance on delicate topics.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Niemand darf sich unter Druck \ngesetzt fühlen, private Daten freizugeben oder zu heiklen Themen persönlich Stellung nehmen \nzu müssen",
+        "residual_flags": []
+      },
+      {
+        "content": "It is expressly emphasised that psychology teaching cannot and must not be psychotherapy.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "dass Psychologieunterricht keine Psychotherapie \nsein kann und darf",
+        "residual_flags": []
+      },
+      {
+        "content": "Scientific orientation: student-oriented topics are increasingly supplemented and replaced by content, methods and theories from scientific tradition and the present.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Schülernahe Themen und Zugänge werden im Psychologieunterricht zunehmend ergänzt und \nabgelöst durch Unterrichtsinhalte, Methoden und Theorieangebote",
+        "residual_flags": []
+      },
+      {
+        "content": "In the middle and pre-stage a selection of content must follow the principle of exemplary learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "hier muss eine Auswahl der Inhalte nach dem Prinzip \ndes exemplarischen Lernens erfolgen",
+        "residual_flags": []
+      },
+      {
+        "content": "Self-responsibility and action orientation: self-experience, observations, exercises and role plays activate the whole person in the learning process.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Selbsterlebtes, eigene Beobachtungen, Übungen und Rollenspiele der Schülerinnen und Schü-\nler machen Erfahrungen lebendig",
+        "residual_flags": []
+      },
+      {
+        "content": "Discovery learning should be fostered with selected subject-methodological approaches.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Das entdeckende Lernen sollte mithilfe ausgewählter \nfachmethodischer Ansätze gefördert werden",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.1 Didaktische Grundsätze"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-psychology",
+        "section_anchor": "1.1 Didaktische Grundsätze",
+        "printed_page_range": "4–6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

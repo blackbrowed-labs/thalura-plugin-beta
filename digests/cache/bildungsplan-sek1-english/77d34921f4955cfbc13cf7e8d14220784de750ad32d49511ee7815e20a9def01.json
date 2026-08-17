@@ -1,0 +1,380 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:77d34921f4955cfbc13cf7e8d14220784de750ad32d49511ee7815e20a9def01"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Cross-curricular competencies (überfachliche Kompetenzen) are the foundation for successful learning development and the acquisition of subject competencies.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Überfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den \nErwerb fachlicher Kompetenzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching cross-curricular competencies is the shared task and goal of all subjects and of school life as a whole.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "ist somit die gemeinsame Aufgabe und gemeinsames Ziel aller \nUnterrichtsfächer sowie des gesamten Schullebens.",
+        "residual_flags": []
+      },
+      {
+        "content": "Cross-curricular competencies can be assigned to four areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die überfachlichen Kompetenzen lassen \nsich vier Bereichen zuordnen:",
+        "residual_flags": []
+      },
+      {
+        "content": "Personal competencies (personale Kompetenzen) cover attitudes toward oneself; students should develop trust in their own abilities and in the effectiveness of their own actions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegen-\nüber. Die Schülerinnen und Schüler sollen Vertrauen in die eigenen Fähigkeiten und \ndie Wirksamkeit des eigenen Handelns entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students should learn to assess their own abilities realistically, reflect on their behaviour, handle criticism appropriately, hold opinions and make decisions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Sie sollen lernen, die eigenen Fä-\nhigkeiten realistisch einzuschätzen, ihr Verhalten zu reflektieren und mit Kritik ange-\nmessen umzugehen. Ebenso sollen sie lernen, eigene Meinungen zu vertreten und \nEntscheidungen zu treffen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivational dispositions (motivationale Einstellungen) describe the ability and willingness to commit to and engage in things.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für \nDinge einzusetzen und zu engagieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students should show initiative, work persistently and with concentration, develop interests and experience that goals can be reached through effort.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Initiative zu zeigen und ausdauernd und konzentriert zu arbeiten. Dabei sollen sie In-\nteressen entwickeln und die Erfahrung machen, dass sich Ziele durch Anstrengung \nerreichen lassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning-method competencies (lernmethodische Kompetenzen) are the basis for conscious acquisition of knowledge and for goal-directed, self-directed learning, including effective learning strategies and sensible media use.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Lernmethodische Kompetenzen bilden die Grundlage für einen bewussten Erwerb \nvon Wissen und Kompetenzen und damit für ein zielgerichtetes, selbstgesteuertes Ler-\nnen. Die Schülerinnen und Schüler sollen lernen, Lernstrategien effektiv einzusetzen \nund Medien sinnvoll zu nutzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students should develop the ability to solve different kinds of problems in an appropriate way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Sie sollen die Fähigkeit entwickeln, unterschiedliche \nArten von Problemen in angemessener Weise zu lösen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Social competencies (soziale Kompetenzen) are needed to interact and cooperate with others: cooperating successfully, handling conflicts constructively, and showing tolerance, empathy and respect.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen um-\ngehen und zusammenarbeiten zu können. Dazu zählen die Fähigkeiten, erfolgreich zu \nkooperieren, sich in Konflikten konstruktiv zu verhalten sowie Toleranz, Empathie und \nRespekt gegenüber anderen zu zeigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Unlike subject competencies, the cross-curricular competencies are cross-grade and are not differentiated per grade level in the framework plans.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die in der nachfolgenden Tabelle genannten überfachlichen Kompetenzen sind jahrgangs-\nübergreifend zu verstehen, d. h., sie werden anders als die fachlichen Kompetenzen in den \nRahmenplänen nicht für unterschiedliche Jahrgangsstufen differenziert ausgewiesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students' development in these areas is continuously accompanied and supported by teachers.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "wicklung der Schülerinnen und Schüler in den beschriebenen Bereichen wird von den Lehr-\nkräften kontinuierlich begleitet und gefördert.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competencies must be taken into account when developing the school-internal curriculum.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "überfachlichen Kompetenzen sind bei der \nErarbeitung des schulinternen Curriculums zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Self-efficacy (Selbstwirksamkeit): the student trusts their own abilities and believes in the effectiveness of their own actions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "hat Vertrauen in die eigenen Fähigkeiten und \nglaubt an die Wirksamkeit des eigenen Handelns.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning strategies (Lernstrategien): the student proceeds in a structured, systematic way and plans and organises their own work processes.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "geht beim Lernen strukturiert und systematisch vor, \nplant und organisiert eigene Arbeitsprozesse.",
+        "residual_flags": []
+      },
+      {
+        "content": "Self-assertion (Selbstbehauptung): the student develops an own opinion, makes own decisions and defends them toward others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "entwickelt eine eigene Meinung, trifft eigene Ent-\nscheidungen und vertritt diese gegenüber anderen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Problem-solving ability (Problemlösefähigkeit): the student knows and uses different ways to solve problems.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "kennt und nutzt unterschiedliche Wege, um Prob-\nleme zu lösen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Self-reflection (Selbstreflexion): the student assesses own abilities realistically and uses own potential.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "schätzt eigene Fähigkeiten realistisch ein und nutzt \neigene Potenziale.",
+        "residual_flags": []
+      },
+      {
+        "content": "Media competence (Medienkompetenz): the student can collect, prepare, evaluate and present information.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "kann Informationen sammeln, aufbereiten, bewer-\nten und präsentieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Engagement: the student commits to things important to them and shows commitment and initiative.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "setzt sich für Dinge ein, die ihr/ihm wichtig sind, \nzeigt Einsatz und Initiative.",
+        "residual_flags": []
+      },
+      {
+        "content": "Cooperation ability (Kooperationsfähigkeit): the student works well with others and takes on tasks and responsibility in groups.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "arbeitet gut mit anderen zusammen, übernimmt \nAufgaben und Verantwortung in Gruppen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning motivation (Lernmotivation): the student is motivated to learn new things and makes an effort to improve.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "ist motiviert, Neues zu lernen und Dinge zu verste-\nhen, strengt sich an, um sich zu verbessern.",
+        "residual_flags": []
+      },
+      {
+        "content": "Constructive handling of conflicts: the student behaves appropriately in conflicts and understands and responds to others' perspectives.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "verhält sich in Konflikten angemessen, versteht die \nSichtweisen anderer und geht darauf ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Endurance (Ausdauer): the student works persistently and with concentration and does not give up even when facing difficulties.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "arbeitet ausdauernd und konzentriert, gibt auch bei \nSchwierigkeiten nicht auf.",
+        "residual_flags": []
+      },
+      {
+        "content": "Constructive handling of diversity: the student shows tolerance and respect toward others and handles contradictions appropriately.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "zeigt Toleranz und Respekt gegenüber anderen \nund geht angemessen mit Widersprüchen um.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Überfachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "2.1 Überfachliche Kompetenzen",
+        "printed_page_range": "12–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

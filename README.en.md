@@ -35,6 +35,12 @@ against official BSB regulations before delivery.
 Thalura ships through two channels — pick one and add it as a marketplace in
 Claude Code, then install:
 
+**In Claude Cowork there is one more requirement:** Thalura has to run on your
+own computer, not in the cloud — under **Settings → Cowork**, switch off
+**"Run new tasks in the cloud"** and then start a new task. What is otherwise
+missing, and how to check it, is in the
+**[guide](guide/en/installation.md)**.
+
 **Stable** (general use):
 
 ```

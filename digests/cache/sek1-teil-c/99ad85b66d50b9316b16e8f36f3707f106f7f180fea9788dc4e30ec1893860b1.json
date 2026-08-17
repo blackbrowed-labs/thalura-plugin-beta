@@ -1,0 +1,185 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:99ad85b66d50b9316b16e8f36f3707f106f7f180fea9788dc4e30ec1893860b1"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Assessment of ongoing classwork refers to performances delivered in lessons and in the teaching context, taking activities and products into account, and distinguishes assessed from assessment-free working phases and assessed from assessment-free performance checks.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Bewertung der laufenden Unterrichtsarbeit bezieht sich auf die im Unterricht sowie im un-\nterrichtlichen Kontext erbrachten Leistungen. Sie berücksichtigt Aktivitäten und Produkte der \nSchülerinnen und Schüler. Dabei wird zwischen bewerteten und bewertungsfreien Arbeitspha-\nsen sowie zwischen bewerteter und bewertungsfreier Leistungsfeststellung unterschieden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Because a successful learning process requires a productive handling of wrong turns and errors, explicitly agreeing assessment-free lesson phases with students can increase learning success.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Da für einen gelingenden Lernprozess ein produktiver Umgang mit Irrwegen und Fehlern er-\nforderlich ist, kann es den Lernerfolg steigern, wenn mit den Schülerinnen und Schülern aus-\ndrücklich bewertungsfreie Unterrichtsphasen verabredet werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Lessons must be designed so students can show oral, written AND practical performance according to the nature of the subject; assessment of ongoing classwork must NOT rest exclusively on oral or practical performance; unannounced assessed performance checks are permitted.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Für die Bewertung der laufenden Unterrichtsarbeit ist der Unterricht so anzulegen, dass die \nSchülerinnen und Schüler sowohl mündliche als auch schriftliche und praktische Leistungen \nnach Art des Faches zeigen können. Die Bewertung der laufenden Unterrichtsarbeit darf sich \nnicht ausschließlich auf mündliche oder praktische Leistungen stützen. Im Rahmen der lau-\nfenden Unterrichtsarbeit können auch unangekündigte bewertete Leistungsfeststellungen er-\nfolgen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are involved in an age-appropriate way in decisions about the design of lessons and the forms of performance.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Schülerinnen und Schüler werden in altersangemessener Weise an der Entscheidung über \ndie Gestaltung des Unterrichts und die Formen der Leistungserbringung beteiligt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Catalogue of assessable activities/products (part 1): contributions to class discussion; work on written school tasks; oral, written and practical work on tasks including evaluation of results; short talks and presentations, also using digital media (e.g. Referate, presentations of work results).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Bewertung der laufenden Unterrichtsarbeit berücksichtigt insbesondere folgende Aktivitä-\nten und Produkte: \n• \nBeiträge zum Unterrichtsgespräch \n• \nBearbeitung schriftlicher Schulaufgaben \n• \nmündliche, schriftliche und praktische Bearbeitung von Aufgaben mitsamt Auswertung \nder Ergebnisse \n• \nKurzvorträge und Präsentationen, auch unter Nutzung digitaler Medien (z. B. Referate, \nPräsentationen von Arbeitsergebnissen)",
+        "residual_flags": []
+      },
+      {
+        "content": "Catalogue (part 2): practical work according to the nature of the subject (e.g. analogue or digital models); moderation of conversations, also in digital space (video conferences, podcasts); documentation of learning and working processes, also with digital media (protocols, portfolios, dossiers, learning/reading/work diaries).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "• \npraktische Arbeiten nach Art des Faches (z. B. Anfertigung von analogen oder digitalen \nModellen) \n• \nModeration von Gesprächen, auch im digitalen Raum (z. B. in Videokonferenzen oder \nPodcasts) \n• \nDokumentation von Lern- und Arbeitsprozessen, auch unter Nutzung digitaler Medien \n(z. B. Protokolle, Portfolios, Dossiers, Lern-, Lese- oder Werktagebücher)",
+        "residual_flags": []
+      },
+      {
+        "content": "Catalogue (part 3): collecting, evaluating and preparing information, also with digital tools (spreadsheets, diagrams, interactive infographics or maps); creation of analogue or digital media products (linear and non-linear texts, posters, readers, material dossiers, scripts, audio/video clips, artistic products).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "• \nSammlung, Auswertung und Aufbereitung von Informationen, auch unter Nutzung di-\ngitaler Tools (z. B. Nutzung von Tabellenkalkulation, Erstellung von Diagrammen, in-\nteraktiven Infografiken oder Karten) \n• \nErstellung von analogen oder digitalen medialen Produkten (z. B. lineare wie nicht li-\nneare Texte, Plakate, Reader, Materialdossiers, Drehbücher, Audio- oder Videoclips, \nkünstlerische Produkte)",
+        "residual_flags": []
+      },
+      {
+        "content": "Catalogue (part 4): information gathering and research (libraries, digital databases, internet); scenic presentations (role plays, tableaux).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "• \nInformationsbeschaffung und Recherche (Bibliotheken, digitale Datenbanken, Internet) \n• \nszenische Darstellungen (z. B. Rollenspiele, Standbilder)",
+        "residual_flags": []
+      },
+      {
+        "content": "Catalogue (part 5): artistic performances; handling of analogue and digital aids, instruments, sports equipment, tools etc.; collaboration in subject-specific or cross-subject projects; exhibition or competition contributions.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "• \nkünstlerische Darbietungen \n• \nUmgang mit analogen und digitalen Hilfsmitteln sowie Instrumenten, Sportgeräten, \nWerkzeugen usw. \n• \nMitarbeit an fachspezifischen oder fachübergreifenden Projekten \n• \nAusstellungs- oder Wettbewerbsbeiträge.",
+        "residual_flags": []
+      },
+      {
+        "content": "When oral, written and practical performances are delivered, contemporary digital formats must be appropriately taken into account.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Bei der Erbringung mündlicher, schriftlicher und praktischer Leistungen sind zeitgemäße digi-\ntale Formate angemessen zu berücksichtigen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

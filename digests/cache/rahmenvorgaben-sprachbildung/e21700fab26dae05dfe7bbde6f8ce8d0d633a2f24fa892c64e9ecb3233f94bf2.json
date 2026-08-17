@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e21700fab26dae05dfe7bbde6f8ce8d0d633a2f24fa892c64e9ecb3233f94bf2"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Competence area C SPRECHEN — descriptor 1: talk with each other about a subject topic — follow a conversation and contribute, react appropriately to others' contributions, consciously distinguish communication and conversation situations (questions, instructions, expressions of opinion, conversations, discussions), perceive one's own conversational behaviour, reflect on conversation rules and their scope, and talk about the effect of conversational behaviour (including gesture and facial expression) on others.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "C. SPRECHEN",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "miteinander über ein Fachthema sprechen \n• \neinem Gespräch über ein Fachthema folgen und durch eigene Beiträge daran teilnehmen \n• \nauf Beiträge anderer zu Fachthemen angemessen reagieren \n• \nunterschiedliche Kommunikations- und Gesprächssituationen bewusst unterscheiden (z.B. Fragen, Anweisungen, Meinungsäußerungen, \nGespräche, Diskussionen) \n• \neigenes Gesprächsverhalten wahrnehmen \n• \nüber Gesprächsregeln und ihren Geltungsbereich (Schule, Zuhause, unter Freunden, mit Erwachsenen etc.) nachdenken \n• \nüber die Wirkung des Gesprächsverhaltens (auch Gestik, Mimik) auf andere reden",
+        "residual_flags": []
+      },
+      {
+        "content": "C SPRECHEN — descriptor 2: speak to others about a subject topic — present work results and speak to others about the class topic.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "C. SPRECHEN",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "zu Anderen über ein Fachthema sprechen \n• \nArbeitsergebnisse präsentieren  \n• \nzu Anderen über das Unterrichtsthema sprechen, mit dem sich die Klasse beschäftigt hat",
+        "residual_flags": []
+      },
+      {
+        "content": "C SPRECHEN — descriptor 3: give a talk on a subject topic — speak expressively using devices such as volume, tempo, pauses, stress and body language, prepare a (short) talk and order its parts sensibly, present with notes and Redemittel in an addressee-oriented way, respond to follow-up questions and obtain feedback, deviate spontaneously from the plan when needed, and present a matter in an own audio or video contribution.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "C. SPRECHEN",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "einen Vortrag über ein Fachthema halten \n• \nausdrucksvoll sprechen, etwas vortragen, szenisch spielen: Gestaltungsmittel (z. B. Lautstärke, Sprechtempo, Pausen, Betonung, Körperspra-\nche) zur Verstärkung von Redeabsichten einsetzen, einen (Kurz-)Vortrag vorbereiten und die einzelnen Teile eines solchen Vortrags in einen \nsinnvollen Ablauf bringen \n• \nmithilfe von Notizen und Redemitteln (z. B. zu Beginn, anschließend, zum Schluss) adressatenbezogen vortragen \n• \nauf Nachfragen zum Vortrag eingehen und Feedback zur Vortragsgestaltung einholen \n• \nbei einer Präsentation spontan von einem vorbereiteten Plan abweichen und auf Punkte eingehen, die von Mitschülerinnen und Mitschülern \noder der Lehrkraft angesprochen wurden  \n• \neinen Sachverhalt in einem eigenen Audio- oder Videobeitrag darstellen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "C. SPRECHEN"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "C. SPRECHEN",
+        "printed_page_range": "16"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

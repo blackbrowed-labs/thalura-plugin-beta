@@ -1,0 +1,434 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:fa176859665d2e28e1d5ea7419bb8c41d1879fa4fa17e0a65dd80863fd4cb119"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Health promotion aims to enable people to a greater degree of self-determination and strengthen their health.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Gesundheitsförderung zielt darauf ab, allen Menschen ein höheres Maß an Selbstbestimmung",
+        "residual_flags": []
+      },
+      {
+        "content": "Health comprises physical, mental and social wellbeing.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Sie umfasst das körperliche, das seelische und das soziale",
+        "residual_flags": []
+      },
+      {
+        "content": "A person's health is influenced by individual as well as sociocultural, economic and ecological conditions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Gesundheit des Menschen wird durch individuelle sowie durch soziokulturelle,",
+        "residual_flags": []
+      },
+      {
+        "content": "Health is therefore an influenceable process.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "ist demnach ein beeinflussbarer Prozess.",
+        "residual_flags": []
+      },
+      {
+        "content": "A particular focus of health promotion is the development of self-worth.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Ein besonderer Fokus der Gesundheitsförderung liegt auf der Entwicklung",
+        "residual_flags": []
+      },
+      {
+        "content": "Students learn problem-solving strategies and apply them to everyday challenges.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "und Schüler erlernen Problemlösungsstrategien und setzen sie",
+        "residual_flags": []
+      },
+      {
+        "content": "The school has a role-model function in shaping a health-promoting environment.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Schule hat eine Vorbildfunktion bei der Gestaltung",
+        "residual_flags": []
+      },
+      {
+        "content": "Competence requirements are defined for the end of grade 6.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Anforderungen am Ende der Jahrgangsstufe 6",
+        "residual_flags": []
+      },
+      {
+        "content": "Students acquire knowledge of factors influencing physical and mental health.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "erwerben Kenntnisse zu Einflussfaktoren auf die körperliche und die seelische Gesundheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can distinguish between balanced and unbalanced consumption or usage behaviour.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "können zwischen ausgewogenem und unausgewogenem Konsum",
+        "residual_flags": []
+      },
+      {
+        "content": "Students name negative and positive feelings and explain what situations trigger them.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "benennen negative und positive Gefühle und erläutern",
+        "residual_flags": []
+      },
+      {
+        "content": "Students explain possible effects of unreflected consumption on their own health.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "erläutern mögliche Auswirkungen unreflektierten Konsums auf die eigene Gesundheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students develop a responsible attitude toward their own physical and mental health.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "entwickeln eine verantwortungsbewusste Haltung in Bezug auf die eigene körperliche",
+        "residual_flags": []
+      },
+      {
+        "content": "In conflict and stress situations students use coping strategies and protective measures.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "nutzen in Konflikt- und Belastungssituationen Bewältigungsstrategien und Schutzmaßnahmen",
+        "residual_flags": []
+      },
+      {
+        "content": "Competence requirements are defined for the end of secondary level I.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Anforderungen am Ende der Sekundarstufe I",
+        "residual_flags": []
+      },
+      {
+        "content": "Students expand their knowledge of factors influencing physical and mental health.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "erweitern ihre Kenntnisse zu Einflussfaktoren auf die körperliche und seelische Gesundheit",
+        "residual_flags": []
+      },
+      {
+        "content": "Students select research-based information on a health-promoting and sustainable lifestyle.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "wählen recherchegeleitet Informationen zu einer gesundheitsförderlichen und nachhaltigen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students avoid potentially self-endangering behaviour.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "meiden potenziell selbstgefährdendes Verhalten",
+        "residual_flags": []
+      },
+      {
+        "content": "Students take on societal responsibility through informed and conscious consumption decisions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "übernehmen gesellschaftliche Verantwortung durch aufgeklärte und bewusste",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 1 addresses personality development and psychosocial wellbeing.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Themenbereich 1: Persönlichkeitsförderung und psychosoziales Wohlbefinden",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 2 addresses nutrition, consumption and addiction.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Themenbereich 2: Ernährung, Konsum und Sucht",
+        "residual_flags": []
+      },
+      {
+        "content": "Content covers the importance of balanced nutrition for physical wellbeing.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Bedeutung einer ausgewogenen Ernährung für das körperliche",
+        "residual_flags": []
+      },
+      {
+        "content": "Content includes protection from addiction and self-harming behaviour.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "2.3 Schutz vor Sucht und selbstschädigendem Verhalten",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 3 addresses physical and mental wellbeing.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Themenbereich 3: Körperliches und seelisches Wohlbefinden",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 5 (grades 7-11) again addresses nutrition, consumption and addiction.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Themenbereich 5: Ernährung, Konsum und Sucht",
+        "residual_flags": []
+      },
+      {
+        "content": "Content covers the spread, effects and risks of legal and illegal drugs.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Verbreitung, Wirkweise und Risiken legaler und illegaler Drogen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 6 (grades 7-11) addresses physical and mental wellbeing.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Themenbereich 6: Körperliches und seelisches Wohlbefinden",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Gesundheitsförderung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.2 Gesundheitsförderung",
+        "printed_page_range": "13–21"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

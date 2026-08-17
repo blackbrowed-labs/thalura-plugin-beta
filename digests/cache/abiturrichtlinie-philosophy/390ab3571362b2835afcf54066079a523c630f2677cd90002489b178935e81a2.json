@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:390ab3571362b2835afcf54066079a523c630f2677cd90002489b178935e81a2"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-philosophy",
+      "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Teaching at raised level is characterized by systematic, deepened and reflected propaedeutic academic work.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Unterricht auf erhöhtem Niveau ist durch systematische, vertiefte und reflektierte wissenschaftspropädeutische Arbeit gekennzeichnet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Philosophy conveys a foundational reflection competence (Reflexionskompetenz).",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Fach Philosophie wird eine grundlegende Reflexionskompetenz vermittelt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Raised level differs from basic level above all through heightened requirements.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Unterricht auf erhöhtem Niveau unterscheidet sich von dem auf grundlegendem",
+        "residual_flags": []
+      },
+      {
+        "content": "One differentiator is the number and scope of the topic areas treated.",
+        "citation": {
+          "document_id": "abiturrichtlinie-philosophy",
+          "document_title": "Abiturrichtlinie Philosophie",
+          "source_pdf_sha256": "12bf7842b50b544ca2f385313e7112f82a164a9b3450655499c3447481a9d68e",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "die Anzahl und den Umfang der behandelten Themenbereiche,",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-philosophy",
+        "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+        "printed_page_range": "4"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

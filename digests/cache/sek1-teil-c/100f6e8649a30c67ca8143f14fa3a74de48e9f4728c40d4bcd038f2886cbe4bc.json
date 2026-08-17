@@ -1,0 +1,199 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:100f6e8649a30c67ca8143f14fa3a74de48e9f4728c40d4bcd038f2886cbe4bc"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Assessed are the achievements produced by students in connection with the lessons on the motor, cognitive and social levels.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Bewertet werden die von Schülerinnen und Schülern im Zusammenhang mit dem Unterricht \nerbrachten Leistungen auf motorischer, kognitiver und sozialer Ebene.",
+        "residual_flags": []
+      },
+      {
+        "content": "Performance observation and assessment relate to the abilities, skills and knowledge shown in class.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "bezieht sich auf die im Unterricht gezeigten Fähigkeiten, Fertigkeiten \nund Kenntnisse.",
+        "residual_flags": []
+      },
+      {
+        "content": "In sports practice, mainly the motor achievements and also the readiness to perform are taken into account.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "In der Sportpraxis werden hauptsächlich die motorischen Leistungen berück-\nsichtigt und auch die Leistungsbereitschaft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Within the required close practice-theory link, theoretical and reflective parts enter assessment to the extent that they were considered in class.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Im Rahmen der geforderten engen Praxis-Theorie-Verbindung fließen theoretische und refle-\nxive Anteile in dem Maße in die Leistungsbewertung ein, in dem sie im Unterricht Berücksich-\ntigung gefunden haben.",
+        "residual_flags": []
+      },
+      {
+        "content": "If no written assessments are done, evaluation refers exclusively to the ongoing coursework, evaluating competencies and knowledge shown in learning processes and in selective checks.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Sofern keine Klassenarbeiten bzw. Klausuren geschrieben werden, bezieht sich die Bewer-\ntung ausschließlich auf die laufende Unterrichtsarbeit. Bewertet werden hierbei erworbene \nKompetenzen und Kenntnisse, die sowohl in unterrichtlichen Lern- und Arbeitsprozessen ge-\nzeigt als auch in punktuellen Lernerfolgskontrollen nachgewiesen werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the assessment, particular weight is given to practical achievements, and the production of written work is not compulsory but permissible on an occasion-related basis.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Bei der Bewertung \nkommt den praktischen Leistungen besonderes Gewicht zu. Die Erbringung schriftlicher Leis-\ntungen ist nicht verpflichtend, jedoch anlassbezogen zulässig.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment-free phases are to be secured to a special degree to give room for experiencing, learning, practising and training movement, play and sport.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Bewertungsfreie Phasen sind in besonderem Maße zu sichern, um Prozesse des Erfahrens, \nErlernens, Übens und Trainierens von Bewegung, Spiel und Sport Raum zu geben.",
+        "residual_flags": []
+      },
+      {
+        "content": "For unassessed and assessed work phases alike, using varied suitable feedback and assessment formats (e.g. learning journals, learning agreements, observation sheets and competence grids) is of special importance.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Sowohl \nfür nicht bewertete als auch für bewertete Arbeitsphasen kommt dem Einsatz vielfältiger ge-\neigneter Rückmelde- bzw. Bewertungsformate (z. B. Lerntagebücher, Lernvereinbarungen, \nselbstständige Arbeit der Schülerinnen und Schüler mit Beobachtungsbögen und Kompetenz-\nrastern) besondere Bedeutung zu.",
+        "residual_flags": []
+      },
+      {
+        "content": "For sports-practical action, criteria include the process quality of sport-related movements, measurable results, and variety and variance of sport-related movements.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 28,
+          "printed_page_end": 29,
+          "physical_page": 28
+        },
+        "cited_text": "Verlaufsqualität sportbezogener Bewegungen in Bezug auf Funktionalität sowie aus-\ngewählte qualitative Bewegungsmerkmale \n\n29 \n• \nmessbare Ergebnisse \n• \nVielfalt und Varianz sportbezogener Bewegungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for social action include cooperation and reliability, responding to others' impulses, capacity to take responsibility, and fairness, consideration and helpfulness.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Kooperationsfähigkeit und Zuverlässigkeit beim gemeinsamen Spielen und Sporttrei-\nben \n• \nEingehen auf Impulse, Signale und Lernbedürfnisse anderer \n• \nFähigkeit zur Verantwortungsübernahme \n• \nFairness, Rücksichtnahme und Hilfsbereitschaft",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria for knowledge and reflection include command and application of subject knowledge, understanding and correct use of basic technical terms, and subject-related judgement ability.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7l) Sport",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Verfügung und Anwendung fachlicher Kenntnisse \n• \nVerständnis und korrekte Anwendung grundlegender Fachbegriffe \n• \nVerständnis der Inhalte, Rahmenbedingungen und Motive des Sporttreibens und For-\nmulierung einer eigenen Position dazu \n• \nfachbezogene Urteilsfähigkeit",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7l) Sport"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7l) Sport",
+        "printed_page_range": "28–29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

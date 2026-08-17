@@ -1,0 +1,140 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:82cf494f009d9d2dc11d157f789cf105eb3c18df1facfbc9845a83d846224c21"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Three mutually complementary guiding perspectives (Leitperspektiven), anchored throughout the framework curricula (Rahmenpläne), take up current societal, ecological, economic, technological and political developments of lasting relevance for education.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "3 Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Mit drei sich wechselseitig ergänzenden und in den Rahmenplänen durchgehend verankerten \nLeitperspektiven werden aktuelle gesellschaftliche, ökologische, ökonomische, technologi-\nsche sowie politische Entwicklungen und Herausforderungen aufgegriffen, die auch längerfris-\ntig eine hohe Relevanz für Bildung und Schule aufweisen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Their unifying feature is that they are not restricted to one subject or a small group of subjects but concern in essence all subjects and school forms.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "3 Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Verbindendes Merkmal der Leitper-\nspektiven ist, dass sie sich nicht auf ein Fach oder eine kleine Fächergruppe beschränken, \nsondern im Kern alle Fächer und Schulformen betreffen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are concretely anchored in the framework curricula (Rahmenpläne) of the subjects, learning areas and task areas.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "3 Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Ihre konkrete Verankerung finden sie in den Rahmenplänen der \nFächer, Lernbereiche und Aufgabengebiete.",
+        "residual_flags": []
+      },
+      {
+        "content": "Within Bildung für nachhaltige Entwicklung (BNE), the 17 goals of Agenda 2030 form the substantive basis from which topics for school and teaching can be derived.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "3 Leitperspektiven",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Im Rahmen der Bildung für nachhaltige Entwicklung (BNE) bilden die 17 Ziele der Agenda \n2030 die inhaltliche Grundlage, aus der sich Themen für Schule und Unterricht ableiten lassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching digital competences is not limited to one subject or subject group but is a task of all subjects, learning areas and task areas and of school life as a whole.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "3 Leitperspektiven",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Vermittlung digitaler Kompetenzen beschränkt sich nicht auf ein Fach oder eine Fächer-\ngruppe. Vielmehr ist dies eine Aufgabe aller Fächer, Lernbereiche und Aufgabengebiete mit \nihren spezifischen Merkmalen und Zielen sowie des Schullebens insgesamt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3 Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "3 Leitperspektiven",
+        "printed_page_range": "8–14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

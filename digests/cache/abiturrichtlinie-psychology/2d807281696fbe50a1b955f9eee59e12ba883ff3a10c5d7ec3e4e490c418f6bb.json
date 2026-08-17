@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:2d807281696fbe50a1b955f9eee59e12ba883ff3a10c5d7ec3e4e490c418f6bb"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die muendliche Pruefung bezieht sich auf Inhalts- bzw. Kompetenzbereiche mindestens zweier Semester der Studienstufe.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "bezieht sich auf Inhalts- bzw. Kompetenzbereiche mindestens",
+        "residual_flags": []
+      },
+      {
+        "content": "Die muendliche Pruefung besteht aus zwei gleichwertigen Teilen (Vortrag und themengebundenes Gespraech).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "besteht aus zwei gleichwertigen Teilen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Pruefung dauert etwa 30 Minuten, die Vorbereitungszeit ebenso.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "dauert etwa 30 Minuten, die Vorbereitungszeit ebenso",
+        "residual_flags": []
+      },
+      {
+        "content": "Aufgabenart ist eine Eroerterung psychologischer Sachverhalte aus Darstellungen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "psychologischer Sachverhalte aus Darstellungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die unter 3.2 beschriebenen Anforderungsbereiche und die unter 4.5 dargelegten Bewertungskriterien gelten grundsaetzlich auch fuer die muendliche Pruefung.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die unter 3.2 beschriebenen Anforderungsbereiche und die unter 4.5 dargelegten",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Erwartungshorizont enthaelt Angaben zur Zuordnung der Aufgaben zu den Anforderungsbereichen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Angaben zur Zuordnung der Aufgaben zu den Anforderungsbereichen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+        "printed_page_range": "14–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

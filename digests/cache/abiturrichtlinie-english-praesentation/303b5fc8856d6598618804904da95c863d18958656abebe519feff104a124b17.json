@@ -1,0 +1,135 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:303b5fc8856d6598618804904da95c863d18958656abebe519feff104a124b17"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content anchor: semester topic 'Canada – A Land of Diversity'.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "o Semesterthema Canada – A Land of Diversity",
+        "residual_flags": [
+          "source-formatting-verbatim: original reads 'Semesterthema Canada' with no colon, unlike the parallel 'Semesterthema:' in the Crash example"
+        ]
+      },
+      {
+        "content": "The topic area is A (Zielsprachenland: Entwicklung und Identität).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Themenbereich A: Zielsprachenland: Entwicklung und Identität",
+        "residual_flags": []
+      },
+      {
+        "content": "The methodological competence area is speech analysis, covering work with texts and other media plus language awareness.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "• Methodische Kompetenzen [hier: speech analysis] \no Umgang mit Texten und anderen Medien  \no Sprachbewusstheit",
+        "residual_flags": []
+      },
+      {
+        "content": "The exam topics tie the content focus 'Canada – A Land of Diversity' to the methodological competence area of speech analysis (Redeanalyse).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die Themen der Präsentationsprüfung beziehen sich auf das inhaltli-\nche Schwerpunktthema Canada – A Land of Diversity und auf den me-\nthodischen Kompetenzbereich der Redeanalyse.",
+        "residual_flags": []
+      },
+      {
+        "content": "Speech-analysis teaching covered distinguishing the purposes/intentions of speeches — information, appeal, manipulation.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "• Unterscheidung verschiedener Zwecke / Intentionen von Reden \n(Information, Appell, Manipulation)",
+        "residual_flags": []
+      },
+      {
+        "content": "Content taught included controversial positions on Canada as a multicultural society (cultural mosaic vs. melting pot, immigration system).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Canada — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "• kontroverse Positionen zu Kanada als multikulturelle Gesellschaft \n(cultural mosaic vs. melting pot, immigration system)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Canada — III Unterrichtsmaterial / Bildungsplanbezüge"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Canada — III Unterrichtsmaterial / Bildungsplanbezüge",
+        "printed_page_range": "13–14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

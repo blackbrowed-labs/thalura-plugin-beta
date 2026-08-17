@@ -1,0 +1,97 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:45b50d58443ac94f2971de8529d7ee96914eaf6f5c54f20f9d5094408eafc925"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "For language education (Sprachbildung) as a cross-cutting task, the principles laid down in the general part of the curriculum framework apply.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Für die Umsetzung der Querschnittsaufgabe Sprachbildung im Rahmen des Fachunterrichts \nsind die im allgemeinen Teil des Bildungsplans niedergelegten Grundsätze relevant.",
+        "residual_flags": []
+      },
+      {
+        "content": "The subject-related language competencies are presented and explained in the Kompetenzmatrix Sprachbildung.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 6,
+          "printed_page_end": 7,
+          "physical_page": 6
+        },
+        "cited_text": "Die Dar-\nstellung und Erläuterung fachbezogener sprachlicher Kompetenzen erfolgt in der Kompetenz-\n \n7 \nmatrix Sprachbildung.",
+        "residual_flags": [
+          "layout: this sentence is split across the page break ('Kompetenz-' / 'matrix'); the slice therefore contains the page number of the following page"
+        ]
+      },
+      {
+        "content": "Within the core curricula the central language competencies are assigned by cross-reference to individual topic and content areas, supporting the planning of language-sensitive subject teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Innerhalb der Kerncurricula werden die zentralen sprachlichen Kompe-\ntenzen durch Verweise einzelnen Themen- bzw. Inhaltsbereichen zugeordnet, um die Planung \neines sprachsensiblen Fachunterrichts zu unterstützen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+        "printed_page_range": "6–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

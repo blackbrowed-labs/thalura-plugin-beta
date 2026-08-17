@@ -1,0 +1,94 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:bf76fb671805632072690bc280d9f263e2f7860caeca2a8b35ea82c939ffe47b"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "For each school the competent authority appoints an examination commission of at least three members, including the school management or its deputy, and names its chair.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 22 Prüfungsgremien",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Zur Durchführung der Abiturprüfung bestellt die zuständige Behörde für jede Schu-\nle eine Prüfungskommission aus mindestens drei Mitgliedern, darunter die Schulleitung \noder die Schulleitungsvertretung, und bestimmt die Vorsitzende oder den Vorsitzenden.",
+        "residual_flags": []
+      },
+      {
+        "content": "For each candidate and each examination subject a subject examination committee is set up with a chair and two further members, including the responsible subject teacher.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 22 Prüfungsgremien",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "setzt für jeden Prüfling und jedes \nPrüfungsfach einen Fachprüfungsausschuss mit einer oder einem Vorsitzenden und \nzwei weiteren Mitgliedern, darunter die für das Fach zuständige Lehrkraft, ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "The commission and the subject committees have a quorum only when all members are present; they decide by majority and abstention is not permitted.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 22 Prüfungsgremien",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Die Prüfungskommission und die Fachprüfungsausschüsse sind beschlussfähig, \nwenn alle Mitglieder anwesend sind. Sie entscheiden mit Stimmenmehrheit. Stimment-\nhaltung ist unzulässig.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 22 Prüfungsgremien"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 22 Prüfungsgremien",
+        "printed_page_range": "19–20"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

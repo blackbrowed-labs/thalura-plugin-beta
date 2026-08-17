@@ -1,0 +1,636 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:804929866b24036337dac7a6c1e1e9e24561ce81e9deb5bbde60ac6d1a8ac494"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Anforderungen am Ende der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Anforderungen am Ende der ",
+        "residual_flags": []
+      },
+      {
+        "content": "wenden ein begrenztes Inventar an Lern- und Arbeitstechniken für eigenständiges, individuelles Lernen selbstständig an.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "wenden ein begrenztes Inventar \nan Lern- und Arbeitstechniken für \neigenständiges, individuelles Ler-\nnen selbstständig an. ",
+        "residual_flags": []
+      },
+      {
+        "content": "wenden ein erweitertes Inventar an",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "wenden ein erweitertes Inventar an ",
+        "residual_flags": []
+      },
+      {
+        "content": "Lern- und Arbeitstechniken für eigenständiges, individuelles Lernen selbstständig an.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Lern- und Arbeitstechniken für ei-\ngenständiges, individuelles Lernen \nselbstständig an. ",
+        "residual_flags": []
+      },
+      {
+        "content": "wenden ein vielseitiges Inventar an",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "wenden ein vielseitiges Inventar an ",
+        "residual_flags": []
+      },
+      {
+        "content": "können in Ansätzen einsprachig zu kommunizieren,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• können in Ansätzen einsprachig \nzu kommunizieren, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erproben Möglichkeiten, in vertrauten Situationen sprachlich zu paraphrasieren,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• erproben Möglichkeiten, in ver-\ntrauten Situationen sprachlich zu \nparaphrasieren, ",
+        "residual_flags": []
+      },
+      {
+        "content": "greifen selbstständig zu im Klassenraum vorhandenen analogen und digitalen Werkzeugen (z. B.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• greifen selbstständig zu im Klas-\nsenraum vorhandenen analogen \nund digitalen Werkzeugen (z. B. ",
+        "residual_flags": []
+      },
+      {
+        "content": "setzen verschiedene Hör- und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• setzen verschiedene Hör- und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Lesetechniken (z. B. Markieren, scanning, skimming) aufgabenbezogen ein,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Lesetechniken (z. B. Markieren, \nscanning, skimming) aufgaben-\nbezogen ein, ",
+        "residual_flags": []
+      },
+      {
+        "content": "wenden Verfahren zum Memorieren (z. B. mindmapping) und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• wenden Verfahren zum Memo-\nrieren (z. B. mindmapping) und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Abrufen von Wörtern und Redemitteln an,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Abrufen von Wörtern und Rede-\nmitteln an, ",
+        "residual_flags": []
+      },
+      {
+        "content": "nutzen die individuell als hilfreich erfahrenen Techniken des Vokabellernens,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• nutzen die individuell als hilfreich \nerfahrenen Techniken des Voka-\nbellernens, ",
+        "residual_flags": []
+      },
+      {
+        "content": "schließen kleine Verständnislücken (z. B. im Wortschatz) gelegentlich durch intelligent guessing,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• schließen kleine Verständnislü-\ncken (z. B. im Wortschatz) gele-\ngentlich durch intelligent gues-\nsing, ",
+        "residual_flags": []
+      },
+      {
+        "content": "können Internationalismen und verwandte Wörter (z. B. Haus/ house) erkennen und nutzen, um die Bedeutung abzuleiten,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• können Internationalismen und \nverwandte Wörter (z. B. Haus/ \nhouse) erkennen und nutzen, \num die Bedeutung abzuleiten, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erkennen sprachliche Regelhaftigkeiten, finden Fehler und nutzen diese Erkenntnisse für den eigenen Lernprozess,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• erkennen sprachliche Regelhaf-\ntigkeiten, finden Fehler und nut-\nzen diese Erkenntnisse für den \neigenen Lernprozess, ",
+        "residual_flags": []
+      },
+      {
+        "content": "gestalten eine kleine Präsentation und tragen die Ergebnisse mit vorbereiteten Hilfen (z. B.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• gestalten eine kleine Präsenta-\ntion und tragen die Ergebnisse \nmit vorbereiteten Hilfen (z. B. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Stichwörter, Bilder) vor der",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Stichwörter, Bilder) vor der ",
+        "residual_flags": []
+      },
+      {
+        "content": "nutzen Lerngelegenheiten, die sich aus dem Miteinander von deutscher Sprache, Herkunftssprache sowie dem Englischen ergeben,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• nutzen Lerngelegenheiten, die \nsich aus dem Miteinander von \ndeutscher Sprache, Herkunfts-\nsprache sowie dem Englischen \nergeben, ",
+        "residual_flags": []
+      },
+      {
+        "content": "dokumentieren ihren eigenen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• dokumentieren ihren eigenen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Lernfortschritt und schätzen ihn ein.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Lernfortschritt und schätzen ihn \nein. ",
+        "residual_flags": []
+      },
+      {
+        "content": "setzen in kooperativen Arbeitsphasen die Fremdsprache zunehmend als Gruppenarbeitssprache ein (z. B. bei der Erarbeitung von Arbeitsaufträgen, in",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• setzen in kooperativen Arbeits-\nphasen die Fremdsprache zu-\nnehmend als Gruppenarbeits-\nsprache ein (z. B. bei der Erar-\nbeitung von Arbeitsaufträgen, in ",
+        "residual_flags": []
+      },
+      {
+        "content": "Vorbereitung von Rollenspielen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Vorbereitung von Rollenspielen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "Partnerinterviews oder kleineren mündlichen Präsentationen),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Partnerinterviews oder kleineren \nmündlichen Präsentationen), ",
+        "residual_flags": []
+      },
+      {
+        "content": "organisieren Partner- und Gruppenarbeit mit Unterstützung, phasenweise jedoch weitgehend selbstständig (Vorbereitung, Ablauf, Präsentation),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• organisieren Partner- und Grup-\npenarbeit mit Unterstützung, \nphasenweise jedoch weitgehend \nselbstständig (Vorbereitung, Ab-\nlauf, Präsentation), ",
+        "residual_flags": []
+      },
+      {
+        "content": "finden ihren individuellen Lernweg (z. B. Vokabellernen, Memorieren fremdsprachlicher Inhalte) mit Unterstützung,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• finden ihren individuellen Lern-\nweg (z. B. Vokabellernen, Me-\nmorieren fremdsprachlicher In-\nhalte) mit Unterstützung, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erschließen die Bedeutung von unbekannten, ableitbaren Wörtern häufig aus dem Kontext sowie mithilfe von Wortbildungsregeln,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• erschließen die Bedeutung von \nunbekannten, ableitbaren Wör-\ntern häufig aus dem Kontext so-\nwie mithilfe von Wortbildungsre-\ngeln, ",
+        "residual_flags": []
+      },
+      {
+        "content": "Texten durch Strategien des extensiven Lesens die wesentlichen Informationen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Texten durch Strategien des ex-\ntensiven Lesens die wesentli-\nchen Informationen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "führen Phasen der Textproduktion selbstständig durch,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• führen Phasen der Textproduk-\ntion selbstständig durch, ",
+        "residual_flags": []
+      },
+      {
+        "content": "nutzen regelmäßig und unaufgefordert die lexikalischen Anhänge des Lehrwerks und zunehmend besser zweisprachige (Online-)Wörterbücher sowie die",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• nutzen regelmäßig und unaufge-\nfordert die lexikalischen An-\nhänge des Lehrwerks und zu-\nnehmend besser zweisprachige \n(Online-)Wörterbücher sowie die ",
+        "residual_flags": []
+      },
+      {
+        "content": "benutzen digitale Medien und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• benutzen digitale Medien und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Werkzeuge (z. B. fremdsprachliche Lernsoftware),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Werkzeuge (z. B. fremdsprachli-\nche Lernsoftware), ",
+        "residual_flags": []
+      },
+      {
+        "content": "kontrollieren sich selbst und die",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• kontrollieren sich selbst und die ",
+        "residual_flags": []
+      },
+      {
+        "content": "Partnerin oder den Partner (z. B.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Partnerin oder den Partner (z. B. ",
+        "residual_flags": []
+      },
+      {
+        "content": "durch unterschiedliche Feedbackmethoden),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "durch unterschiedliche Feed-\nbackmethoden), ",
+        "residual_flags": []
+      },
+      {
+        "content": "schätzen ihren Lernerfolg weitgehend selbstständig ein und kontrollieren und dokumentieren ihn (z. B. mithilfe eines (digitalen) Portfolios).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• schätzen ihren Lernerfolg weit-\ngehend selbstständig ein und \nkontrollieren und dokumentieren \nihn (z. B. mithilfe eines (digita-\nlen) Portfolios). ",
+        "residual_flags": []
+      },
+      {
+        "content": "setzen in kooperativen Unterrichtsphasen konsequent und durchgängig die Fremdsprache als Arbeitssprache ein,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• setzen in kooperativen Unter-\nrichtsphasen konsequent und \ndurchgängig die Fremdsprache \nals Arbeitssprache ein, ",
+        "residual_flags": []
+      },
+      {
+        "content": "gestalten Lern- und Arbeitsprozesse selbstständig und kooperativ (u. a. legen sie Arbeitsziele fest, sichten und beschaffen Material, gestalten Präsentationen),",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• gestalten Lern- und Arbeitspro-\nzesse selbstständig und koope-\nrativ (u. a. legen sie Arbeitsziele \nfest, sichten und beschaffen Ma-\nterial, gestalten Präsentationen), ",
+        "residual_flags": []
+      },
+      {
+        "content": "arbeiten selbstständig mit analogen und digitalen Medien und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• arbeiten selbstständig mit analo-\ngen und digitalen Medien und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Werkzeugen (z. B. Lernsoftware, (Online-)Wörterbüchern, (Online-)Textkorpora) situationsangemessen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Werkzeugen (z. B. Lernsoftware, \n(Online-)Wörterbüchern, (On-\nline-)Textkorpora) situationsan-\ngemessen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "erschließen und gliedern längere fremdsprachliche Texte aufgabenbezogen (z. B. finden sie",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• erschließen und gliedern längere \nfremdsprachliche Texte aufga-\nbenbezogen (z. B. finden sie ",
+        "residual_flags": []
+      },
+      {
+        "content": "Überschriften und Zwischenüberschriften oder stellen Inhalte in einem Schaubild dar) und fassen sie zusammen,",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Überschriften und Zwischen-\nüberschriften oder stellen Inhalte \nin einem Schaubild dar) und fas-\nsen sie zusammen, ",
+        "residual_flags": []
+      },
+      {
+        "content": "reflektieren selbstständig ihren",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "• reflektieren selbstständig ihren ",
+        "residual_flags": []
+      },
+      {
+        "content": "Lernprozess und kontrollieren und dokumentieren ihn (u. a.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Lernprozess und kontrollieren \nund dokumentieren ihn (u. a. ",
+        "residual_flags": []
+      },
+      {
+        "content": "mithilfe eines (digitalen) Portfolios, in der Auseinandersetzung mit Testformaten, in Prüfungen und ggf. durch die Beteiligung an außerschulischen Zertifikatsprüfungen).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "SL Sprachlernkompetenz",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "mithilfe eines (digitalen) Portfo-\nlios, in der Auseinandersetzung \nmit Testformaten, in Prüfungen \nund ggf. durch die Beteiligung an \naußerschulischen Zertifikatsprü-\nfungen). ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 39,
+          "printed_page": 39
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "SL Sprachlernkompetenz"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "SL Sprachlernkompetenz",
+        "printed_page_range": "39"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

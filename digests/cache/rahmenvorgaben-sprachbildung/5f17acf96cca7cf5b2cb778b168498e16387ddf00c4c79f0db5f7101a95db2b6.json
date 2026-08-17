@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5f17acf96cca7cf5b2cb778b168498e16387ddf00c4c79f0db5f7101a95db2b6"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The purpose of describing discontinuous representation forms is to verbalize non-linguistic representations and thereby enable statements about an object.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 7: BESCHREIBEN DISKONTINUIERLICHER DARSTELLUNGSFORMEN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "nicht-\nsprachliche Darstellungen zu verbalisieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can analyze images, symbolic representations, tables and simple graphic representations, extract information from them and reproduce it.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 7: BESCHREIBEN DISKONTINUIERLICHER DARSTELLUNGSFORMEN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "einfache grafische Darstellungen analysieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can identify and name individual elements and make statements about them, establishing relations between elements and statements.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 7: BESCHREIBEN DISKONTINUIERLICHER DARSTELLUNGSFORMEN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "einzelne Elemente identifizieren, benennen und Aussagen über sie treffen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can describe a visual representation (e.g. a figure, table, drawing, diagram) using speech means and vocabulary lists.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 7: BESCHREIBEN DISKONTINUIERLICHER DARSTELLUNGSFORMEN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "eine visuelle Darstellung",
+        "residual_flags": []
+      },
+      {
+        "content": "The purpose of defining (Definieren) is to lay out the content of a concept and delimit it from other concepts.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 7: BESCHREIBEN DISKONTINUIERLICHER DARSTELLUNGSFORMEN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Das Definieren hat den Zweck, den Inhalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can reproduce a definition for a technical term and formulate a definition as a complete sentence.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 7: BESCHREIBEN DISKONTINUIERLICHER DARSTELLUNGSFORMEN",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "eine Definition für einen Fachbegriff",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 7: BESCHREIBEN DISKONTINUIERLICHER DARSTELLUNGSFORMEN"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 7: BESCHREIBEN DISKONTINUIERLICHER DARSTELLUNGSFORMEN",
+        "printed_page_range": "21"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

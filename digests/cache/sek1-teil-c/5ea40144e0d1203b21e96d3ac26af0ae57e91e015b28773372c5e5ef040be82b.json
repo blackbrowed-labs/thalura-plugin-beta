@@ -1,0 +1,168 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5ea40144e0d1203b21e96d3ac26af0ae57e91e015b28773372c5e5ef040be82b"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Assessment in the subject computer science relates to five competence areas.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die Leistungsbewertung im Fach Informatik bezieht sich auf die fünf Kompetenzbereiche:",
+        "residual_flags": []
+      },
+      {
+        "content": "The five competence areas are analysing and understanding IT systems, designing IT systems, representing and interpreting, justifying and evaluating, and communicating and cooperating.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Informatiksysteme analysieren und verstehen \n• \nInformatiksysteme gestalten \n• \nDarstellen und Interpretieren \n• \nBegründen und Bewerten \n• \nKommunizieren und Kooperieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Practical aspects of abilities, skills and knowledge acquired in class are also taken into particular account.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Berücksichtigung finden dabei insbesondere auch fachpraktische Aspekte der im Unterricht \nvon den Schülerinnen und Schülern erworbenen Fähigkeiten, Fertigkeiten und Kenntnisse.",
+        "residual_flags": []
+      },
+      {
+        "content": "Tasks relating to products, projects and their documentation are especially suitable for assessment in computer science.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Produkte sowie Projekte und deren Dokumentation beziehen, \nsind zur Leistungsbewertung im Informatikunterricht besonders geeignet.",
+        "residual_flags": []
+      },
+      {
+        "content": "The areas of achievement in the subject computer science include the following.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Zu den Bereichen der Leistungserbringung im Fach Informatik gehören insbesondere:",
+        "residual_flags": []
+      },
+      {
+        "content": "Achievement areas include handling basic computer-science competencies and their transfer plus applying subject-specific techniques, and solving computational problems.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Umgang mit Basiskompetenzen der Informatik und deren Transfer sowie Anwendung \nfachspezifischer Arbeitstechniken \n• \nLösung informatischer Probleme",
+        "residual_flags": []
+      },
+      {
+        "content": "Achievement areas include planning, conducting, evaluating and documenting projects, especially in software development, and project management.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Planung, Durchführung, Evaluation und Dokumentation von Projekten, insbesondere \nim Zusammenhang mit der Entwicklung von Software \n• \nProjektmanagement",
+        "residual_flags": []
+      },
+      {
+        "content": "Achievement areas include preparing and presenting data and its evaluation and interpretation, and using theoretical and applied mathematics for computational problems.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Aufbereitung und Darstellung von Daten sowie deren Auswertung und Interpretation \n• \nNutzung und Beherrschung von theoretischer und angewandter Mathematik zur Unter-\nsuchung informatischer Fragestellungen und zum Lösen informatischer Probleme",
+        "residual_flags": []
+      },
+      {
+        "content": "Achievement areas include transfer between theoretical and applied computer science, and interdisciplinary exploring, communicating and problem-solving.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Transfer von theoretischer zu angewandter Informatik und umgekehrt \n• \nfachübergreifendes Erkunden, Kommunizieren und Problemlösen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7h) Informatik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7h) Informatik",
+        "printed_page_range": "25"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

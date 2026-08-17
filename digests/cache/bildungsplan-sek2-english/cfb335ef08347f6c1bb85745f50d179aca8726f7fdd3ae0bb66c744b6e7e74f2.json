@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:cfb335ef08347f6c1bb85745f50d179aca8726f7fdd3ae0bb66c744b6e7e74f2"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Rationale: hardly any subject is discussed as controversially as globalisation in its social, ecological, cultural and economic dimensions.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 7 Global Chances and Challenges",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Kaum ein Thema wird so kontrovers diskutiert wie die Globalisierung in \nihren gesellschaftlichen, ökologischen, kulturellen und wirtschaftlichen \nDimensionen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Because English plays an outstanding role in global discourse, students also reflect on the global role of English and their own language-learning experience.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 7 Global Chances and Challenges",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Da in diesen Diskursen Englisch eine \nherausragende Rolle spielt, bietet sich den Schülerinnen und Schülern \nauch die Gelegenheit, über die globale Rolle der englischen Sprache \nund ihre eigenen Sprachlernerfahrungen zu reflektieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "All topic areas allow subject-specific access via film and literature, e.g. climate fiction, migration literature.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 7 Global Chances and Challenges",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Alle Themenbe-\nreiche erlauben fachspezifische Zugriffe über Film und Literatur (z. B. \nclimate fiction, migration literature)",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: social sustainability (access to education, poverty reduction).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 7 Global Chances and Challenges",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "social sustainability (e. g. access to education, poverty reduction)",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: conflict and cooperation (internationalism/multilateralism vs. isolationism, the global role of the United States or Britain).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 7 Global Chances and Challenges",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "conflict and cooperation (e. g. internationalism/multilateralism vs. \nisolationism, the global role of the United States or Britain)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S1–4 7 Global Chances and Challenges"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "S1–4 7 Global Chances and Challenges",
+        "printed_page_range": "32–33"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

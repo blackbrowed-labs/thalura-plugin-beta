@@ -1,0 +1,77 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:edde760cab229c91234e88445c15cbe8ffd24111d65a788677929c0301819338"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology",
+      "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Geeignet sind materialgebundene Aufgaben mit Texten, Untersuchungsergebnissen, Fallbeispielen, Grafiken, Bildserien und Tabellen mit Testergebnissen.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Texte, Untersuchungsergebnisse, Fallbeispiele, Grafiken, Bildserien und auch Tabellen mit \nTestergebnissen vorgelegt werden",
+        "residual_flags": []
+      },
+      {
+        "content": "Inhaltlich beziehen sich die Aufgaben auf psychische Phaenomene, die psychologische Empirie oder die psychologische Theorie.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology",
+          "document_title": "Abiturrichtlinie Psychologie",
+          "source_pdf_sha256": "ca4878eee6702dc487746e8aec7acfab868331f3070426c7267e1b51e0e56af7",
+          "section_anchor": "4.2 Aufgabenarten",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "beziehen sich die Aufgaben auf psychische \nPhänomene, die psychologische Empirie",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.2 Aufgabenarten"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology",
+        "section_anchor": "4.2 Aufgabenarten",
+        "printed_page_range": "10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

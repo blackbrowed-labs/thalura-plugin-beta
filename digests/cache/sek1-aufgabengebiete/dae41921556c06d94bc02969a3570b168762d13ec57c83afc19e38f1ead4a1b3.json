@@ -1,0 +1,476 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:dae41921556c06d94bc02969a3570b168762d13ec57c83afc19e38f1ead4a1b3"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Media education aims to prepare students for competent, active and responsible participation in life.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Medienerziehung hat zum Ziel, Schülerinnen und Schüler angemessen auf das Leben in der",
+        "residual_flags": []
+      },
+      {
+        "content": "Advancing digitalisation of all areas of life brings a constant change in people's everyday life.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Die fortschreitende Digitalisierung aller Lebensbereiche bewirkt einen stetigen Wandel des",
+        "residual_flags": []
+      },
+      {
+        "content": "Beyond traditional cultural techniques, media competence is an important prerequisite for participation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Neben den herkömmlichen Kulturtechniken ist Medienkompetenz eine bedeutende",
+        "residual_flags": []
+      },
+      {
+        "content": "Digital media also create risks and dangers for children and young people.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Durch digitale Medien entstehen auch Risiken",
+        "residual_flags": []
+      },
+      {
+        "content": "Media education reaches into the entire school day and supports critical engagement with media.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Medienerziehung wirkt in den gesamten Schulalltag hinein",
+        "residual_flags": []
+      },
+      {
+        "content": "Media education fosters critical awareness of data protection, privacy and legal security.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "fördert Medienerziehung in einem schützenden Rahmen bei den Schülerinnen",
+        "residual_flags": []
+      },
+      {
+        "content": "Media education reveals mechanisms, manipulation strategies and business models of media.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Medienerziehung zeigt ferner Wirkmechanismen, Manipulationsstrategien",
+        "residual_flags": []
+      },
+      {
+        "content": "Competence area 1 covers searching, processing and storing.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "1 Suchen, Verarbeiten und Aufbewahren",
+        "residual_flags": [
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Students find age-appropriate content in analogue and digital media under guidance.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "finden unter Anleitung zielgerichtet und kriteriengeleitet Zugang",
+        "residual_flags": []
+      },
+      {
+        "content": "Students critically check their sources against provided or developed criteria.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "prüfen ihre Quellen kritisch anhand bereitgestellter oder erarbeiteter Kriterien",
+        "residual_flags": [
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Competence area 2 covers communicating and cooperating.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "2 Kommunizieren und Kooperieren",
+        "residual_flags": [
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Students know rules of conduct and netiquette in the digital space.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "kennen Verhaltensregeln im persönlichen Gespräch bzw. Netiquette im digitalen Raum",
+        "residual_flags": []
+      },
+      {
+        "content": "Competence area 3 covers producing and presenting.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "3 Produzieren und Präsentieren",
+        "residual_flags": [
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Students know the basic significance of copyright, intellectual property and image rights.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "kennen die grundlegende Bedeutung von Urheberrecht, geistigem Eigentum",
+        "residual_flags": [
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Competence area 4 covers protecting and acting safely.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "4 Schützen und sicher agieren",
+        "residual_flags": [
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Students know about risks and dangers online and how to protect their privacy.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "wissen um Risiken und Gefahren im Netz und kennen Möglichkeiten",
+        "residual_flags": [
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Students know about addiction-promoting functions in computer games and social media.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 40,
+          "physical_page": 40
+        },
+        "cited_text": "wissen um suchtfördernde Funktionen in Computerspielen und Social Media",
+        "residual_flags": [
+          "page-multi-match:physical-40-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Competence area 5 covers problem-solving and acting.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "5 Problemlösen und Handeln",
+        "residual_flags": [
+          "page-multi-match:physical-41-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Competence area 6 covers analysing and reflecting.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "6 Analysieren und Reflektieren",
+        "residual_flags": [
+          "page-multi-match:physical-41-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "At the end of secondary level I students independently find access to appropriate content.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "finden selbstständig, zielgerichtet und kriteriengeleitet Zugang zu sachgerechten Inhalten",
+        "residual_flags": []
+      },
+      {
+        "content": "Students recognise potentially dangerous or inappropriate media content.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 41,
+          "physical_page": 41
+        },
+        "cited_text": "erkennen potenziell gefährliche oder unangemessene Medieninhalte",
+        "residual_flags": []
+      },
+      {
+        "content": "The whole media-education curriculum is based on the digital-education strategy (2016/21).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "Für das gesamte Curriculum zur Medienerziehung ist die",
+        "residual_flags": []
+      },
+      {
+        "content": "The model formulates four competences important for 21st-century learners.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "In diesem Modell werden vier Kompetenzen formuliert",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 1 covers using the school platform and cloud solutions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 43,
+          "physical_page": 43
+        },
+        "cited_text": "Themenbereich 1: Schuleigene Plattform und Cloud-Lösungen nutzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 2 addresses the internet as a social space.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Themenbereich 2: Sozialraum Internet",
+        "residual_flags": []
+      },
+      {
+        "content": "Content covers cyberbullying: definition, cases and effects on victims.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 44,
+          "physical_page": 44
+        },
+        "cited_text": "Cybermobbing: Definition, Fälle, Wirkungen auf Opfer",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 4 addresses legal matters (data protection, copyright).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Themenbereich 4: Rechtliches",
+        "residual_flags": []
+      },
+      {
+        "content": "Content covers personality rights and the right to one's own image.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Persönlichkeitsrechte, Recht am eigenen Bild",
+        "residual_flags": []
+      },
+      {
+        "content": "Content covers copyright and CC licences with source attribution for text and image.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.5 Medienerziehung",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Urheberrecht und CC-Lizenzen, Quellenangaben bei Text, Bild,",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 39,
+          "printed_page": 39
+        },
+        {
+          "physical_page": 40,
+          "printed_page": 40
+        },
+        {
+          "physical_page": 41,
+          "printed_page": 41
+        },
+        {
+          "physical_page": 42,
+          "printed_page": 42
+        },
+        {
+          "physical_page": 43,
+          "printed_page": 43
+        },
+        {
+          "physical_page": 44,
+          "printed_page": 44
+        },
+        {
+          "physical_page": 45,
+          "printed_page": 45
+        },
+        {
+          "physical_page": 46,
+          "printed_page": 46
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.5 Medienerziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.5 Medienerziehung",
+        "printed_page_range": "39–46"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

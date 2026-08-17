@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:80da8d5d7c8130d653753cedc843d4d5b0e620caf9bad445f4d43f4968b1e153"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content anchors: semester topic 'Literary Visions of the Future' (topic area B, universal themes of humanity) and 'Crime and Punishment' (topic area A, contemporary political and social themes).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "o Semesterthema Literary Visions of the Future \nThemenbereich B: Universelle Themen der Menschheit \no Semesterthema Crime and Punishment \nThemenbereich A: Politische und soziale Themen der Gegen-\nwart",
+        "residual_flags": []
+      },
+      {
+        "content": "Under intercultural competences, students are familiar with contemporary political and social topics in at least one/two target-language countries and with universal themes such as identity, love, the future, death.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "– Themen, die universelle Bedeutung haben, wie z.B. Identität, \nLiebe, Zukunft, Tod.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching of 'Literary Visions of the Future' covered definitions and examples of utopias and dystopias, with The Circle read in extracts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "• Definitionen und Beispiele verschiedener Utopien und Dystopien \n(der Roman The Circle wurde in Auszügen behandelt)",
+        "residual_flags": []
+      },
+      {
+        "content": "Central topic fields covered included totalitarianism, artificial intelligence, the digital individual, virtual reality, biotechnology and transhumanism, and post-apocalyptic scenarios.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "• Behandlung zentraler Themenfelder (Totalitarianism, Artificial Intel-\nligence, The Digital Individual, Virtual Reality, Biotechnology and \nTranshumanism, Post-Apocalyptic Scenarios)",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching of 'Crime and Punishment' covered the functions of punishment: retribution, rehabilitation, incapacitation, deterrence.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "• Funktionen von Strafe (retribution, rehabilitation, incapacitation, de-\nterrence)",
+        "residual_flags": []
+      },
+      {
+        "content": "Film analysis in that semester was done on the film Boy A.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Crime — III Unterrichtsmaterial / Bildungsplanbezüge",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "• Filmanalyse anhand von: Boy A",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Crime — III Unterrichtsmaterial / Bildungsplanbezüge"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Crime — III Unterrichtsmaterial / Bildungsplanbezüge",
+        "printed_page_range": "19–20"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

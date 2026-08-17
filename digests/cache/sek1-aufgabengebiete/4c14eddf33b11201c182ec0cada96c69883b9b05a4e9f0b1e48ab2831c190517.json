@@ -1,0 +1,475 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:4c14eddf33b11201c182ec0cada96c69883b9b05a4e9f0b1e48ab2831c190517"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Health promotion (Gesundheitsförderung) aims to give all people a greater degree of self-determination and thereby enable them to strengthen their health.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Gesundheitsförderung zielt darauf ab, allen Menschen ein höheres Maß an Selbstbestimmung \nzu ermöglichen und sie damit zur Stärkung ihrer Gesundheit zu befähigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Within school offerings, young people are encouraged to take responsibility for their own health and that of others.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Im Rahmen schu-\nlischer Angebote werden junge Menschen ermutigt, Verantwortung für die eigene Gesundheit \nund die der Mitmenschen zu übernehmen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Health is not merely the absence of physical illness: it comprises physical, mental and social well-being.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Gesundheit beschränkt sich nicht auf die Abwesen-\nheit körperlicher Krankheit: Sie umfasst das körperliche, das seelische und das soziale Wohl-\nbefinden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Health is influenced by individual as well as sociocultural, economic and ecological conditions; income, education, equity, a health-promoting lifestyle and the possibility of social participation strongly affect individual well-being.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Gesundheit des Menschen wird durch individuelle sowie durch soziokulturelle, \nökonomische und ökologische Rahmenbedingungen beeinflusst. Einkommen, Bildung, Chan-\ncengerechtigkeit, ein gesundheitsförderlicher Lebensstil und die Möglichkeit der gesellschaft-\nlichen Teilhabe haben eine große Wirkung auf das individuelle Wohlbefinden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Health is an influenceable process; positive development of the influencing factors builds up resistance resources (Widerstandsressourcen).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Gesundheit \nist demnach ein beeinflussbarer Prozess. Durch eine positive Entwicklung der Einflussfaktoren \nlassen sich Widerstandsressourcen aufbauen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Health promotion targets concrete student behaviour but also enables students to reflect their own values and life goals against the life designs of others.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Gesundheitsförderung nimmt konkretes Verhalten der Schülerinnen und Schüler in den Blick, \nbefähigt sie aber auch, eigene Werte und Lebensziele vor dem Hintergrund der Lebensent-\nwürfe anderer zu reflektieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students engage with the importance of balanced nutrition, healthy sleep and exercise, and orient their own lifestyle through practical trial and reflection.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Schülerinnen und Schüler setzen sich bspw. mit der Bedeu-\ntung einer ausgewogenen Ernährung, eines gesunden Schlafs sowie der Bewegung für die \neigene Gesundheit auseinander. Durch praktische Erprobung und Reflexion erhalten sie die \nMöglichkeit, sich für die eigene Lebensführung daran zu orientieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "A particular focus lies on developing self-esteem and thereby strengthening mental health; students learn problem-solving strategies, and success experiences strengthen self-efficacy, resilience and psychological resistance.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Ein besonderer Fokus der Gesundheitsförderung liegt auf der Entwicklung von Selbstwertge-\nfühl und auf der damit verbundenen Stärkung der psychischen Gesundheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students know internal and external support services and develop an informed, self-responsible stance, including on the effects and risks of consuming potential addictive substances, and know ways to reduce stress without them.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Schülerinnen und Schüler kennen schulinterne sowie externe Hilfsangebote \nund entwickeln eine aufgeklärte und eigenverantwortliche Haltung, auch in Bezug auf Wirk-\nweisen und Risiken des Konsums potenzieller Suchtmittel.",
+        "residual_flags": []
+      },
+      {
+        "content": "The school has a role-model function in creating a health-promoting living environment in which students can try out and apply what they have learned.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Schule hat eine Vorbildfunktion bei der Gestaltung eines gesundheitsförderlichen Leben-\nsumfelds, in dem Schülerinnen und Schüler Gelerntes erproben und anwenden können.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Erkennen E1: students acquire knowledge of factors influencing physical and mental health and can distinguish balanced from unbalanced consumption/usage behaviour.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "a) erwerben Kenntnisse zu Einflussfaktoren auf die körperliche und die seelische Gesundheit. \nb) können zwischen ausgewogenem und unausgewogenem Konsum bzw. Nutzungsverhalten unter-\nscheiden",
+        "residual_flags": [
+          "source-typo-verbatim: item b) ends without a full stop ('… unterscheiden')"
+        ]
+      },
+      {
+        "content": "End of grade 6, E2 (perceiving and strengthening resources): students name negative and positive feelings, express their own needs, and describe and try out methods for dealing with stressful situations while knowing the school's support services.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "b) beschreiben und erproben Methoden, um mit belastenden Situationen umzugehen, und kennen \nschulinterne Hilfsangebote.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Bewerten B1: students relate knowledge of a health-promoting lifestyle to their own conduct, derive attainable goals, and explain possible effects of unreflected consumption on their own health.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "a) setzen Kenntnisse zu einer gesundheitsförderlichen Lebensweise in Bezug zu ihrer eigenen Lebens-\nführung und leiten erreichbare Ziele daraus ab.  \nb) erläutern mögliche Auswirkungen unreflektierten Konsums auf die eigene Gesundheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Handeln H1/H2: students develop a responsible attitude towards their physical and mental health, make conscious consumption and leisure decisions, and use coping strategies, protective measures and support services in conflict and stress situations.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "a) nutzen in Konflikt- und Belastungssituationen Bewältigungsstrategien und Schutzmaßnahmen und \nnutzen Hilfsangebote.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sekundarstufe I, E1: students extend their knowledge of influencing factors and of prevention options for selected illnesses, and define criteria of balanced consumption plus ways to shape a health-promoting personal environment.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "a) erweitern ihre Kenntnisse zu Einflussfaktoren auf die körperliche und seelische Gesundheit sowie zu \nVorsorgemöglichkeiten in Bezug auf ausgewählte Erkrankungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, E2: students name their own resources for physical and mental health maintenance and identify suitable methods for coping with conflict and stress, knowing school and out-of-school counselling services.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "b) erschließen sich individuell geeignete Methoden zur Bewältigung von Konflikt- und Belastungssituati-\nonen und kennen schulische und außerschulische Hilfs- und Beratungsangebote.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, B1: students select information on a health-promoting and sustainable lifestyle by research, evaluate it, and draw conclusions for their own health behaviour; they assess consumption effects also with regard to social and ecological sustainability.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "a) wählen recherchegeleitet Informationen zu einer gesundheitsförderlichen und nachhaltigen Lebens-\nführung aus. Sie bewerten diese und ziehen daraus Schlüsse für das eigene gesundheitsbezogene \nVerhalten.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, B2: against the background of a value-based, democratic and pluralistic society, students engage with their own individuality, with differing life designs and with health impairments.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "a) setzen sich vor dem Hintergrund einer wertebasierten, demokratischen und pluralistischen Gesell-\nschaft mit der eigenen Individualität sowie mit unterschiedlichen Lebensentwürfen und gesundheitli-\nchen Beeinträchtigungen auseinander.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, H1: students behave responsibly regarding their physical and mental health, avoid potentially self-endangering behaviour by identifying individual causes and using health-promoting alternatives, and take societal responsibility through informed consumption decisions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "a) verhalten sich verantwortungsbewusst in Bezug auf ihre körperliche und seelische Gesundheit und \nmeiden potenziell selbstgefährdendes Verhalten, indem sie individuelle Ursachen identifizieren und \ngesundheitsförderliche Handlungsalternativen nutzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 1 (grades 5/6), personality development: individuality (interests, abilities, physical and mental development, dealing with illness), influencing factors (feelings, stress prevention, support services, critical engagement with beauty ideals and body images, own consumption patterns).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "1.2 Einflussfaktoren auf die Persönlichkeit \n• eigene und fremde Gefühle sowie eigene Bedürfnisse und Anfor-\nderungen von außen \n• Umgang mit negativen Gefühlen und Prävention von Stress  \n• geeignete Hilfsangebote \n• kritische Auseinandersetzung mit Schönheitsidealen und Körper-\nbildern \n• eigene Konsummuster",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.3 (grades 5/6): strengthening life skills according to the WHO, acceptance of one's own personality, awareness of strengths and weaknesses, dealing with psychosocial burdens and stress, experiencing self-efficacy, and developing empathy, tolerance and respect.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "1.3 Entwicklung der Persönlichkeit \n• Stärkung der Lebenskompetenzen nach der WHO",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 2 (grades 5/6), nutrition: the importance of balanced nutrition, harmful aspects of excessive sugar, fat or caffeine consumption, consequences of unbalanced diets, preparing balanced meals under hygiene rules, and critical engagement with advertising strategies.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "2.1 Ernährung  \n• Bedeutung einer ausgewogenen Ernährung für das körperliche \nund seelische Wohlbefinden sowie für die Leistungsfähigkeit \n• potenziell gesundheitsschädigende Aspekte übermäßigen Zu-\ncker-, Fett- oder Koffeinkonsums",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.3 (grades 5/6), addiction protection: distinguishing stimulants from addictive substances, age limits under the Jugendschutzgesetz for nicotine- and alcohol-containing products, and distinguishing substance-bound from non-substance-bound addictions such as excessive media use.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "• Altersbeschränkungen beim Erwerb von nikotin- und alkoholhal-\ntigen Produkten nach dem Jugendschutzgesetz",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.3 also names flow experience and intermittent reinforcement in computer games and social media as factors that can drive excessive consumption, plus alternatives such as breathing exercises, meditation, music, art and sport.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "• Flow-Erlebnis und intermittierende Verstärkungen bei Computer-\nspielen und in Social Media als Faktoren, die exzessiven Kon-\nsum bewirken können",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 3 (grades 5/6), physical and mental well-being: health-promoting effects of exercise, body perception, relaxation techniques (e.g. progressive muscle relaxation, conscious abdominal breathing), and ergonomic/dynamic sitting at the workplace.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "• Erlernen von Entspannungstechniken (z. B. progressive Mus-\nkelentspannung oder bewusste Bauchatmung) \n• Erarbeiten und Angewöhnen eines ergonomischen/dynamischen \nSitzens am Arbeitsplatz",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 3.3 (grades 5/6), hygiene, safety and noise protection: protection from infectious disease, adequate body hygiene during puberty, medical check-ups, fire-alarm behaviour, making an emergency call, first-aid knowledge, and noise exposure and prevention.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "3.3 Hygiene-, Sicherheits- und Lärmschutzmaßnahmen \n• Schutz vor Infektionskrankheiten \n• adäquate Körperhygiene während der Pubertät \n• Bedeutung medizinischer Vorsorgeuntersuchungen \n• Verhalten zum Brandschutz bei Feueralarm \n• Absetzen eines Notrufs",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 4 (grades 7–10): acceptance of physical and mental development and of one's own sexual orientation, dealing with impairments, and own resources favouring resilience; also eating-disorder risk factors and links between socioeconomic status and health.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "• Gründe und Risikofaktoren bei der Entstehung von Essstörun-\ngen und der nicht realistischen Wahrnehmung des eigenen Kör-\nperbildes",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 4.3 (grades 7–10) includes engagement with organ donation and the Transplantationsgesetz, strategies for self-organised learning, chances of digital media, and empathy, tolerance and respect for others.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "• Auseinandersetzung mit dem Transplantationsgesetz",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 5 (grades 7–10), addiction protection: spread, effects and risks of legal and illegal drugs, rules of the Jugendschutz- and Betäubungsmittelgesetz, short- and long-term effects of nicotine, alcohol, cannabis and caffeine, and the addictive potential of social media and computer games.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "• Verbreitung, Wirkweise und Risiken legaler und illegaler Drogen \n• Regeln des Jugendschutz- und Betäubungsmittelgesetzes",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 6 (grades 7–10), mental well-being: signs of depression and use of support services where needed, self-care through acceptance of one's own weaknesses, plus hygiene, fire safety, first aid and noise-protection measures.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.2 Gesundheitsförderung",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "• Anzeichen einer Depression und bei Bedarf Inanspruchnahme \nvon Hilfsangeboten",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Gesundheitsförderung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.2 Gesundheitsförderung",
+        "printed_page_range": "13–21"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

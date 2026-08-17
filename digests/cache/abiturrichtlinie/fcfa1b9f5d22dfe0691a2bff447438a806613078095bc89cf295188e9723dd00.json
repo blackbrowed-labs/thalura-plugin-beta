@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:fcfa1b9f5d22dfe0691a2bff447438a806613078095bc89cf295188e9723dd00"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie",
+      "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "At the latest on the day before the examination, the Referent presents the task, the grading rubric (Erwartungshorizont), the assessment specifications and the instructional prerequisites to the members of the subject examination board (Fachprüfungsausschuss).",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Referentin bzw. der Referent legt den Mitgliedern des Fachprüfungsausschusses \nspätestens am Tag vor der Prüfung die Aufgabenstellung, den Erwartungshorizont und \ndie Vorgaben zur Bewertung der Prüfungsleistung sowie die unterrichtlichen Vorausset-\nzungen vor.",
+        "residual_flags": []
+      },
+      {
+        "content": "The grading rubric (Erwartungshorizont) contains the assignment of tasks to the requirement areas (Anforderungsbereiche), the expected solutions and their assignment to those areas, and where applicable a weighting of the sub-tasks.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der Erwartungshorizont enthält: \n• \nAngaben zur Zuordnung der Aufgaben zu den Anforderungsbereichen, \n• \nAngaben zu den erwarteten Lösungen und deren Zuordnung zu den Anforderungs-\nbereichen, \n• \nggf. eine Gewichtung der Teilaufgaben.",
+        "residual_flags": []
+      },
+      {
+        "content": "The grading rubric and the assessment specifications are part of the record (Niederschrift) of the oral examination.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der \nErwartungshorizont und die Vorgaben zur Bewertung der Prüfungsleistung sind Teil der \nNiederschrift über den Verlauf der mündlichen Prüfung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The oral examination consists of two equivalent parts requiring, on the one hand, the ability to give a presentation and, on the other, to hold a topic-bound discussion.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die mündliche Prüfung besteht aus zwei gleichwertigen Teilen, die einerseits die Fähig-\nkeit zum Vortrag, andererseits die zum themengebundenen Gespräch verlangen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie",
+        "section_anchor": "5.1 Mündliche Prüfung gemäß § 26 Absatz 2 APO-AH",
+        "printed_page_range": "8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

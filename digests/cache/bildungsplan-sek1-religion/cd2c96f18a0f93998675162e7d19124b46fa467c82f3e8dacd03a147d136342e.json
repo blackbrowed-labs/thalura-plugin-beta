@@ -1,0 +1,168 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:cd2c96f18a0f93998675162e7d19124b46fa467c82f3e8dacd03a147d136342e"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-religion",
+      "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Ueberfachliche Kompetenzen bilden die Grundlage fuer erfolgreiche Lernentwicklungen und den Erwerb fachlicher Kompetenzen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "bilden die Grundlage für erfolgreiche Lernentwicklungen und den \nErwerb fachlicher Kompetenzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Vermittlung ueberfachlicher Kompetenzen ist die gemeinsame Aufgabe und gemeinsames Ziel aller Unterrichtsfaecher sowie des gesamten Schullebens.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "die gemeinsame Aufgabe und gemeinsames Ziel aller \nUnterrichtsfächer sowie des gesamten Schullebens",
+        "residual_flags": []
+      },
+      {
+        "content": "Die ueberfachlichen Kompetenzen lassen sich vier Bereichen zuordnen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "sich vier Bereichen zuordnen",
+        "residual_flags": []
+      },
+      {
+        "content": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegenueber; die Schuelerinnen und Schueler sollen Vertrauen in die eigenen Faehigkeiten und die Wirksamkeit des eigenen Handelns entwickeln.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegen-\nüber. Die Schülerinnen und Schüler sollen Vertrauen in die eigenen Fähigkeiten und \ndie Wirksamkeit des eigenen Handelns entwickeln",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivationale Einstellungen beschreiben die Faehigkeit und Bereitschaft, sich fuer Dinge einzusetzen; die Schuelerinnen und Schueler sollen Initiative zeigen und ausdauernd und konzentriert arbeiten.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für \nDinge einzusetzen und zu engagieren. Die Schülerinnen und Schüler sollen lernen, \nInitiative zu zeigen und ausdauernd und konzentriert zu arbeiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Lernmethodische Kompetenzen bilden die Grundlage fuer einen bewussten Erwerb von Wissen und Kompetenzen; die Lernenden sollen Lernstrategien effektiv einsetzen, Medien sinnvoll nutzen und Probleme angemessen loesen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Lernmethodische Kompetenzen bilden die Grundlage für einen bewussten Erwerb \nvon Wissen und Kompetenzen und damit für ein zielgerichtetes, selbstgesteuertes Ler-\nnen. Die Schülerinnen und Schüler sollen lernen, Lernstrategien effektiv einzusetzen \nund Medien sinnvoll zu nutzen. Sie sollen die Fähigkeit entwickeln, unterschiedliche \nArten von Problemen in angemessener Weise zu l",
+        "residual_flags": []
+      },
+      {
+        "content": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen umzugehen und zusammenzuarbeiten, erfolgreich zu kooperieren und sich in Konflikten konstruktiv zu verhalten.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen um-\ngehen und zusammenarbeiten zu können. Dazu zählen die Fähigkeiten, erfolgreich zu \nkooperieren, sich in Konflikten konstruktiv zu verhalten",
+        "residual_flags": []
+      },
+      {
+        "content": "Die ueberfachlichen Kompetenzen sind jahrgangsuebergreifend zu verstehen und werden nicht fuer unterschiedliche Jahrgangsstufen differenziert ausgewiesen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "sind jahrgangs-\nübergreifend zu verstehen, d. h., sie werden anders als die fachlichen Kompetenzen in den \nRahmenplänen nicht für unterschiedliche Jahrgangsstufen differenziert ausgewiesen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die ueberfachlichen Kompetenzen sind bei der Erarbeitung des schulinternen Curriculums zu beruecksichtigen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Erarbeitung des schulinternen Curriculums",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Überfachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-religion",
+        "section_anchor": "2.1 Überfachliche Kompetenzen",
+        "printed_page_range": "10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

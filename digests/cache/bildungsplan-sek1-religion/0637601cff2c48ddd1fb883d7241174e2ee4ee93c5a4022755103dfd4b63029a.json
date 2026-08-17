@@ -1,0 +1,681 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0637601cff2c48ddd1fb883d7241174e2ee4ee93c5a4022755103dfd4b63029a"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-religion",
+      "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Struktur ueberfachlicher Kompetenzen: Selbstwirksamkeit bedeutet, Vertrauen in die eigenen Faehigkeiten zu haben und an die Wirksamkeit des eigenen Handelns zu glauben.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Selbstwirksamkeit \n… hat Vertrauen in die eigenen Fähigkeiten und \nglaubt an die Wirksamkeit des eigenen Handelns",
+        "residual_flags": []
+      },
+      {
+        "content": "Lernstrategien bedeuten, beim Lernen strukturiert und systematisch vorzugehen und eigene Arbeitsprozesse zu planen und zu organisieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Lernstrategien \n… geht beim Lernen strukturiert und systematisch vor, \nplant und organisiert eigene Arbeitsprozesse",
+        "residual_flags": []
+      },
+      {
+        "content": "Medienkompetenz bedeutet, Informationen sammeln, aufbereiten, bewerten und praesentieren zu koennen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Medienkompetenz \n… kann Informationen sammeln, aufbereiten, bewer",
+        "residual_flags": []
+      },
+      {
+        "content": "Kooperationsfaehigkeit bedeutet, gut mit anderen zusammenzuarbeiten und Aufgaben und Verantwortung in Gruppen zu uebernehmen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "arbeitet gut mit anderen zusammen, übernimmt Auf-\ngaben und Verantwortung in Gruppen",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Religionsunterricht erschliesst Religion in drei Kompetenzbereichen, die eng miteinander verschraenkt sind, da sie sich wechselseitig bedingen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "in drei Kompetenzbereichen. Diese Kompetenzbe-\nreiche sind eng miteinander verschränkt, da sie sich wechselseitig bedingen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Kompetenzbereiche beanspruchen keine absolute Trennschaerfe.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "spruchen sie keine absolute Trennsch",
+        "residual_flags": []
+      },
+      {
+        "content": "Dialogkompetenz (D) ist die Faehigkeit zu einer respektvollen, die Perspektiven wechselnden Kommunikation ueber religioese und weltanschauliche Fragen, Erfahrungen, Ueberzeugungen und Lebensweisen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "respektvollen, die Perspektiven wechselnden Kommunikation über religiöse \nund weltanschauliche Fragen, Erfahrungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Urteilskompetenz (U) ist die Faehigkeit, Fragen vor dem Hintergrund religioeser Ueberlieferungen und Ueberzeugungen zu reflektieren und zu einem begruendeten, fuer das eigene Selbstverstaendnis und Handeln relevanten Urteil zu kommen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Fragen vor dem Hintergrund religiöser Überlieferungen und Überzeugungen zu re-\nflektieren und zu einem begründeten, für das eigene Selbstverständnis und Handeln relevan-\ntem Urteil zu kommen",
+        "residual_flags": []
+      },
+      {
+        "content": "Orientierungskompetenz ist die Faehigkeit, die im eigenen Leben relevanten Fragen wahrzunehmen und sich in und durch Religion zu orientieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "die im eigenen Leben relevanten Fragen wahrzunehmen und sich in und durch Re",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Orientierungskompetenz untergliedert sich in vier Teilkompetenzen, die mit den vier Themenbereichen des Kerncurriculums korrespondieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "untergliedert sich in vier Teilkompetenzen, die mit den vier The-\nmenbereichen des Kerncurriculums (s. u.) korrespondieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Teilkompetenz nach Religionen fragen (R): Faehigkeit, Lebens- und Glaubensformen, Geschichte, Quellen und Lehren von Religionen und Kulturen zu verstehen und sie miteinander in Beziehung zu setzen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach Religionen fragen (R) \nFähigkeit, Lebens- und Glaubensformen, Geschichte, Quellen und Lehren von Religionen \nund Kulturen zu verstehen, sie sachkundig aus der jeweiligen Innensicht zu erschließen, \nsie miteinander in Beziehung zu setzen",
+        "residual_flags": []
+      },
+      {
+        "content": "Teilkompetenz nach Gott/Goettlichem/Transzendenz fragen (G): Faehigkeit, Fragen nach Grund, Sinn und Verantwortung des Lebens mit der Frage nach Gott/Goettlichem/Transzendenz zu verknuepfen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Fragen nach Grund, Sinn und Verantwortung des Lebens mit der Frage nach",
+        "residual_flags": []
+      },
+      {
+        "content": "Teilkompetenz nach dem Menschen fragen (M): Faehigkeit, die eigene Identitaet und das Verstaendnis von anderen im Horizont religioeser Botschaften und weltanschaulicher Perspektiven zu entwickeln und zu reflektieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach dem Menschen fragen (M) \nFähigkeit, die eigene Identität und das Verständnis von anderen im Horizont religiöser Bot-\nschaften und weltanschaulicher Perspektiven zu entwickeln",
+        "residual_flags": []
+      },
+      {
+        "content": "Teilkompetenz nach der Verantwortung des Menschen in der Welt fragen (V): Faehigkeit, eigene Vorstellungen von verantwortlichem Handeln und Vorstellungen aus Religionen aufeinander zu beziehen und verantwortungsbewusst zu handeln.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach der Verantwortung des Menschen in der Welt fragen (V) \nFähigkeit, eigene Vorstellungen von verantwortlichem Handeln und Vorstellungen aus Re-\nligionen und relevanten Kontexten aufeinander zu beziehen, zu reflektieren und, darauf \naufbauend, verantwortungsbewusst zu handeln",
+        "residual_flags": []
+      },
+      {
+        "content": "Waehrend die Dialog- und Urteilskompetenz an allen Themen gleichermassen gefoerdert wird, stehen die Teilkompetenzen der Orientierungskompetenz im Fokus jeweils einzelner Themenbereiche und Fragenbereiche.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "die Dialog- und Urteilskompetenz an allen Themen \ngleichermaßen gefördert wird, stehen die Teilkompetenzen der Orientierungskompetenz im \nFokus jeweils einzelner Themenbereiche und Fragenbereiche",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Kompetenzformulierungen enthalten alternativ zu verstehende Klammerausdruecke, sodass sowohl nicht religioese als auch religioese Ueberzeugungen gemeint sein koennen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "beinhalten die nachfolgenden Kompetenzformulie-\nrungen alternativ zu verstehende Klammerausdr",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Religionsunterricht der Stadtteilschule gelten Mindestanforderungen und erhoehte Anforderungen fuer die einzelnen Kompetenzbereiche mit Bezug auf die verschiedenen Bildungsabschluesse.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Im Religionsunterricht der Stadtteilschule gelten für die Schülerinnen und Schüler in den ein-\nzelnen Kompetenzbereichen mit Bezug auf die verschiedenen Bildungsabschl",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Zuordnung zu den Jahrgangsstufen orientiert sich an zwei Unterrichtsstunden in den Jahrgangsstufen 7/8 (Kerncurricula-Module 3.1 bis 3.4) und zwei Unterrichtsstunden in den Jahrgangsstufen 9/10.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "orientiert sich an einer Stundenverteilung von \nzwei Unterrichtsstunden in den Jahrgangsstufen 7/8 (mit den Kerncurricula-Modulen 3.1 – 3.4) \nund zwei Unterrichtsstunden in den Jahrgangsstufen 9/10",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Mindestanforderungen am Ende der Jahrgangsstufe 8 mit Blick auf den mittleren Schulabschluss bieten eine im Detail weiter zu differenzierende Orientierung auch fuer die anderen Abschluesse.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Mindestanforderungen am Ende der Jahrgangsstufe 8 mit Blick auf den mittleren Schul-\nabschluss bieten eine – im Detail weiter zu differenzierende",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Mindestanforderungen am Ende der Jahrgangsstufe 9 mit Blick auf den Uebergang in die Studienstufe beziehen sich auf die Kerncurricula-Module 4.1 bis 4.3.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Mindestanforderungen am Ende der Jahrgangsstufe 9 mit Blick auf den Übergang in die \nStudienstufe beziehen sich auf die Kerncurricula-Module 4.1",
+        "residual_flags": []
+      },
+      {
+        "content": "Dialog D1 (Ende Jg 6): Die Schuelerinnen und Schueler tauschen sich offen ueber eigene Fragen und die vielfaeltigen Elemente von Religionen, Kulturen und Lebensweisen aus, entdecken Gemeinsamkeiten und akzeptieren Unterschiede.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "tauschen sich offen über eigene Fragen, über \ndie vielfältigen Elemente von Religionen, Kultu-\nren und Lebensweisen aus, entdecken Gemein-\nsamkeiten und akzeptieren Unterschiede",
+        "residual_flags": []
+      },
+      {
+        "content": "Dialog D2 (Ende Jg 6): Sie versetzen sich ansatzweise bei Gespraechen in die Rolle des Gegenuebers und benennen, was ihm bzw. ihr wichtig ist.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "versetzen sich ansatzweise bei Gesprächen in \ndie Rolle des Gegenübers und benennen, was \nihm bzw. ihr wichtig ist",
+        "residual_flags": []
+      },
+      {
+        "content": "Dialog D4 (Ende Jg 6): Sie beschreiben an Beispielen, was ihnen an ihrer Religion, Religiositaet und/oder sonstigen Lebensauffassung wichtig ist und was sie an anderen Vorstellungen interessiert oder irritiert.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "printed_page_end": 14,
+          "physical_page": 13
+        },
+        "cited_text": "beschreiben an Beispielen, was ihnen an ihrer \nReligion, ihrer Religiosität und/oder sonstigen \nLebensauffassung wichtig ist und was sie an \nanderen Vorstellungen und Lebensweisen inte-\nressiert oder irritiert. \n• begründen an Beispielen, warum ihnen Ele-\nmente an ihrer Religion, ihrer Religiosität und/ \noder ihrer sonstigen Lebensauffassung, wichtig \nsind und was sie an beispielhaften Elementen \nanderer Vorstellungen und Lebensweisen inte-\nressiert oder irritiert. \n \n\n14 \n \nMindestanforderungen am Ende der Jahrgangsstufe 8  \nmit Blick auf den mittleren Schulabschluss \n \nzu KC-Modulen 3.1 – 3.4 \nD1 \n• stellen anderen Fragen und hören interessiert Antworten, so wie sie selbst in einfachen Worten auf \nFragen antworten und von Elementen der eigenen Überzeugung, Lebensweise, Religion und Kultur \nansatzweise berichten – bei gleichzeitiger Anerkennung anderer Überzeugungen und Lebensweisen, \nD2 \n• geben andere Perspektiven wieder und formulieren anerkennend in einfachen Worten deren Sicht-\nweise auf Sachverhalte, Denk- und Lebensweisen, \nD3 \n• formulieren ansatzweise und in einfachen Worten, wie ihr eigenes Denken und Handeln aus einer \nanderen Perspektive gesehen werden kann, und nennen einzelne Anregungen, die sie daraus für \nsich mitnehmen, \nD4 \n• erläutern ansatzweise und in einfachen Worten, warum ihnen Elemente an ihrer Religion, an ihrer \nReligiosität und/oder ihrer sonstigen Lebensauffassung wichtig sind und was sie an Elementen ande-\nrer Vorstellungen und Lebensweisen interessiert oder irritiert",
+        "residual_flags": []
+      },
+      {
+        "content": "Urteil U1 (Ende Jg 6): Sie stellen im Unterricht erarbeitete religioese und weltanschauliche Grundhaltungen und deren Auswirkungen fuer die Lebensfuehrung in einfachen Worten dar.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "stellen im Unterricht erarbeitete religiöse und \nweltanschauliche Grundhaltungen und deren",
+        "residual_flags": []
+      },
+      {
+        "content": "Urteil U2 (Ende Jg 6): Sie positionieren sich zu religioesen und weltanschaulichen Fragen und begruenden ihre Zustimmung oder Ablehnung in einfachen Worten.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "positionieren sich zu religiösen und weltan-\nschaulichen Fragen und begründen ihre Zustim-\nmung oder Ablehnung in einfachen Worten",
+        "residual_flags": []
+      },
+      {
+        "content": "Urteil U4 (Ende Jg 6): Sie deuten und hinterfragen ggf. ihr eigenes Verhalten und beziehen dabei ethische Massstaebe aus den Religionen und weitere Kriterien ein.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "deuten und hinterfragen ggf. ihr eigenes Verhal-\nten und beziehen dabei ethische Maßstäbe aus \nden Religionen und weitere Kriterien ein",
+        "residual_flags": []
+      },
+      {
+        "content": "R1 (Ende Jg 6): Sie nehmen implizite und explizite Formen von Religion wahr und beschreiben sie in einfachen Worten.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "nehmen implizite und explizite Formen von Reli-\ngion wahr und beschreiben sie in einfachen",
+        "residual_flags": []
+      },
+      {
+        "content": "R2 (Ende Jg 6): Sie kennen Symbole und Realien verschiedener Religionen und koennen sie den Religionen zuordnen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "kennen Symbole und Realien verschiedener \nReligionen, können sie den Religionen zuord",
+        "residual_flags": []
+      },
+      {
+        "content": "R5 (Ende Jg 6): Sie beschreiben einzelne Aspekte aus dem Leben der zentralen Person einer/ihrer Religion und benennen Gemeinsamkeiten und Unterschiede mit zentralen Personen anderer Religionen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "beschreiben einzelne Aspekte aus dem Leben \nder zentralen Person einer/ihrer Religion, be-\nnennen einzelne Gemeinsamkeiten und Unter-\nschiede mit zentralen Personen anderer Religi",
+        "residual_flags": []
+      },
+      {
+        "content": "R1 (Ende Jg 8, mittlerer Schulabschluss, Modul 3.1): Sie wissen, was die gesetzlich garantierte Freiheit vor und zur Religion bedeutet, und kennen die Rechte aus ihrer Religionsmuendigkeit.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "wissen, was die gesetzlich garantierte Freiheit vor und zur Religion bedeutet, und kennen die \nRechte",
+        "residual_flags": []
+      },
+      {
+        "content": "R1 (Jg 9 / Modul 4.1): Sie stellen die zentralen Personen mehrerer Religionen und ihre zentralen Botschaften dar und vergleichen sie ansatzweise miteinander.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "stellen die zentralen Personen \nmehrerer Religionen und ihre \nzentralen Botschaften dar und \nvergleichen sie ansatzweise \nmiteinander",
+        "residual_flags": []
+      },
+      {
+        "content": "G1 (Ende Jg 6): Sie machen sich existenzielle Erfahrungen, Erfahrungen mit Gott/Goettlichem/Transzendenz oder Fragen letzter Bedeutsamkeit bewusst oder versuchen, sich in Menschen hineinzuversetzen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "machen sich existenzielle Erfahrungen, Erfah-\nrungen mit Gott/Göttlichem/Transzendenz oder \nFragen letzter Bedeutsamkeit bewusst oder ver-\nsuchen, sich in Menschen hineinzuversetzen, \ndie solche Erfahrungen beschreiben",
+        "residual_flags": []
+      },
+      {
+        "content": "G4 (Ende Jg 6): Sie kennen verschiedene Gebets- und Besinnungsformen als religioese Ausdrucksformen, beschreiben Gebetspraxis und Gebetsorte einzelner Religionen und kennen ein zentrales Gebet.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "kennen verschiedene Gebets- und Besinnungs-\nformen als religiöse Ausdrucksformen, be-\nschreiben Gebetspraxis und Gebetsorte einzel-\nner Religionen und kennen ein zentrales Gebet",
+        "residual_flags": []
+      },
+      {
+        "content": "G2 (Ende Jg 8, Modul 3.2): Sie stellen ansatzweise in einfachen Worten dar, wie in mehreren Religionen das Jenseits verstanden und wie von dort aus das Diesseits bestimmt wird.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "stellen ansatzweise in einfachen Worten dar, wie in mehreren Religionen das Jenseits verstanden \nund wie von dort aus das Diesseits bestimmt wird",
+        "residual_flags": []
+      },
+      {
+        "content": "G1 (Jg 9 / Modul 4.2): Sie stellen einzelne Argumente atheistischer Religionskritik dar.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "stellen einzelne Argumente \natheistischer Religionskritik \ndar",
+        "residual_flags": []
+      },
+      {
+        "content": "M1 (Ende Jg 6): Sie beschreiben, dass sie und ihre Mitmenschen Staerken, Grenzen und Schwaechen haben.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "beschreiben, dass sie und ihre Mitmenschen \nStärken, Grenzen und Schw",
+        "residual_flags": []
+      },
+      {
+        "content": "M4 (Ende Jg 6): Sie geben naturwissenschaftliche Theorien und religioese Schoepfungserzaehlungen wieder.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "geben naturwissenschaftliche Theorien und reli-\ngiöse Sch",
+        "residual_flags": []
+      },
+      {
+        "content": "M1 (Ende Jg 8, Modul 3.3): Sie beschreiben, wie ihr Alltag durch Digitalisierung gepraegt ist, und untersuchen mit Hilfen ihr eigenes Mediennutzungs- und Kommunikationsverhalten.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "beschreiben, wie ihr Alltag durch Digitalisierung geprägt ist, und untersuchen mit Hilfen ihr eigenes \nMediennutzungs- und Kommunikationsverhalten",
+        "residual_flags": []
+      },
+      {
+        "content": "M1 (Jg 9 / Modul 4.3): Sie analysieren die eigenen Lebenstraeume und -plaene, insbesondere Vorstellungen von Liebe und Partnerschaft, auf die zugrunde liegenden Motive, Ziele und Wertvorstellungen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "analysieren die eigenen Le-\nbensträume und -pläne, ins-\nbesondere auch ihre Vorstel-\nlungen von Liebe und Partner-\nschaft auf die zugrunde lie-\ngenden Motive, Ziele und \nWertvorstellungen",
+        "residual_flags": []
+      },
+      {
+        "content": "M4 (Uebergang Studienstufe, Modul 5.2): Sie analysieren, wie in der Gesellschaft mit Sterben und Tod umgegangen wird.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "analysieren, wie in der Gesellschaft mit Sterben und Tod umgegangen wird",
+        "residual_flags": []
+      },
+      {
+        "content": "V1 (Ende Jg 6): Sie beschreiben gerechte und ungerechte Situationen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "beschreiben gerechte und ungerechte Situatio-\nnen",
+        "residual_flags": []
+      },
+      {
+        "content": "V4 (Ende Jg 6): Sie kennen das Almosengeben (und Vergleichbares) als ein zentrales und verbindendes Element der Religionen und uebertragen es auf ihren Alltag.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "kennen das Almosengeben (und Vergleichba-\nres) als ein zentrales und verbindendes Ele",
+        "residual_flags": []
+      },
+      {
+        "content": "V1 (Ende Jg 8, Modul 3.4): Sie beschreiben an Beispielen die (globalen) Herausforderungen durch den Klimawandel und erlaeutern in einfachen Worten das Prinzip der Nachhaltigkeit.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "beschreiben an Beispielen die (globalen) Herausforderungen durch den Klimawandel und erläutern \nin einfachen Worten das Prinzip der Nachhaltigkeit",
+        "residual_flags": []
+      },
+      {
+        "content": "V2 (Uebergang Studienstufe, Modul 5.3): Sie kennen Utopien und Dystopien aus Religionen, Weltanschauungen und Kultur und vergleichen sie mit der gesellschaftlichen Wirklichkeit.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "kennen Utopien und Dystopien aus Religionen, Weltanschauungen und Kultur und vergleichen sie \nmit der gesellschaftlichen Wirklichkeit",
+        "residual_flags": []
+      },
+      {
+        "content": "Dialog D1 (Uebergang Studienstufe, Module 5.1 bis 5.3): Sie fragen andere nach ihren Auffassungen, Motiven und Begruendungen und geben selbst Auskunft ueber ihre Ueberzeugungen und Lebensweisen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Stadtteilschule Religion",
+          "source_pdf_sha256": "dc0cdedae19dbcc23d4b6a63a31c873f0899afecaa61728042d51652f88d9f50",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "fragen andere nach ihren Auffassungen, Motiven und Begründungen und geben selbst Auskunft",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Fachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-religion",
+        "section_anchor": "2.2 Fachliche Kompetenzen",
+        "printed_page_range": "11–22"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

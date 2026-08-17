@@ -1,0 +1,94 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:a0add750fdceddbc6d75fdaa980ec33e3ac86fb6413fbda5e934018993aa10b1"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Biologie — achievement assessment covers all four competency areas of the science subjects: Sachkompetenz, Erkenntnisgewinnungskompetenz, Kommunikationskompetenz, Bewertungskompetenz.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7c) Biologie",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Die Leistungsbewertung im Biologieunterricht bezieht sich auf alle vier Kompetenzbereiche \nder naturwissenschaftlichen Fächer: \n• \nSachkompetenz \n• \nErkenntnisgewinnungskompetenz \n• \nKommunikationskompetenz \n• \nBewertungskompetenz.",
+        "residual_flags": []
+      },
+      {
+        "content": "Practical subject aspects of the abilities, skills and knowledge acquired in lessons are also taken into account in particular; the areas of performance in Biology include the formulation of research questions and hypotheses.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7c) Biologie",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Berücksichtigung finden dabei insbesondere auch fachpraktische Aspekte der im Unterricht \nvon den Schülerinnen und Schülern erworbenen Fähigkeiten, Fertigkeiten und Kenntnisse. \nZu den Bereichen der Leistungserbringung im Fach Biologie gehören insbesondere: \n• \nFormulierung von Fragestellungen und Hypothesen",
+        "residual_flags": []
+      },
+      {
+        "content": "Further areas of performance in Biology: planning, carrying out and recording investigations and experiments; preparing and analysing data; evaluating, interpreting and reflecting on investigations; observing safety rules; proper handling of laboratory and field equipment and chemicals; applying biological working techniques (microscopy, drawing, identification with keys, measuring, observing, comparing, modelling).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7c) Biologie",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "• \nPlanung, Durchführung und Protokollierung von Untersuchungen und Experimenten \n• \nAufbereitung und Analyse von Daten \n• \nAuswertung, Interpretation und Reflexion von Untersuchungen und Experimenten \n• \nEinhaltung von Sicherheitsregeln \n• \nsachgerechter Umgang mit Labor- und freibiologischen Geräten sowie Chemikalien \n• \nAnwendung fachbiologischer Arbeitstechniken (u. a. Mikroskopieren, Zeichnen, Be-\nstimmen mit Bestimmungshilfen, Messen, Beobachten, Vergleichen, Modellieren).",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7c) Biologie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7c) Biologie",
+        "printed_page_range": "18–19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

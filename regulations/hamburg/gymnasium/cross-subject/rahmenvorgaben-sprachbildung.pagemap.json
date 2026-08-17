@@ -2,7 +2,7 @@
   "document_id": "rahmenvorgaben-sprachbildung",
   "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
   "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
-  "index_version": 1,
+  "index_version": 3,
   "physical_page_count": 26,
   "page_identity": {
     "offset": 0,
@@ -61,9 +61,9 @@
     {
       "section_anchor": "2.1 Sprachliche Anforderungen im Fachunterricht",
       "printed_page_start": 5,
-      "printed_page_end": 5,
+      "printed_page_end": 6,
       "physical_page_start": 5,
-      "physical_page_end": 5,
+      "physical_page_end": 6,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -81,9 +81,9 @@
     {
       "section_anchor": "2.3 Prozessbezogene sprachliche Fertigkeiten im Fachunterricht",
       "printed_page_start": 7,
-      "printed_page_end": 8,
+      "printed_page_end": 9,
       "physical_page_start": 7,
-      "physical_page_end": 8,
+      "physical_page_end": 9,
       "ordinance": null,
       "grades": null,
       "hazards": []

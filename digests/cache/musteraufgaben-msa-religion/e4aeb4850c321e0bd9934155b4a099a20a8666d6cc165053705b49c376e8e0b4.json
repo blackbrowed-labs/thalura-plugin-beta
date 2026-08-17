@@ -1,0 +1,141 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:e4aeb4850c321e0bd9934155b4a099a20a8666d6cc165053705b49c376e8e0b4"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Der Themenbereich verbindet Anschaulichkeit mit komplexen theologischen Fragestellungen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Anschaulichkeit und komplexe theologische Fragestellungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Die kooperative Aufgabe zielt auf den Dialog als zentrale Lernform im Religionsunterricht.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "den Dialog als zentrale Lernform im Religionsunterricht",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Modul 4.1 in Jahrgang 9/10 bietet die Möglichkeit, die Kenntnisse zusammenzufassen und zu systematisieren.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "In Jg. 9/10 bietet das entsprechende Modul 4.1 die",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Kerncurriculum sieht vor, historischen Kontext, zentrale Botschaften sowie Stellung und Bedeutung von drei zentralen Personen zu bearbeiten.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 9,
+          "physical_page": 14
+        },
+        "cited_text": "Das Kerncurriculum sieht vor, „den historischen Kontext, die zentralen Botschaften und \ndie Stellung und Bedeutung“ von drei zentralen Personen zu bearbeiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Vorbereitungszeit inklusive Einlesezeit beträgt 30 Minuten plus 30 Minuten für das fachpraktische Format, insgesamt 60 Minuten.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 11,
+          "physical_page": 16
+        },
+        "cited_text": "30 Minuten plus 30 Minu-\nten zur Umsetzung des fachpraktischen Formats",
+        "residual_flags": []
+      },
+      {
+        "content": "Jeder Prüfling wird zu allen Anforderungsbereichen befragt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "II. Erläuterung des Beispiels",
+          "printed_page": 12,
+          "physical_page": 17
+        },
+        "cited_text": "wird zu allen Anforderungsbereichen befragt",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "II. Erläuterung des Beispiels"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "II. Erläuterung des Beispiels",
+        "printed_page_range": "9–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:aa7c706e0ef15ba2939f6c0d698672641a646f21114c8874e595acead8490068"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Content: from the Enlightenment to the Anthropocene; belief in progress and pessimism about progress; dimensions of responsibility for future generations.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Fortschrittsglaube und Fortschrittspessimismus",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Von der Aufklärung zum Anthropozän \n• Fortschrittsglaube und Fortschrittspessimismus \n• Dimensionen der Verantwortung für zukünftige Generationen",
+        "residual_flags": []
+      },
+      {
+        "content": "Concept in brackets: interventions in nature and their consequences.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Fortschrittsglaube und Fortschrittspessimismus",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "(Eingriffe in die Natur und ihre Folgen)",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised requirement level: transhumanism (possibilities and limits of the 'optimisation' of the human being).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Fortschrittsglaube und Fortschrittspessimismus",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Zusätzlich im erhöhten Anforderungsniveau: \nTranshumanismus",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective W: students reflect on the relation of technology and ethics and develop reasoned responsibility for humans and nature.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Fortschrittsglaube und Fortschrittspessimismus",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren das Verhältnis von \nTechnologie und Ethik",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective BNE: students reflect on habits and behaviour patterns regarding sustainability and on the preconditions and consequences of progress and transhumanism.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Fortschrittsglaube und Fortschrittspessimismus",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Die Schülerinnen und \nSchüler reflektieren Gewohnheiten und Verhaltensmuster bezüg-\nlich ihrer Nachhaltigkeit",
+        "residual_flags": []
+      },
+      {
+        "content": "Specialist terms: industrielle Revolution, Cyborg, Enhancement.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 4 — Fortschrittsglaube und Fortschrittspessimismus",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "industrielle Revolution, Cy-\nborg, Enhancement",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 4 — Fortschrittsglaube und Fortschrittspessimismus"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 4 — Fortschrittsglaube und Fortschrittspessimismus",
+        "printed_page_range": "23"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

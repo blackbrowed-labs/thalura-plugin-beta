@@ -2,7 +2,7 @@
   "document_id": "bildungsplan-sek2-religion",
   "document_title": "Bildungsplan Studienstufe Religion",
   "source_pdf_sha256": "792ff4c957dd21d01be0f49a0b77d34c5139124d78d8e7f8c8facdb681d7b7c5",
-  "index_version": 1,
+  "index_version": 2,
   "physical_page_count": 53,
   "page_identity": {
     "offset": null,
@@ -307,9 +307,9 @@
     {
       "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
       "printed_page_start": 7,
-      "printed_page_end": 7,
+      "printed_page_end": 8,
       "physical_page_start": 8,
-      "physical_page_end": 8,
+      "physical_page_end": 9,
       "ordinance": null,
       "grades": "S1-S4",
       "hazards": []

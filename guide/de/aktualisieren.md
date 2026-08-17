@@ -51,4 +51,6 @@ zuverlässig deine Konfiguration ab und ergänzt fehlende Voreinstellungen —
 unabhängig davon, wie das Gespräch beginnt. Bei einer größeren Änderung weist
 dich Thalura in deiner Sprache darauf hin, falls etwas deine Aufmerksamkeit
 braucht. Du musst also nicht selbst nachschauen — Thalura sagt dir Bescheid,
-wenn etwas zu tun ist.
+wenn etwas zu tun ist. Bringt eine neue Version zusätzliche vorab nachgelesene
+Stellen aus den offiziellen Vorgaben mit, kommen sie dabei auch in einen
+Arbeitsbereich, den du längst nutzt — vorhandene Stellen bleiben unberührt.

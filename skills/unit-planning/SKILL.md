@@ -127,7 +127,7 @@ The skill reads The Map (`<WORKSPACE_ROOT>/data/school-years/{year}/plan.json`),
 
 ## Proposal Format — REQUIRED LEVEL OF DETAIL
 
-The unit outline must follow this structure. The template shows both double periods and single periods. The proposal is output in `conversation_language`. The template below shows the English structure; localized labels are resolved via `localization.json`.
+The unit outline must follow this structure. The template shows both double periods and single periods. The proposal is output in `conversation_language`. The template below shows the English structure; localized labels are resolved via `localization.json`. The `{APA citation …}` placeholders in the Curriculum Anchoring (Bildungsplan-Verankerung) block below render in the canonical form defined at `${CLAUDE_PLUGIN_ROOT}/references/regulation-naming.md` → *Teacher-Facing Citation Format*.
 
 ```
 Teaching Unit: {topic}
@@ -195,7 +195,7 @@ Operators: {list of key operators used, with AB levels}
 
 The `Curriculum Reference` field per lesson **must** include:
 - **Document name** (as listed in `document-registry.md`, e.g., "Bildungsplan Englisch Gymnasium Sek II")
-- **Page numbers** (e.g., "pp. 23-25")
+- **Page numbers**, in the canonical form defined at `${CLAUDE_PLUGIN_ROOT}/references/regulation-naming.md` → *Teacher-Facing Citation Format*
 - **Specific competencies** referenced
 
 This structured format enables targeted regulatory loading in downstream skills (e.g., The Upside Down loads only the relevant pages instead of the full document stack).

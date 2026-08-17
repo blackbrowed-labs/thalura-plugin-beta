@@ -1,0 +1,94 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b3525c5465491c6d695f14ddad686ae0edd146070681bc1412de3418743e2114"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "At the Stadtteilschule all students learn in one common course of education.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.2.1 Auftrag der Stadtteilschule",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "In der Stadtteilschule lernen alle Schülerinnen und Schüler in einem gemeinsamen Bildungs-\ngang.",
+        "residual_flags": []
+      },
+      {
+        "content": "In lower secondary (Sekundarstufe I) students can obtain the first, the extended first and the intermediate school-leaving qualification (mittlerer Schulabschluss).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.2.1 Auftrag der Stadtteilschule",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "können die Schülerinnen und Schüler in der \nSekundarstufe I den ersten und den erweiterten ersten allgemeinbildenden Schulabschluss \nsowie den mittleren Schulabschluss erwerben",
+        "residual_flags": []
+      },
+      {
+        "content": "Career orientation (berufliche Orientierung) has particular importance at the Stadtteilschule.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.2.1 Auftrag der Stadtteilschule",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Die berufliche Orientierung hat in der Stadtteilschule eine besondere Bedeutung.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6.2.1 Auftrag der Stadtteilschule"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "6.2.1 Auftrag der Stadtteilschule",
+        "printed_page_range": "28–29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

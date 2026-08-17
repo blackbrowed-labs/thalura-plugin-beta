@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:2365c230895c42355f5f8454dafac64257dd7ce9c03f41d8844421dc48714d3f"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Writing goal: producing texts on a broad range of topics of academic and personal interest, addressee-appropriate and genre-specific.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K4 Schreiben (Produktion und Interaktion)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Die Schülerinnen und Schüler können Texte zu einem breiten Spektrum von Themen des fachlichen und per-\nsönlichen Interesses adressatengerecht und textsortenspezifisch verfassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students command techniques and strategies of formal, informal and creative writing.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K4 Schreiben (Produktion und Interaktion)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Sie verfügen über Techniken und \nStrategien des formellen, informellen und kreativen Schreibens.",
+        "residual_flags": []
+      },
+      {
+        "content": "Basic level: planning, executing and reflecting on writing processes independently.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K4 Schreiben (Produktion und Interaktion)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Schreibprozesse selbstständig planen, umsetzen \nund reflektieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Basic level: rewriting discontinuous source material into continuous texts.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K4 Schreiben (Produktion und Interaktion)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "diskontinuierliche Vorlagen in kontinuierliche Texte \numschreiben",
+        "residual_flags": []
+      },
+      {
+        "content": "Raised level adds attention to functional aspects of text design, e.g. reader guidance and focusing.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K4 Schreiben (Produktion und Interaktion)",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "bei der Textgestaltung funktionale Gesichtspunkte, \nz. B. Leserlenkung und Fokussierung, beachten",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K4 Schreiben (Produktion und Interaktion)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "K4 Schreiben (Produktion und Interaktion)",
+        "printed_page_range": "17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

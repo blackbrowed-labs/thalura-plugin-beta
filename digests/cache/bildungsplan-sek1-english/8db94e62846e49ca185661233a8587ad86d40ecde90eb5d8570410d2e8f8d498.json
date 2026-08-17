@@ -1,0 +1,285 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8db94e62846e49ca185661233a8587ad86d40ecde90eb5d8570410d2e8f8d498"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Themenbereich 2: Schule, Ausbildung, Beruf",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "Themenbereich 2: Schule, Ausbildung, Beruf ",
+        "residual_flags": []
+      },
+      {
+        "content": "My new school and my old school",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "My new school and my old school ",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Auseinandersetzung mit dem Thema beschreiben die Schülerinnen und Schüler ihr Schulumfeld. Der Schulwechsel von der Grundschule zum Gymnasium und der neue Schulalltag bieten authentische",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "In der Auseinandersetzung mit dem Thema beschreiben die Schülerin-\nnen und Schüler ihr Schulumfeld. Der Schulwechsel von der Grund-\nschule zum Gymnasium und der neue Schulalltag bieten authentische ",
+        "residual_flags": []
+      },
+      {
+        "content": "Kommunikationsanlässe und Möglichkeiten zur handlungsorientierten",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "Kommunikationsanlässe und Möglichkeiten zur handlungsorientierten ",
+        "residual_flags": []
+      },
+      {
+        "content": "Umsetzung: So können die Lernenden z. B. die Klassenregeln auf Englisch formulieren, einen Flyer oder eine Broschüre über die Schule oder einen Rundgang durch das Schulhaus erstellen und präsentieren. Hierbei können digitale Werkzeuge zum Einsatz kommen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "Umsetzung: So können die Lernenden z. B. die Klassenregeln auf Eng-\nlisch formulieren, einen Flyer oder eine Broschüre über die Schule oder \neinen Rundgang durch das Schulhaus erstellen und präsentieren. Hier-\nbei können digitale Werkzeuge zum Einsatz kommen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die fettgedruckten Themen sind verpflichtend zu behandeln.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "Die fettgedruckten Themen sind verpflichtend zu behandeln. ",
+        "residual_flags": []
+      },
+      {
+        "content": "my new and my old school",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "• my new and my old school ",
+        "residual_flags": []
+      },
+      {
+        "content": "classroom and the school grounds",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "• classroom and the school grounds ",
+        "residual_flags": []
+      },
+      {
+        "content": "classmates and teachers",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "• classmates and teachers ",
+        "residual_flags": []
+      },
+      {
+        "content": "how to be a good classmate (e.g. working together, being helpful)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "• how to be a good classmate (e.g. working together, being helpful) ",
+        "residual_flags": []
+      },
+      {
+        "content": "subjects and timetable",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "• subjects and timetable ",
+        "residual_flags": []
+      },
+      {
+        "content": "clubs and activities",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "• clubs and activities ",
+        "residual_flags": []
+      },
+      {
+        "content": "Beitrag zur Leitperspektive W:",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "Beitrag zur Leitperspektive W: ",
+        "residual_flags": []
+      },
+      {
+        "content": "Beim Kennenlernen der Ähnlichkeiten und Unterschiede zwischen dem eigenen Schulsystem und dem der Bezugskulturen reflektieren die",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "Beim Kennenlernen der Ähnlichkeiten und Unterschiede zwischen dem \neigenen Schulsystem und dem der Bezugskulturen reflektieren die ",
+        "residual_flags": []
+      },
+      {
+        "content": "Schülerinnen und Schüler Werte und Normen der Erziehung und Bildung.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "Schülerinnen und Schüler Werte und Normen der Erziehung und Bil-\ndung. ",
+        "residual_flags": []
+      },
+      {
+        "content": "5/6 Persönl. Lebensgestaltung",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "5/6 Persönl. Le-\nbensgestaltung ",
+        "residual_flags": []
+      },
+      {
+        "content": "Unterschiedliche Kulturen im englischspr.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "Unterschiedli-\nche Kulturen \nim englischspr. ",
+        "residual_flags": []
+      },
+      {
+        "content": "[bleibt zunächst leer]",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+          "printed_page": 45,
+          "physical_page": 45
+        },
+        "cited_text": "[bleibt zunächst \nleer] ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 45,
+          "printed_page": 45
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 2: Schule, Ausbildung, Beruf — 5/6 My new school and my old school",
+        "printed_page_range": "45"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

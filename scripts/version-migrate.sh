@@ -25,17 +25,40 @@
 # BEHAVIOUR (mirrors dev-scripts/test_version_check.sh's version_check() contract)
 #   1. current = plugin.json "version".
 #   2. data/version.json ABSENT -> create it at current + timestamp; DO NOT run the
-#      update flow (no config copy). Prints a first-run summary.
+#      update flow (no config copy). Prints a first-run summary. The ONE thing this
+#      branch does besides the stamp is seed the shipped pre-read digest pack
+#      (create-only) — a deliberate, reasoned exception, see "WHY THE SEED ALSO
+#      FIRES ON BRANCH 2" below.
 #   3. current == last_seen -> strict no-op: exit 0, STDOUT EMPTY (a "noop" line may
 #      go to stderr only). This idempotency short-circuit makes a Step-1 backstop
 #      reach after a completed Step 0d harmless.
 #   4. current != last_seen -> update flow, UNCONDITIONAL on changelog content:
 #      a. copy net-new config-defaults/* into data/config/ (skip if the dest exists
 #         — never overwrite/delete/read a protected file; skip .gitkeep).
+#      e. seed the shipped pre-read digest pack into data/.cache/ (create-only per
+#         entry file, delegated to scripts/seed-digest-cache.sh). Runs AFTER 4a/4d,
+#         BEFORE 4b's stamp, so a stamp failure never claims a migration that did
+#         not land — and so the seed is already on disk when the stamp does land.
 #      b. atomically stamp data/version.json {plugin_version, updated_at} via
 #         temp-file + `mv -f` (a rename failure is tolerated as a no-op — the copy
 #         already happened; the stamp retries next session).
 #      c. print the state-delta summary (below).
+#
+# WHY THE SEED ALSO FIRES ON BRANCH 2 (branch 2's one exception to "no update flow")
+#   Branch 2 stamps the workspace at the CURRENT version, after which every later
+#   run takes branch 3 (the strict no-op). So a workspace that reaches branch 2 on a
+#   build that ships the pack would be stamped current and become PERMANENTLY
+#   unseedable by any later path. Seeding here is exactly what makes leaving branch 3
+#   alone safe: every route into branch 3 has already passed through branch 2 or
+#   branch 4, where the seed was offered.
+#   It does not conflict with the no-update-flow rule either, because that rule is
+#   about CONFIG semantics — never retro-apply shipped defaults over a teacher's
+#   possibly deliberate config. An absent cache entry carries no teacher intent (the
+#   cache is regenerable by contract, and the seed is create-only per entry file, so
+#   an entry the runtime itself wrote is never replaced). There is nothing to
+#   preserve, hence nothing the rule protects.
+#   Branch 3 is deliberately NOT touched — no seed, no stat, no check: its
+#   empty-stdout no-op is a stated contract AND a per-session hot path.
 #
 # SUMMARY FORMAT (stdout; stable + greppable — the tests assert on it)
 #   A block of `key=value` lines, one per line, e.g.:
@@ -48,6 +71,17 @@
 #     copied=bar.json               # (no copied= line at all when nothing copied)
 #     migrated=internal_compliance_check   # ONE migrated= line PER carried toggle
 #     migrated=pdf_on_validation           # (no migrated= line when nothing carried)
+#     seeded=abiturrichtlinie entries=18   # ONE seeded= line PER seeded document
+#     seeded=praeambel entries=7           # (no seeded= line when nothing seeded)
+#   The `seeded=<document_id> entries=<n>` line(s) — one per pack document directory
+#   that received at least one net-new cache entry in step 4e — appear LAST, after
+#   the `migrated=` block, one line per document (comma-safe, same convention as
+#   `copied=`). They are passed through verbatim from scripts/seed-digest-cache.sh,
+#   whose stderr is suppressed here so the migration's own no-stderr-leak guarantee
+#   is unaffected. No `seeded=` line at all when nothing was seeded (the pack is
+#   absent, or every entry was already present) — an absent line is the
+#   "nothing to do" signal, same convention as `copied=`. On the first-run branch
+#   the same lines follow `new_version=`.
 #   The `migrated=<key>` line(s) — one per behaviour toggle carried forward from a
 #   legacy profile file into data/config/behaviour.json by Step 4d — appear
 #   AFTER the `copied=` block, one line per key (comma-safe, same convention as
@@ -79,6 +113,11 @@
 #   a no-op that exits 0 with NO teacher-visible warning. The script NEVER writes
 #   outside $WORKSPACE_ROOT/data/ and NEVER overwrites a protected file (the
 #   `[ -e "$dest" ]` guard is the whole Protected-Files guarantee).
+#   The digest-pack seed inherits this: it is an optimization, never a
+#   precondition, so a missing seed script, a missing pack or a failing copy leaves
+#   the migration untouched — the stamp is still written and the summary still
+#   printed. Its stderr is discarded here (the seeder's own diagnostics are for
+#   direct invocation; this script's stderr is a fixed, asserted token set).
 #
 # Portable to macOS bash 3.2 and Linux (no arrays, no jq).
 set -u
@@ -132,6 +171,26 @@ atomic_write() {
 version_json_body() {
   # $1 = version, $2 = timestamp
   printf '{\n  "plugin_version": "%s",\n  "updated_at": "%s"\n}\n' "$1" "$2"
+}
+
+# Seed the shipped pre-read digest pack into $WORKSPACE_ROOT/data/.cache/, printing
+# whatever `seeded=<document_id> entries=<n>` lines the seeder emitted (empty when
+# nothing was seeded). Both roots are the ones this script was HANDED — nothing is
+# re-resolved (the passed-in-never-self-discovered contract; the seeder composes its
+# target literally as "$WORKSPACE_ROOT/data/.cache" for the same reason).
+# Fail-open on every path: an absent seeder is a supported install (older plugin
+# tree, or a tree without the pack), so it is a silent no-op; the seeder itself
+# exits 0 on every failure. Its stderr is discarded — this script's stderr carries
+# only its own fixed `migrate=noop reason=…` tokens. `return 0` keeps a non-zero
+# from the child (which the seeder's contract forbids, but never assume it) from
+# becoming this function's status — and because both call sites CAPTURE this function
+# in a command substitution, even an `exit` here could only leave that subshell, so
+# the seed is structurally incapable of aborting the migration.
+seed_digest_pack() {
+  _seed_sh="$PLUGIN_ROOT/scripts/seed-digest-cache.sh"
+  [ -f "$_seed_sh" ] || return 0
+  bash "$_seed_sh" "$PLUGIN_ROOT" "$WORKSPACE_ROOT" 2>/dev/null
+  return 0
 }
 
 # --- behaviour-toggle migration helpers --------------------------------------
@@ -363,12 +422,31 @@ current_version="$(json_str "$plugin_json" version)"
 [ -n "$current_version" ] || { echo "migrate=noop reason=no-current-version" >&2; exit 0; }
 
 # --- 2. version.json ABSENT -> first-run create, NO update flow --------------
+# NO config copy here — that rule is unchanged and deliberate. The ONE additive step
+# this branch does run is 2a, the digest-pack seed: without it a workspace that
+# reaches this branch on a pack-shipping build is stamped current and can never be
+# seeded by any later path (every later run takes branch 3). See "WHY THE SEED ALSO
+# FIRES ON BRANCH 2" in the header for why that does not conflict with the
+# no-update-flow rule. Deliberate, not an accident — do not "restore" this branch by
+# deleting the seed.
 if [ ! -f "$version_file" ]; then
+  # 2a. seed BEFORE the stamp, for the same reason 4e precedes 4b: if the stamp
+  #     lands and the seed did not, the workspace is silently stamped as done; if
+  #     the seed lands and the stamp does not, the next run re-enters this branch and
+  #     the create-only seed is a cheap no-op. Seed-first is the safe order.
+  seeded="$(seed_digest_pack)
+"
   atomic_write "$version_file" "$(version_json_body "$current_version" "$(now_utc)")"
   # first-run summary (only if the stamp actually landed; else stay silent no-op)
   if [ -f "$version_file" ]; then
     printf 'migrate=first-run\n'
     printf 'new_version=%s\n' "$current_version"
+    # one `seeded=<document_id> entries=<n>` line per seeded document (none when
+    # nothing was seeded). Emitted only inside this successful-stamp branch, mirroring
+    # the readme=/copied= convention: the stdout summary matches a landed stamp.
+    printf '%s' "$seeded" | while IFS= read -r sline; do
+      [ -n "$sline" ] && printf '%s\n' "$sline"
+    done
   fi
   exit 0
 fi
@@ -432,6 +510,17 @@ if [ -f "$behaviour_dest" ]; then
 "
 fi
 
+# 4e. seed the shipped pre-read digest pack into data/.cache/ (create-only per entry
+# file; the copy itself lives in scripts/seed-digest-cache.sh, one implementation for
+# both callers). Runs AFTER 4a's copy loop and 4d's toggle migration, BEFORE 4b's
+# stamp — the same ordering convention 4d states, and for the same reason: a stamp
+# failure must never claim a migration that did not land. The `seeded=` lines are
+# CAPTURED here and emitted after the migrated= block (below), so the summary order
+# stays copied= ... migrated= ... seeded= . Fail-open: a seed failure is a silent
+# no-op that neither aborts the flow nor suppresses the stamp.
+seeded="$(seed_digest_pack)
+"
+
 # 4b. atomically stamp version.json to the current version + fresh timestamp.
 # If the stamp did NOT land (unwritable data/), report a failure summary that
 # matches disk state — do NOT claim migrate=update when nothing was stamped.
@@ -464,6 +553,14 @@ if atomic_write "$version_file" "$(version_json_body "$current_version" "$(now_u
   # calls already produced each `migrated=<key>` line; re-print them verbatim here.
   printf '%s' "$migrated" | while IFS= read -r mline; do
     [ -n "$mline" ] && printf '%s\n' "$mline"
+  done
+  # one `seeded=<document_id> entries=<n>` line per pack document that received
+  # net-new entries in Step 4e (empty when nothing was seeded -> no lines). Emitted
+  # LAST, and only inside this successful-stamp branch, so the summary never reports
+  # a seed for a migration that did not reach disk — the same discipline the
+  # copied=/readme= tokens follow.
+  printf '%s' "$seeded" | while IFS= read -r sline; do
+    [ -n "$sline" ] && printf '%s\n' "$sline"
   done
 else
   # Stamp did not land: fail-open, no teacher-visible warning, summary to stderr.

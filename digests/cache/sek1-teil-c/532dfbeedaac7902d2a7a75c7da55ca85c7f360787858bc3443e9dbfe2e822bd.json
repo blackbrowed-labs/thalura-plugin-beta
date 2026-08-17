@@ -1,0 +1,133 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:532dfbeedaac7902d2a7a75c7da55ca85c7f360787858bc3443e9dbfe2e822bd"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Bei der Bewertung der laufenden Unterrichtsarbeit sind neben fertigen Produkten auch Zwischenergebnisse, Skizzen sowie mündliche und schriftliche Beiträge zu berücksichtigen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7c) Biologie",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "ten auch Zwischenergebnisse der Arbeitsprozesse, Skizzen sowie mündliche und schriftliche ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Leistungsbewertung im Biologieunterricht bezieht sich auf alle vier Kompetenzbereiche der naturwissenschaftlichen Fächer: Sachkompetenz, Erkenntnisgewinnungskompetenz, Kommunikationskompetenz und Bewertungskompetenz.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7c) Biologie",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Die Leistungsbewertung im Biologieunterricht bezieht sich auf alle vier Kompetenzbereiche ",
+        "residual_flags": []
+      },
+      {
+        "content": "Berücksichtigt werden insbesondere auch fachpraktische Aspekte der im Unterricht erworbenen Fähigkeiten, Fertigkeiten und Kenntnisse.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7c) Biologie",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Berücksichtigung finden dabei insbesondere auch fachpraktische Aspekte der im Unterricht ",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu den Bereichen der Leistungserbringung im Fach Biologie gehören u. a. Formulierung von Fragestellungen und Hypothesen, Planung und Protokollierung von Untersuchungen, Aufbereitung und Analyse von Daten sowie die Anwendung fachbiologischer Arbeitstechniken.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7c) Biologie",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Zu den Bereichen der Leistungserbringung im Fach Biologie gehören insbesondere: \n• \nFormulierung von Fragestellungen und Hypothesen \n• \nPlanung, Durchführung und Protokollierung von Untersuchungen und Experimenten \n• \nAufbereitung und Analyse von Daten \n• \nAuswertung, Interpretation und Reflexion von Untersuchungen und Experimenten \n• \nEinhaltung von Sicherheitsregeln \n• \nsachgerechter Umgang mit Labor- und freibiologischen Geräten sowie Chemikalien \n• \nAnwendung fachbiologischer Arbeitstechniken (u. a. Mikroskopieren, Zeichnen, Be-\nstimmen mit Bestimmungshilfen, Messen, Beobachten, Vergleichen, Modellieren). ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Leistungsbewertung im Chemieunterricht bezieht sich ebenfalls auf alle vier Kompetenzbereiche der naturwissenschaftlichen Fächer, und experimentbezogene Aufgabenstellungen sind besonders geeignet.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7c) Biologie",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Experimente beziehen, sind zur Leistungsbewertung im Che-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu den Bereichen der Leistungserbringung im Fach Chemie gehören u. a. Formulierung von Fragestellungen, Einhaltung von Sicherheitsregeln, Durchführung und Protokollierung von Experimenten sowie Interpretation und Reflexion von Experimenten.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7c) Biologie",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Zu den Bereichen der Leistungserbringung im Fach Chemie gehören insbesondere: \n• \nFormulierung von Fragestellungen und Hypothesen \n• \nEinhaltung von Sicherheitsregeln \n• \nPlanung, Durchführung und Protokollierung von Experimenten \n• \nvorausschauende Arbeitsorganisation beim Experimentieren \n• \nsachgerechter Umgang mit Laborgeräten sowie Chemikalien \n• \nAnwendung fachchemischer Arbeits- und Messtechniken  \n• \nAufbereitung und Analyse von Daten \n• \nInterpretation und Reflexion von Experimenten. ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7c) Biologie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7c) Biologie",
+        "printed_page_range": "18–19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

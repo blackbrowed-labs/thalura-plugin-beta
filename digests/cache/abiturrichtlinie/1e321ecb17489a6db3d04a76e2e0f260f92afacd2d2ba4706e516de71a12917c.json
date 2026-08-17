@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1e321ecb17489a6db3d04a76e2e0f260f92afacd2d2ba4706e516de71a12917c"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie",
+      "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Examination performances are graded with marks on the 15-point scale per § 9 APO-AH.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6 Bewertung der Prüfungsleistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Prüfungsleistungen werden mit Noten bezogen auf die 15-Punkte-Skala gemäß \n§ 9 APO-AH bewertet.",
+        "residual_flags": []
+      },
+      {
+        "content": "For considerable deficiencies in linguistic correctness or external form, up to two grade points of the simple weighting are deducted, depending on severity and frequency.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6 Bewertung der Prüfungsleistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Bei erheblichen Mängeln in der sprachlichen Richtigkeit oder der äußeren Form sind bei \nder Bewertung der schriftlichen Prüfungsleistung je nach Schwere und Häufigkeit bis zu \nzwei Notenpunkte der einfachen Wertung abzuziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In Deutsch and in the foreign languages, linguistic correctness is immanent to the examination performance and therefore not assessed twice.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6 Bewertung der Prüfungsleistungen",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Fach Deutsch und in den \nFremdsprachen ist der Bereich der sprachlichen Richtigkeit der Prüfungsleistung imma-\nnent und somit nicht doppelt zu bewerten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The presentation examination is assessed as a whole, and the assessment of the presentation counts for no more than one third of the examination grade.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6 Bewertung der Prüfungsleistungen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Präsentationsprüfung wird in ihrer Gesamtheit bewertet. Die Bewertung der Präsen-\ntation geht zu nicht mehr als einem Drittel in die Prüfungsnote ein.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6 Bewertung der Prüfungsleistungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie",
+        "section_anchor": "6 Bewertung der Prüfungsleistungen",
+        "printed_page_range": "9–10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

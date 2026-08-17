@@ -1,0 +1,168 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:fd443e9fb4af9b2908e2927bf145195f6ec8b145f5dbe21da00da36e5394d80c"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Prüfungsaufgabe wird den Prüflingen erst am Prüfungstag ausgehändigt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "wird den Prüflingen erst am Pr",
+        "residual_flags": []
+      },
+      {
+        "content": "Ausgangspunkt ist die Aussage, dass die zentralen Personen aller Religionen im Kern alle das Gleiche wollten, zu der ein Dialog gestaltet werden soll.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "wollten im \nKern alle das Gleiche.“ Gestaltet einen Dialog zu dieser Aussage",
+        "residual_flags": []
+      },
+      {
+        "content": "In Teil 1 sollen mindestens drei zentrale Personen der Religionen nach Wahl kurz dargestellt werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Teil 1: Stellt mindestens drei zentrale Personen der Religionen eurer Wahl kurz dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "Dabei soll auf Leben, Lebensweise und Botschaften der Personen eingegangen werden.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Geht dabei auf ihr Leben, ihre Lebensweise und ihre Botschaften ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Die zentralen Personen werden aufgeteilt; in der Regel stellt jeder Prüfling eine Person vor.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Jeder Prüfling stellt in der Regel eine",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Kurzpräsentation soll pro Prüfling etwa 3 Minuten dauern, alle zusammen maximal 15 Minuten.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "ca. 3 Minuten dauern; alle Präsenta-\ntionen zusammen max. 15 Minuten",
+        "residual_flags": []
+      },
+      {
+        "content": "In Teil 2 sollen sich die Prüflinge in einem Dialog mit der Aussage auseinandersetzen und persönlich Stellung nehmen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Setzt euch mit dieser Aussage in einem Dialog \nauseinander und nehmt persönlich dazu Stellung",
+        "residual_flags": []
+      },
+      {
+        "content": "Jeder Prüfling soll im Verlauf des Dialogs zur Aussage Stellung nehmen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Jeder Prüfling stellt in der Regel eine \nzentrale Person vor. Eine der zentralen Personen kann auch von zwei Prüf-\nlingen präsentiert werden. Sprecht euch dann ab, wer welchen Aspekt dieser \nPerson vorstellt. \n➢ Die Kurzpräsentation sollte pro Prüfling ca. 3 Minuten dauern; alle Präsenta-\ntionen zusammen max. 15 Minuten. \nTeil 2:  „Die zentralen Personen aller Religionen – Jesus, Muhammed, Ali, Buddha – \nwollten im Kern alle das Gleiche.“ Setzt euch mit dieser Aussage in einem Dialog \nauseinander und nehmt persönlich dazu Stellung. Sprecht euch im Vorfeld ab, \nwie ihr die Diskussion strukturieren wollt. Sucht ggf. Unterthemen, um die Perso-\nnen zu vergleichen und um ein begründetes Urteil über diese Aussage zu entwi-\nckeln. \n➢ Jeder Prüfling sollte im Verlauf des Dialogs zur Aussage Stellung nehmen",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Dialog soll insgesamt maximal 15 Minuten dauern.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.b. Prüfungsaufgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "Der Dialog sollte insgesamt max. 15 Minuten dauern.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 2
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I.b. Prüfungsaufgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "I.b. Prüfungsaufgabe",
+        "printed_page_range": "2"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:363b3ba2a6738ea91e971168f162cd356c23c9f5e5e2fac43a30d0a6e597002b"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Anlage 8 (to § 39 (4)) is the timetable for the Vorstufe of the berufliches Gymnasium.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 8 Stundentafel für die Vorstufe des beruflichen Gymnasiums",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Stundentafel für die Vorstufe des beruflichen Gymnasiums",
+        "residual_flags": []
+      },
+      {
+        "content": "A school year is counted as 38 teaching weeks.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 8 Stundentafel für die Vorstufe des beruflichen Gymnasiums",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Ein Schuljahr wird rechnerisch mit 38 Unterrichtswochen veranschlagt.",
+        "residual_flags": []
+      },
+      {
+        "content": "The annex gives a separate timetable per specialisation, including Pädagogik und Psychologie.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 8 Stundentafel für die Vorstufe des beruflichen Gymnasiums",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Fachrichtung Pädagogik  \nund Psychologie",
+        "residual_flags": []
+      },
+      {
+        "content": "The compulsory-elective area contains a second foreign language or further subjects from the school's offer.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "Anlage 8 Stundentafel für die Vorstufe des beruflichen Gymnasiums",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "zweite Fremdsprache \noder weitere Fächer aus \ndem Angebot der Schule",
+        "residual_flags": [
+          "page-multi-match:physical-50-earliest-of-2-candidate-pages"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 50,
+          "printed_page": 50
+        },
+        {
+          "physical_page": 51,
+          "printed_page": 51
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Anlage 8 Stundentafel für die Vorstufe des beruflichen Gymnasiums"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "Anlage 8 Stundentafel für die Vorstufe des beruflichen Gymnasiums",
+        "printed_page_range": "50–51"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

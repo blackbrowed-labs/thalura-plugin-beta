@@ -1,0 +1,116 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:d0d96531af0d12f37a3e91c4b2468a09c902999f386758eb8c99f8531d6414bc"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Schools decide on their own responsibility in which organisational forms and learning arrangements the contents of the Aufgabengebiete are addressed.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Schulen entscheiden in eigener Verantwortung, in welchen Organisations-\nformen und Lernarrangements die Inhalte der Aufgabengebiete bearbeitet werden",
+        "residual_flags": []
+      },
+      {
+        "content": "The framework plan formulates topic areas that must be concretised and adapted in the school-internal curriculum (schulinternes Curriculum).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Zur inhaltlichen Orientierung formuliert der Rahmenplan für die Aufgabengebiete Themenbe-\nreiche, die im schulinternen Curriculum",
+        "residual_flags": []
+      },
+      {
+        "content": "When integrating Aufgabengebiete content into subject teaching, the content requirements of the subjects' framework plans remain binding.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Bei der Integration der Inhalte der Aufgabengebiete \nin den Fachunterricht ist zu beachten, dass die inhaltlichen Vorgaben der Rahmenpläne der \nFächer verbindlich sind",
+        "residual_flags": []
+      },
+      {
+        "content": "Student performance in the Aufgabengebiete is as a rule taken into account and graded within the participating subjects and learning areas.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Die Leistungen, die Schülerinnen und Schüler in den Aufgabengebieten erbringen, werden in \nder Regel im Rahmen der beteiligten Fächer und Lernbereiche berücksichtigt und bewertet",
+        "residual_flags": []
+      },
+      {
+        "content": "Performance and particular engagement can also be documented and acknowledged in the report card (Zeugnis).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Erbrachte Leistungen sowie besonderes Engagement können auch im Rahmen der Leistungs-\nbeurteilung im Zeugnis dokumentiert und anerkannt werden",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.3 Organisationsformen und Leistungsbewertung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "1.3 Organisationsformen und Leistungsbewertung",
+        "printed_page_range": "7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

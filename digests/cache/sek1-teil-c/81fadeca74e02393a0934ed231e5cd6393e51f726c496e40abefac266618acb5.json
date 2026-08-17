@@ -1,0 +1,176 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:81fadeca74e02393a0934ed231e5cd6393e51f726c496e40abefac266618acb5"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Criteria for SOCIAL action in Sport: cooperativeness and reliability in playing and doing sport together; responding to others' impulses, signals and learning needs; capacity to take responsibility; fairness, consideration and helpfulness; capacity to reflect on one's own sport-related action and its effects on others, especially in handling performance differences and victory/defeat; capacity to analyse conflicts, endure them and take part in forms of problem solving.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7m) Theater",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "• \nKooperationsfähigkeit und Zuverlässigkeit beim gemeinsamen Spielen und Sporttrei-\nben \n• \nEingehen auf Impulse, Signale und Lernbedürfnisse anderer \n• \nFähigkeit zur Verantwortungsübernahme \n• \nFairness, Rücksichtnahme und Hilfsbereitschaft \n• \nFähigkeit zur Reflexion des eigenen sportbezogenen Handelns und seiner Auswirkun-\ngen auf andere, insbesondere im Umgang mit Leistungsdifferenzen sowie Sieg und \nNiederlage \n• \nFähigkeit, Konflikte zu analysieren, sie auszuhalten und an Formen der Problemlösung \nmitzuwirken.",
+        "residual_flags": [
+          "section-tail: closes 7l) Sport but sits physically on page 29, inside this section's page range"
+        ]
+      },
+      {
+        "content": "Criteria for KNOWLEDGE and REFLECTION in Sport: command and application of subject knowledge; understanding and correct use of basic technical terms; understanding the contents, conditions and motives of doing sport and formulating one's own position; subject-related judgement; capacity to analyse one's own sporting development and capacity; understanding of sport, play, rules; understanding of basic principles of learning, practising and training movements and being able to apply them; making cross-subject connections; capacity for creative engagement with movement.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7m) Theater",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "In Bezug auf Kenntnisse und Reflexion gelten insbesondere folgende Bewertungskriterien: \n• \nVerfügung und Anwendung fachlicher Kenntnisse \n• \nVerständnis und korrekte Anwendung grundlegender Fachbegriffe \n• \nVerständnis der Inhalte, Rahmenbedingungen und Motive des Sporttreibens und For-\nmulierung einer eigenen Position dazu \n• \nfachbezogene Urteilsfähigkeit \n• \nFähigkeit zur Analyse der eigenen sportlichen Entwicklung und Leistungsfähigkeit \n• \nSport- und Spielverständnis, Regelkenntnis und Regelverstehen \n• \nVerständnis basaler Prinzipien des Erlernens, Übens und Trainierens von Bewegun-\ngen und Fähigkeit zu deren Umsetzung \n• \nHerstellung fächerverbindender und fachübergreifender Verknüpfungen \n• \nFähigkeit zum kreativen Umgang in der Auseinandersetzung mit Bewegung.",
+        "residual_flags": [
+          "section-tail: closes 7l) Sport but sits physically on page 29, inside this section's page range"
+        ]
+      },
+      {
+        "content": "Theater — students always shape something of their own and new, possibly unforeseeable; as a rule there are no uniform, unambiguous solutions to play tasks. Divergent results arise that may lie beyond normed expectations, which can be a substantial part of their quality.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7m) Theater",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Die Schülerinnen und Schüler gestalten im Theaterunterricht immer etwas Eigenes und Neues, \nunter Umständen auch etwas nicht Vorhersehbares. Es gibt in der Regel keine gleichartigen, \neindeutigen Lösungen von Spielaufgaben. Vielmehr entstehen divergierende Ergebnisse, die \nmöglicherweise jenseits genormter Vorstellungen liegen, was jedoch einen erheblichen Teil \nihrer Qualität ausmachen kann.",
+        "residual_flags": []
+      },
+      {
+        "content": "In assessment, such differences arising from students' individuality must be perceived and appropriately taken into account.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7m) Theater",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Bei der Bewertung sind derartige, aus der Individualität der \nSchülerinnen und Schüler resultierende Unterschiede wahrzunehmen und angemessen zu \nberücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment of ongoing classwork in Theater considers in particular: warm-ups, play-practical exercises and training.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7m) Theater",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Die Bewertung der in der laufenden Unterrichtsarbeit erbrachten Leistungen berücksichtigt im \nFach Theater insbesondere folgende Aktivitäten und Produkte: \n• \nWarm-ups, spielpraktische Übungen und Trainings",
+        "residual_flags": []
+      },
+      {
+        "content": "Further Theater activities/products: working out and presenting play-practical tasks; contributions in reflection processes, feedback phases and communicative group processes in projects; participation in organisational and other project tasks (choosing/designing props and costumes, choosing or producing music, designing posters, producing photo and film contributions); written tasks (monologues, dialogues, role interviews, rehearsal diaries).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• \nErarbeitung spielpraktischer Aufgaben und Präsentation \n• \nBeiträge in Reflexionsprozessen, Feedbackphasen und kommunikativen Gruppenpro-\nzessen in Projekten \n• \nBeteiligung an Organisations- und anderen Aufgaben in einem Projekt (z. B. Auswäh-\nlen und Gestalten von Requisiten und Kostümen, Auswählen oder Produzieren von \nMusik, Gestalten von Plakaten, Produzieren von Foto- und Filmbeiträgen u. v. m.) \n• \nschriftliche Aufgaben (z. B. Verfassen von Monologen, Dialogen, Rollenbefragungen, \nProbentagebüchern u. v. m.).",
+        "residual_flags": []
+      },
+      {
+        "content": "In assessing theatrical design and reflection processes and their results it must be considered whether and to what extent the student: advances the working process in the fields of body, space and time; solves theatrical design, reflection and reception tasks; contributes to the success of a theatrical presentation or project; establishes socio-cultural references or brings in theatre-theoretical or theatre-historical knowledge.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Bei der Bewertung theatraler Gestaltungs- und Reflexionsprozesse und ihrer Ergebnisse ist \ninsbesondere zu berücksichtigen, ob und inwieweit die Schülerin oder der Schüler: \n• \nden Erarbeitungsprozess in den Handlungsfeldern Körper, Raum und Zeit fördert \n• \ntheatrale Gestaltungs-, Reflexions- und Rezeptionsaufgaben löst \n• \nzum Gelingen einer theatralen Präsentation bzw. eines theatralen Projekts beiträgt \n• \nsoziokulturelle Bezüge herstellt bzw. theatertheoretische oder -geschichtliche Kennt-\nnisse einbezieht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Detailed Theater criteria (part 1): presence in play; perception and attention for oneself and the group; variety and purposefulness in using theatrical design means when working out and presenting play-practical tasks; creativity and originality in play-practical acting, experimenting and improvising.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Im Einzelnen gelten insbesondere folgende Kriterien: \n• \nPräsenz im Spiel \n• \nWahrnehmung und Aufmerksamkeit für sich und die Gruppe \n• \nVielfalt und Zielgerichtetheit des Einsatzes theatraler Gestaltungsmittel bei der Erar-\nbeitung und Präsentation spielpraktischer Aufgaben \n• \nKreativität und Originalität beim spielpraktischen Agieren, Experimentieren und Impro-\nvisieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Detailed Theater criteria (part 2): differentiation in observing and reflecting on theatrical forms of expression and in giving feedback on play-practical presentations; constructiveness in giving and taking feedback for productive further work; differentiation of project-related theatre-theoretical/historical knowledge and purposefulness in applying it; constructiveness in the rehearsal process (independence, stamina, openness, committed group collaboration, effective time management, reliable adherence to agreements, taking responsibility for the success of the joint production).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7m) Theater",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "• \nDifferenziertheit bei der Beobachtung und Reflexion theatraler Ausdrucksformen sowie \nbeim Geben von Feedback zu spielpraktischen Präsentationen \n• \nKonstruktivität beim Geben und Nehmen von Feedback zur produktiven Weiterarbeit \nam Projekt \n• \nDifferenziertheit projektbezogener theatertheoretischer bzw. -geschichtlicher Kennt-\nnisse sowie Zielgerichtetheit in der Anwendung der Kenntnisse bei spielpraktischer \nGestaltung, Reflexion und Analyse \n• \nKonstruktivität im Probenprozess: Selbstständigkeit, Ausdauer, Aufgeschlossenheit, \nengagierte Zusammenarbeit in der Gruppe, effektives Zeitmanagement bei der Bear-\nbeitung spielpraktischer Aufgaben, verlässliche Einhaltung von Vereinbarungen, Über-\nnahme von Verantwortung für das gute Gelingen der gemeinsamen Produktion.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7m) Theater"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7m) Theater",
+        "printed_page_range": "29–30"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

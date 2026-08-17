@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:767f1cc1a58972001503857c01157fde1edc88da51e4a744ce4fd4406fe0b64a"
+  },
+  "freshness": [
+    {
+      "document_id": "sek2-teil-c",
+      "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Grading in Physics covers all four competence areas of the science subjects.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8i) Physik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Leistungsbewertung im Physikunterricht bezieht sich auf alle vier Kompetenzbereiche der \nnaturwissenschaftlichen Fächer:",
+        "residual_flags": []
+      },
+      {
+        "content": "Task statements referring to experiments are particularly suited to grading in Physics.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8i) Physik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Experimente beziehen, sind zur Leistungsbewertung im Phy-\nsikunterricht besonders geeignet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Specific criteria include planning, carrying out and recording investigations for exploration (explorative experimenting) and explanation (explanative experimenting).",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8i) Physik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Planung, Durchführung und Protokollierung von Untersuchungen zwecks Erkundung \n(exploratives Experimentieren) und Erklärung (explanatives Experimentieren)",
+        "residual_flags": []
+      },
+      {
+        "content": "They also include predicting and justifying an event or result on the basis of a theoretical model.",
+        "citation": {
+          "document_id": "sek2-teil-c",
+          "document_title": "Bildungsplan Studienstufe Teil C Leistungsbewertung",
+          "source_pdf_sha256": "e4ea131fa0ff8817cc3c9f1ffaf037917bec6f3f69f9b86d5507ee70e5fe8eaa",
+          "section_anchor": "8i) Physik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Vorhersage und Begründung eines Ereignisses oder Ergebnisses aufgrund eines the-\noretischen Modells",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "8i) Physik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek2-teil-c",
+        "section_anchor": "8i) Physik",
+        "printed_page_range": "26"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

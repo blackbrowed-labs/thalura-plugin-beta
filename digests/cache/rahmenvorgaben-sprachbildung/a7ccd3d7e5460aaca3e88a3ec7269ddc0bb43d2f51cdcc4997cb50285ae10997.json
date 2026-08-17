@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:a7ccd3d7e5460aaca3e88a3ec7269ddc0bb43d2f51cdcc4997cb50285ae10997"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Competence area B LESEN — descriptors 1–3: further develop reading fluency using subject texts with their subject-specific vocabulary (SEK I Unterstufe); identify subject-related terms and single pieces of information in continuous and non-continuous representations and infer them from context; open up sentence structures typical of subject texts (relative clauses, passive, main/subordinate clause constructions with conjunctions).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Leseflüssigkeit anhand von Fachtexten mit ihrem fachspezifischen Vokabular weiterentwickeln (SEK I Unterstufe) \n2. \nfachbezogene Begriffe und Einzelinformationen in kontinuierlichen und nicht kontinuierlichen fachbezogenen Darstellungsformen identifizieren und \naus dem Kontext erschließen \n3. \nSatzstrukturen erschließen, die für Fachtexte typisch sind (Relativsätze, Passiv, Haupt-, Nebensatzkonstruktionen mit Konjunktionen)",
+        "residual_flags": []
+      },
+      {
+        "content": "B LESEN — descriptors 4–5: understand and connect the main points in subject texts (explanations, descriptions…), and understand subject texts on a broad range of topics in teaching materials in detail.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "die Hauptpunkte in fachbezogenen Texten (Erklärungen, Beschreibungen…) verstehen und miteinander verknüpfen \n5. \nFachtexte zu einem breiten Spektrum fachbezogener Themen in Unterrichtsmaterialien detailliert verstehen",
+        "residual_flags": []
+      },
+      {
+        "content": "B LESEN — descriptor 6: apply reading techniques and strategies — selective, orienting, cursory and detailed reading; select, use and reflect on suitable reading strategies for the individual phases of reading, e.g. asking questions of the text, concept mapping, reciprocal reading.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Lesetechniken und Lesestrategien anwenden… \n• \nselektives Lesen, orientierendes Lesen, kursorisches Lesen, detailliertes Lesen \n• \nfür das Erschließen von Fachtexten geeignete Lesestrategien für die einzelnen Phasen des Lesens auswählen, nutzen und ihren Einsatz \nreflektieren, z.B. Fragen an den Text stellen, Concept Mapping Verfahren, reziprokes Lesen",
+        "residual_flags": []
+      },
+      {
+        "content": "B LESEN — descriptor 7: handle subject texts in print and electronic media — research subject topics using analogue and digital media (newspapers, magazines, audiobooks, radio, TV, internet), evaluate the content of subject texts and detect and mark contradictions, select relevant subject texts and text types for a topic, and assess quality and credibility of subject texts and sources with reasons.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "mit Fachtexten in Druckmedien und elektronischen Medien umgehen \n• \nin Druckmedien und elektronischen Medien zu fachbezogenen Themen oder Aufgaben recherchieren, dabei verschiedene Angebote analoger und \ndigitaler Medien (z. B. Zeitungen, Zeitschriften, Hörbücher, Hörfunk, Fernsehen, Internet) nutzen \n• \nden Inhalt von Fachtexten bewerten und Widersprüche entdecken und kennzeichnen \n• \nfür ein Thema relevante Fachtexte und Textsorten zielgerichtet auswählen, um themenrelevante Informationen zu entnehmen  \n• \nQualität und Glaubwürdigkeit von Fachtexten und Quellen begründet einschätzen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "B. LESEN (SACHTEXTE LESEND VERSTEHEN)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "B. LESEN (SACHTEXTE LESEND VERSTEHEN)",
+        "printed_page_range": "15–16"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

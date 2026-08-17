@@ -2,7 +2,7 @@
   "document_id": "abiturrichtlinie-english",
   "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
   "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
-  "index_version": 1,
+  "index_version": 3,
   "physical_page_count": 32,
   "page_identity": {
     "offset": 0,
@@ -57,9 +57,9 @@
     {
       "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
       "printed_page_start": 4,
-      "printed_page_end": 4,
+      "printed_page_end": 5,
       "physical_page_start": 4,
-      "physical_page_end": 4,
+      "physical_page_end": 5,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -117,9 +117,9 @@
     {
       "section_anchor": "4.1 Allgemeine Hinweise",
       "printed_page_start": 10,
-      "printed_page_end": 10,
+      "printed_page_end": 11,
       "physical_page_start": 10,
-      "physical_page_end": 10,
+      "physical_page_end": 11,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -257,9 +257,9 @@
     {
       "section_anchor": "5.1.1 Form und Aufgabenstellung",
       "printed_page_start": 24,
-      "printed_page_end": 25,
+      "printed_page_end": 26,
       "physical_page_start": 24,
-      "physical_page_end": 25,
+      "physical_page_end": 26,
       "ordinance": null,
       "grades": null,
       "hazards": []
@@ -287,9 +287,9 @@
     {
       "section_anchor": "5.2.1 Form und Aufgabenstellung",
       "printed_page_start": 27,
-      "printed_page_end": 27,
+      "printed_page_end": 28,
       "physical_page_start": 27,
-      "physical_page_end": 27,
+      "physical_page_end": 28,
       "ordinance": null,
       "grades": null,
       "hazards": []

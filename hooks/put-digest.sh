@@ -40,6 +40,25 @@ else
   export THALURA_CACHE_DIR="$CDIR"
 fi
 
+# --- The SHIPPED PACK is a read-only source (the long note lives in _resolve.sh), so
+# a cache root inside it ends this firing here, before anything is created.
+#
+# ONE GUARD, THREE WRITES. This is the only hook that would write pack-SHAPED output:
+# below it creates the dedup tree, appends the audit line, and hands cache.py a put
+# that lands a <document_id>/<key>.json — an entry indistinguishable, by shape, from a
+# generated one. A shape check downstream could never tell those apart, which is
+# precisely why the refusal has to happen here rather than being left to one.
+#
+# FAIL-OPEN DIRECTION: toward a MISS. The digest is not persisted, so the next read of
+# that section reads it again — one redundant read, never a wrong or missing answer.
+# And nothing is retracted: as this file's header says, the firewall already returned
+# its digest in-band before this hook fires, so no outcome here can reach the caller.
+#
+# It is the DEV-TIME GENERATOR, not this hook, that legitimately writes the pack, and
+# it does so through cache.py directly. Guarding cache.py would break generation; the
+# boundary is that the RUNTIME treats the pack as read-only.
+if thalura_is_shipped_pack_path "$CDIR"; then emit_noop; fi
+
 SESSION="$(printf '%s' "$EVENT" | python3 -c '
 import json,sys
 try:
@@ -116,7 +135,13 @@ printf '%s\n' "$SECTIONS" | while IFS="$(printf '\t')" read -r section_key id_fi
     continue
   fi
 
-  run_cap python3 "$CACHE_PY" put --identity "$id_file" --digest "$dg_file" >/dev/null 2>&1
+  # Keep the REASON, not only the code. A schema rejection names the offending
+  # field on stderr; discarding it leaves an audit line that says a write was
+  # skipped without saying why, and the cost of a refused put recurs every
+  # session. Bounded to one line and 200 chars: evidence, never a payload.
+  put_err="$id_file.err"
+  run_cap python3 "$CACHE_PY" put --identity "$id_file" --digest "$dg_file" \
+    >/dev/null 2>"$put_err"
   put_rc=$?
 
   if [ "$put_rc" = 0 ]; then
@@ -132,9 +157,16 @@ printf '%s\n' "$SECTIONS" | while IFS="$(printf '\t')" read -r section_key id_fi
   else
     # put_rc 3 = schema reject (malformed backstop); 124/143 = timeout (timeout(1)
     # vs the SIGTERM watchdog fallback); other = error. Any non-zero -> no write.
-    audit "event=skip key=$section_key put_rc=$put_rc"
+    put_why="$(awk 'NR==1 { line=$0; sub(/^cache\.py: (reject)? *— */, "", line); print substr(line, 1, 200); exit }' \
+                 "$put_err" 2>/dev/null)"
+    if [ -n "$put_why" ]; then
+      audit "event=skip key=$section_key put_rc=$put_rc reason=$put_why"
+    else
+      audit "event=skip key=$section_key put_rc=$put_rc"
+    fi
     # No dedup marker on a failed put: a retry on the backup event may still succeed.
   fi
+  rm -f "$put_err" 2>/dev/null || true
 done
 
 cleanup_env_tmpdir

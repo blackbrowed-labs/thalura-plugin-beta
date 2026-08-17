@@ -1,0 +1,152 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:62e53e88a84bc98ef69cf70b4d7fb9700c7eb32790ed420b8743ba5f13fb942b"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The subject-related linguistic competences are described for five competence areas (A–E); the area 'Sprachbewusstheit' relates to each of the other areas and to the Sprachhandlungen described below.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die fachbezogenen sprachlichen Kompetenzen werden für die fünf Kompetenzbereiche (A-E) \nbeschrieben, die in der nachfolgenden Übersicht dargestellt sind. Der Bereich „Sprachbe-\nwusstheit“ steht in Beziehung zu jedem der anderen Kompetenzbereiche, aber auch zu den \nnachfolgend beschriebenen Sprachhandlungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Overview of the areas: E Sprachbewusstheit (distinguish/reflect and apply registers) cuts across; oral: A Hören (verstehend zuhören, Hörstrategien nutzen) and C Sprechen (dialogic/monologic); written: B Lesen (Sachtexte, Lesetechniken/-strategien) and D Schreiben (Fachtexte schreiben, Schreibstrategien anwenden); columns rezeptiv/produktiv. NOTE: the table prints 'Sachteste lesen verstehen'.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "E Sprachbewusstheit \n• sprachliche Register un-\nterscheiden und reflektie-\nren \n• sprachliche Register an-\nwenden \nmündlich \nA Hören \n• verstehend zuhören (Sachtexte \nhörend verstehen) \n• Hörstrategien nutzen \nC Sprechen \n• mit Anderen sprechen (dialogi-\nsche Kompetenzen) \n• vor Anderen sprechen (monolo-\ngische Kompetenzen) \nschriftlich \nB Lesen \n• Sachteste lesen verstehen \n• Lesetechniken und Lesestrate-\ngien nutzen \nD Schreiben \n• Fachtexte schreiben \n• Schreibstrategien anwenden",
+        "residual_flags": [
+          "source anomaly: 'Sachteste lesen verstehen' — typo for 'Sachtexte lesend verstehen'"
+        ]
+      },
+      {
+        "content": "Because competence acquisition happens above all through language action, the matrix sets out 15 Sprachhandlungen central to subject learning; it is not an exhaustive list but focuses on central language actions relevant across many or all subjects with a common core of meaning. NOTE: the sentence reads '15 Sprachhandlungen für die Grundschule für die Sekundarstufe ausgewiesen' (a missing 'und').",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Da der Kompetenzerwerb im Fachunterricht vor allem durch sprachliches Handeln erfolgt, wer-\nden in der Kompetenzmatrix 15 Sprachhandlungen für die Grundschule für die Sekundarstufe \nausgewiesen, welche zentral für das fachliche Lernen sind (siehe tabellarische Übersicht un-\nten). Die Kompetenzmatrix beinhaltet nicht lückenlos alle sprachlichen Handlungen, die im \nFachunterricht aller Fächer eine Rolle spielen, sondern fokussiert auf zentrale sprachliche \nHandlungen, die in vielen oder allen Fächern von Bedeutung sind und einen gemeinsamen \nBedeutungskern haben.",
+        "residual_flags": [
+          "source anomaly: '15 Sprachhandlungen für die Grundschule für die Sekundarstufe ausgewiesen' — connective ('und'/'sowie') missing"
+        ]
+      },
+      {
+        "content": "The 15 Sprachhandlungen: 1. Anweisungen und Aufgabenstellungen ausführen und erteilen, 2. Benennen, 3. Fragen, 4. Vermutungen äußern, 5. Berichten, 6. Beschreiben, 7. Beschreiben nicht kontinuierlicher Darstellungsformen, 8. Definieren (Sekundarstufe) / Wörter und Begriffe erklären (Grundschule), 9. Erklären und Erläutern, 10. Vergleichen, 11. Meinungen und Behauptungen äußern, 12. Argument formulieren und Begründen, 13. Diskutieren und Erörtern, 14. Urteilen und Bewerten, 15. Zusammenfassen.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "1. Anweisungen und Aufgabenstellungen ausführen und erteilen \n2. Benennen \n3. Fragen \n4. Vermutungen äußern \n5. Berichten \n6. Beschreiben \n7. Beschreiben nicht kontinuierlicher Darstellungsformen \n8. Definieren (Sekundarstufe); Wörter und Begriffe erklären (Grundschule) \n9. Erklären und Erläutern \n10. Vergleichen \n11. Meinungen und Behauptungen äußern \n12. Argument formulieren und Begründen \n13. Diskutieren und Erörtern \n14. Urteilen und Bewerten \n15. Zusammenfassen",
+        "residual_flags": [
+          "source anomaly: item 12 prints 'Argument formulieren und Begründen' (singular 'Argument')"
+        ]
+      },
+      {
+        "content": "The five competence areas (A–E) and the central Sprachhandlungen (1–15) are listed in the left column of the matrix; they are described more precisely by descriptors in the second column, which represent the linguistic sub-competences required to perform the language actions in subject teaching.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die fünf sprachlichen Kompetenzbereiche (A-E) sowie die für den Fachunterricht zentralen \nSprachhandlungen (1-15) sind in der linken Spalte der Kompetenzmatrix aufgeführt.  \nDie aufgeführten Kompetenzbereiche sowie die zentralen Sprachhandlungen der Kompetenz-\nmatrix werden mittels Deskriptoren in der 2. Spalte genauer beschrieben. Diese stellen die \nsprachlichen Teilkompetenzen dar, die die Ausführung der sprachlichen Handlungen im Fach-\nunterricht fordern.",
+        "residual_flags": []
+      },
+      {
+        "content": "The third column gives implementation aids (Umsetzungshilfen): under 'sprachliche Mittel' typical linguistic means and notes at word, sentence, text and discourse level plus text patterns and example text types (only for the Sprachhandlungen); under 'Hinweise' explanations of the sub-competences; under 'Umsetzungsbeispiele' concrete task and lesson examples from three subjects or learning areas each.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Den fünf Kompetenzbereichen sowie den Sprachhandlungen sind jeweils Umsetzungshilfen \nin der 3. Spalte zugeordnet. Sie beinhalten: \n• \nunter „sprachliche Mittel“: typische sprachliche Mittel und Hinweise auf Wort-, Satz-, \nText- sowie Diskursebene sowie Textmuster und beispielhafte Textsorten, die den \nLehrkräften eine erste Orientierung dazu geben, welche Redemittel im Fachunterricht \nexplizit thematisiert und je nach Lernvoraussetzungen der Schülerinnen und Schüler \nauch eingeübt werden sollen (bezieht sich nur auf die Sprachhandlungen), \n• \nunter „Hinweise“: Erläuterungen zu den Teilkompetenzen, \n• \nunter „Umsetzungsbeispiele“: konkrete Aufgaben- und Unterrichtsbeispiele aus jeweils \ndrei Fächern bzw. Lernbereichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The difficulty of performing a Sprachhandlung depends decisively on the complexity of the subject context and topic, on the length of the texts/utterances to be produced, and on whether it is done with guidance or independently, with or without linguistic aids; for this reason the matrix deliberately refrains from a rigid differentiation of requirement levels (Anforderungsniveaus).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Schwierigkeit, eine Sprachhandlung wie das Erklären umzusetzen, wird entscheidend be-\neinflusst von der Komplexität des Fachkontextes und des konkreten Themas im Fachunter-\nricht, in dessen Rahmen die Sprachhandlung realisiert wird. Das Anforderungsniveau der \nSprachhandlung ist auch abhängig von der Länge der zu produzierenden Texte und Äußerun-\ngen. Daneben hängen die Anforderungen an die Schülerinnen und Schüler zur Umsetzung \neiner Sprachhandlung auch davon ab, ob sie unter Anleitung oder eigenständig oder mit oder \nohne sprachliche Hilfen ausgeführt werden soll. Aus diesem Grunde wird im Rahmen der Kom-\npetenzmatrix auf eine starre Unterscheidung und Differenzierung von Anforderungsniveaus \nbewusst verzichtet.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "3 Erläuterungen zum Aufbau der Kompetenzmatrix",
+        "printed_page_range": "12–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

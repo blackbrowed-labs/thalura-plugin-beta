@@ -1,0 +1,169 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:de5f28c48b1729a36190b9d78355a44769126b63ec59aac0d868e653496fd3cc"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The core curriculum comprises four topic areas; one topic area is chosen per semester, and each is worked on with at least one compulsory module during the Studienstufe.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Das Kerncurriculum umfasst vier Themenbereiche, von denen pro Semester ein Bereich",
+        "residual_flags": []
+      },
+      {
+        "content": "The order in which the topic areas are taught is not fixed; at the raised requirement level a qualitative and quantitative extension is assumed.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Reihenfolge der Erarbeitung der Themenbereiche ist nicht fest-\ngelegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Each topic area has four modules: one compulsory module (Pflichtmodul) and three elective modules (Wahlmodule).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Jedem Themenbereich sind vier Module (ein Pflichtmodul und drei Wahlmodule) zugeordnet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Of the 16 modules offered in total, at least four (the four compulsory modules) from the different topic areas must be taught during the Studienstufe.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Insgesamt werden also 16 Module angeboten, von denen im Laufe der Studienstufe mindes-\ntens vier Module (die vier Pflichtmodule) aus den verschiedenen Themenbereichen unterrich-\ntet werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In each semester the compulsory module of the chosen topic area must be taught; the A-Heft sets focus topics from two topic areas for the central written Abitur exams.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "In jedem Semester ist das jeweilige Pflichtmodul des für das Semester gewählten Themenbe-\nreichs obligatorisch zu unterrichten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The specialist terms given must be mastered passively and actively by the students.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "2.3 Inhalte",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die jeweils angegebenen Fachbegriffe sollen von den Schülerinnen und Schülern passiv und \naktiv beherrscht werden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.3 Inhalte"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "2.3 Inhalte",
+        "printed_page_range": "13–23"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

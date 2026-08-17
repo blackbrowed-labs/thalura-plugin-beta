@@ -1,0 +1,265 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b877a67e5550032b44362c4fc6e10227861891d69e808d44872cc03868074780"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The four proofs of performance with digital components must be distributed so that, in every grade of Sek I and Sek II, digital performances occur in the linguistic-literary-artistic, the mathematical-scientific-technical and the social-science task field (Aufgabenfeld).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die vier Leistungsnachweise mit digitalen Anteilen sind so zu verteilen, dass in jeder Jahr-\ngangsstufe der Sekundarstufe I sowie der Sekundarstufe II jeweils digitale Leistungen im \nsprachlich-literarisch-künstlerischen Aufgabenfeld, im mathematisch-naturwissenschaftlich-\ntechnischen Aufgabenfeld und im gesellschaftswissenschaftlichen Aufgabenfeld erbracht wer-\nden.",
+        "residual_flags": [
+          "section-tail: this paragraph closes 3a) Allgemeines but sits physically on page 9, inside this section's page range"
+        ]
+      },
+      {
+        "content": "German grades 5–8: at least SIX class tests per school year, two of which check spelling performance (Rechtschreibleistung).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Fach Deutsch werden in den Jahrgangsstufen 5 bis 8 pro Schuljahr mindestens sechs \nKlassenarbeiten geschrieben, davon zwei, die der Überprüfung der Rechtschreibleistung die-\nnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Mathematics, the foreign languages, and German from grade 9 on: at least FOUR class tests per school year.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Fach Mathematik, in den Fremdsprachen sowie im Fach Deutsch ab Jahrgangsstufe 9 \nwerden pro Schuljahr mindestens vier Klassenarbeiten geschrieben.",
+        "residual_flags": []
+      },
+      {
+        "content": "In subjects where a student takes the central written checks in grade 10, the examination paper replaces one class test.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In den Fächern, in denen \neine Schülerin oder ein Schüler in der Jahrgangsstufe 10 an den zentralen schriftlichen Über-\nprüfungen teilnimmt, ersetzt die Prüfungsarbeit eine Klassenarbeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "All other subjects except Sport, Musik, Bildende Kunst and Theater: at least TWO class tests per school year.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In allen anderen Fächern \nmit Ausnahme der Fächer Sport, Musik, Bildende Kunst und Theater werden pro Schuljahr \nmindestens zwei Klassenarbeiten geschrieben.",
+        "residual_flags": []
+      },
+      {
+        "content": "In grade 6 in Naturwissenschaften/Technik and in grade 8 in Biologie, Chemie and Physik one class test is written as a year-group test (Jahrgangsarbeit); its tasks are developed by the year-group subject teams on the basis of central specifications for design and structure.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In der Jahrgangsstufe 6 wird im Fach Naturwissenschaften/Technik, in der Jahrgangsstufe 8 \nin den Fächern Biologie, Chemie und Physik eine Klassenarbeit als Jahrgangsarbeit geschrie-\nben. Die Aufgaben für diese Jahrgangsarbeiten werden auf der Grundlage zentraler Vorgaben \nzur Gestaltung und Struktur der Arbeiten und Aufgaben durch die Jahrgangsfachteams entwi-\nckelt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Working time in grade 10: at least 45 minutes for all class tests in the first half-year; at least 90 minutes in the second half-year, to prepare for the Studienstufe.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im ersten Schulhalbjahr der Jahrgangsstufe 10 beträgt die Arbeitszeit in allen Klassenarbeiten \nmindestens 45 Minuten. Zur Vorbereitung auf die Arbeit in der Studienstufe beträgt die Arbeits-\nzeit in allen Klassenarbeiten des zweiten Schulhalbjahres der Jahrgangsstufe 10 mindestens \n90 Minuten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Replacement rule: per school year and subject ONE class test may be replaced by an equivalent performance if the teacher deems it useful; where at least four class tests are required, up to TWO may be replaced. The spelling-check class tests and the Mathematics class tests can NOT be replaced.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Pro Schuljahr und Fach kann eine Klassenarbeit durch eine entsprechende Leistung ersetzt \nwerden, wenn dies aus Sicht der Lehrkraft für die Unterrichtsarbeit sinnvoll ist; sofern in einem \nFach mindestens vier Klassenarbeiten zu schreiben sind, können bis zu zwei davon ersetzt \nwerden. Die Klassenarbeiten zur Überprüfung der Rechtschreibleistung und die Klassenarbei-\nten im Fach Mathematik können nicht ersetzt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In Sek I the functional communicative competency 'Sprechen' is checked once in each modern foreign language in a separate speaking exam (Sprechprüfung), which replaces one class test in that school year; it takes place at the earliest in the third year of learning and not before grade 7, as a group exam of at least two and at most five students.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "In der Sekundarstufe I wird einmal in jeder Neueren Fremdsprache die funktionale kommuni-\nkative Kompetenz Sprechen in einer gesonderten Sprechprüfung überprüft. In dem Schuljahr, \nin dem die Sprechprüfung durchgeführt wird, ersetzt diese eine Klassenarbeit. Die Sprechprü-\nfung findet frühestens im dritten Lernjahr und nicht vor Eintritt in die Jahrgangsstufe 7 statt. \nDie Prüfung erfolgt als Gruppenprüfung von mindestens zwei und höchstens fünf Schülerinnen \nund Schülern.",
+        "residual_flags": []
+      },
+      {
+        "content": "In Mathematics, class-test performance counts 50 percent towards the report-card grade.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Im Fach Mathematik gehen die Leistungen in Klassenarbeiten mit 50 vom Hundert in die Zeug-\nnisnote ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "§ 24 and § 32 APO-GrundStGy remain unaffected; in grade 10 the three remaining class tests are weighted at 50 percent when setting the grade for the current school year's classwork per § 32 (5) sentence 2 APO-GrundStGy, provided an oral check was carried out in addition to the written one.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "§ 24 und § 32 APO-GrundStGy bleiben unberührt; in der Jahrgangsstufe 10 wer-\nden in diesem Fach bei der Festsetzung der Note für die im Unterricht des laufenden Schul-\njahres erbrachte Leistung gem. § 32 Absatz 5 Satz 2 APO-GrundStGy die verbleibenden drei \nKlassenarbeiten mit 50 vom Hundert gewichtet, wenn zusätzlich zur schriftlichen auch eine \nmündliche Überprüfung erfolgt ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "The teacher/department/subject conference decides on the scope and distribution of class tests, respecting the authority's specifications and the school conference's resolutions.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Lehrerkonferenz bzw. die Abteilungs- oder Fachkonferenz entscheidet unter Berücksich-\ntigung der behördlichen Vorgaben und auf der Grundlage der Beschlüsse der Schulkonferenz \nüber den Umfang und die Verteilung der Klassenarbeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Distribution limits: no more than two class tests per week; no more than seven per month, and no more than six in December; dates including make-up dates must be fixed in a plan at the start of each half-year, handed to students and posted in the classroom, and the schedule should be coordinated with the class conference.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "• \nPro Woche dürfen nicht mehr als zwei Klassenarbeiten geschrieben werden. \n• \nPro Monat dürfen nicht mehr als sieben, im Dezember nicht mehr als sechs Klassen-\narbeiten geschrieben werden. \n• \nDie Termine für die Klassenarbeiten inklusive der Ersatztermine für ausgefallene Klas-\nsenarbeiten sind zu Beginn eines jeden Schulhalbjahres in einem Plan festzulegen, \nden Schülerinnen und Schülern auszuhändigen und im Klassenzimmer auszuhängen. \nDieser Terminplan soll mit der Klassenkonferenz abgestimmt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In German spelling-check class tests errors are marked and corrected by the students; in ALL German class tests the teacher gives error-differentiated feedback on spelling and grammar errors, oriented on the students' spelling competencies and on the demands of the lessons.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Im Fach Deutsch werden in Klassenarbeiten, die der Überprüfung der Rechtschreibleistung \ndienen, die Fehler markiert und von den Schülerinnen und Schülern berichtigt. In allen Klas-\nsenarbeiten im Fach Deutsch gibt die Lehrkraft den Schülerinnen und Schülern eine fehlerdif-\nferenzierende Rückmeldung zu Rechtschreib- und Grammatikfehlern, die sich an deren Recht-\nschreibkompetenzen sowie an den unterrichtlichen Anforderungen orientiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students correct these errors and, where appropriate, receive follow-up tasks to broaden and consolidate their spelling competency.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Die Schülerinnen \nund Schüler berichtigen diese Fehler und erhalten gegebenenfalls Anschlussaufgaben zur Er-\nweiterung und Festigung ihrer Rechtschreibkompetenz.",
+        "residual_flags": []
+      },
+      {
+        "content": "In other subjects teachers make clear the necessity of orthographically correct writing, mark spelling and grammar errors and, if needed, order corrections or set tasks on individual error focuses; the subject teacher decides on the necessary content corrections.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "In den anderen Fächern machen die Lehrkräfte die Notwendigkeit deutlich, Texte orthografisch \nrichtig zu schreiben. Sie markieren die Rechtschreib- und Grammatikfehler und erteilen den \nSchülerinnen und Schülern bei Bedarf den Auftrag zur Korrektur oder geben Aufgaben zur \nArbeit an individuellen Fehlerschwerpunkten auf. Über die erforderlichen inhaltlichen Berichti-\ngungen entscheidet die Fachlehrkraft.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "3b) Klassenarbeiten und entsprechende Leistungen in der Sekundarstufe I des Gymnasiums",
+        "printed_page_range": "9–10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

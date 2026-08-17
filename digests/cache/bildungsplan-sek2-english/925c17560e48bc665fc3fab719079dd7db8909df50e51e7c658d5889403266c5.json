@@ -1,0 +1,145 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:925c17560e48bc665fc3fab719079dd7db8909df50e51e7c658d5889403266c5"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In the Studienstufe students deepen their sociocultural orientation knowledge.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "In der Studienstufe vertiefen die Schülerinnen und Schüler ihr soziokulturelles Orientierungs-\nwissen",
+        "residual_flags": []
+      },
+      {
+        "content": "Following the CEFR (GER), the individual sub-competences are listed separately but are used integratively in real language use.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Entsprechend dem GER werden die einzelnen Teilkompetenzen getrennt aufgelistet, in der \nrealen Sprachverwendung jedoch integrativ verwendet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Text and media competence is developed further in Sekundarstufe II and applied to complex non-fiction texts, literary texts and various media.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Text- und Medienkompetenz wird in der Sekundarstufe II weiterentwickelt und auf kom-\nplexe Sachtexte, literarische Texte und verschiedene Medien angewendet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Foreign-language teaching requires an action-oriented learning concept, because language learning is language action.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der Fremdsprachenunterricht erfordert ein handlungsorientiertes Lernkonzept, denn Spra-\nchenlernen ist Sprachhandeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching materials are situation-, experience- and application-oriented, with content presented in authentic contexts using authentic materials.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Unterrichtsmaterialien sind situations-, erlebnis- und anwendungsorientiert. Die Inhalte \nwerden in möglichst authentischen Kontexten anhand authentischer Materialien dargeboten.",
+        "residual_flags": []
+      },
+      {
+        "content": "The main task of continued teaching in Sekundarstufe II is the continuous activation, consolidation and extension of what has been learned.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "1.1 Didaktische Grundsätze",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "In der Sekundarstufe II ist die Hauptaufgabe des weitergeführten Unterrichts in einer Neueren \nFremdsprache die kontinuierliche Aktivierung, Festigung und Erweiterung des Gelernten.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        },
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.1 Didaktische Grundsätze"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "1.1 Didaktische Grundsätze",
+        "printed_page_range": "4–8"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

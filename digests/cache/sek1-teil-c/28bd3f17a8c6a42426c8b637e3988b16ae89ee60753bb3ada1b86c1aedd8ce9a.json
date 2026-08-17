@@ -1,0 +1,161 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:28bd3f17a8c6a42426c8b637e3988b16ae89ee60753bb3ada1b86c1aedd8ce9a"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In den Alten Sprachen haben die im Umgang mit lateinischen bzw. griechischen Texten gezeigten Leistungen das größte Gewicht und sind nicht ersetzbar.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Die im Umgang mit lateinischen bzw. griechischen Texten gezeigten Leistungen haben das ",
+        "residual_flags": []
+      },
+      {
+        "content": "Für die Textarbeit gelten Kriterien wie Sprachkenntnisse (Wortschatz, Formenlehre, Syntax, Fachtermini), Sicherheit in deren Verfügbarkeit und die Fähigkeit zur Sprach- und Textreflexion.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Kenntnisse in der lateinischen bzw. griechischen Sprache (Wortschatz, Formenlehre, \nSyntax, Fachtermini) \n• \nSicherheit in der Verfügbarkeit sprachlicher Kenntnisse \n• \nFähigkeit zur Sprach- und Textreflexion (sinngemäß richtige Wiedergabe von Wörtern, \nBegriffen und Wendungen; Erfassen formaler und syntaktischer Strukturen; Textver-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu den Kriterien zählen ferner strukturiertes Vorgehen beim Übersetzen, die Nutzung fachlicher Hilfsmittel sowie die Fähigkeit, Bezüge zwischen der griechisch-römischen Antike und der Gegenwart herzustellen; die Quelle schreibt an dieser Stelle „griechischen-römischen“.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "strukturiertes und systematisches Vorgehen beim Übersetzen \n• \nEinbeziehung der Ergebnisse der Textvorerschließung \n• \nFähigkeit, fachliche Hilfsmittel (Lehrbuch, Grammatik; ggf. Wörterbuch) zu benutzen \n• \nFähigkeit, sich angemessen und treffend in der Zielsprache auszudrücken \n• \nFähigkeit, auf Grundkenntnisse in verschiedenen Bereichen der griechisch-römischen \nAntike zurückzugreifen \n• \nFähigkeit, Bezüge zwischen der griechischen-römischen Antike und der Gegenwart \nherzustellen ",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "Zur Überprüfung der Sprachkenntnisse und des Umgangs mit isolierten grammatischen Phänomenen werden regelmäßig bewertete Leistungsfeststellungen geschrieben.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Zur Überprüfung der Kenntnisse in der lateinischen bzw. griechischen Sprache (Wortschatz, ",
+        "residual_flags": []
+      },
+      {
+        "content": "Klassenarbeiten bzw. Klausuren bestehen aus einer Übersetzungsaufgabe und einem Aufgabenteil; spätestens ab dem dritten Lernjahr umfasst der Aufgabenteil mindestens eine Interpretationsaufgabe und darf nicht überwiegen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Klassenarbeiten bzw. Klausuren bestehen in den Alten Sprachen aus zwei Teilen: einer Über-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Note ausreichend im Übersetzungsteil setzt Verständnis des Gesamtsinns voraus; bei mehr als zehn ganzen Fehlern je hundert Wörter ist davon in der Regel nicht mehr auszugehen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "In Klassenarbeiten bzw. Klausuren darf für den Übersetzungsteil die Note „ausreichend“ nur ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Note gut kann in der Regel bei nicht mehr als fünf ganzen Fehlern je hundert Wörter erteilt werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Fehler aufweist. Die Note „gut“ kann in der Regel dann erteilt werden, wenn die Übersetzung ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Fehlergewichtung richtet sich vor allem nach der Störung des Sinns im deutschen Text, nicht nach dem Grad des Verstoßes gegen das Sprachsystem.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7a) Alte Sprachen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Sie richtet sich vor allem nach der Störung des Sinns, die im deutschen Text von dem ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7a) Alte Sprachen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7a) Alte Sprachen",
+        "printed_page_range": "16–17"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

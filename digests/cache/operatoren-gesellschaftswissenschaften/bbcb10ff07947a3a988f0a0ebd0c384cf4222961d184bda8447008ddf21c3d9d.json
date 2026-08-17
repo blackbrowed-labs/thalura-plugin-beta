@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:bbcb10ff07947a3a988f0a0ebd0c384cf4222961d184bda8447008ddf21c3d9d"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-gesellschaftswissenschaften",
+      "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "'Erörtern' requires developing a pro-and-contra argumentation on a problem that leads, after weighing the arguments, to a reasoned and comprehensible judgement.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Erörtern",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "„Erörtern“ fordert dazu auf, zu einer Problemstellung (einer These, einer Entschei-",
+        "residual_flags": []
+      },
+      {
+        "content": "The judgement may be either a factual judgement (Sachurteil) or a value judgement (Werturteil).",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Erörtern",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Dabei kann es sich um ein Sach- oder ein Werturteil handeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "The operator is used in all social-science subjects, with its focus in requirement area (Anforderungsbereich) III.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Erörtern",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Der Operator „erörtern“ wird in allen gesellschaftswissenschaftlichen Fächern ver-",
+        "residual_flags": []
+      },
+      {
+        "content": "The weighing step balances arguments against each other and may develop a compromise or synthesis position.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Erörtern",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Argumente gegeneinander abwägen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The decisive criterion must be made explicit — e.g. cogency or plausibility for factual judgements, the hierarchy of personal values for value judgements.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Erörtern",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Das Kriterium deutlich machen, das den Ausschlag für die eine oder andere",
+        "residual_flags": []
+      },
+      {
+        "content": "The conclusion may also remain open, e.g. when decisive information is shown to be missing.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Erörtern",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Das Fazit kann auch offen bleiben, z. B. wenn herausgearbeitet wird, dass",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Erörtern"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-gesellschaftswissenschaften",
+        "section_anchor": "Erörtern",
+        "printed_page_range": "14"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

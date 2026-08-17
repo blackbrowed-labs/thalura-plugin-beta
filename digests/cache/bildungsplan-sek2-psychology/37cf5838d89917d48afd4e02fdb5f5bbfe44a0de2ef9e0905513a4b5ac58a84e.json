@@ -1,0 +1,1198 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:37cf5838d89917d48afd4e02fdb5f5bbfe44a0de2ef9e0905513a4b5ac58a84e"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Überfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den Erwerb fachlicher Kompetenzen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Überfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Vermittlung überfachlicher Kompetenzen ist gemeinsame Aufgabe und Ziel aller Unterrichtsfächer und des gesamten Schullebens.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "die gemeinsame Aufgabe und gemeinsames Ziel aller",
+        "residual_flags": []
+      },
+      {
+        "content": "Die überfachlichen Kompetenzen lassen sich vier Bereichen zuordnen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die überfachlichen Kompetenzen lassen",
+        "residual_flags": []
+      },
+      {
+        "content": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegenüber.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegen-",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für Dinge einzusetzen und zu engagieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für",
+        "residual_flags": []
+      },
+      {
+        "content": "Lernmethodische Kompetenzen bilden die Grundlage für einen bewussten Erwerb von Wissen und selbstgesteuertes Lernen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Lernmethodische Kompetenzen bilden die Grundlage für einen bewussten Erwerb",
+        "residual_flags": []
+      },
+      {
+        "content": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen umzugehen und zusammenzuarbeiten.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen um-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die überfachlichen Kompetenzen sind jahrgangsübergreifend zu verstehen und werden nicht nach Jahrgangsstufen differenziert ausgewiesen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "übergreifend zu verstehen, d. h., sie werden anders als die fachlichen Kompetenzen in den",
+        "residual_flags": []
+      },
+      {
+        "content": "Die überfachlichen Kompetenzen sind bei der Erarbeitung des schulinternen Curriculums zu berücksichtigen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Erarbeitung des schulinternen Curriculums zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Personale Kompetenz Selbstwirksamkeit: Vertrauen in die eigenen Fähigkeiten und Glaube an die Wirksamkeit des eigenen Handelns.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "hat Vertrauen in die eigenen Fähigkeiten und",
+        "residual_flags": []
+      },
+      {
+        "content": "Lernmethodische Kompetenz Lernstrategien: strukturiertes und systematisches Vorgehen beim Lernen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "geht beim Lernen strukturiert und systematisch",
+        "residual_flags": []
+      },
+      {
+        "content": "Personale Kompetenz Selbstbehauptung: entwickelt eine eigene Meinung und trifft eigene Entscheidungen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "entwickelt eine eigene Meinung, trifft eigene Ent-",
+        "residual_flags": []
+      },
+      {
+        "content": "Lernmethodische Kompetenz Problemlösefähigkeit: kennt und nutzt unterschiedliche Wege zum Lösen von Problemen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "kennt und nutzt unterschiedliche Wege, um Prob-",
+        "residual_flags": []
+      },
+      {
+        "content": "Soziale Kompetenz Kooperationsfähigkeit: arbeitet gut mit anderen zusammen und übernimmt Aufgaben in Gruppen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "arbeitet gut mit anderen zusammen, übernimmt",
+        "residual_flags": []
+      },
+      {
+        "content": "Soziale Kompetenz Konstruktiver Umgang mit Vielfalt: zeigt Toleranz und Respekt gegenüber anderen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "zeigt Toleranz und Respekt gegenüber anderen",
+        "residual_flags": []
+      },
+      {
+        "content": "Fachliche Kompetenz zeigt sich als Fähigkeit, bestimmte Operationen kompetent durchzuführen; es werden vier verschränkte Kompetenzbereiche unterschieden.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "lassen sich vier fachspezifische Kompetenzbereiche unterscheiden, die miteinander ver-",
+        "residual_flags": []
+      },
+      {
+        "content": "Fachkompetenz ist die Fähigkeit, psychische und soziale Phänomene mit psychologischen Methoden, Modellen oder Theorien zu beobachten, zu analysieren und zu erklären.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Unter Fachkompetenz wird die Fähigkeit, Fertigkeit und Bereitschaft verstanden, psy-",
+        "residual_flags": []
+      },
+      {
+        "content": "Methodenkompetenz ist die Befähigung zu zielgerichtetem und planmäßigem Vorgehen bei der Bearbeitung von Fragestellungen und Problemen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Unter Methodenkompetenz wird die Bereitschaft und Befähigung zu zielgerichtetem",
+        "residual_flags": []
+      },
+      {
+        "content": "Urteilskompetenz ist die Fähigkeit, zu psychischen und psychologischen Fragen eigenständige Bewertungen vorzunehmen und den eigenen Urteilsprozess kritisch zu hinterfragen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Unter Urteilskompetenz wird die Fähigkeit, Fertigkeit und Bereitschaft verstanden, zu",
+        "residual_flags": []
+      },
+      {
+        "content": "Handlungskompetenz ist die Fähigkeit, psychologische Erkenntnisse konstruktiv auf soziale Situationen und die Gestaltung des eigenen Lebens anzuwenden.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Unter Handlungskompetenz wird die Fähigkeit, Fertigkeit und Bereitschaft verstan-",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Psychologieunterricht werden konstruierte und reale Fallbeispiele verwendet, um Handlungskompetenzen zu erproben und weiterzuentwickeln.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "struierte und reale Fallbeispiele verwendet, um Handlungskompetenzen zu erproben",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Fachkompetenz gehört, psychische und soziale Phänomene systematisch zu beobachten und differenziert wahrzunehmen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Psychische und soziale Phänomene und Probleme systematisch beobachten und dif-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Fachkompetenz gehört, Chancen, Risiken und Wirkungen des Mediengebrauchs sowie Strategien des Jugend- und Verbraucherschutzes zu analysieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Chancen, Risiken und Wirkungen des Mediengebrauchs in unterschiedlichen Lebens-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Methodenkompetenz gehört, relevante psychologische Quellen mit zielgerichteten Suchstrategien und korrekten Quellenangaben zu suchen und zu identifizieren.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Relevante psychologische Quellen in verschiedenen analogen und digitalen Umgebun-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Urteilskompetenz gehört, fachlich fundierte und begründete eigene Positionen über psychische und soziale Phänomene zu entwickeln.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Fachlich fundierte und begründete eigene Positionen über psychische und soziale Phä-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zur Handlungskompetenz gehört, den weiteren Lebensweg psychologisch begründet zu planen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Den weiteren Lebensweg psychologisch begründet planen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Anforderungen auf grundlegendem und auf erhöhtem Niveau unterscheiden sich in qualitativer und quantitativer Hinsicht.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "tem Niveau in qualitativer und quantitativer Hinsicht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Ist Psychologie Prüfungsfach, muss es in der Vorstufe (Stadtteilschule) oder Klasse 10 (Gymnasium) mindestens ein halbes Jahr unterrichtet worden sein; über Ausnahmen entscheidet die Schulleitung.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "(am Gymnasium) mindestens ein halbes Jahr lang unterrichtet worden sein. Über Ausnahmen",
+        "residual_flags": []
+      },
+      {
+        "content": "Fachkompetenz F2 verlangt das Erläutern von Phänomenen unter Heranziehung mindestens des tiefenpsychologischen und behavioristischen Paradigmas.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Heranziehung mindestens des tiefenpsychologi-",
+        "residual_flags": []
+      },
+      {
+        "content": "Fachkompetenz eA F3 verlangt das Erörtern von u. a. Menschenbild, Methodik und Theorie von mindestens drei Paradigmen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "erörtern u. a. Menschenbild, Methodik und Theorie",
+        "residual_flags": []
+      },
+      {
+        "content": "Methodenkompetenz M4 verlangt, nach angeleiteter Recherche eine eigene Untersuchung zu entwerfen und begleitet durchzuführen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "entwerfen vor dem Hintergrund einer angeleiteten",
+        "residual_flags": []
+      },
+      {
+        "content": "Urteilskompetenz U1 verlangt das Bewerten eigener Interpretationen vor dem Hintergrund der Unterschiede zwischen Alltags-/Populärpsychologie und wissenschaftlicher Psychologie.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "bewerten ihre eigenen Interpretationen von psychi-",
+        "residual_flags": []
+      },
+      {
+        "content": "Urteilskompetenz eA U5 verlangt das Erörtern der Stärken und Schwächen traditioneller Paradigmen vor dem Hintergrund aktueller Entwicklungen und Forschungsbefunde.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "erörtern vor dem Hintergrund aktueller Entwicklun-",
+        "residual_flags": []
+      },
+      {
+        "content": "Handlungskompetenz H1 verlangt das Anwenden lernpsychologischer Gesetzmäßigkeiten zur Förderung der Selbst- und Fremdmotivation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "wenden lernpsychologische Gesetzmäßigkeiten zur",
+        "residual_flags": []
+      },
+      {
+        "content": "Handlungskompetenz H4 verlangt, in der Rolle von Expertinnen und Experten Handlungsoptionen zur Bewältigung von Krisen zu entwickeln.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "ten Handlungsoptionen zur Bewältigung von Krisen",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Kerncurriculum umfasst maximal die Hälfte der verfügbaren Zeit, sodass individuelle Vertiefungen und Schwerpunktsetzungen möglich sind.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Das Kerncurriculum umfasst von der insgesamt zur Verfügung stehenden Zeit maximal die",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Module enthalten jeweils ein Additivum für das erhöhte Anforderungsniveau (eA), erkennbar an Ergänzungen in kursiver Schrift.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Module beinhalten diesbezüglich jeweils ein Additivum für das erhöhte Anforderungs-",
+        "residual_flags": []
+      },
+      {
+        "content": "Das Kerncurriculum der gymnasialen Oberstufe umfasst vier Themenfelder mit je einem obligatorischen Pflicht- bzw. Wahlpflichtmodul und ergänzenden Wahlmodulen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Das Kerncurriculum der gymnasialen Oberstufe umfasst vier Themenfelder mit je einem obli-",
+        "residual_flags": []
+      },
+      {
+        "content": "Themenbereich S1 ist die Allgemeine Psychologie.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Themenbereich S1: Allgemeine Psychologie",
+        "residual_flags": [
+          "page-multi-match:physical-15-earliest-of-5-candidate-pages"
+        ]
+      },
+      {
+        "content": "Themenbereich S2 ist Entwicklung und Persönlichkeit.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Themenbereich S2: Entwicklung und Persönlichkeit",
+        "residual_flags": [
+          "page-multi-match:physical-21-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "Themenbereich S3 Diagnostik und Intervention bietet als Wahlpflichtmodul u. a. S3.1 Klinische Psychologie.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "S3.1 Klinische Psychologie",
+        "residual_flags": [
+          "page-multi-match:physical-13-earliest-of-5-candidate-pages"
+        ]
+      },
+      {
+        "content": "Themenbereich S4 ist die Sozialpsychologie.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Themenbereich S4: Sozialpsychologie",
+        "residual_flags": [
+          "page-multi-match:physical-30-earliest-of-5-candidate-pages"
+        ]
+      },
+      {
+        "content": "Die Zuordnung der Themenbereiche zu den Semestern ist eine dringende Empfehlung, die sich aus fachtheoretischen Abhängigkeiten ergibt.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "dringende Empfehlung, die sich aus den fachtheoretischen Abhängigkeiten einzelner Unter-",
+        "residual_flags": []
+      },
+      {
+        "content": "Mit dem A-Heft werden Schwerpunkte für die zentralen schriftlichen Abiturprüfungen vorgegeben.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "menbereichen für die zentralen",
+        "residual_flags": []
+      },
+      {
+        "content": "Paradigmen und Forschungsmethoden der Psychologie sind modulübergreifend und spiralförmig im Unterricht aufzugreifen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "liegenden Hauptströmungen bzw. Paradigmen sowie die Forschungsmethoden der Psycholo-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die wesentlichen Fachbegriffe der unterrichteten Module sind verbindlich zu vermitteln.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Die wesentlichen Fachbegriffe der unterrichteten Module sind verbindlich zu vermitteln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S1.1 Lernen behandelt die Klassische Konditionierung nach Pawlow und Watson.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Klassische Konditionierung (Pawlow, Watson)",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S1.1 Lernen gehört ergänzend für eA die Operante Konditionierung nach Skinner.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Operante Konditionierung (Skinner)",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S1.2 Wahrnehmung behandelt Grundbegriffe wie Empfindung, Perzeption, Identifikation und Repräsentation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Empfindung, Perzeption, Identifikation, Repräsentation",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S1.2 Wahrnehmung gehört die Theorie der sozialen Wahrnehmung nach Bruner und Postman.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Theorie der sozialen Wahrnehmung nach Bruner und Post-",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S1.3 Motivation behandelt Grundbegriffe wie Aktivierung, Richtung, Intensität und Ausdauer.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Merkmale (Aktivierung, Richtung, Intensität, Ausdauer)",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S1.3 Motivation gehören Grundmotive nach McClelland.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Grundmotive nach McClelland (Big Three, implizit, explizit)",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S1.4 Emotion behandelt die Komponenten physiologisch, konativ, kognitiv und motivational.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Komponenten (physiologisch, konativ, kognitiv, motivational)",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S1.4 Emotion gehört die Zwei-Faktoren-Theorie nach Schachter und Singer.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Zwei-Faktoren-Theorie nach Schachter und Singer",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S1.5 Gedächtnis behandelt Gedächtnisformen wie implizit/explizit und deklarativ/prozedural.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Gedächtnisformen (implizit/explizit, deklarativ/prozedural)",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S1.5 Gedächtnis gehören Mehrspeichermodelle mit sensorischem Register.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "sensorische Register (z. B. ikonisch, echoisch)",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S2.1 behandelt Grundzüge des psychoanalytischen Persönlichkeits- und Entwicklungsmodells nach Freud.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "und Entwicklungsmodells (Freud)",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S2.1 gehört die sozialkognitive Lerntheorie nach Bandura.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Sozialkognitive Lerntheorie (Bandura)",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S2.1 behandelt ergänzend für eA die psychosoziale Entwicklung nach Erikson.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Schwerpunkt Entwicklung: Psychosoziale Entwicklung",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S2.2 behandelt die Grundlagen der Bindungstheorie.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Grundlagen der Bindungstheorie",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S2.2 gehört das Messen von Bindungsqualitäten (FST nach Ainsworth).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "ersten Lebensjahres (FST nach Ainsworth)",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S2.3 Eigenschaftstheorien beschreibt Persönlichkeit durch stabile, dauerhafte Verhaltensmuster (traits).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Beschreibung der Persönlichkeit durch stabile, dauerhafte",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S2.3 gehört das Fünf-Faktoren-Modell (The Big Five).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 24,
+          "physical_page": 24
+        },
+        "cited_text": "Fünf-Faktoren-Modell (The Big Five)",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S3.1 Klinische Psychologie gehört das Klassifikationssystem DSM.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "DSM (Diagnostic and Statistical Manual of Mental Dis-",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S3.1 gehören psychische Störungen mit Auswahl von Angststörungen oder Affektiven Störungen.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Vertiefung durch Auswahl von Angststörungen oder Affektive",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S3.1 gehören Psychotherapien wie die Verhaltenstherapie mit Expositions- und Konfrontationsverfahren.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Verhaltenstherapie: Expositions- und Konfrontationsverfahren",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S3.2 Gesundheitspsychologie behandelt Grundbegriffe der Stressforschung.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Grundbegriffe der Stressforschung",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S3.2 gehört das transaktionale Stressmodell von Lazarus und Folkman.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Transaktionales Stressmodell von Lazarus und Folkman (Co-",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S3.3 Arbeits- und Organisationspsychologie behandelt die Ausrichtung des Fachs in Forschung und Praxis.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "in Forschung und Praxis",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S3.3 gehört auf interindividueller Ebene exemplarisch z. B. Führung, Macht und Motivierung.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Führung, Macht und Motivierung",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S4.1 Soziale Kognition behandelt die Grundlagen sozialer Kognition.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Grundlagen sozialer Kognition",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S4.1 gehören Repräsentativitäts-, Verfügbarkeits- und Ankerheuristik.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Repräsentativitäts-, Verfügbarkeits- und Ankerheuristik",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S4.2 Soziale Wahrnehmung gehört der Stereotype-Threat-Effekt auf Basis der Untersuchungen von Steele und Aronson.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 31,
+          "physical_page": 31
+        },
+        "cited_text": "auf Basis der Untersuchungen von Steele & Aronson sowie",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S4.3 Selbst und Identität behandelt Konstruktionen und Interpretationen des Selbst.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Konstruktionen und Interpretationen des Selbst",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S4.3 gehören Quellen der Selbstkenntnis.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 32,
+          "physical_page": 32
+        },
+        "cited_text": "Quellen der Selbstkenntnis",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S4.4 Einstellungen behandelt das Multikomponentenmodell von Zanna und Rempel.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Multikomponentenmodell von Zanna und Rempel",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S4.4 gehört die Veränderung von Einstellungen durch Persuasion, etwa das ELM nach Petty et al.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 34,
+          "physical_page": 34
+        },
+        "cited_text": "Persuasion: ELM (Petty et al.)",
+        "residual_flags": []
+      },
+      {
+        "content": "Modul S4.5 Antisoziales Verhalten behandelt die Begriffsunterscheidung von Aggression, Aggressivität und Gewalt.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "Begriffsunterscheidung Aggression, Aggressivität und Gewalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Modul S4.5 gehört der triebtheoretische Ansatz nach Freud und die Katharsishypothese.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+          "printed_page": 36,
+          "physical_page": 36
+        },
+        "cited_text": "triebtheoretischer Ansatz (Freud) und die Katharsishypothese",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        },
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "2 Kompetenzen und Inhalte im Fach Psychologie",
+        "printed_page_range": "8–36"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

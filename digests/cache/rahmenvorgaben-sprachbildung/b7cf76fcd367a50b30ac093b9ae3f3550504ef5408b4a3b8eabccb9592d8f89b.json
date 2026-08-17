@@ -1,0 +1,92 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b7cf76fcd367a50b30ac093b9ae3f3550504ef5408b4a3b8eabccb9592d8f89b"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "E.1 SPRACHLICHE REGISTER UNTERSCHEIDEN — descriptors 1–4: describe and discuss one's own word, sentence and text comprehension (self-explanations); find linguistic differences and commonalities of words, sentences and texts; recognize differences between spoken and written language in subject-related utterances and texts; recognize and infer subject-typical words, phrases, technical terms and foreign words.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "E. SPRACHBEWUSSTHEIT",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "das eigene Wort-, Satz- und Textverständnis beschreiben und sich darüber austauschen (Selbsterklärungen) \n2. \n(sprachliche) Unterschiede und Gemeinsamkeiten von Wörtern, Sätzen und Texten finden  \n3. \nUnterschiede zwischen gesprochener und geschriebener Sprache in fachbezogenen Äußerungen und Texten erkennen \n4. \nfachtypische Wörter, Redewendungen, Fachbegriffe und Fremdwörter erkennen und erschließen",
+        "residual_flags": []
+      },
+      {
+        "content": "E.1 — descriptors 5–7: consciously assign words, phrases, sentences and text types to linguistic registers on the basis of known features; distinguish subject-typical text types and establish differences and commonalities; reflect on and correct one's own and others' language use. NOTE: the source reads 'Textsorten und anhand bekannter Merkmale'.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "E. SPRACHBEWUSSTHEIT",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Wörter, Redewendungen und Sätze sowie Textsorten und anhand bekannter Merkmale bewusst sprachlichen Registern zuordnen \n6. \nfachtypische Textsorten unterscheiden und Unterschiede und Gemeinsamkeiten feststellen \n7. \nden eigenen Sprachgebrauch, sowie den Sprachgebrauch anderer reflektieren und korrigieren",
+        "residual_flags": [
+          "source anomaly: '... sowie Textsorten und anhand bekannter Merkmale bewusst sprachlichen Registern zuordnen' — stray 'und'"
+        ]
+      },
+      {
+        "content": "E.2 SPRACHLICHE REGISTER ANWENDEN — descriptors 1–4: consciously use technical terms and subject-typical academic phrases (e.g. ein Urteil fällen, einen Beitrag leisten, eine Aufgabe lösen); apply everyday, academic and technical formulations appropriately to the situation (e.g. ein Urteil/einen Baum fällen); consciously select and use subject-typical text patterns and formats; and adapt one's own language use consciously and purposefully to the communicative situation and the communication partners in subject teaching.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "E. SPRACHBEWUSSTHEIT",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "bewusst Fachbegriffe und fachtypische bildungssprachliche Wendungen (z. B. ein Urteil fällen, einen Beitrag leisten, eine Aufgabe lösen) nutzen \n2. \nalltagssprachliche, bildungssprachliche und fachsprachliche Formulierungen (z. B. ein Urteil/einen Baum fällen, einen Beitrag zahlen/leisten) situa-\ntionsgemäß anwenden \n3. \nbewusst fachtypische Textmuster und Formate auswählen und nutzen \n4. \nden eigenen Sprachgebrauch bewusst und zielgerichtet an die Kommunikationssituation sowie Kommunikationspartnerinnen und -partner im Fach-\nunterricht anpassen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "E. SPRACHBEWUSSTHEIT"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "E. SPRACHBEWUSSTHEIT",
+        "printed_page_range": "18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

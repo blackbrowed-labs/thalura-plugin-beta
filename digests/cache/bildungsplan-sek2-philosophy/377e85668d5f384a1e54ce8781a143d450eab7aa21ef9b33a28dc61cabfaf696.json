@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:377e85668d5f384a1e54ce8781a143d450eab7aa21ef9b33a28dc61cabfaf696"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Compulsory module 'Das Selbstverständnis des Menschen': the view of the human being through time; the human as a natural and as a cultural being.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1: Was macht uns als Menschen aus?",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Der Blick auf den Menschen im Wandel der Zeit \n• Der Mensch als Naturwesen und als Kulturwesen",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 1 'Mentales und Physisches': mind and personal identity; mind, brain and personal identity; the mind-body problem.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1: Was macht uns als Menschen aus?",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Geist und personale Identität \n• Geist, Gehirn und personale Identität \n• Das Leib-Seele-Problem",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 2 'Freiheit und Determination': the human as a free and as an unfree being; freedom, responsibility, guilt, punishment.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1: Was macht uns als Menschen aus?",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Der Mensch als freies und als unfreies Wesen \n• Freiheit, Verantwortung, Schuld, Strafe",
+        "residual_flags": []
+      },
+      {
+        "content": "Elective module 3 'Kunst und das Schöne': beauty, art, staging; aesthetic experience and art; taste and the validity claim of aesthetic judgements.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Themenbereich 1: Was macht uns als Menschen aus?",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Schönheit, Kunst, Inszenierung \n• Ästhetische Erfahrung und Kunst \n• Geschmack und Geltungsanspruch ästhetischer Urteile",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 1: Was macht uns als Menschen aus?"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Themenbereich 1: Was macht uns als Menschen aus?",
+        "printed_page_range": "14–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

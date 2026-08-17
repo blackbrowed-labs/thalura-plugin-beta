@@ -1,0 +1,224 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8b58c9d00a9b578b330a2e26f4d20e17b84a0b7be65d75dc7ff6f08e3d0ae2b0"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-msa-religion",
+      "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Prüflinge führen den Dialog in der Regel aus ihrer wirklichen Position heraus; denkbar ist auch ein Rollenspiel zur Erörterung der Fragestellung.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "den Dialog in der Regel aus ihrer wirklichen Position heraus",
+        "residual_flags": []
+      },
+      {
+        "content": "Jeder Prüfling muss eine Kurzpräsentation vorbereiten und gemeinsam den Dialog vorbereiten.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "muss jeder Prüfling eine Kurzpräsentation \nvorbereiten, ggf. müssen auch Präsentationsaspekte für die gleiche Person aufgeteilt \nwerden. Darüber hinaus müssen sie gemeinsam den Dialog vorbereiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Teil 1 sollen die Kurzpräsentationen zentrale Aspekte von Leben, Botschaft und Bedeutung der jeweiligen Person vorstellen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "zentrale Aspekte von Leben, Botschaft und \nBedeutung der jeweiligen Person vorstellen",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Muhammed werden u. a. Leben als Kaufmann, Offenbarung und der Ein-Gott-Glaube (Tawhid) als Basis genannt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "als Kaufmann, Offenbarung, Ein-Gott-Glaube/Tawhid als Basis",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Ali wird u. a. das Aufwachsen als Teil von Muhammeds Familie (Ehlibeyt) genannt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "Ali: z. B. Aufwachsen als Teil von Muhammeds Familie (Ehlibeyt)",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Buddha werden u. a. das Aufwachsen als Prinzensohn und die Entdeckung der vier edlen Wahrheiten und des achtfachen Pfades genannt.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "Buddha: z. B. Aufwachsen als Prinzensohn, vier Ausfahrten und Entdeckung der \nvier edlen Wahrheiten und des achtfachen Pfades",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu Teil 2 beruht die Diskussionsthese auf einem Vergleich der zentralen Personen der Religionen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "Zu Teil 2: Die Diskussionsthese beruht inhaltlich auf einem Vergleich der zentralen Per",
+        "residual_flags": []
+      },
+      {
+        "content": "Die These wird in einem strukturierten Dialog erörtert, etwa entlang von Fragen dazu, wann und wie die Personen lebten und was ihre zentralen Botschaften waren.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 5,
+          "physical_page": 10
+        },
+        "cited_text": "Wann und wie lebten die zentralen Personen? Was waren \nihre zentralen Botschaften",
+        "residual_flags": []
+      },
+      {
+        "content": "Als Pro-Argument gilt, dass alle Personen aufgrund intensiver spiritueller Erfahrungen auf Distanz zu den herrschenden Zuständen gingen.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "Alle gingen aufgrund intensiver spiritueller Erfahrungen auf Distanz zu den herr",
+        "residual_flags": []
+      },
+      {
+        "content": "Als Pro-Argument gilt, dass alle in den jeweiligen Religionen Vorbild sind.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "Alle sind in den jeweiligen Religionen Vorbild",
+        "residual_flags": []
+      },
+      {
+        "content": "Als Contra-Argument gilt, dass sich die spirituell-religiösen Grundlagen fundamental unterscheiden, etwa Muhammeds Gottesoffenbarung, Alis Abstammung und Jesu unmittelbare Gottesnähe.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "Gottesoffenbarung; Ali: Abstammung aus Lichtperle; Jesus: unmittelbare Gottes",
+        "residual_flags": []
+      },
+      {
+        "content": "Als Contra-Argument gilt Buddhas Erleuchtung durch Befreiung von Selbst-Illusion.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "Buddha: Erleuchtung durch Befreiung von Selbst-Illusion.",
+        "residual_flags": []
+      },
+      {
+        "content": "Eine kritische Auseinandersetzung mit der Aussage auf einer Metaebene ist eine besondere Leistung.",
+        "citation": {
+          "document_id": "musteraufgaben-msa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung MSA — Religion",
+          "source_pdf_sha256": "2c11e72dec553b0c9935c27db6351167c1ca45da16f7f2daa2569d7adae75320",
+          "section_anchor": "I.c.iii. Erwartungshorizont",
+          "printed_page": 6,
+          "physical_page": 11
+        },
+        "cited_text": "auf einer Metaebene mit der Aussage kritisch ausei-\nnandersetzen, erbringen eine besondere Leistung",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "I.c.iii. Erwartungshorizont"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-msa-religion",
+        "section_anchor": "I.c.iii. Erwartungshorizont",
+        "printed_page_range": "5–6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

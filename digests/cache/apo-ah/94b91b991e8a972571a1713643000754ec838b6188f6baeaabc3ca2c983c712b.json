@@ -1,0 +1,111 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:94b91b991e8a972571a1713643000754ec838b6188f6baeaabc3ca2c983c712b"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The total qualification (Gesamtqualifikation) is the sum of the points from the four semesters of the Studienstufe (Block 1) and the points from the Abitur examination (Block 2).",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 32 Allgemeine Hochschulreife",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die in der Studienstufe einschließlich der Abiturprüfung zu erreichende Gesamtqua-\nlifikation ergibt sich aus der Addition der in den vier Semestern der Studienstufe er-\nreichten Punktzahlen (Block 1) und der in der Abiturprüfung erreichten Punktzahlen \n(Block 2).",
+        "residual_flags": []
+      },
+      {
+        "content": "The total score is at least 300 and at most 900 points, from which an average grade is derived per Anlage 3.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 32 Allgemeine Hochschulreife",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Aus der Summe der erreichten Gesamtpunktzahlen, die mindestens 300 und \nhöchstens 900 Punkte beträgt, wird nach Anlage 3 eine Durchschnittsnote gebildet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Block 1 consists of at least 32 and at most 40 semester results.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 32 Allgemeine Hochschulreife",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Block 1 besteht aus mindestens 32 und höchstens 40 Semesterergebnissen.",
+        "residual_flags": []
+      },
+      {
+        "content": "At least 200 points must be reached in Block 1; no more than a fifth of the submitted results may be below 5 points and no result may be 0 points.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 32 Allgemeine Hochschulreife",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "In Block 1 müssen mindestens 200 Punkte erreicht sein. Nicht mehr \nals ein Fünftel der eingebrachten Ergebnisse darf mit weniger als 5 Punkten in einfacher \nWertung bewertet worden sein, kein Ergebnis darf 0 Punkte betragen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 32 Allgemeine Hochschulreife"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 32 Allgemeine Hochschulreife",
+        "printed_page_range": "26–28"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7e2361d16ae2c154b6627d90006e986cb5d41c1df8b048c94716859c80468acb"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In social and legal education (Sozial- und Rechtserziehung) students engage with the principles of living together in their private and school environment and in society.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Im Rahmen der Sozial- und Rechtserziehung setzen sich Schülerinnen und Schüler mit den \nGrundsätzen des Zusammenlebens in ihrem privaten und schulischen Umfeld sowie in der \nGesellschaft auseinander.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students determine and examine their own position in the field of norms, value judgements, orientation patterns and belief convictions they experience, and relate these to the legal principles of the state taught in the Aufgabengebiet.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Sie bestimmen und überprüfen ihren eigenen Standort im Span-\nnungsfeld der Normen, der Werturteile und der Orientierungsmuster sowie der Glaubens- und \nWertüberzeugungen, die sie in ihrem sozialen und kulturellen Umfeld, in den Medien und in \nder Schule erleben, und beziehen sie auf die ihnen im Rahmen des Aufgabengebietes vermit-\ntelten Rechtsgrundsätze des Staates.",
+        "residual_flags": []
+      },
+      {
+        "content": "Sekundarstufe I students become aware of their responsibility to themselves and others, exercise it actively in their bodies of representation, and stand up for a violence-free coexistence.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Schülerinnen und Schüler der Sekundarstufe I werden sich ihrer Verantwortung sich selbst \nund anderen gegenüber bewusst, nehmen diese gerade in ihren Interessenvertretungen aktiv \nwahr und setzen sich für ein gewaltfreies Miteinander ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Young people are encouraged towards voluntary engagement; the school supports voluntary work and social engagement inside and outside school.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Die Jugendlichen werden zu ehrenamtlichem Engagement angeregt. Sie entwickeln ihre Fä-\nhigkeiten zur Selbstbestimmung und zur Übernahme einer verantwortlichen Rolle als Bürgerin \nund Bürger in der Gesellschaft. Die Schule unterstützt Freiwilligenarbeit und soziales Engage-\nment der Schülerinnen und Schüler innerhalb und außerhalb der Schule.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students analyse functions of law and its historical and cultural references and develop a position on the legal questions that can shape their present life.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Schülerinnen und Schüler analysieren Funktionen des Rechts sowie seine historischen und \nkulturellen Bezüge in unterschiedlichen Zusammenhängen. Sie entwickeln eine Position zu \nden Rechtsfragen, die ihr Leben in der gegenwärtigen Situation bestimmen können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students form their individual sense of justice, value patterns and behavioural dispositions; the school ensures age-appropriate teaching of applicable legal principles and norms.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Dabei achtet die Schule \nauf eine altersgemäße Vermittlung geltender Rechtsgrundsätze und Normen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The competences and contents can be acquired in the lessons of nearly all subjects; this therefore requires curricular agreements between subjects.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Die zu vermittelnden Kompetenzen und Inhalte können im Unterricht nahezu aller Fächer er-\nworben werden; somit bedarf es curricularer Absprachen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The topic-specific competences for the areas Erkennen, Bewerten and Handeln can be linked with subject-specific competences during lesson planning.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Die themenspezifischen Kompetenzen für die Kompetenzbereiche Erkennen, Bewerten und \nHandeln können bei der Unterrichtsplanung mit fachspezifischen Kompetenzen verknüpft wer-\nden.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, E1/E2: students name social norms from their own and other social spheres, know legal norms of their life sphere, distinguish paid work from voluntary engagement, and recognise the link between legal norms and the value order of the Grundgesetz.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 55,
+          "physical_page": 55
+        },
+        "cited_text": "b) erkennen den Zusammenhang zwischen rechtlichen Normen und der Werteordnung des Grundgeset-\nzes.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, E3: students question legal premises and social values in familiar life contexts and describe procedures of conflict moderation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 55,
+          "physical_page": 55
+        },
+        "cited_text": "a) hinterfragen rechtliche Prämissen und soziale Werte in bekannten Lebenszusammenhängen.  \nb) beschreiben Verfahren der Konfliktmoderation.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Bewerten: students engage age-appropriately with the values of others, assess the needs of people in socially precarious circumstances, judge moral differences and take a position on conflicts of interest.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 55,
+          "physical_page": 55
+        },
+        "cited_text": "b) bewerten die Bedürfnisse von Menschen in sozial prekären Lebensverhältnissen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Handeln: students work for a fair settlement in disputes, use their school participation options, take responsibility for others, shape voluntary engagement inside and outside school, and use age-appropriate options of democratic participation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 55,
+          "physical_page": 55
+        },
+        "cited_text": "b) können sich für ihre Interessen einsetzen und nutzen dabei ihre schulischen Mitwirkungsmöglichkei-\nten.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sekundarstufe I, E1/E2/E3: students name overarching social norms, know central legal norms from various fields of law, know options for voluntary engagement, recognise the derivation of legal norms from the Grundgesetz's value order, and know procedures of conflict moderation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "b) erkennen die Ableitung rechtlicher Normen aus der Werteordnung des Grundgesetzes.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, Bewerten: students engage critically with the values of other people and groups, perceive and take a position on the needs and actions of people in socially precarious circumstances, and take positions on conflicts of interest in simple legal disputes.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "b) nehmen Stellung zu Interessenkonflikten bei einfachen rechtlichen Auseinandersetzungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, Handeln: students work to overcome social differences, can assert their interests legally, take responsibility for younger students, shape voluntary engagement and mediation tasks such as peer dispute resolution (Streitschlichtung), and use options of democratic participation beyond school.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 56,
+          "physical_page": 56
+        },
+        "cited_text": "b) gestalten ehrenamtliches Engagement und Moderationsaufgaben wie die Streitschlichtung innerhalb \nund außerhalb der Schule.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 1 (grades 5/6), Rechtserziehung: basic rights as human rights (religious freedom, general personality right, physical integrity and self-determination, freedom of art, inviolability of the home, property, protection of marriage and family), children's and human rights, and simple contract law.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "1.1 Grundrechte und deren Schutz I \n• Grundrechte als Menschenrechte",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.3 (grades 5/6), contract law I: simple purchase contracts and their validity, the 'Taschengeldparagraf' and liability for damages.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "1.3 Vertragsrecht I \n• einfache Kaufverträge, Gültigkeit \n• „Taschengeldparagraf“ \n• Schadenshaftung",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 2 (grades 5/6), Sozialerziehung: help in school (buddy systems, homework help), voluntary engagement in clubs, support for people affected by poverty, living diversity and solidarity with minorities, dealing with exclusion and discrimination, and handling class chat groups (bullying prevention).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 57,
+          "physical_page": 57
+        },
+        "cited_text": "• Umgang mit Chatgruppen bzw. Klassenchats (Mobbingprävention)",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 1 (grades 7/8): basic rights as defensive rights against the state (constitutional complaint, objection and challenge actions), as participation rights (access to public office, right of assembly, right to vote), as citizens' rights, and as freedom and equality rights.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "1.1 Grundrechte und deren Schutz II  \n• Grundrechte als Abwehrrechte gegen den Staat",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.2 (grades 7/8): school bodies of co-determination — student representation organigram, class representative and class conference, the class council (Klassenrat) with its tasks, offices, decision-making and minutes, and the student council (Schülerrat) with elections, liaison teachers and school speakers.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 58,
+          "physical_page": 58
+        },
+        "cited_text": "1.2 Schulische Gremien der Mitbestimmung I \n• Organigramm der Schülervertretung \n• Möglichkeiten, Rechte und Pflichten von Schülervertretungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 2 (grades 7/8): voluntary engagement (service learning, fundraising, Sozialer Tag), homelessness, learning mediation and dispute-resolution procedures, group-focused enmity in culture and the internet, group pressure, and training civil courage.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "• Verfahren der Streitschlichtung und Mediation kennenlernen \n• Menschengruppenfeindlichkeit in Kultur (Liedtexte) und Internet",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 1 (grades 9/10): legal protection against violations of basic rights, the Federal Constitutional Court as 'guardian of the Grundgesetz', constitutional complaint, and the binding force of BVerfG decisions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "1.1 Grundrechte und deren Schutz III \n• Rechtsschutz bei Grundrechtsverletzungen \n• Bundesverfassungsgericht als Entscheidungsorgan und „Hüter \ndes Grundgesetzes",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.2 (grades 9/10), contract law II: consumer contracts, the terms consumer and entrepreneur, and consumer-protection instruments — the 14-day right of withdrawal for off-premises and distance contracts, information duties, and AGB content review.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 59,
+          "physical_page": 59
+        },
+        "cited_text": "• 14-tägiges Widerrufsrecht bei außerhalb von geschlossenen Ge-\nschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content Themenbereich 2 (grades 9/10): engagement in initiatives, associations, unions, parties and lobby groups, voluntary engagement in relation to state tasks, dealing with civil disobedience, preventing disputes through communication, and strengthening civil courage.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.7 Sozial- und Rechtserziehung",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "• Engagement in Initiativen, Projekten, Verbänden, Gewerkschaf-\nten, Parteien und Lobbyverbänden \n• ehrenamtliches Engagement im Verhältnis zu staatlichen Aufga-\nben  \n• Umgang mit zivilem Ungehorsam",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 54,
+          "printed_page": 54
+        },
+        {
+          "physical_page": 55,
+          "printed_page": 55
+        },
+        {
+          "physical_page": 56,
+          "printed_page": 56
+        },
+        {
+          "physical_page": 57,
+          "printed_page": 57
+        },
+        {
+          "physical_page": 58,
+          "printed_page": 58
+        },
+        {
+          "physical_page": 59,
+          "printed_page": 59
+        },
+        {
+          "physical_page": 60,
+          "printed_page": 60
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.7 Sozial- und Rechtserziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.7 Sozial- und Rechtserziehung",
+        "printed_page_range": "54–60"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

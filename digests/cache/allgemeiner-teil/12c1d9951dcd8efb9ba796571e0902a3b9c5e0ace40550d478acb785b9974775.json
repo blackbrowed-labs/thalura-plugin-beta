@@ -1,0 +1,124 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:12c1d9951dcd8efb9ba796571e0902a3b9c5e0ace40550d478acb785b9974775"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The educational mandate is oriented to the values of the Grundgesetz, the constitution of the Free and Hanseatic City of Hamburg and the Hamburg School Act.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "3.1 Werte für ein gelingendes Zusammenleben in einer solidarischen, vielfältigen Gesellschaft",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Deshalb richtet sich der Bildungs- und Erziehungsauftrag an den Werten des Grundgesetzes, \nder Verfassung der Freien und Hansestadt Hamburg und dem Hamburgischen Schulgesetz \naus.",
+        "residual_flags": []
+      },
+      {
+        "content": "Above all, the inviolability of human dignity is the overarching guiding principle from which further values such as freedom, equality or social justice are derived as rights due to all people.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "3.1 Werte für ein gelingendes Zusammenleben in einer solidarischen, vielfältigen Gesellschaft",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Allen voran ist die Unantastbarkeit der Menschenwürde übergreifendes Leitbild, von \ndem weitere Werte und Orientierungen wie Freiheit, Gleichheit oder soziale Gerechtigkeit als \nallen Menschen zustehende Rechte abgeleitet werden können.",
+        "residual_flags": []
+      },
+      {
+        "content": "The personal core competences alongside these fundamental rights include tolerance and respect, (self-)discipline and self-regulation, a sense of responsibility, team ability, helpfulness, a sense of justice, fairness and a readiness to learn and perform.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "3.1 Werte für ein gelingendes Zusammenleben in einer solidarischen, vielfältigen Gesellschaft",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Zu ihnen zählen Toleranz und Respekt, (Selbst-)Disziplin bzw. -regulation, Verantwor-\ntungsbewusstsein, Teamfähigkeit, Hilfsbereitschaft, Gerechtigkeitssinn, Fairness sowie Lern- \nund Leistungsbereitschaft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Values education (Wertebildung) is a task of the whole school: values are not merely to be conveyed formally but to be lived and enacted in everyday school life.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "3.1 Werte für ein gelingendes Zusammenleben in einer solidarischen, vielfältigen Gesellschaft",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Wertebildung ist Aufgabe der ganzen Schule. Dabei gilt es, Werte nicht lediglich formal zu \nvermitteln, sondern vielmehr im schulischen Alltag zu leben und umzusetzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "As a cross-cutting task, values education is not assigned to individual subjects or topics but can and should take place across all curricular and extracurricular activities.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "3.1 Werte für ein gelingendes Zusammenleben in einer solidarischen, vielfältigen Gesellschaft",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Als Querschnittsaufgabe ist Wertebildung nicht einzelnen Fächern oder Themen zugeordnet; \nvielmehr können und sollen im Rahmen aller unterrichtlichen und außerunterrichtlichen Aktivi-\ntäten, in der Schule und an außerschulischen Lernorten, in Projekten und Arbeitsgemeinschaf-\nten, im Schulprogramm, in den für die Schule aufgestellten, verbindlichen Umgangsregeln und \nvielem mehr Wertebildung und Werteorientierung stattfinden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "3.1 Werte für ein gelingendes Zusammenleben in einer solidarischen, vielfältigen Gesellschaft"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "3.1 Werte für ein gelingendes Zusammenleben in einer solidarischen, vielfältigen Gesellschaft",
+        "printed_page_range": "8–10"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

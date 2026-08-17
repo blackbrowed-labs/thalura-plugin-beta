@@ -1,0 +1,92 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:67ddb46aae0742e3c07c9362dd61718367ea98366616a27a5df704410bffccbe"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Für schriftliche Prüfungen werden Aufgaben, Termine, Erwartungshorizonte und Vorgaben für Korrektur und Bewertung von der zuständigen Behörde festgesetzt bzw. genehmigt.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "5 Prüfungen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Für schriftliche Prüfungen werden die Aufgaben und Termine sowie die Erwartungshorizonte ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Hinweise und Regelungen für Prüfungsarbeiten bzw. -klausuren sind den Verordnungen, Richtlinien und behördlichen Rundschreiben zu entnehmen; die Quelle schreibt \"Reglungen\".",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "5 Prüfungen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Hinweise und Reglungen für Prüfungsarbeiten bzw. -klausuren sind den Verordnungen, ",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "Die in Teil C formulierten Grundsätze und Kriterien sind in der Regel auch auf mündliche und praktische Prüfungen anzuwenden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "5 Prüfungen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die im vorliegenden Teil C des Bildungsplans formulierten Grundsätze und Kriterien sind auf ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5 Prüfungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "5 Prüfungen",
+        "printed_page_range": "13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

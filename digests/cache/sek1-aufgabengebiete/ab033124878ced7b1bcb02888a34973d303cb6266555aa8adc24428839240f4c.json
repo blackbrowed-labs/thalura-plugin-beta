@@ -1,0 +1,435 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ab033124878ced7b1bcb02888a34973d303cb6266555aa8adc24428839240f4c"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The aim of career orientation (Berufsorientierung) is to strengthen students' individual career-choice competence (Berufswahlkompetenz).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Ziel der beruflichen Orientierung ist es, die individuelle Berufswahlkompetenz der Schülerin-\nnen und Schüler zu stärken.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are to be enabled to make a self-responsible, reflected and viable transition decision (Übergangsentscheidung).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Jugendlichen werden in die Lage versetzt, eine eigenverant-\nwortliche, reflektierte und tragfähige Übergangsentscheidung zu treffen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are aware that lifelong learning is a precondition for a successful career biography and a fulfilled, self-determined life; career perspectives are linked to ideas about everyday life and consumption.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Gleichzeitig sind sie \nsich bewusst, dass lebenslanges Lernen Voraussetzung für eine erfolgreiche Berufsbiografie \nsowie ein erfülltes, selbstbestimmtes Leben ist.",
+        "residual_flags": []
+      },
+      {
+        "content": "Career orientation gives students room to clarify their interests, strengths and abilities.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Berufliche Orientierung bietet den Schülerinnen und Schülern den notwendigen Raum, um ihre \nInteressen, Stärken und Fähigkeiten zu klären.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students acquire career-choice-relevant orientation and foundational knowledge by actively exploring occupational fields and holding counselling talks and talks with experts.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Sie erwerben notwendiges, berufswahlrelevan-\ntes Orientierungs- und Grundlagenwissen, indem sie aktiv Berufsfelder erkunden und Bera-\ntungsgespräche sowie Gespräche mit Expertinnen und Experten führen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Subject teachers give impulses for a career perspective and subject-specific career-orientation information within their own subject lessons.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Auch von ihren Fach-\nlehrkräften erhalten sie im jeweiligen Fachunterricht Impulse für eine berufliche Perspektive \nsowie fachspezifische Informationen zur beruflichen Orientierung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Role expectations and life plans are critically examined and reflected in suitable contexts; role models' occupations are examined for future viability.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Dafür werden in geeigneten \nKontexten Rollenvorstellungen und Lebensplanungen kritisch überprüft und reflektiert. Berufe \nvon Vorbildern werden auf ihre Zukunftsfähigkeit hin untersucht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Dynamic changes in the labour market and in living environments make individual transition decisions a challenge for everyone involved.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die dynamischen Veränderungen des Arbeitsmarktes und der Lebenswelt – einhergehend mit \nder stetig wachsenden Anzahl von Studiengängen, einer Vielzahl dualer Studiengänge und \nsich verändernden Ausbildungsberufen – machen die individuellen Übergangsentscheidungen \nder Schülerinnen und Schüler zu einer Herausforderung für alle Beteiligten.",
+        "residual_flags": []
+      },
+      {
+        "content": "This work can take place on project/theme/module days as well as in subject lessons; the Aufgabengebiet requires ALL subject teachers to contribute impulses and subject-specific career information.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Dies kann im Rahmen von \nProjekttagen/Thementagen/Modultagen, aber auch im Fachunterricht erfolgen. Das Aufgaben-\ngebiet sieht vor, dass alle Fachlehrkräfte Impulse für eine berufliche Perspektive sowie fach-\nspezifische Informationen zur beruflichen Orientierung geben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Practical out-of-school experiences must be purposefully prepared at school and reflected afterwards, so competences can be applied, tested, extended and deepened in real-life learning situations.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Praktische außerschulische Erfahrungen, die in der Schule zielgerichtet vorbereitet und in der \nNachbereitung reflektiert werden, ermöglichen es, einerseits erworbene Kompetenzen in le-\nbensnahen Lernsituationen anzuwenden, zu überprüfen, auszuweiten und zu vertiefen",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirement at end of grade 6, Erkennen E1 (individual orientation): students engage with their individual interests, abilities and strengths and develop an idea of their private and occupational future.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "a) setzen sich mit ihren individuellen Interessen, Fähigkeiten und Stärken auseinander. \nb) entwickeln eine Vorstellung ihrer privaten und beruflichen Zukunft.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, E2 (orientation in the world of work): students know what constitutes an occupation, know various occupations and occupational fields, and know various routes from school into work.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "a) wissen, was einen Beruf ausmacht. \nb) kennen verschiedene Berufe und Berufsfelder. \nc) kennen verschiedene Wege von der Schule in den Beruf.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Bewerten B: students weigh consumption decisions taking economic, ecological and societal aspects into account.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "c) sind in der Lage, Konsumentscheidungen abzuwägen – unter Berücksichtigung ökonomischer, ökolo-\ngischer und gesellschaftlicher Aspekte.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, Handeln H1: students actively use practical learning opportunities inside and outside school (e.g. Girls' and Boys' Day / Zukunftstag, competitions, excursions) and report on them in a structured way.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "a) nutzen aktiv praktische Lernangebote innerhalb und außerhalb der Schule (z. B. Girls’ and Boys’ Day \n(Zukunftstag), Wettbewerbe, Exkursionen). \nb) berichten strukturiert von ihren praktischen Erfahrungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of grade 6, H2 (decision processes): students reflect their practical experiences, justify career wishes and explain their ideas about their own future.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "a) reflektieren ihre praktischen Erfahrungen. \nb) begründen Berufswünsche. \nc) erläutern ihre Vorstellungen von der eigenen Zukunft.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sekundarstufe I, E1: students are aware that life planning and individual career orientation are their own personal responsibility, and they determine their individual need for learning, exploration and counselling.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "c) sind sich bewusst, dass die Lebensplanung und die individuelle Berufsorientierung in der Verantwor-\ntung der eigenen Person liegen. \nd) ermitteln ihren individuellen Lern-, Erkundungs- und Beratungsbedarf.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, E2: students know and compare career biographies, occupational profiles and study/training pathways, know the requirements of occupations they consider, are familiar with application and testing procedures, and link subject content to occupational fields.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "c) kennen spezifische Merkmale und Anforderungen der für sie infrage kommenden Berufe. \nd) sind vertraut mit Bewerbungs- und Testverfahren. \ne) verknüpfen Fachinhalte mit passenden Berufsfeldern und -bildern",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, Bewerten B: students realistically assess employment chances, evaluate occupational demands against their own life planning, and take conscious responsibility for the orientation process.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "c) schätzen Beschäftigungschancen realistisch ein. \nd) bewerten berufliche Anforderungen hinsichtlich ihrer eigenen Lebensplanung.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, H1: from grade 8 at the latest, students systematically document the information gained in different experience contexts in the career-orientation portfolio (Portfolio zur beruflichen Orientierung).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "c) dokumentieren spätestens ab Jahrgang 8 systematisch die in unterschiedlichen Erfahrungskontexten \ngewonnenen Informationen im Portfolio zur beruflichen Orientierung.",
+        "residual_flags": []
+      },
+      {
+        "content": "End of Sek I, H2: students break the path to an occupational goal into realistic sub-steps, explain the significance of a gap year, reflect their practical experiences and justify their career-choice decisions clearly and precisely.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "b) erklären die Bedeutung eines Gap Years und beurteilen dessen Beitrag zu ihrer individuellen berufli-\nchen Orientierung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content, Themenbereich 1 (grades 5/6), guiding idea: during the Orientierungsstufe students develop ideas and wishes for their future and link lesson content and life-world experience to their individual strengths.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Im Verlauf der Orientierungsstufe entwickeln die Schülerinnen und \nSchüler Ideen und Wünsche für ihre Zukunft. Sie verknüpfen unter-\nrichtliche Inhalte und Erfahrungen aus ihrer Lebenswelt mit ihren in-\ndividuellen Stärken.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.1.1 (grades 5/6), structure of the world of work: diversity of occupations and training/study offers, the link of school subjects to occupational fields, the standing of work in society, and preparation/follow-up of Girls' and Boys' Day (Zukunftstag).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "• Vor- und Nachbereitung des Girls’ and Boys’ Day (Zukunftstag) \nmit anschließender Reflexion der Erfahrungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 1.2.1 (grades 5/6), individual orientation: interests, strengths and wishes, self- and other-assessment, own needs as a consumer, purchase decisions, and biographical and diversity-sensitive influences on career choice.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "• biografische und diversitätssensible Einflussfaktoren bei der Be-\nrufswahl",
+        "residual_flags": [
+          "page-multi-match:physical-11-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Content, Themenbereich 2 (grades 7–10), guiding idea: by the end of Sekundarstufe I students are aware that career choice is each individual's own decision, and they take responsibility for their further educational path.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Am Ende der Sekundarstufe I sind sich die Schülerinnen und Schü-\nler darüber bewusst, dass die Berufswahl eine eigenständige Ent-\nscheidung jedes einzelnen Menschen ist. Sie übernehmen Verant-\nwortung für ihren eigenen weiterführenden Bildungsweg.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.1.1 (grades 7–10) includes the work placement (Betriebspraktikum): preparation and follow-up, decision and application processes considering alternatives, a placement report or equivalent task, and reflection of the placement experience.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "• Vor- und Nachbereitung Betriebspraktikum \no Entscheidungs- und Bewerbungsprozesse unter Berücksichti-\ngung von Alternativen \no Praktikumsbericht oder gleichgestellte Aufgabe \no Reflexion der Praktikumserfahrungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.2.1 (grades 7–10), transition decision: portfolio from grade 8, application process and contemporary application training, counselling talks with the Jugendberufsagentur, pathways after grade 10, and a justified transition decision with alternatives.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "• Portfolio zur beruflichen Orientierung ab Jahrgang 8",
+        "residual_flags": []
+      },
+      {
+        "content": "Content 2.2.1 also names counselling talks with the youth careers agency (Jugendberufsagentur) about follow-on wishes and options, and pathways after grade 10.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "• Beratungsgespräche mit der Jugendberufsagentur über An-\nschlusswünsche und -möglichkeiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Technical terms (Fachbegriffe) for grades 7–10 include labour market, 'Arbeit 4.0', gross/net income, gender pay gap, artificial intelligence, platform economy and precarious work.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2.1 Berufsorientierung",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "der Arbeitsmarkt, die Ar-\nbeit 4.0., das Brutto-/ \nNettoeinkommen, Gen-\nder-Pay-Gap, die künstli-\nche Intelligenz (KI), die \nPlattformökonomie, die \nprekäre Arbeit",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'die Arbeit 4.0.,' (doubled period after '4.0')"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Berufsorientierung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.1 Berufsorientierung",
+        "printed_page_range": "8–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:d918f61f28074891979e292db9829758f940fa43d22cdbcb04f50a398633acd7"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "At both basic and raised level students possess linguistic, methodological and intercultural competences enabling secure, comprehensible and sufficiently differentiated written and oral communication in English.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Sowohl auf grundlegendem als auch auf erhöhtem Niveau verfügen die Schülerinnen und \nSchüler über sprachliche, methodische und interkulturelle Kompetenzen, die ihnen eine \nsichere, verständliche und hinreichend differenzierte schriftliche und mündliche Kommu-\nnikation im Englischen möglich machen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Candidates additionally have solid orienting knowledge (Orientierungswissen) about the exam topics applicable to the writing part (Prüfungsteil Schreiben).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Darüber hinaus besitzen die Prüflinge ein solides \nOrientierungswissen zu den jeweils für den Prüfungsteil Schreiben geltenden Prüfungs-\nthemen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Basic and raised level differ in five respects: range of language use, familiarity/differentiation of topics, extent of subject-specific academic concepts, degree of linguistic accuracy, and degree of required autonomy.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Grundlegendes und erhöhtes Niveau unterscheiden sich hinsichtlich\n•\ndes Spektrums der Sprachverwendung,\n•\nder Vertraut- und Differenziertheit der Themenstellungen,\n•\ndes Umfangs an spezifisch fachwissenschaftlichen Konzepten,\n•\ndes Grades der sprachlichen Sicherheit und\n•\ndes Grades der geforderten Selbstständigkeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "Requirements in the Abitur exams differ according to these criteria.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Gemäß diesen Kriterien unterscheiden sich die Anforderungen in den Abiturprüfungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "At basic level students use the language as a working and communication medium in application-oriented, also cross-curricular contexts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Auf dem grundlegenden Niveau benutzen Schülerinnen und Schüler die Sprache als Ar-\nbeits- und Verständigungsmittel in anwendungsbezogenen, auch fachübergreifenden \nbzw. fächerverbindenden Zusammenhängen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Because English is a world language, subject-oriented focal points are set.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Um der Stellung des Englischen als Welts-\nprache Rechnung zu tragen, werden sachorientierte Schwerpunktsetzungen vorgenom-",
+        "residual_flags": []
+      },
+      {
+        "content": "Students apply functional communicative competences acquired in dealing with political, social, economic and (popular)scientific content as well as literary texts and listening texts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Schülerinnen und Schüler wenden ihre in der Auseinandersetzung mit politischen, \nsozialen, wirtschaftlichen und (populär)wissenschaftlichen Inhalten sowie auch literari-\nschen Texten und Hörtexten erworbenen funktionalen kommunikativen Kompetenzen an.",
+        "residual_flags": []
+      },
+      {
+        "content": "They extract information from materials, analyse it and use it in an action-oriented way; topic-specific vocabulary and task-specific structures are available to them.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Sie entnehmen den Materialien Informationen, analysieren diese und nutzen sie hand-\nlungsorientiert. Ihnen stehen themenspezifischer Wortschatz und aufgabenspezifische \nStrukturen zur Verfügung.",
+        "residual_flags": []
+      },
+      {
+        "content": "They view a problem from different perspectives, draw on different text types and examine mutual conditionalities.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Sie betrachten eine Problematik aus verschiedenen Perspekti-\nven, ziehen unterschiedliche Textsorten heran und untersuchen wechselseitige Bedingt-",
+        "residual_flags": []
+      },
+      {
+        "content": "The foreground is the ability to engage with content in a linguistically appropriate and addressee-oriented way, not the competence to analyse texts formally.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Vordergrund steht die Fähigkeit der Schülerinnen und Schüler, sich sprachlich \nangemessen und adressatengerecht mit den Inhalten auseinanderzusetzen, nicht ihre \nKompetenz, Texte formal analysieren zu können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Linguistic accuracy at basic level is less pronounced than at raised level.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Dabei ist die sprachliche Sicherheit auf \ndem grundlegenden Niveau weniger ausgeprägt als auf dem erhöhten Niveau.",
+        "residual_flags": []
+      },
+      {
+        "content": "Per the Bildungsplan, students at basic requirement level as a rule reach CEFR level B2 by the end of the Studienstufe.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "chend dem Bildungsplan erreichen die Schülerinnen und Schüler am Ende der Studien-\nstufe auf dem grundlegenden Anforderungsniveau sprachlich in der Regel die Stufe B2 \ndes Gemeinsamen Europäischen Referenzrahmens für Sprachen.",
+        "residual_flags": []
+      },
+      {
+        "content": "At raised level the accent lies on the foreign language as a language of culture; the range of language use expands to receptive and productive competences in language as a means of expression and design.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Auf dem erhöhten Niveau liegt der Akzent auf der Fremdsprache als Kultursprache. Das \nSpektrum der Sprachverwendung erweitert sich um rezeptive und produktive Kompe-\ntenzen im Bereich der Sprache als Ausdrucks- und Gestaltungsmittel.",
+        "residual_flags": []
+      },
+      {
+        "content": "At raised level students also systematically analyse linguistic structures as a medium of text design in the writing part, oriented more strongly on subject-academic concepts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "und Schüler analysieren auf diesem Niveau im Prüfungsteil Schreiben auch sprachliche \nStrukturen als Medium zur Gestaltung von Texten systematisch im Sinne einer stärker \nan fachwissenschaftlichen Konzepten orientierten Arbeit.",
+        "residual_flags": []
+      },
+      {
+        "content": "At raised level students place non-fiction and literary texts alike into (inter)cultural and historical contexts and examine formal-structural features with regard to their function.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "ordnen Sachtexte und literarische Texte gleichermaßen in (inter)kulturelle und histori-\nsche Kontexte ein und untersuchen formal-strukturelle Merkmale im Hinblick auf ihre",
+        "residual_flags": []
+      },
+      {
+        "content": "At raised level students work with greater autonomy on the basis of reflected methodological awareness, are formally more secure, express themselves more precisely and grasp more complex listening texts.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Auf dem erhöhten Niveau arbeiten Schülerinnen und Schüler auf der Basis eines reflek-\ntierten Methodenbewusstseins mit größerer Selbstständigkeit. Sie sind in der Sprache \nformal sicherer, drücken sich genauer und differenzierter aus und erfassen auch komple-",
+        "residual_flags": []
+      },
+      {
+        "content": "Per the Bildungsplan, students at raised requirement level as a rule reach CEFR level B2+, in parts C1, by the end of the Studienstufe.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "am Ende der Studienstufe auf dem erhöhten Anforderungsniveau sprachlich in der Regel \ndie Stufe B2+ des Gemeinsamen Europäischen Referenzrahmens für Sprachen, in Teilen C1.",
+        "residual_flags": []
+      },
+      {
+        "content": "A separate requirement level exists for the newly taken-up foreign language (from the Vorstufe at Stadtteilschulen, Abendgymnasien, Hansa-Kolleg and berufliche Gymnasien, or from grade 10 at Gymnasien); it differs from the basic level of the continued foreign language.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Das grundlegende Anforderungsniveau in der ab der Vorstufe an Stadtteilschulen, an den \nAbendgymnasien, am Hansa-Kolleg und an den beruflichen Gymnasien neu aufgenom-\nmenen Fremdsprache oder ab der Jahrgangsstufe 10 an Gymnasien neu aufgenomme-\nnen Fremdsprache unterscheidet sich vom grundlegenden Niveau der weitergeführten",
+        "residual_flags": []
+      },
+      {
+        "content": "In the newly taken-up foreign language students reach B 1 at the end of the Studienstufe, the first stage of independent language use per the CEFR.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Schülerinnen und Schüler erreichen am Ende der Studienstufe B 1, \ndie erste Stufe der selbstständigen Sprachverwendung (vgl. Gemeinsamer Europäischer \nReferenzrahmen für Sprachen).",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching in the newly taken-up foreign language is application-oriented and demands early independent use of the language and cross-linguistic transfer of competences from other foreign languages.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Fremdsprachenunterricht in der neu aufgenommenen Fremdsprache ist anwendungs-\norientiert. Er fordert frühzeitig den eigenständigen Gebrauch der Fremdsprache und \nsprachenübergreifend die in anderen Fremdsprachen erworbenen Kompetenzen ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Conscious steering of language acquisition is continuously accompanied by learning-strategy considerations; the existing repertoire of learning strategies is expanded and consolidated.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "bewusste Steuerung des Spracherwerbs wird fortwährend von lernstrategischen Überle-\ngungen begleitet, das vorhandene Repertoire an Lernstrategien erweitert und gefestigt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students work on topics prepared age-appropriately and matching their language level.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Schülerinnen und Schüler erarbeiten Themen, die altersgemäß aufbereitet sind und \nihrem Sprachniveau entsprechen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They increasingly independently understand authentic, possibly abridged literary and non-fiction texts on topics connected to their everyday interests and familiar subject areas.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sie verstehen zunehmend selbstständig authentische, \nggf. gekürzte literarische Texte und Sachtexte über Themen, die mit ihren Alltagsinter-\nessen und vertrauten Sachgebieten zusammenhängen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They report on experiences and events, describe hopes and goals and take a position on plans and views, explaining their opinion argumentatively in simple linguistic form.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sie berichten über Erfahrungen und Ereignisse, \nbeschreiben Hoffnungen und Ziele und nehmen zu Plänen und Ansichten Stellung, wobei \nsie ihre Meinung in einfacher sprachlicher Form argumentativ erläutern.",
+        "residual_flags": []
+      },
+      {
+        "content": "At this level linguistic accuracy is less pronounced than at the basic level of the continued foreign language.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Sicherheit ist auf dieser Niveaustufe weniger ausgeprägt als auf dem grundlegenden",
+        "residual_flags": []
+      },
+      {
+        "content": "Footnote: English may only be newly taken up in the school year before the Studienstufe if the student was never taught English at any point in their educational path.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "1 Englisch kann im Schuljahr vor Beginn der Studienstufe nur dann neu aufgenommen werden, wenn der \nSchüler oder die Schülerin zuvor zu keinem Zeitpunkt in seinem bzw. ihrem Bildungsgang im Fach Eng-\nlisch unterrichtet wurde.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "2 Anforderungen auf grundlegendem und erhöhtem Niveau",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

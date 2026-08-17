@@ -1,0 +1,107 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:95e269c9381c42334abe2e0de7de452b86ade1f72446dc276b66f55f135ed2b9"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The key competences of reading, writing and mathematics form the basis for all educational areas of the primary school and for lifelong learning.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1 Grundschule",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Vor allem die Schlüsselkompetenzen des Lesens und Schreibens sowie der Mathematik bilden \ndie Basis",
+        "residual_flags": []
+      },
+      {
+        "content": "The primary school comprises year levels (Jahrgangsstufen) 1 to 4.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1 Grundschule",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Grundschule umfasst die Jahrgangsstufen 1 bis 4.",
+        "residual_flags": []
+      },
+      {
+        "content": "The framework plans (Rahmenpläne) set competence-related observation criteria for the end of the school entry phase (years 1 and 2) and standard requirements (Regelanforderungen) for the end of year 4.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1 Grundschule",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "In den Rahmenplänen der Grundschule sind für das Ende der Schuleingangs-\nphase (Jahrgangsstufen 1 und 2) auf Kompetenzen bezogene Beobachtungskriterien und für \ndas Ende der Jahrgangsstufe 4 Regelanforderungen ausgewiesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Permanently splitting students by achievement into different classes or learning groups is not possible in the primary school.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1 Grundschule",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Eine Aufteilung der Schülerinnen \nund Schüler nach Leistung in verschiedene Klassen bzw. Lerngruppen ist in der Grundschule \nnicht dauerhaft möglich.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6.1 Grundschule"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "6.1 Grundschule",
+        "printed_page_range": "26–27"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

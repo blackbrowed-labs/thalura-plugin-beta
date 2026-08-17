@@ -1,0 +1,477 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8de2718d30960ae22ae23f20f1d9dd15810890f8117ed2010a54d7188af9c3be"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Sex education is a task of both the parental home and the school.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Sexualerziehung ist eine Aufgabe von Elternhaus und Schule.",
+        "residual_flags": []
+      },
+      {
+        "content": "Guardians are to be informed in good time about the goals, contents and forms of school sex education.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Im Sinne einer vertrauensvollen Zusammenarbeit sind die Sorgeberechtigten über Ziele",
+        "residual_flags": []
+      },
+      {
+        "content": "The goal is to enable young people to act self-determinedly and responsibly regarding partnership and sexuality.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Das Ziel schulischer Sexualerziehung ist es, Jugendliche und junge Erwachsene",
+        "residual_flags": []
+      },
+      {
+        "content": "School sex education supports young people in realising their rights to sexual self-determination.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Die schulische Sexualerziehung unterstützt Jugendliche und junge Erwachsene",
+        "residual_flags": []
+      },
+      {
+        "content": "Sex education contributes to preventing sexualised violence.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Die Sexualerziehung trägt zur Prävention sexualisierter Gewalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Media competence is indispensable in sex education because young people have near-unrestricted internet access.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Auch in der Sexualerziehung ist die Medienkompetenz unablässig",
+        "residual_flags": []
+      },
+      {
+        "content": "The contents show great proximity to the subjects biology, German, English and religion.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Die Inhalte des Aufgabengebietes Sexualerziehung weisen eine große Nähe zu den Inhalten",
+        "residual_flags": []
+      },
+      {
+        "content": "Students perceive their own feelings and needs and name them in appropriate language.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "nehmen die eigenen Gefühle und Bedürfnisse wahr und benennen diese in angemessener Sprache.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students recognise physical, emotional and social changes in puberty.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "erkennen und beschreiben körperliche, emotionale und soziale Veränderungen in der Pubertät",
+        "residual_flags": []
+      },
+      {
+        "content": "Students know contact persons and support services in situations of danger.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "kennen Ansprechpersonen und Hilfsangebote bei Gefährdungssituationen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students perceive different sexual identities and gender roles.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "nehmen unterschiedliche sexuelle Identitäten und Geschlechterrollen wahr.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students examine and question stereotypical gender roles and expectations.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "untersuchen und hinterfragen stereotype Geschlechterrollen und -erwartungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In dangerous situations students can get help for themselves and others.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 48,
+          "physical_page": 48
+        },
+        "cited_text": "können in Gefährdungssituationen für sich und andere Hilfe holen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students know the physical and emotional aspects of sexuality.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "kennen die körperlichen und die emotionalen Aspekte von Sexualität.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students inform themselves about conception, pregnancy, dangers, illnesses and prevention services.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "informieren sich über Empfängnis, Zeugung, Schwangerschaft, Gefahren, Krankheiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Students recognise the societal shaping of different sexual identities and gender roles.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "erkennen die gesellschaftlichen Prägungen unterschiedlicher sexueller Identitäten",
+        "residual_flags": []
+      },
+      {
+        "content": "Students develop a human-rights-respecting acceptance for the diversity of identities.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "entwickeln eine die Menschenrechte achtende Akzeptanz für die Vielfalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Students represent their own positions on the basis of basic and human rights.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 49,
+          "physical_page": 49
+        },
+        "cited_text": "vertreten eigene Positionen auf Basis der Grund- und Menschenrechte.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 1 addresses identity formation (body and gender).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Themenbereich 1: Identitätsfindung",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 2 addresses love, sexuality and relationships.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 50,
+          "physical_page": 50
+        },
+        "cited_text": "Themenbereich 2: Liebe, Sexualität, Beziehungen",
+        "residual_flags": [
+          "page-multi-match:physical-50-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Content covers sexual rights and the age of protection.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "sexuelle Rechte und Schutzalter",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 3 addresses sexualised violence.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Themenbereich 3: Sexualisierte Gewalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Content covers sexualised violence, sexual abuse and boundary violations.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "sexualisierte Gewalt, sexueller Missbrauch und sexuelle",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 4 (grades 7-11) addresses identity formation.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 52,
+          "physical_page": 52
+        },
+        "cited_text": "Themenbereich 4: Identitätsfindung",
+        "residual_flags": []
+      },
+      {
+        "content": "Content covers biological sex and social attributions.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 52,
+          "physical_page": 52
+        },
+        "cited_text": "biologisches Geschlecht und soziale Zuschreibungen",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 5 (grades 7-11) addresses love, sexuality and relationships.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "Themenbereich 5: Liebe, Sexualität, Beziehungen",
+        "residual_flags": [
+          "page-multi-match:physical-53-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "Content covers symptoms of and protection from STIs.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "Symptome von und Schutz vor STI",
+        "residual_flags": []
+      },
+      {
+        "content": "Content area 6 (grades 7-11) addresses sexualised violence.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 55,
+          "physical_page": 55
+        },
+        "cited_text": "Themenbereich 6: Sexualisierte Gewalt",
+        "residual_flags": []
+      },
+      {
+        "content": "Content covers violence in relationships, forced marriage and femicide.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 55,
+          "physical_page": 55
+        },
+        "cited_text": "Gewalt in Beziehungen, Zwangsverheiratung und Femizid",
+        "residual_flags": []
+      },
+      {
+        "content": "Content includes Female Genital Mutilation (FGM).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "2.6 Sexualerziehung",
+          "printed_page": 55,
+          "physical_page": 55
+        },
+        "cited_text": "Female Genital Mutilation (FGM)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 47,
+          "printed_page": 47
+        },
+        {
+          "physical_page": 48,
+          "printed_page": 48
+        },
+        {
+          "physical_page": 49,
+          "printed_page": 49
+        },
+        {
+          "physical_page": 50,
+          "printed_page": 50
+        },
+        {
+          "physical_page": 51,
+          "printed_page": 51
+        },
+        {
+          "physical_page": 52,
+          "printed_page": 52
+        },
+        {
+          "physical_page": 53,
+          "printed_page": 53
+        },
+        {
+          "physical_page": 54,
+          "printed_page": 54
+        },
+        {
+          "physical_page": 55,
+          "printed_page": 55
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.6 Sexualerziehung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2.6 Sexualerziehung",
+        "printed_page_range": "47–55"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

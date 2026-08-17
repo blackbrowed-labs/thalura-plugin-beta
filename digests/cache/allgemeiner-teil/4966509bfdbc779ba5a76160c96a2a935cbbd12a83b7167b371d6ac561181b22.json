@@ -1,0 +1,161 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:4966509bfdbc779ba5a76160c96a2a935cbbd12a83b7167b371d6ac561181b22"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Effective teaching requires the successful interplay of three dimensions: cognitively activating teaching, constructive support of the students, and efficient classroom management.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "5 Lernkultur an Hamburgs Schulen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Ein lernwirksam gestalteter Unterricht trägt entscheidend dazu bei, Lernprozesse anzustoßen. \nDazu bedarf es des erfolgreichen Zusammenwirkens der folgenden drei Dimensionen:",
+        "residual_flags": []
+      },
+      {
+        "content": "Efficient classroom management steers the lesson so that students understand the goals, all are involved in learning, disruptions are minimised and teaching time is used optimally.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "5 Lernkultur an Hamburgs Schulen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "eine effiziente Klassenführung, die den Unterricht so steuert, dass die Schülerinnen \nund Schüler die Ziele verstehen, alle beim Lernen beteiligt sind, möglichst wenige Stö-\nrungen auftreten und die Unterrichtszeit optimal genutzt wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "The respective framework curriculum (Rahmenplan) concretely lays down which subject-specific requirements students are to fulfil within a given period.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "5 Lernkultur an Hamburgs Schulen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Der jeweilige Rahmenplan legt konkret fest, welche fachlichen Anforderungen die Schülerin-\nnen und Schüler in einem bestimmten Zeitraum erfüllen sollen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The school-internal curricula (schulinterne Curricula) concretise and supplement the specifications of the Bildungsplan and the Kerncurricula in light of the school's own profile, priorities and particularities.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "5 Lernkultur an Hamburgs Schulen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "In den schulinternen Curricula werden die Vorgaben des Bildungsplans und der Kerncurricula \nunter Berücksichtigung schuleigener Profile, Schwerpunkte, Voraussetzungen und Besonder-\nheiten konkretisiert und ergänzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teachers accompany the learning and working process with individual, comprehensible and constructive feedback, treating errors as significant and necessary points of connection in the learning process.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "5 Lernkultur an Hamburgs Schulen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Die Lehrkräfte begleiten den Lern- und Arbeitsprozess der Schülerinnen und Schüler durch \nindividuelles, verständliches und konstruktives Feedback. Dabei werden Fehler als bedeu-\ntende und notwendige Anknüpfungspunkte im Lernprozess gesehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Schulen gewährleisten eine einheitlich gute Qualität des Unterrichts durch Kooperationsstrukturen und eine Kooperationskultur (S. 25).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "5 Lernkultur an Hamburgs Schulen",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Schulen gewährleisten eine einheitlich gute Qualität des Unterrichts und der pädagogischen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "5 Lernkultur an Hamburgs Schulen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "5 Lernkultur an Hamburgs Schulen",
+        "printed_page_range": "17–25"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

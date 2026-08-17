@@ -1,0 +1,155 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c82a536dc8d4f933c38d68161139fcddb5e19d93ea4f67816cf93bd9f98ee0aa"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The task refers to the graduation-related requirement level.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "bezieht sich auf die abschlussbezogene Anforderungsebene",
+        "residual_flags": []
+      },
+      {
+        "content": "If the requirements are exceeded or fallen short of, the full grade spectrum from E1 to G6 applies.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "das gesamte Notenspektrum von E1 bis G6",
+        "residual_flags": []
+      },
+      {
+        "content": "The performance is graded G2 under stated conditions.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "Die Leistung wird mit einer G2 bewertet",
+        "residual_flags": []
+      },
+      {
+        "content": "For G2: central aspects of the life and message of two persons are correctly presented and a third appropriately considered.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "zentrale Aspekte des Lebens und der Botschaft von zwei Personen richtig",
+        "residual_flags": []
+      },
+      {
+        "content": "For G2: the role-model character of three persons is shown largely independently at several examples and related to the present.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "der Vorbildcharakter von drei Personen an mehreren Beispielen",
+        "residual_flags": []
+      },
+      {
+        "content": "The performance is graded G4 under weaker conditions.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "Die Leistung wird mit einer G4 bewertet",
+        "residual_flags": []
+      },
+      {
+        "content": "For G4: the role-model character of two persons is shown at one example each.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "der Vorbildcharakter von zwei Personen an jeweils einem Beispiel",
+        "residual_flags": []
+      },
+      {
+        "content": "For G4: the dialogue is conducted according to general conversation rules.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "iv. Bewertungshinweise",
+          "printed_page": 7,
+          "physical_page": 12
+        },
+        "cited_text": "der Dialog entsprechend allgemeiner",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "iv. Bewertungshinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "iv. Bewertungshinweise",
+        "printed_page_range": "7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

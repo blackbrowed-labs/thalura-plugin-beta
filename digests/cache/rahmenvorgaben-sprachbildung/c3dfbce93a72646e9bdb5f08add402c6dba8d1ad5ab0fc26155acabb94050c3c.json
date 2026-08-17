@@ -1,0 +1,92 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c3dfbce93a72646e9bdb5f08add402c6dba8d1ad5ab0fc26155acabb94050c3c"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Sprachhandlung 14 URTEILEN UND BEWERTEN — purpose: a final positioning on a factual or evaluative problem on the basis of weighed arguments or chains of argument, in order to reach a decision on a subject-related problem.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "14. URTEILEN UND BEWERTEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Der Zweck des Urteilens und Bewertens \nbesteht in einer abschließenden Positio-\nnierung zu einem Sach- oder Bewertungs-\nproblem anhand von abgewogenen Argu-\nmenten oder Argumentationsketten, um \nschließlich eine Entscheidung zu einem \nfachbezogenen Problem fällen zu können.",
+        "residual_flags": []
+      },
+      {
+        "content": "Descriptors 14.1–14.5: say or write whether something is good or bad, positive or negative, or why something is an advantage, disadvantage or problem; record advantages and disadvantages of solutions in writing in various text formats (list, table…); formulate reasons and counter-reasons from different perspectives, contextualized and problem-related; weigh reasons and counter-reasons; and formulate a clear positioning that is factually sound, coherent and differentiated on a factual or value question.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "14. URTEILEN UND BEWERTEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "14.1 sagen oder schreiben, ob etwas gut oder schlecht, positiv oder negativ ist oder warum etwas einen \nVorteil, einen Nachteil oder ein Problem darstellt \n14.2 die Vor- und Nachteile verschiedener Lösungen und Möglichkeiten schriftlich in verschiedenen \nTextformaten (Liste, Tabelle…) festhalten \n14.3 Gründe und Gegengründe anhand von Sachinformationen aus unterschiedlichen Perspektiven \nkontextualisiert und problembezogen formulieren \n14.4 eine Abwägung der Gründe und Gegengründe vornehmen  \n14.5 eine eindeutige Positionierung, die sachlich triftig, kohärent und differenziert ist, zu einer Sach- o-\nder Wertfrage formulieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Descriptors 14.6–14.11: question subject-related (e.g. mathematical) statements and solution paths, check them for correctness and judge them orally or in writing; bring out possible options for action from different perspectives; evaluate a source or idea for a problem linguistically and justify one's assessment; name or independently formulate judgement-guiding categories; separate factual judgements from value judgements (legitimacy); and position oneself using a judgement category, taking account of different perspectives, on particular levels of consideration and on the basis of arguments. NOTE: descriptor 14.8 begins with a capitalized 'Eine' mid-list.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "8b9e14464b074651f8a6a67cecbc31c1b413ab619a1f0496a249dccbcd86e90c",
+          "section_anchor": "14. URTEILEN UND BEWERTEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "14.6 fachbezogene (z.B. mathematische) Aussagen und Lösungswege hinterfragen, auf Korrektheit prü-\nfen und mündlich oder schriftlich beurteilen \n14.7 mögliche Handlungsoptionen perspektivenorientiert herausstellen \n14.8 Eine Quelle oder Idee für ein Problem sprachlich bewerten und die eigene Einschätzung begrün-\nden \n14.9 urteilsleitende Kategorien benennen oder selbstständig problembezogen formulieren \n14.10 zwischen Sach- und Werturteilen (Legitimität) trennen \n14.11 sich anhand einer Urteilskategorie (leitende Begriffe), unter Berücksichtigung von unterschiedli-\nchen Perspektiven (aus denen geurteilt wird) auf bestimmten Betrachtungsebenen anhand von Ar-\ngumenten positionieren",
+        "residual_flags": [
+          "source anomaly: descriptor 14.8 'Eine Quelle oder Idee für ein Problem sprachlich bewerten' — capitalized sentence start inconsistent with the lower-case list style of all other descriptors"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "14. URTEILEN UND BEWERTEN"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "14. URTEILEN UND BEWERTEN",
+        "printed_page_range": "25"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

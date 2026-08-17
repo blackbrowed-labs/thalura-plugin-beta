@@ -1,0 +1,187 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:21ab09b960d2351e6dd5a488faed15cfc9df5752fa12581258371ca66be0bdc1"
+  },
+  "freshness": [
+    {
+      "document_id": "musteraufgaben-esa-religion",
+      "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The exam format is a group exam with joint preparation time and a practical component.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "mit gemeinsamer Vorbereitungszeit \n ☐ Gruppenprüfung mit individueller Vorbereitungszeit \n ☒ mit fachpraktischem Anteil",
+        "residual_flags": []
+      },
+      {
+        "content": "In class, Jesus, Muhammed, Ali and Buddha were studied as the central persons of their respective religions, looking at their lives, actions and messages.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "Im Unterricht haben wir uns mit Jesus, Muhammed, Ali und Buddha als den zentralen Per-\nsonen ihrer jeweiligen Religion beschäftigt und dabei deren Leben, Handlungen",
+        "residual_flags": [
+          "source-anomaly-verbatim"
+        ]
+      },
+      {
+        "content": "A helpful competency is to present the life and messages of three central persons of the religions.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "das Leben und die Botschaften von drei zentralen Personen der Religionen",
+        "residual_flags": []
+      },
+      {
+        "content": "A competency is to solve a task together by distributing tasks so that everyone contributes.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "eine Aufgabe mit anderen gemeinsam lösen, in dem ihr Aufgaben verteilt und alle \netwas beitragt",
+        "residual_flags": []
+      },
+      {
+        "content": "A competency is to conduct a structured, appreciative dialogue with others on religious questions.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "gemeinsam mit anderen einen Dialog zu religiösen Fragen strukturiert und",
+        "residual_flags": []
+      },
+      {
+        "content": "The exact task will be handed out on the day of the exam.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "Die genaue Aufgabenstellung erhältst du am Tag der",
+        "residual_flags": []
+      },
+      {
+        "content": "If prevented from attending by illness or another important reason, the student must report it immediately and prove the reason.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "Wenn du wegen Krankheit oder einem anderen wichtigen Grund an einem Prüfungstermin \nnicht teilnehmen kannst, musst du das sofort melden",
+        "residual_flags": []
+      },
+      {
+        "content": "Interrupting the final exam more than twice means it counts as not passed.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "mehr als zweimal unterbrichst, gilt sie als nicht bestanden",
+        "residual_flags": []
+      },
+      {
+        "content": "Cheating can lead to exclusion from the exam or having to repeat parts of it.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "a. Themenbekanntgabe",
+          "printed_page": 1,
+          "physical_page": 6
+        },
+        "cited_text": "ausgeschlossen wirst oder Teile der Prüfung wiederholen musst",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Erhalt des Themas für die mündliche Abschlussprüfung wird bestätigt.",
+        "citation": {
+          "document_id": "musteraufgaben-esa-religion",
+          "document_title": "Musteraufgabe Mündliche Prüfung ESA Religion",
+          "source_pdf_sha256": "20a987ccc27a05212d467e5efa84fc76bbd8194c22a44afc6765ffc87d4f85bf",
+          "section_anchor": "a. Themenbekanntgabe",
+          "printed_page": 2,
+          "physical_page": 7
+        },
+        "cited_text": "sowie das Thema für die mündliche Abschlussprüfung erhalten habe.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 1
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 2
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "a. Themenbekanntgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "musteraufgaben-esa-religion",
+        "section_anchor": "a. Themenbekanntgabe",
+        "printed_page_range": "1–2"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

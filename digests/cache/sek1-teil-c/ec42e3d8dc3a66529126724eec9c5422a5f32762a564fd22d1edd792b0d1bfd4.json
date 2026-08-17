@@ -1,0 +1,173 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ec42e3d8dc3a66529126724eec9c5422a5f32762a564fd22d1edd792b0d1bfd4"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Für mündliche Leistungen gelten insbesondere Kriterien wie Relevanz und sachliche Richtigkeit, Folgerichtigkeit und Komplexität der Argumentation sowie Reichhaltigkeit und Tiefe des Beitrags.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Relevanz und sachliche Richtigkeit der Aussagen \n• \nFolgerichtigkeit der Aussagen, Stimmigkeit und Komplexität der Argumentation \n• \nReichhaltigkeit und Tiefe des Beitrags ",
+        "residual_flags": []
+      },
+      {
+        "content": "Weitere mündliche Kriterien sind Differenziertheit des Verstehens und Darstellens, Angemessenheit des Abstraktionsniveaus, fachmethodische Angemessenheit sowie Anschaulichkeit und Klarheit von Sprache und Aufbau.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Differenziertheit des Verstehens und Darstellens \n• \nAngemessenheit des Abstraktionsniveaus \n• \nfachmethodische Angemessenheit \n• \nAnschaulichkeit sowie Klarheit von Sprache und Aufbau der Ausführungen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Zu den mündlichen Kriterien zählen zudem begriffliche und fachsprachliche Präzision, funktionaler Umgang mit Bezugstexten und Medien sowie kommunikative Ziel- und Ergebnisorientierung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "begriffliche und fachsprachliche Präzision und Richtigkeit \n• \nsprachliche Angemessenheit und Richtigkeit \n• \nfunktionaler Umgang mit Bezugstexten, Materialien und Medien \n• \nEigenständigkeit, Kreativität und Originalität von Inhalt und Darstellung \n• \nfunktionale Herstellung geeigneter Zusammenhänge: Bezugnahme auf Vorerfahrun-\ngen und Bekanntes, Übertragung auf Neues \n• \nVerständnis und angemessene Berücksichtigung anderer Beiträge in Gesprächen \n• \nkommunikative Ziel- und Ergebnisorientierung. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Für schriftliche Leistungen gelten insbesondere Aufgabenbezug, inhaltliche Relevanz und sachliche Richtigkeit sowie Reichhaltigkeit, Tiefe und Vollständigkeit.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Aufgabenbezug, inhaltliche Relevanz und sachliche Richtigkeit \n• \nReichhaltigkeit, Tiefe und Vollständigkeit ",
+        "residual_flags": []
+      },
+      {
+        "content": "Weitere schriftliche Kriterien sind stilistische Angemessenheit, Erfüllung standardsprachlicher Normen, Eigenständigkeit und Originalität sowie Übersichtlichkeit und Qualität des Layouts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 14,
+          "printed_page_end": 15,
+          "physical_page": 14
+        },
+        "cited_text": "stilistische Angemessenheit, Stimmigkeit des Ausdrucks \n• \nErfüllung standardsprachlicher Normen \n• \nfunktionaler Umgang mit Bezugstexten und Materialien \n• \nEigenständigkeit, Kreativität und Originalität von Bearbeitung und Darstellung \n\n15 \n• \nfunktionale Herstellung geeigneter Zusammenhänge: Bezugnahme auf Vorerfahrun-\ngen und Bekanntes, Übertragung auf Neues \n• \nÜbersichtlichkeit und Qualität des Layouts. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Für praktische Leistungen gelten fachspezifische Bewertungskriterien.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Für die praktischen Leistungen gelten fachspezifische Bewertungskriterien. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Je nach Art der Leistungserbringung treten weitere Kriterien hinzu, etwa für Phasen individueller Arbeit Schwierigkeitsgrad der Aufgabe, Selbstständigkeit bei der Informationsbeschaffung und Beherrschung von Strategien.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Schwierigkeitsgrad der bearbeiteten Aufgabe \n• \nSelbstständigkeit und Erfolg bei der Beschaffung von Informationen bzw. Gewinnung \nvon Daten \n• \nFlexibilität und Sicherheit im Umgang mit Werkzeugen \n• \nBeherrschung von Strategien zur Bewältigung einer Aufgabe \n• \nSelbstständigkeit bei der Problemlösung und Aufgeschlossenheit gegenüber der Nut-",
+        "residual_flags": []
+      },
+      {
+        "content": "Für Phasen kooperativen bzw. kollaborativen Lernens zählen Initiativen für die gemeinsame Arbeit, Planung und Aufteilung der Arbeit sowie die Integration der eigenen Arbeit in den gemeinsamen Prozess.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Initiativen und Impulse für die gemeinsame Arbeit \n• \nPlanung, Strukturierung und Aufteilung der Arbeit \n• \nfachmethodische Zugangsweise und fachgerechte Kommunikation  \n• \nAbstimmung, Weiterentwicklung und Lösung der eigenen Teilaufgaben \n• \nIntegration der eigenen Arbeit in den gemeinsamen Arbeitsprozess. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Für Arbeitsprodukte gelten Kriterien wie Eingrenzung des Themas, Identifikation relevanter Informationen, kritische Bewertung der Ergebnisse sowie Funktionalität und Qualität der Darstellung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "6 Bewertungskriterien",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Eingrenzung des Themas, Entwicklung einer eigenen Fragestellung \n• \nkorrekte, fachlich angemessene Formulierung des Problems \n• \nIdentifikation der relevanten Informationen und Zusammenhänge \n• \nfachmethodisch angemessene Analyse, Auswertung und Aufbereitung der gegebenen \nInformationen oder Daten \n• \nkritische Bewertung und Interpretation der Ergebnisse \n• \nEigenständigkeit, Kreativität und Originalität von Inhalt und Form \n• \nPräzision der Ausführung \n• \nSchwierigkeitsgrad der Erstellung \n• \nFunktionalität und Qualität der Darstellung. ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6 Bewertungskriterien"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "6 Bewertungskriterien",
+        "printed_page_range": "14–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

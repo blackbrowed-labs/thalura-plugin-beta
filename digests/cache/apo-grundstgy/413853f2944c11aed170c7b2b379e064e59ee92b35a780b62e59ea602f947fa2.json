@@ -1,0 +1,144 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:413853f2944c11aed170c7b2b379e064e59ee92b35a780b62e59ea602f947fa2"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Learning-development conferences (Lernentwicklungsgespräche) must cover at least the listed topics.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 3 — Lernentwicklungsgespräche und Zeugnisse",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Lernentwicklungsgespräche beinhalten mindestens folgende Themen:",
+        "residual_flags": []
+      },
+      {
+        "content": "In years 1 to 3 the certificate takes the form of a learning-development report (Lernentwicklungsbericht) at the end of each school year.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 3 — Lernentwicklungsgespräche und Zeugnisse",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "In den Jahrgangsstufen 1 bis 3 werden jeweils am Ende eines Schuljahres \nZeugnisse in Form von Lernentwicklungsberichten erteilt.",
+        "residual_flags": []
+      },
+      {
+        "content": "In years 4 to 8 a certificate is issued at the end of each half-year.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 3 — Lernentwicklungsgespräche und Zeugnisse",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "In den Jahrgangsstufen 4 bis 8 wird am Ende eines jeden Schulhalbjahres ein \nZeugnis erteilt.",
+        "residual_flags": []
+      },
+      {
+        "content": "The achievement statements are given as grades under § 2; the assessment basis is the preceding half-year.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 3 — Lernentwicklungsgespräche und Zeugnisse",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Angaben zu Satz 2 Nummer 2 erfolgen in Noten nach § 2 Beurteilungsgrund-\nlage ist das jeweils vorangegangene Schulhalbjahr.",
+        "residual_flags": [
+          "source-typo-verbatim: sentence-ending period missing — original reads 'erfolgen in Noten nach § 2 Beurteilungsgrundlage ist das jeweils vorangegangene Schulhalbjahr.'",
+          "layout: span contains the hard-wrap hyphenation 'Beurteilungsgrund-/lage'"
+        ]
+      },
+      {
+        "content": "In years 9 and 10 the half-year certificate states the achievement level in grades under § 2 for all subjects and learning areas taught.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 3 — Lernentwicklungsgespräche und Zeugnisse",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "In den Jahrgangsstufen 9 und 10 wird am Ende eines jeden Schulhalbjahres \nein Zeugnis erteilt. Dieses enthält in Noten nach § 2 ausgedrückte Angaben zum \nerreichten Lernstand in allen unterrichteten Fächern und Lernbereichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "A student leaving school at a time when no certificate is issued receives a transfer certificate (Übergangszeugnis).",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "APO-GrundStGy Abschnitt 3 — Lernentwicklungsgespräche und Zeugnisse",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Verlässt eine Schülerin oder ein Schüler die Schule zu einem Zeitpunkt, zu \ndem kein Zeugnis erteilt wird, erhält sie oder er ein Übergangszeugnis.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "APO-GrundStGy Abschnitt 3 — Lernentwicklungsgespräche und Zeugnisse"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "APO-GrundStGy Abschnitt 3 — Lernentwicklungsgespräche und Zeugnisse",
+        "printed_page_range": "12–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

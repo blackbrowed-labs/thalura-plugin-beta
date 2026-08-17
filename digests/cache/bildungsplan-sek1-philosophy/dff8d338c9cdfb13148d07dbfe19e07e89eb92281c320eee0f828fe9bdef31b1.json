@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:dff8d338c9cdfb13148d07dbfe19e07e89eb92281c320eee0f828fe9bdef31b1"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken PM5 (grade 9, 'Auf der Suche nach der Wahrheit'): truth claims and interpretations of reality; the relation of truth, deception, error and justification arises above all against increasingly media-mediated access to the world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 5: Wahrheit und Wirklichkeit",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "In diesem Modul stehen Überlegungen zu Wahrheitsansprüchen und \nWirklichkeitsdeutungen im Zentrum. Die Frage nach dem Verhältnis \nvon Wahrheit, Täuschung, Irrtümern und Begründungen stellt sich \nvor allem vor dem Hintergrund zunehmend medialer Weltvermittlung.",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      },
+      {
+        "content": "Contents of PM5 include handling error and deception, and reality, truth and Fake News in the media-mediated world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 5: Wahrheit und Wirklichkeit",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "• Umgang mit Irrtum und Täuschung \n• Wirklichkeit, Wahrheit und Fake News in der medial vermittelten",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': truth can be reflected on as a value that also plays a role in connection with moral values.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 5: Wahrheit und Wirklichkeit",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Wahrheit kann als ein Wert reflektiert werden, der auch im Zusam-\nmenhang mit moralischen Werten eine Rolle spielt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'D': students reflect on the influence of media-mediated views, including how disinformation and Fake News are produced, spread and recognised.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 5: Wahrheit und Wirklichkeit",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren den Einfluss von medial \nvermittelten Ansichten.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Pflichtmodul 5: Wahrheit und Wirklichkeit"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Pflichtmodul 5: Wahrheit und Wirklichkeit",
+        "printed_page_range": "23"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

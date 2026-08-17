@@ -71,6 +71,6 @@ A firewall digest citation carries `document_id`, `document_title`, `source_pdf_
 
 1. Look up `source_pdf_sha256` in `sources`. A miss ⇒ plain-text citation (no link).
 2. If the entry's `canonical_url` is non-empty and well-formed, emit the hyperlink; else plain text.
-3. Append `#page=<physical_page>` **only** when the page anchor is reliable and `physical_page` is present — using the digest's `physical_page` verbatim (already resolved printed→physical by the page-map; never recomputed here). Otherwise emit the bare URL.
+3. Append `#page=<physical_page>` **only** when the page anchor is reliable and `physical_page` is present — using the digest's `physical_page` verbatim. The digest resolved it **per claim**, as the page that claim's quotation begins on: a read that opens the document resolves it while reading, a pre-generated entry resolves it by locating the claim's `cited_text` in the source PDF's per-page text. It is never recomputed here. Otherwise emit the bare URL.
 
 The `document_id` and `path` fields are for human readability and cross-checking only; the machine join is always on `source_pdf_sha256`.

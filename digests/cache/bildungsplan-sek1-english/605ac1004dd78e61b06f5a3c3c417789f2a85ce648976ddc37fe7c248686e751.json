@@ -1,0 +1,324 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:605ac1004dd78e61b06f5a3c3c417789f2a85ce648976ddc37fe7c248686e751"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Themenbereich 3: Gesellschaftliches Zusammenleben",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Themenbereich 3: Gesellschaftliches Zusammenleben ",
+        "residual_flags": []
+      },
+      {
+        "content": "Youth culture, politics and society",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Youth culture, politics and society ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler verständigen sich in zunehmend offeneren und komplexeren Situationen über Themen, die ihre Lebenswelt und die von Jugendlichen in anglophonen Sprach- und Kulturräumen betreffen, z. B. Erfahrungen und Ereignisse, Gefühle, Pläne, Wünsche und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Die Schülerinnen und Schüler verständigen sich in zunehmend offene-\nren und komplexeren Situationen über Themen, die ihre Lebenswelt und \ndie von Jugendlichen in anglophonen Sprach- und Kulturräumen betref-\nfen, z. B. Erfahrungen und Ereignisse, Gefühle, Pläne, Wünsche und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Dieses Thema lässt sich gut über altersangemessene Lektüren und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Dieses Thema lässt sich gut über altersangemessene Lektüren und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die fettgedruckten Themen sind verpflichtend zu behandeln. Es werden je mindestens zwei der darunter genannten Aspekte thematisiert.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Die fettgedruckten Themen sind verpflichtend zu behandeln. Es wer-\nden je mindestens zwei der darunter genannten Aspekte thematisiert. ",
+        "residual_flags": []
+      },
+      {
+        "content": "cultural activities and trends",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "• cultural activities and trends ",
+        "residual_flags": []
+      },
+      {
+        "content": "youth culture and traditional culture",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "• youth culture and traditional culture ",
+        "residual_flags": []
+      },
+      {
+        "content": "communication and language",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "• communication and language ",
+        "residual_flags": []
+      },
+      {
+        "content": "Politische und gesellschaftliche Themen, die das Leben gleichaltriger Jugendlicher in anglophonen Kulturräumen prägen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Politische und gesellschaftliche Themen, die das Leben \ngleichaltriger Jugendlicher in anglophonen Kulturräumen prä-\ngen ",
+        "residual_flags": []
+      },
+      {
+        "content": "values, attitudes and norms",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "• values, attitudes and norms ",
+        "residual_flags": []
+      },
+      {
+        "content": "getting involved locally and globally",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "• getting involved locally and globally ",
+        "residual_flags": []
+      },
+      {
+        "content": "tradition and change",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "• tradition and change ",
+        "residual_flags": []
+      },
+      {
+        "content": "Migration und Zusammenleben in der multikulturellen Gesellschaft",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Migration und Zusammenleben in der multikulturellen Gesell-\nschaft ",
+        "residual_flags": []
+      },
+      {
+        "content": "migrating to a different country (reasons, consequences, integration)",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "• migrating to a different country (reasons, consequences, integration) ",
+        "residual_flags": []
+      },
+      {
+        "content": "Beitrag zur Leitperspektive BNE:",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Beitrag zur Leitperspektive BNE: ",
+        "residual_flags": []
+      },
+      {
+        "content": "Durch die Auseinandersetzung mit den Inhalten aus diesem Themenfeld werden die Schülerinnen und Schüler für die Hauptursachen von Migration, wie Armut, Hunger, mangelnde Bildungschancen oder Kriege, und die Konsequenzen von Migration für Individuum und Gesellschaft sensibilisiert.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Durch die Auseinandersetzung mit den Inhalten aus diesem Themenfeld \nwerden die Schülerinnen und Schüler für die Hauptursachen von Migra-\ntion, wie Armut, Hunger, mangelnde Bildungschancen oder Kriege, und \ndie Konsequenzen von Migration für Individuum und Gesellschaft sensi-\nbilisiert. ",
+        "residual_flags": []
+      },
+      {
+        "content": "7/8 Schule, Ausbildung, Beruf",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "7/8 Schule, Ausbil-\ndung, Beruf ",
+        "residual_flags": []
+      },
+      {
+        "content": "7/8 Leben in der digitalen Welt",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "7/8 Leben in der \ndigitalen Welt ",
+        "residual_flags": []
+      },
+      {
+        "content": "Natur, Wissenschaft und Umwelt",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Natur, Wissen-\nschaft und Um-\nwelt ",
+        "residual_flags": []
+      },
+      {
+        "content": "Unterschiedliche Kulturen im englischspr.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "Unterschiedli-\nche Kulturen \nim englischspr. ",
+        "residual_flags": []
+      },
+      {
+        "content": "[bleibt zunächst leer]",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+          "printed_page": 51,
+          "physical_page": 51
+        },
+        "cited_text": "[bleibt zunächst \nleer] ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 51,
+          "printed_page": 51
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 7/8 Youth culture, politics and society",
+        "printed_page_range": "51"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

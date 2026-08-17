@@ -1,0 +1,181 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:d5cc8809749f05fda60b9515bb9d5c2e5aab4c311685cc72a4701115dcb98ecc"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The base grammar overviews structures students should know by the end of grade 8.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 7/8",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Die Basisgrammatik bietet eine Übersicht über grammatische",
+        "residual_flags": []
+      },
+      {
+        "content": "Additional active tenses include the present perfect progressive with since and for.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 7/8",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "present perfect progressive (since and for)",
+        "residual_flags": []
+      },
+      {
+        "content": "Formation and use of the following passive tenses is covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 7/8",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Bildung und Gebrauch der folgenden Zeitformen im Passiv:",
+        "residual_flags": []
+      },
+      {
+        "content": "Reflexive pronouns are covered for naming and describing.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 7/8",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "und beschreiben \n• Reflexivpronomen",
+        "residual_flags": []
+      },
+      {
+        "content": "Information giving includes adverbial clauses that are temporal and local.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 7/8",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Adverbialsätze: temporal und lokal",
+        "residual_flags": []
+      },
+      {
+        "content": "A goal is to express modalities and conditions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 7/8",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Modalitäten und Bedingungen ausdrücken",
+        "residual_flags": []
+      },
+      {
+        "content": "Structures include modal verbs and their substitute forms.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 7/8",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Modalverben und ihre Ersatzformen",
+        "residual_flags": []
+      },
+      {
+        "content": "Structures include conditional clauses I, II and III.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 7/8",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Konditionalsätze I, II, III",
+        "residual_flags": []
+      },
+      {
+        "content": "A goal is to give reasons and formulate comments.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 7/8",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "Begründungen geben und Kommentare formulieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Structures include justifying and concluding connectives.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Basisgrammatik 7/8",
+          "printed_page": 60,
+          "physical_page": 60
+        },
+        "cited_text": "begründende und folgernde Verknüpfungen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 60,
+          "printed_page": 60
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Basisgrammatik 7/8"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Basisgrammatik 7/8",
+        "printed_page_range": "60"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

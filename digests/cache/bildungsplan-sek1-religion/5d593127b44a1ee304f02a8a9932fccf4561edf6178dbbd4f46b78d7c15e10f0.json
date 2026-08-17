@@ -1,0 +1,317 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5d593127b44a1ee304f02a8a9932fccf4561edf6178dbbd4f46b78d7c15e10f0"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-religion",
+      "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Religious education takes up the fundamental human questions of dignity, of justice and peace, and of criteria and norms for responsible action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der Religionsunterricht greift die menschlichen Grundfragen nach Würde, nach Gerechtigkeit \nund Frieden, nach Kriterien und Normen für verantwortliches Handeln auf",
+        "residual_flags": []
+      },
+      {
+        "content": "It enables pupils to engage with those questions on the basis of religious traditions and of other interpretations of life and the world; the source reads \"den Schuelerinnen und Schueler\" instead of the grammatically correct \"Schuelern\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "ermöglicht den \nSchülerinnen und Schüler, sich mit ihnen anhand religiöser Überlieferungen und anderer Le-\nbens- und Weltdeutungen auseinanderzusetzen.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "The subject conveys the dialogue, judgement and orientation competences needed to move independently and responsibly in the tension between individual freedom and self-development and the value orientation binding for social cohesion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "vermittelt die notwendigen Dialog-, Urteils- und \nOrientierungskompetenzen, um sich selbstständig und verantwortungsvoll im Spannungsfeld \nzwischen individueller Freiheits- und Selbstentfaltung und der für den gesellschaftlichen Zu-\nsammenhalt verbindlichen Werteorientierung zu bewegen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Religious education aims at a life-friendly, free and humane future for all in a finite world, in line with the basic convictions of all the religious communities responsible for it.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Der Religionsunterricht zielt auf \neine lebensfreundliche, freiheitliche und menschenwürdige Zukunft für alle in einer endlichen \nWelt, wie es den Grundüberzeugungen aller ihn verantwortenden Religionsgemeinschaften \nentspricht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Value education presupposes self-confidence and self-reflection; the subject trains a culture of self-perception, self-disclosure and self-assurance in which everyone experiences being accepted and respected.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Wertebildung setzt Selbstbewusstsein und Selbstreflexion voraus. Der Religionsunterricht übt \nin eine Kultur der Selbstwahrnehmung, Selbsterschließung und Selbstvergewisserung ein, in \nder sich jede und jeder als angenommen und respektiert erfährt",
+        "residual_flags": []
+      },
+      {
+        "content": "In that culture the limitedness of human existence also comes into view, and alongside strengths, weaknesses and mistakes are allowed a place.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "in der zugleich auch die Be-\ngrenztheit menschlichen Daseins in den Blick gerät und in der neben Stärken auch Schwächen \nund Fehler einen Platz haben dürfen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Freedom, equality and justice as well as tolerance, respect and a sense of responsibility shape the learning processes and are at the same time the object of learning in the sources of the religions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Freiheit, Gleichheit, Gerechtigkeit sowie Toleranz, \nRespekt und Verantwortungsbewusstsein prägen die Lernprozesse und sind in den Quellen \nder Religionen zugleich ihr Lerngegenstand.",
+        "residual_flags": []
+      },
+      {
+        "content": "Pupils get to know the diversity of religions, cultures, life views and lifestyles in society and practise a culture of dialogic togetherness free of group-focused enmity.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Die Schülerinnen und Schüler lernen im Religi-\nonsunterricht die Vielfalt der Religionen, Kulturen, Lebensauffassungen und Lebensstile in un-\nserer Gesellschaft kennen und üben eine Kultur des dialogischen Miteinanders ohne gruppen-\nbezogene Menschenfeindlichkeit ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "The teacher models \"exemplary positionality\", showing how individual self-determination and religious conviction can be combined with empathetic and respectful regard for other ways of living and thinking.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Im Religionsunterricht lebt die Lehrkraft in „exemplarischer Positionalität“ vor, wie individuelle \nSelbstbestimmung und religiöse Überzeugung mit der empathischen und respektvollen Ach-\ntung anderer Lebens- und Denkweisen verbunden werden kann.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under education for sustainable development, pupils can experience and reflect on themselves as part of creation and as members of a solidary world community for which they bear responsibility.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Sie können sich als \nTeil der Schöpfung und als Mitglied einer solidarischen Weltgemeinschaft erfahren und reflek-\ntieren, für die sie Verantwortung tragen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Given the finiteness of resources and the limits of planetary carrying capacity, the subject addresses basic human attitudes towards nature as well as the meaning and purpose of economic and social action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Angesichts der Endlichkeit der Ressourcen und der Grenzen planetarer Tragfähigkeit thema-\ntisiert der Religionsunterricht Grundhaltungen des Menschen gegenüber der Natur sowie Sinn \nund Ziel wirtschaftlichen und gesellschaftlichen Handelns.",
+        "residual_flags": []
+      },
+      {
+        "content": "Justice and peace are important categories in all religions and serve in religious education as central guiding concepts of ethical and theological reflection.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Gerechtigkeit und Frieden sind wichtige Kategorien in allen Religionen. Im Religionsunterricht \ndienen sie als zentrale Leitbegriffe ethischen und theologischen Nachdenkens.",
+        "residual_flags": []
+      },
+      {
+        "content": "Religious education promotes pupils' digital maturity: they learn with digital tools and media and reflect on their life in a digitally shaped world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Der Religionsunterricht fördert die digitale Mündigkeit der Schülerinnen und Schüler. Sie ler-\nnen in ihm mit digitalen Werkzeugen und Medien und reflektieren ihr Leben in einer digital \ngeprägten Welt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Communicating and cooperating, producing and presenting also by digital means (competence areas 1, 2 and 3 of the KMK strategy) are a central component of the learning culture in religious education.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Kommunizieren und Kooperieren, Produzieren \nund Präsentieren auch auf digitalem Weg (vgl. die Kompetenzbereiche 1, 2 und 3 der KMK-\nStrategie Bildung in der digitalen Welt) sind zentraler Bestandteil der Lernkultur im Religions-\nunterricht.",
+        "residual_flags": []
+      },
+      {
+        "content": "Digitally supported forms of learning facilitate religion-differentiated learning arrangements that are indispensable for competence acquisition and for implementing the core curricula, especially the B parts.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Digital gestützte Lernformen erleichtern religionendifferenzierte Lernarrangements, \ndie für den Kompetenzerwerb und die Umsetzung der Kerncurricula (insbesondere der B-\nTeile) unerlässlich sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Digital media and tools can and shall not replace direct personal dialogue in the classroom.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "können und sollen jedoch den direkten persönlichen Dialog im Klassenzimmer nicht ersetzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Critical handling of digital media content, especially content with a religious reference, is practised and demanded again and again.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Der kritische Umgang mit digitalen Medieninhalten, insbesondere solchen mit Religionsbezug, \nwird immer wieder eingeübt und eingefordert.",
+        "residual_flags": []
+      },
+      {
+        "content": "The subject's particular focus in digital education lies in analysing and reflecting on digitality, referring to competence area 6 of the KMK strategy.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Der besondere Fokus des Fachs im Bereich digitaler Bildung liegt im Analysieren und Reflek-\ntieren der Digitalität (vgl. den Kompetenzbereich 6 der KMK-Strategie Bildung in der digitalen \nWelt).",
+        "residual_flags": []
+      },
+      {
+        "content": "Pupils analyse their own dealings with digital offerings and reflect on them with a view to a self-determined and meaningful life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Schülerinnen und Schüler analysieren ihren eigenen Umgang mit digitalen Angebo-\nten und reflektieren ihn im Hinblick auf ein selbstbestimmtes und sinnerfülltes Leben.",
+        "residual_flags": []
+      },
+      {
+        "content": "They perceive the effects of digitalisation on society and on worldwide interconnections and assess them with regard to a humane, just and peaceful development.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "men die Auswirkungen der Digitalisierung auf die Gesellschaft und auf weltweite Zusammen-\nhänge wahr und beurteilen sie mit Blick auf eine menschenwürdige, gerechte und friedliche \nEntwicklung.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-religion",
+        "section_anchor": "1.2 Beitrag des Faches zu den Leitperspektiven",
+        "printed_page_range": "8–9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

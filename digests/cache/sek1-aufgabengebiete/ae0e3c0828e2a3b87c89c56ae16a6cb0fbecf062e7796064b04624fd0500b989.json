@@ -1,0 +1,128 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ae0e3c0828e2a3b87c89c56ae16a6cb0fbecf062e7796064b04624fd0500b989"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The school's educational and upbringing mission includes non-subject-bound tasks and questions to which several or all subjects contribute.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1 Lernen in den Aufgabengebieten",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Der Bildungs- und Erziehungsauftrag der Schule umfasst Aufgaben und Fragestellungen",
+        "residual_flags": []
+      },
+      {
+        "content": "These cross-cutting themes are located in the defined Aufgabengebiete, one of which is Mobility and Traffic Education.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1 Lernen in den Aufgabengebieten",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Mobilitäts- und Verkehrserziehung",
+        "residual_flags": []
+      },
+      {
+        "content": "The competencies of the three areas complement one another and are not acquired in isolation during the learning process.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1 Lernen in den Aufgabengebieten",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Kompetenzen der drei Berei-\nche ergänzen sich und werden im Lernprozess nicht isoliert erworben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Instruction in the Aufgabengebiete comprises altogether about one tenth of the base teaching hours.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1 Lernen in den Aufgabengebieten",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "insgesamt etwa ein Zehntel der",
+        "residual_flags": []
+      },
+      {
+        "content": "Achievements students deliver in the Aufgabengebiete are as a rule considered and assessed within the participating subjects and learning areas.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Aufgabengebiete",
+          "source_pdf_sha256": "456181c690f95116b2edc2cef0edadd0f48fa1eb4f9037e3a08870ad5b34626c",
+          "section_anchor": "1 Lernen in den Aufgabengebieten",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "im Rahmen der beteiligten Fächer und Lernbereiche berücksichtigt und bewertet",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Lernen in den Aufgabengebieten"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "1 Lernen in den Aufgabengebieten",
+        "printed_page_range": "4–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

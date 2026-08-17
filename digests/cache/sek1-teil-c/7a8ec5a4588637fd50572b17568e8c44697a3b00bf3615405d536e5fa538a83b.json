@@ -1,0 +1,185 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:7a8ec5a4588637fd50572b17568e8c44697a3b00bf3615405d536e5fa538a83b"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Schule unterstützt jede Schülerin und jeden Schüler dabei, das eigene Lernverhalten zu reflektieren und künftige Lernprozesse zu verbessern.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Schule unterstützt jede Schülerin und jeden Schüler darin, das eigene Lernverhalten zu ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Lehrkräfte begleiten den Lern- und Arbeitsprozess durch individuelles, verständliches und konstruktives Feedback, wobei Fehler als bedeutende Anknüpfungspunkte im Lernprozess gesehen werden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "individuelles, verständliches und konstruktives Feedback. Dabei werden Fehler als bedeu-",
+        "residual_flags": []
+      },
+      {
+        "content": "Peer-Feedback, in dem Schülerinnen und Schüler sich gegenseitig Rückmeldung geben, ist eine wichtige Ergänzung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "stellen Formen des Peer-Feedbacks dar, in denen Schülerinnen und Schüler sich gegenseitig ",
+        "residual_flags": []
+      },
+      {
+        "content": "Intensität und Häufigkeit des Feedbacks orientieren sich an der individuellen Lernsituation und Leistungsentwicklung der Schülerinnen und Schüler.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Häufigkeit des Feedbacks durch die Lehrkraft orientieren sich an der individuellen Lernsitua-",
+        "residual_flags": []
+      },
+      {
+        "content": "Lernerfolgskontrollen und Lernstandserhebungen bieten Lehrenden wie Lernenden Hinweise zu Erfolgen und Defiziten für den nachfolgenden Lehr- und Lernprozess.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Lernerfolgskontrollen und Lernstandserhebungen bieten Lehrenden wie Lernenden Hinweise ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Leistungsbeurteilung erfolgt in pädagogischer Verantwortung und stützt sich auf regelmäßige Lernbeobachtung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Leistungsbeurteilung erfolgt in pädagogischer Verantwortung und stützt sich auf regelmä-",
+        "residual_flags": []
+      },
+      {
+        "content": "Es wird unterschieden zwischen der Bewertung des Lernstandes (Leistungsbewertung), der Einschätzung der überfachlichen Kompetenzen und der Beurteilung der Lernentwicklung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Es wird unterschieden zwischen: \n• \nder Bewertung des Lernstandes (Leistungsbewertung), \n• \nder Einschätzung der überfachlichen Kompetenzen und \n• \nder Beurteilung der Lernentwicklung. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Leistungsbewertung bezieht sich auf den erreichten Lernstand und erlaubt eine Einschätzung vor dem Hintergrund der Anforderungen des Bildungsplanes; das ist besonders bedeutsam bei Zeugnissen über Abschlüsse und Berechtigungen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die Leistungsbewertung bezieht sich auf den jeweils erreichten Lernstand und bietet Schüle-",
+        "residual_flags": []
+      },
+      {
+        "content": "Überfachliche Kompetenzen und Lernentwicklung sind Grundlage für erfolgreiches Lernen und in allen Jahrgangsstufen Gegenstand der Lernbeobachtung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Überfachliche Kompetenzen und Lernentwicklung sind Grundlage für erfolgreiches Lernen ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Beurteilung der Lernentwicklung erfolgt durch Vergleich des erreichten mit dem anfänglichen Lern- und Entwicklungsstand und bezieht sich auf überfachliche wie fachliche Anforderungen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Beurteilung der Lernentwicklung erfolgt durch einen Vergleich des erreichten Lern- und ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "1 Feedback, Leistungsfeststellung und Leistungsbeurteilung",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

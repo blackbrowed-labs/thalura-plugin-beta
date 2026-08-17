@@ -1,0 +1,141 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:4ac750843f7173c04cbebea015dfc6d3ae2aa9ababb088ff4cd57213b4770ff0"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Starting point of philosophy teaching: phenomena and problems of students' own life-world, from which philosophical questions are developed and pursued jointly as a community of inquiry (Forschungsgemeinschaft).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Im Philosophieunterricht nehmen die Schülerinnen und Schüler Phänomene und Probleme \nihrer Lebenswelt zum Ausgangspunkt, um philosophische Fragen zu entwickeln, die von ihnen \ngemeinsam als Forschungsgemeinschaft verfolgt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Errors and detours are regarded as meaningful components of experience and learning processes.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Fehler und Umwege werden dabei als bedeutsame Bestandteile von Erfahrungs- und \nLernprozessen angesehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teachers and students together form a community of inquiry, setting research goals and judging the results of their philosophising.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Lehrende sowie Schülerinnen und Schüler bilden im Unterricht eine Forschungsgemeinschaft.",
+        "residual_flags": []
+      },
+      {
+        "content": "A philosophical judgement is a reasoned judgement and thus distinct from mere opinion.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Ein philosophisches Urteil ist ein begründetes Urteil und damit von bloßer Meinung abge-\ngrenzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Philosophy contributes to competences that foster an understanding of reality and provide orientation for one's own judging and acting.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Der Philosophieunterricht leistet einen Beitrag zur Entwicklung von Kompetenzen, die das Ver-\nstehen der Wirklichkeit fördern.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language education (Sprachbildung) as a cross-cutting task follows the principles laid down in the general part of the curriculum framework (Bildungsplan).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "1 Lernen im Fach Philosophie",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Für die Umsetzung der Querschnittsaufgabe Sprachbildung im Rahmen des Fachunterrichts \nsind die im allgemeinen Teil des Bildungsplans niedergelegten Grundsätze relevant.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Lernen im Fach Philosophie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "1 Lernen im Fach Philosophie",
+        "printed_page_range": "4–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

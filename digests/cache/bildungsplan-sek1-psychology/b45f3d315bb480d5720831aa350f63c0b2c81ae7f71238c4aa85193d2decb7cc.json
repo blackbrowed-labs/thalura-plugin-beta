@@ -1,0 +1,128 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b45f3d315bb480d5720831aa350f63c0b2c81ae7f71238c4aa85193d2decb7cc"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-psychology",
+      "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Psychology teaching engages students with the behaviour and experience of individuals and groups and with scientific approaches to explaining it and deriving options for action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "setzen sich die Schülerinnen und Schüler mit dem \nVerhalten und Erleben von Menschen und Menschengruppen sowie mit den verschiedenen \nAnsätzen auseinander",
+        "residual_flags": []
+      },
+      {
+        "content": "Consistent with psychology's self-understanding as an empirical science, three general aims of psychology teaching arise.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Selbstver-\nständnis der Psychologie als einer empirischen Wissenschaft ergeben sich drei allgemeine \nZielsetzungen des Psychologieunterrichts",
+        "residual_flags": []
+      },
+      {
+        "content": "These aims can be summarised as psychologically informed, critical competence in reflection and action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "psychologisch \ninformierte, kritische Reflexions- und Handlungskompetenz",
+        "residual_flags": []
+      },
+      {
+        "content": "Because it draws on natural-, social-, humanities- and arts-related aspects, psychology is a bridging subject (Brückenfach).",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Insofern stellt das Fach Psychologie ein Brückenfach dar",
+        "residual_flags": []
+      },
+      {
+        "content": "Individual self-experience must not become the direct object of instruction.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-psychology",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Psychologie",
+          "source_pdf_sha256": "d52d16ff2d82aebefe812e7d4a257ae599f0202e55c33f4e4a01c87adf8e4022",
+          "section_anchor": "1 Lernen im Fach Psychologie",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "darf die individuelle Selbsterfahrung nicht zum unmittelbaren Unter-\nrichtsgegenstand werden",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1 Lernen im Fach Psychologie"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-psychology",
+        "section_anchor": "1 Lernen im Fach Psychologie",
+        "printed_page_range": "4–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

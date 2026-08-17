@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:528afd5195bafdd7ddf459485e9cd2d684c32b56a6e4b0bdb6425e0bbf5f0dbe"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-philosophie",
+      "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Operator Darstellen (present/describe) is defined as formulating a connection in a structured and factual way.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Einen Zusammenhang strukturiert und sachlich formulieren",
+        "residual_flags": []
+      },
+      {
+        "content": "Example task prompt for Darstellen in ethics: present Singer's position on the question of abortion.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Stellen Sie Singers Position zur Frage der Abtreibung dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction): name the state of affairs or position and announce the further approach.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "Sachverhalt oder Position nennen, weiteres Vorgehen anführen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (main part): use own wording and technical language, restrict yourself to what is presented, do not illustrate with examples, stay factual and do not evaluate with arguments.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Darstellen",
+          "printed_page": 3,
+          "physical_page": 3
+        },
+        "cited_text": "eigene Formulierungen ver-\nwenden, Ausführungen strukturieren; Fachbegriffe und Fachsprache benutzen; sich auf das \nDargestellte beschränken und nicht mit Beispielen erläutern; sachlich bleiben und nicht (mit \nArgumenten) bewerten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (closing): if the next sub-task follows on in content, end with a transitional formulation.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Darstellen",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Sofern die nächste Teilaufgabe sich inhaltlich anschließt: Mit einer überleitenden Formulie-\nrung enden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 3,
+          "printed_page": 3
+        },
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Darstellen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-philosophie",
+        "section_anchor": "Darstellen",
+        "printed_page_range": "3–4"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

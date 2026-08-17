@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:3fc26621ff381f1c599985cafdc42f985b715df537358e903a699538347c6bb2"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-philosophy",
+      "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "A1: break phenomena, concepts, assertions and arguments down into their constituent elements by naming distinguishing features and presenting their connections in a structured way.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Analysieren (Analysekompetenzen, A)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Phänomene, Begriffe, Behauptungen und Argumente in ihre konstituierenden Ele-\nmente zerlegen",
+        "residual_flags": []
+      },
+      {
+        "content": "A2: distinguish intuitive positionings and unfounded convictions from methodically formed judgements.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Analysieren (Analysekompetenzen, A)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "intuitive Positionierungen und unbegründete Überzeugungen von methodisch nach-\nvollziehbar gebildeten Urteilen unterscheiden (A2)",
+        "residual_flags": []
+      },
+      {
+        "content": "A3: present premises and conclusions in arguments and examine them for validity and soundness.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Analysieren (Analysekompetenzen, A)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Prämissen und Konklusionen in Argumenten darstellen und diese im Zusammenhang \nauf Gültigkeit und Schlüssigkeit untersuchen (A3)",
+        "residual_flags": []
+      },
+      {
+        "content": "A4: distinguish descriptive from normative terms and statements as well as necessary from sufficient conditions.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Analysieren (Analysekompetenzen, A)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "deskriptive und normative Begriffe und Aussagen sowie notwendige und hinreichende \nBedingungen unterscheiden",
+        "residual_flags": []
+      },
+      {
+        "content": "A7 (raised requirement level): explain different forms of inference (e.g. induction, deduction, abduction, analogy) and discuss their power and limits for gaining knowledge.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Analysieren (Analysekompetenzen, A)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "unterschiedliche Schlussformen (z. B. Induktion, Deduktion, Abduktion, Analogie-\nschluss) erläutern",
+        "residual_flags": []
+      },
+      {
+        "content": "A8 (raised requirement level): name fallacies and general sources of judgement bias and identify and explain them in oral and written accounts.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-philosophy",
+          "document_title": "Bildungsplan Studienstufe Philosophie",
+          "source_pdf_sha256": "ad10493a88a827f5018ddd5534c4f99e620fd0ccd3b935e85653efd859abf7bd",
+          "section_anchor": "Kompetenzbereich Analysieren (Analysekompetenzen, A)",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Fehlschlüsse und generelle Quellen für Urteilsverzerrungen benennen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Kompetenzbereich Analysieren (Analysekompetenzen, A)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-philosophy",
+        "section_anchor": "Kompetenzbereich Analysieren (Analysekompetenzen, A)",
+        "printed_page_range": "11"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b2e9d28de9a8391cc479348dc0d606e5e44edcbd61e961331ec7990d23e2994e"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-philosophie",
+      "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Operator Erörtern (discuss/weigh up) is defined as recognizing and presenting a problem of judgement, weighing different positions and pro and contra arguments, and working out a conclusion.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Erörtern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Ein Beurteilungsproblem erkennen und darstellen, unterschiedli-\nche Positionen sowie Pro- und Contra-Argumente abwägen und \neine Schlussfolgerung erarbeiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction): describe the problem and its relevance and name possible positions on it.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Erörtern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Problemstellung beschreiben und ihre Relevanz darstellen, mögliche Positionen im Umgang \nmit ihr benennen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (argumentation): formulate arguments and present them in an ordered way, referring to material, background knowledge or examples.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Erörtern",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Argumente formulieren und geordnet aufführen, dabei auf Material, Hintergrundwissen oder \nBeispiele verweisen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (weighing): weigh the arguments against each other, develop a compromise or synthesis where appropriate, and make the decisive criterion explicit.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Erörtern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Argumente gegeneinander abwägen, ggf. Kompromissposition oder Synthese entwickeln, \ndabei das ausschlaggebende Kriterium deutlich machen",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 4 (conclusion): formulate one's own plausible judgement containing differentiations and, where applicable, further problematizations, or leave it open with reasons.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Erörtern",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Eigenes plausibles Urteil formulieren, das Differenzierungen und gegebenenfalls weitere \nProblematisierungen enthält, ggf. begründet offenlassen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Erörtern"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-philosophie",
+        "section_anchor": "Erörtern",
+        "printed_page_range": "17–18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

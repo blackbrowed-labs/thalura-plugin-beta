@@ -1,0 +1,484 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:bff2b638bdddbbc71ba05b75b297eed270b1b1265cfe8a2cda8eb273ac25c1b8"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Cross-curricular competences form the basis for successful learning development and for acquiring subject-specific competences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Überfachliche Kompetenzen bilden die Grundlage für erfolgreiche Lernentwicklungen und den \nErwerb fachlicher Kompetenzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are relevant across subjects and of central importance for coping with different demands and problems.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Sie sind fächerübergreifend relevant und bei der Bewältigung \nunterschiedlicher Anforderungen und Probleme von zentraler Bedeutung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Conveying cross-curricular competences is therefore the shared task and shared goal of all school subjects and of school life as a whole.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Vermittlung \nüberfachlicher Kompetenzen ist somit die gemeinsame Aufgabe und gemeinsames Ziel aller \nUnterrichtsfächer sowie des gesamten Schullebens.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competences fall into four areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die überfachlichen Kompetenzen lassen \nsich vier Bereichen zuordnen: \n•",
+        "residual_flags": []
+      },
+      {
+        "content": "Personal competences comprise attitudes and stances towards oneself.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Personale Kompetenzen umfassen Einstellungen und Haltungen sich selbst gegen-\nüber.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are to develop trust in their own abilities and in the effectiveness of their own action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Schülerinnen und Schüler sollen Vertrauen in die eigenen Fähigkeiten und \ndie Wirksamkeit des eigenen Handelns entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are to learn to assess their own abilities realistically, to reflect on their behaviour and to deal appropriately with criticism.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Sie sollen lernen, die eigenen Fä-\nhigkeiten realistisch einzuschätzen, ihr Verhalten zu reflektieren und mit Kritik ange-\nmessen umzugehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are likewise to learn to advocate their own opinions and to make decisions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Ebenso sollen sie lernen, eigene Meinungen zu vertreten und \nEntscheidungen zu treffen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Motivational attitudes describe the ability and willingness to commit to and engage with things.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Motivationale Einstellungen beschreiben die Fähigkeit und Bereitschaft, sich für \nDinge einzusetzen und zu engagieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are to learn to show initiative and to work with persistence and concentration.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Schülerinnen und Schüler sollen lernen, \nInitiative zu zeigen und ausdauernd und konzentriert zu arbeiten.",
+        "residual_flags": []
+      },
+      {
+        "content": "In doing so they are to develop interests and to experience that goals can be reached through effort.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Dabei sollen sie In-\nteressen entwickeln und die Erfahrung machen, dass sich Ziele durch Anstrengung \nerreichen lassen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning-methodological competences form the basis for conscious acquisition of knowledge and competences and hence for goal-directed, self-directed learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Lernmethodische Kompetenzen bilden die Grundlage für einen bewussten Erwerb \nvon Wissen und Kompetenzen und damit für ein zielgerichtetes, selbstgesteuertes Ler-\nnen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Students are to learn to use learning strategies effectively and to use media sensibly.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Schülerinnen und Schüler sollen lernen, Lernstrategien effektiv einzusetzen \nund Medien sinnvoll zu nutzen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They are to develop the ability to solve different kinds of problems in an appropriate way.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Sie sollen die Fähigkeit entwickeln, unterschiedliche \nArten von Problemen in angemessener Weise zu lösen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Social competences are required in order to deal and work well with other people.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Soziale Kompetenzen sind erforderlich, um mit anderen Menschen angemessen um-\ngehen und zusammenarbeiten zu können.",
+        "residual_flags": []
+      },
+      {
+        "content": "These include cooperating successfully, behaving constructively in conflicts, and showing tolerance, empathy and respect towards others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Dazu zählen die Fähigkeiten, erfolgreich zu \nkooperieren, sich in Konflikten konstruktiv zu verhalten sowie Toleranz, Empathie und \nRespekt gegenüber anderen zu zeigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competences listed in the following table are to be understood as applying across year groups; unlike the subject competences in the framework plans they are not set out differentiated by grade level.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die in der nachfolgenden Tabelle genannten überfachlichen Kompetenzen sind jahrgangs-\nübergreifend zu verstehen, d. h., sie werden anders als die fachlichen Kompetenzen in den \nRahmenplänen nicht für unterschiedliche Jahrgangsstufen differenziert ausgewiesen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teachers continuously accompany and support students' development in the described areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die Ent-\nwicklung der Schülerinnen und Schüler in den beschriebenen Bereichen wird von den Lehr-\nkräften kontinuierlich begleitet und gefördert.",
+        "residual_flags": []
+      },
+      {
+        "content": "The cross-curricular competences are to be taken into account when developing the school-internal curriculum.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die überfachlichen Kompetenzen sind bei der \nErarbeitung des schulinternen Curriculums zu berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The table 'Struktur überfachlicher Kompetenzen' sets out the areas of personal competences and learning-methodological competences, each phrased as statements about the individual student.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Struktur überfachlicher Kompetenzen \nPersonale Kompetenzen \n(Die Schülerin, der Schüler…) \nLernmethodische Kompetenzen \n(Die Schülerin, der Schüler…)",
+        "residual_flags": []
+      },
+      {
+        "content": "Under personal competences, self-efficacy means the student trusts their own abilities and believes in the effectiveness of their own action.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Selbstwirksamkeit \n… hat Vertrauen in die eigenen Fähigkeiten und \nglaubt an die Wirksamkeit des eigenen Handelns.",
+        "residual_flags": []
+      },
+      {
+        "content": "Under learning-methodological competences, learning strategies mean the student proceeds in a structured and systematic way and plans and organises their own work processes.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Lernstrategien \n… geht beim Lernen strukturiert und systematisch \nvor, plant und organisiert eigene Arbeitsprozesse.",
+        "residual_flags": []
+      },
+      {
+        "content": "Self-assertion means the student develops an opinion of their own, makes their own decisions and defends them towards others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Selbstbehauptung \n… entwickelt eine eigene Meinung, trifft eigene Ent-\nscheidungen und vertritt diese gegenüber anderen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Problem-solving ability means the student knows and uses different ways of solving problems.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Problemlösefähigkeit \n… kennt und nutzt unterschiedliche Wege, um Prob-\nleme zu lösen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Self-reflection means the student assesses their own abilities realistically and uses their own potential.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Selbstreflexion \n… schätzt eigene Fähigkeiten realistisch ein und nutzt \neigene Potenziale.",
+        "residual_flags": []
+      },
+      {
+        "content": "Media competence means the student can gather, prepare, evaluate and present information.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Medienkompetenz \n… kann Informationen sammeln, aufbereiten, bewer-\nten und präsentieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "The table's second row of areas covers motivational attitudes and social competences, again phrased as statements about the individual student.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Motivationale Einstellungen \n(Die Schülerin, der Schüler…) \nSoziale Kompetenzen \n(Die Schülerin, der Schüler…)",
+        "residual_flags": []
+      },
+      {
+        "content": "Commitment means the student stands up for things that matter to them and shows engagement and initiative.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Engagement \n… setzt sich für Dinge ein, die ihr/ihm wichtig sind, \nzeigt Einsatz und Initiative.",
+        "residual_flags": []
+      },
+      {
+        "content": "Cooperation ability means the student works well with others and takes on tasks and responsibility in groups.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Kooperationsfähigkeit \n… arbeitet gut mit anderen zusammen, übernimmt \nAufgaben und Verantwortung in Gruppen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Learning motivation means the student is motivated to learn new things and to understand things and makes an effort to improve.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Lernmotivation \n… ist motiviert, Neues zu lernen und Dinge zu verste-\nhen, strengt sich an, um sich zu verbessern.",
+        "residual_flags": []
+      },
+      {
+        "content": "Constructive handling of conflicts means the student behaves appropriately in conflicts, understands others' viewpoints and responds to them.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Konstruktiver Umgang mit Konflikten \n… verhält sich in Konflikten angemessen, versteht die \nSichtweisen anderer und geht darauf ein.",
+        "residual_flags": []
+      },
+      {
+        "content": "Persistence means the student works with stamina and concentration and does not give up even when facing difficulties.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Ausdauer \n… arbeitet ausdauernd und konzentriert, gibt auch bei \nSchwierigkeiten nicht auf.",
+        "residual_flags": []
+      },
+      {
+        "content": "Constructive handling of diversity means the student shows tolerance and respect towards others and deals appropriately with contradictions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I Englisch",
+          "source_pdf_sha256": "11ad6f6d85e3dc3d7055de27fd60b2cdc103d7cbe11c04aa505a9f95f9f411bb",
+          "section_anchor": "2.1 Überfachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Konstruktiver Umgang mit Vielfalt \n… zeigt Toleranz und Respekt gegenüber anderen \nund geht angemessen mit Widersprüchen um.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Überfachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "2.1 Überfachliche Kompetenzen",
+        "printed_page_range": "12–13"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:8cdf4150b8612cbcef5e29cd68f57b513dcc9ed443bcf04a9ace93731db45cc6"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Die Bewertung der laufenden Unterrichtsarbeit bezieht sich auf im Unterricht und im unterrichtlichen Kontext erbrachte Leistungen und berücksichtigt Aktivitäten und Produkte.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Bewertung der laufenden Unterrichtsarbeit bezieht sich auf die im Unterricht sowie im un-",
+        "residual_flags": []
+      },
+      {
+        "content": "Es kann den Lernerfolg steigern, ausdrücklich bewertungsfreie Unterrichtsphasen mit den Schülerinnen und Schülern zu verabreden.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "forderlich ist, kann es den Lernerfolg steigern, wenn mit den Schülerinnen und Schülern aus-",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Unterricht ist so anzulegen, dass mündliche, schriftliche und praktische Leistungen gezeigt werden können; die Bewertung darf sich nicht ausschließlich auf mündliche oder praktische Leistungen stützen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Für die Bewertung der laufenden Unterrichtsarbeit ist der Unterricht so anzulegen, dass die ",
+        "residual_flags": []
+      },
+      {
+        "content": "Im Rahmen der laufenden Unterrichtsarbeit können auch unangekündigte bewertete Leistungsfeststellungen erfolgen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "fenden Unterrichtsarbeit können auch unangekündigte bewertete Leistungsfeststellungen er-",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler werden in altersangemessener Weise an Entscheidungen über die Gestaltung des Unterrichts und die Formen der Leistungserbringung beteiligt.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Schülerinnen und Schüler werden in altersangemessener Weise an der Entscheidung über ",
+        "residual_flags": []
+      },
+      {
+        "content": "Berücksichtigt werden insbesondere Beiträge zum Unterrichtsgespräch, schriftliche Schulaufgaben sowie die mündliche, schriftliche und praktische Bearbeitung von Aufgaben mitsamt Auswertung.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Beiträge zum Unterrichtsgespräch \n• \nBearbeitung schriftlicher Schulaufgaben \n• \nmündliche, schriftliche und praktische Bearbeitung von Aufgaben mitsamt Auswertung \nder Ergebnisse ",
+        "residual_flags": []
+      },
+      {
+        "content": "Weiter zählen dazu Kurzvorträge und Präsentationen, praktische Arbeiten nach Art des Faches sowie die Moderation von Gesprächen, auch im digitalen Raum.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Kurzvorträge und Präsentationen, auch unter Nutzung digitaler Medien (z. B. Referate, \nPräsentationen von Arbeitsergebnissen) \n• \npraktische Arbeiten nach Art des Faches (z. B. Anfertigung von analogen oder digitalen \nModellen) \n• \nModeration von Gesprächen, auch im digitalen Raum (z. B. in Videokonferenzen oder \nPodcasts) ",
+        "residual_flags": []
+      },
+      {
+        "content": "Berücksichtigt werden auch Dokumentation von Lern- und Arbeitsprozessen sowie die Sammlung, Auswertung und Aufbereitung von Informationen, auch unter Nutzung digitaler Tools.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Dokumentation von Lern- und Arbeitsprozessen, auch unter Nutzung digitaler Medien \n(z. B. Protokolle, Portfolios, Dossiers, Lern-, Lese- oder Werktagebücher) \n• \nSammlung, Auswertung und Aufbereitung von Informationen, auch unter Nutzung di-\ngitaler Tools (z. B. Nutzung von Tabellenkalkulation, Erstellung von Diagrammen, in-\nteraktiven Infografiken oder Karten) ",
+        "residual_flags": []
+      },
+      {
+        "content": "Weitere Formen sind die Erstellung analoger oder digitaler medialer Produkte, Informationsbeschaffung und Recherche sowie szenische Darstellungen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Erstellung von analogen oder digitalen medialen Produkten (z. B. lineare wie nicht li-\nneare Texte, Plakate, Reader, Materialdossiers, Drehbücher, Audio- oder Videoclips, \nkünstlerische Produkte) \n• \nInformationsbeschaffung und Recherche (Bibliotheken, digitale Datenbanken, Internet) \n• \nszenische Darstellungen (z. B. Rollenspiele, Standbilder) ",
+        "residual_flags": []
+      },
+      {
+        "content": "Ferner zählen künstlerische Darbietungen, der Umgang mit Hilfsmitteln und Geräten, die Mitarbeit an Projekten sowie Ausstellungs- oder Wettbewerbsbeiträge dazu; zeitgemäße digitale Formate sind angemessen zu berücksichtigen.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "künstlerische Darbietungen \n• \nUmgang mit analogen und digitalen Hilfsmitteln sowie Instrumenten, Sportgeräten, \nWerkzeugen usw. \n• \nMitarbeit an fachspezifischen oder fachübergreifenden Projekten \n• \nAusstellungs- oder Wettbewerbsbeiträge. \nBei der Erbringung mündlicher, schriftlicher und praktischer Leistungen sind zeitgemäße digi-\ntale Formate angemessen zu berücksichtigen. ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "4 Formen der Leistungserbringung in der laufenden Unterrichtsarbeit",
+        "printed_page_range": "11–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

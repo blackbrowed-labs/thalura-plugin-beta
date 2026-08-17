@@ -1,0 +1,280 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:2d27c60888d88ffd0902e88b080382d4df6101977ef48223bd14bf70183d12d3"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The number of assessments follows the requirements for the subject German.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Die Anzahl der Klassenarbeiten orientiert sich an den Vorgaben für das Fach Deutsch.",
+        "residual_flags": []
+      },
+      {
+        "content": "Because students are admitted to preparatory classes continually, learning and achievement levels differ so much that identical task settings for all students of a learning group are as a rule not possible.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Infolge \nder fortlaufenden Aufnahme von Schülerinnen und Schülern in Vorbereitungsklassen unter-\nscheiden sich die zu erwartenden Lern- und Leistungsstände in der Regel so, dass identische \nAufgabenstellungen für alle Schülerinnen und Schüler einer Lerngruppe nicht möglich sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Beyond posing different task settings, students may also be granted different support aids such as word scaffolds, picture dictionaries, word clusters, vocabulary books or learning posters.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Über die Stellung unterschiedlicher Aufgabenstellungen hinaus können den Schülerinnen und \nSchülern auch unterschiedliche, am jeweils zu erwartenden Lern- und Leistungsstand ausge-\nrichtete Hilfsmittel bzw. Unterstützungsmaßnahmen gewährt werden. Hierzu zählen z. B. \nWortgeländer, Bildwörterbücher, Wort-Cluster, Vokabelhefte oder Lernplakate.",
+        "residual_flags": []
+      },
+      {
+        "content": "A modification of fundamentally identical task settings may occur, e.g., by adding illustrations, image sequences, legends, sample solutions, word lists, cloze texts, text puzzles, visual support, reading aloud, or additional wording in the language of origin.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Eine Modifika-\ntion grundsätzlich gleicher Aufgabenstellungen kann z. B. durch die Aufnahme zusätzlicher \nAbbildungen, Bildsequenzen, (Bild-)Legenden, Beispiellösungen, Wortlisten oder Erläuterun-\ngen, durch die Verwendung von Lückentexten oder Textpuzzles, durch eine visuelle Unterstüt-\nzung (z. B. die Vergrößerung der Schrift oder andere Schriftanpassung), durch das Vorlesen \nvon schriftlichen Aufgabenstellungen oder durch die zusätzliche Formulierung von Aufgaben-\nstellungen in der Herkunftssprache erfolgen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the area of intercultural competence, besides reflection and action competence, students' orientation knowledge is also assessed.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Bereich der interkulturellen Kompetenz wird neben der Reflexions- und Handlungskompe-\ntenz auch das Orientierungswissen der Schülerinnen und Schüler überprüft.",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural criteria include accuracy and scope of sociocultural orientation knowledge.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Genauigkeit und Umfang des soziokulturellen Orientierungswissens",
+        "residual_flags": []
+      },
+      {
+        "content": "Intercultural criteria include differentiation in presenting cultural phenomena and own viewpoints, and use of suitable strategies in communication situations marked by linguistic and cultural diversity.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Differenziertheit bei der Darstellung kultureller Phänomene und eigener Standpunkte \n• \nEinsatz geeigneter Strategien in Kommunikationssituationen, die von sprachlicher und \nkultureller Diversität geprägt sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "In functional communicative competence, communicative success and successful linguistic expression are weighted more highly than linguistic correctness.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Im Bereich der funktionalen kommunikativen Kompetenz werden kommunikativer Erfolg und \ngelungener sprachlicher Ausdruck höher gewichtet als sprachliche Korrektheit.",
+        "residual_flags": []
+      },
+      {
+        "content": "In language reception, completeness and accuracy of extracting information from a spoken contribution or text (including auditory or audiovisual) is a criterion.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Vollständigkeit und Genauigkeit der Informationsentnahme aus einem Redebeitrag  \noder Text (auch auditiv oder audiovisuell)",
+        "residual_flags": []
+      },
+      {
+        "content": "Language-production criteria include task and subject relevance, independence and originality, linguistic clarity and coherence of thought.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Aufgaben- und Sachbezogenheit \n• \nSelbstständigkeit und Originalität \n• \nsprachliche Klarheit und gedankliche Stringenz",
+        "residual_flags": []
+      },
+      {
+        "content": "Further language-production criteria include comprehensibility, length and complexity, appropriate differentiation of vocabulary and structures, linguistic correctness, and text-type-specific or situation-appropriate design.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Verständlichkeit der Aussage \n• \nLänge und Komplexität der Äußerung \n• \nangemessene Differenziertheit von Wortschatz und Strukturen \n• \nsprachliche Richtigkeit \n• \ntextsortenspezifische Gestaltung des Textes bzw. situationsangemessene Gestaltung \ndes Redebeitrags",
+        "residual_flags": []
+      },
+      {
+        "content": "Interaction criteria include successful participation in conversations, discussions and debates, use of appropriate means of expression, and spontaneity and originality of linguistic action and reaction.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "erfolgreiche Beteiligung an Gesprächen, Diskussionen und Debatten \n• \nVerwendung von themenspezifischen, situationsangemessenen und adressatenge-\nrechten Redemitteln \n• \nSpontaneität und Originalität des sprachlichen Agierens und Reagierens.",
+        "residual_flags": []
+      },
+      {
+        "content": "Language-learning competence criteria include targeted use of analogue and digital media and tools for language learning, and targeted reflection and use of techniques, strategies and prior language-learning experience.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "zielgerichtete Nutzung analoger sowie digitaler Medien und Werkzeuge für das Spra-\nchenlernen \n• \nzielgerichtete Reflexion und Nutzung von Techniken und Strategien sowie aller bishe-\nrigen Erfahrungen mit dem Lernen von Sprachen für den individuellen Sprachlernpro",
+        "residual_flags": []
+      },
+      {
+        "content": "Language-awareness criterion is the conscious and intentional adaptation of language use to the communicative situation, i.e. weighing formulations, self- and peer-correction and revising texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "bewusste und intentionale Anpassung des Sprachgebrauchs an die kommunikative Si-\ntuation, d. h. Abwägen von Formulierungen, Selbst- und Fremdkorrektur sowie Über-\narbeitung von Texten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Subject-related digital competence criteria include appropriate use of subject-specific digital aids for communication in the target language, and appropriate reflection on their potential and limits.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "adressaten-, situations- und zweckangemessene Nutzung fachspezifischer digitaler \nHilfsmittel (z. B. Wörterbücher, Übersetzungsprogramme oder andere Tools) zur Kom-\nmunikation und Interaktion in der Zielsprache \n• \nangemessene Reflexion der Potenziale und Grenzen digitaler Hilfsmittel.",
+        "residual_flags": []
+      },
+      {
+        "content": "Text and media competence criterion for text analysis/interpretation is choosing appropriate tools, techniques and strategies for accessing texts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Wahl angemessener Werkzeuge, Techniken und Strategien zur Erschließung von Tex",
+        "residual_flags": []
+      },
+      {
+        "content": "Text-production criteria include selection and reorganisation of individual information, choice of appropriate text types, clear structured vivid presentation, and appropriate use of digital and analogue media.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Selektion und Reorganisation von Einzelinformationen gemäß der Aufgabenstellung \n• \nWahl angemessener Textsorten gemäß der Aufgabenstellung \n• \nverständliches, strukturiertes und anschauliches Präsentieren von Inhalten \n• \nGründlichkeit, Genauigkeit und Selbstständigkeit bei der Darstellung von Inhalten \n• \nangemessener Einsatz von digitalen und analogen Medien und Werkzeugen zur Prä-\nsentation von Texten.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7f) Deutsch als Zweitsprache in Vorbereitungsklassen",
+        "printed_page_range": "20–22"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

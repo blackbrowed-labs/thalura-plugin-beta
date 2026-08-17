@@ -1,0 +1,628 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:ea6b4a86369710164e717ccef7e9679732b72dc419375009df01f28ddaf82198"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-religion",
+      "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Religious education opens up religion in three competence areas which are closely interlinked and mutually conditioning, so that they claim no absolute separation.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Der Religionsunterricht erschließt Religion in drei Kompetenzbereichen. Diese Kompetenzbe-\nreiche sind eng miteinander verschränkt, da sie sich wechselseitig bedingen. Deshalb bean-\nspruchen sie keine absolute Trennschärfe.",
+        "residual_flags": []
+      },
+      {
+        "content": "Dialogue competence (D) is the ability to communicate respectfully and with changing perspectives about religious and worldview questions, experiences, convictions and ways of life against the background of religious traditions, and to perceive and appreciate religious diversity.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Dialogkompetenz (D) \nFähigkeit zu einer respektvollen, die Perspektiven wechselnden Kommunikation über religiöse \nund weltanschauliche Fragen, Erfahrungen, Überzeugungen und Lebensweisen der Schüle-\nrinnen und Schüler vor dem Hintergrund religiöser Überlieferungen sowie zur Wahrnehmung \nund Wertschätzung religiöser Vielfalt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Judgement competence (U) is the ability to reflect on questions against the background of religious traditions and convictions and to arrive at a justified judgement relevant to one's own self-understanding and action; the source prints the ungrammatical \"relevantem Urteil\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Urteilskompetenz (U) \nFähigkeit, Fragen vor dem Hintergrund religiöser Überlieferungen und Überzeugungen zu re-\nflektieren und zu einem begründeten, für das eigene Selbstverständnis und Handeln relevan-\ntem Urteil zu kommen.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "Orientation competence is the ability to perceive the questions relevant in one's own life and to orient oneself in and through religion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Orientierungskompetenz \nFähigkeit, die im eigenen Leben relevanten Fragen wahrzunehmen und sich in und durch Re-\nligion zu orientieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Orientation competence subdivides into four partial competences corresponding to the four topic areas of the core curriculum; the source reads \"den vier Themenbereiche\" rather than \"Themenbereichen\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Die Orientierungskompetenz untergliedert sich in vier Teilkompetenzen, die mit den vier The-\nmenbereiche des Kerncurriculums (s. u.) korrespondieren:",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "Asking about religions (R) is the ability to understand ways of life and belief, history, sources and teachings of religions and cultures, to open them up expertly from their respective inside view, to relate them to one another and to reflect on their relevance for one's own life and for society.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach Religionen fragen (R) \nFähigkeit, Lebens- und Glaubensformen, Geschichte, Quellen und Lehren von Religionen \nund Kulturen zu verstehen, sie sachkundig aus der jeweiligen Innensicht zu erschließen, \nsie miteinander in Beziehung zu setzen, sich zu einzelnen Religionen, ihren individuellen \nAusprägungen und anderen Lebensauffassungen ins Verhältnis zu setzen und die Rele-\nvanz für das eigene Leben und die Gesellschaft zu reflektieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Asking about God, the divine and transcendence (G) is the ability to link questions of the ground, meaning and responsibility of life with that question and with the understandings of it in religious traditions, and thereby to develop one's own conceptions and their relevance for life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach Gott/Göttlichem/Transzendenz fragen (G) \nFähigkeit, Fragen nach Grund, Sinn und Verantwortung des Lebens mit der Frage nach \nGott/Göttlichem/Transzendenz und den Verständnissen von Gott/Göttlichem/Transzen-\ndenz in religiösen Überlieferungen zu verknüpfen und dadurch die eigenen Vorstellungen \nvon Gott/Göttlichem/Transzendenz und ihre Lebensrelevanz zu entwickeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "Asking about the human being (M) is the ability to develop and reflect on one's own identity and understanding of others within the horizon of religious messages and worldview perspectives; the source has the ungrammatical \"der Menschen als Teil der Schoepfung\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach dem Menschen fragen (M) \nFähigkeit, die eigene Identität und das Verständnis von anderen im Horizont religiöser \nBotschaften und weltanschaulicher Perspektiven zu entwickeln und zu reflektieren, indem \nexistenzielle Erfahrungen erschlossen, eigene Begabungen entdeckt, Ambivalenzen \nmenschlicher Existenz thematisiert, Beziehungen zu anderen Menschen und zu Gott/Gött-\nlichem/Transzendenz in den Blick genommen und der Menschen als Teil der Schöpfung \nverstanden wird.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "Asking about human responsibility in the world (V) is the ability to relate one's own conceptions of responsible action to conceptions from religions and relevant contexts, to reflect on them and, building on that, to act responsibly.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "nach der Verantwortung des Menschen in der Welt fragen (V) \nFähigkeit, eigene Vorstellungen von verantwortlichem Handeln und Vorstellungen aus Re-\nligionen und relevanten Kontexten aufeinander zu beziehen, zu reflektieren und, darauf \naufbauend, verantwortungsbewusst zu handeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "The individual competences can be acquired, deepened and practised in all topic and question areas; the source prints \"an allen Themenbereichen und Fragenbereiche\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Die einzelnen Kompetenzen können an allen Themenbereichen und Fragenbereiche erwor-\nben, vertieft und geübt werden.",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "While dialogue and judgement competence are fostered equally across all topics, the partial competences of orientation competence are the focus of individual topic and question areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Während die Dialog- und Urteilskompetenz an allen Themen \ngleichermaßen gefördert wird, stehen die Teilkompetenzen der Orientierungskompetenz im \nFokus jeweils einzelner Themenbereiche und Fragenbereiche.",
+        "residual_flags": []
+      },
+      {
+        "content": "The competence formulations contain bracketed expressions to be read as alternatives, so that \"(religious) convictions\" covers both non-religious and religious convictions.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "beinhalten die nachfolgenden Kompetenzformulie-\nrungen alternativ zu verstehende Klammerausdrücke: Wenn dort z. B. von „…in (religiösen) \nÜberzeugungen…“ (s. u. unter U1) die Rede ist, dann sind damit sowohl Überzeugungen ge-\nmeint, die nicht religiös sind, als auch solche, die religiös sind.",
+        "residual_flags": []
+      },
+      {
+        "content": "Minimum requirements apply to pupils in the individual competence areas of religious education at the Gymnasium.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Im Religionsunterricht des Gymnasiums gelten für die Schülerinnen und Schüler in den ein-\nzelnen Kompetenzbereichen nachfolgende Mindestanforderungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The minimum requirements relate to all modules set out in the core curricula; where modules can be chosen, the requirements pertaining to the chosen modules apply.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Sie beziehen sich auf alle Module, die in den Kerncurricula ausgewiesen sind. Bei Wahlmög-\nlichkeiten sind die Anforderungen zu berücksichtigen, die sich auf die gewählten Module be-\nziehen und dort aufgeführt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The assignment of the requirements to year levels assumes two weekly lessons in years 7/8 with core-curriculum modules 3.1-3.4 and four weekly lessons in years 9/10 with modules 4.1-4.3 and 5.1-5.3.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Die Zuordnung zu einzelnen Jahrgangsstufen orientiert sich an einer Stundenverteilung von \nzwei Unterrichtsstunden in den Jahrgangsstufen 7/8 (mit den Kerncurricula-Modulen 3.1 – 3.4) \nund vier Unterrichtsstunden in den Jahrgangsstufen 9/10 (mit den Kerncurricula-Modulen 4.1 \n– 4.3 und 5.1 – 5.3).",
+        "residual_flags": []
+      },
+      {
+        "content": "If the hourly allocation table is implemented differently, the requirements are to be achieved in accordance with the religious education actually taught.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Bei einer anderen Umsetzung der Kontingentstundentafel sind die Anfor-\nderungen nach dem jeweils erteilten Religionsunterricht zu erreichen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirements are set out at three checkpoints: minimum requirements at the end of year 6, at the end of year 8, and for the transition into the Studienstufe.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "Mindestanforderungen am \nEnde der Jahrgangsstufe 6 \nMindestanforderungen am \nEnde der Jahrgangsstufe 8 \nMindestanforderungen für \nden Übergang in die \nStudienstufe",
+        "residual_flags": [
+          "page-multi-match:physical-13-earliest-of-6-candidate-pages"
+        ]
+      },
+      {
+        "content": "In the dialogue-competence table the three columns are tied to core-curriculum modules 1.1-2.4, 3.1-3.4 and 4.1-5.3 respectively.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "zu KC-Modulen 1.1 – 2.4  \nzu KC-Modulen 3.1 – 3.4 \nzu KC-Modulen 4.1 – 5.3",
+        "residual_flags": [
+          "page-multi-match:physical-13-earliest-of-2-candidate-pages"
+        ]
+      },
+      {
+        "content": "For dialogue competence D1 at the end of year 6, pupils exchange views openly about their own questions and the diverse elements of religions, cultures and ways of life, discover commonalities and accept differences.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "tauschen sich offen über ei-\ngene Fragen, über die vielfälti-\ngen Elemente von Religionen, \nKulturen und Lebensweisen \naus, entdecken Gemeinsam-\nkeiten und akzeptieren Unter-\nschiede,",
+        "residual_flags": []
+      },
+      {
+        "content": "For D2 at the transition into the Studienstufe, pupils compare different perspectives on the same states of affairs and ways of thinking or living.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "vergleichen verschiedene Per-\nspektiven auf dieselben Sach-\nverhalte, Denk- oder Lebens-\nweisen,",
+        "residual_flags": []
+      },
+      {
+        "content": "For D4 at the end of year 8, pupils justify why elements of their religion, religiosity or other life view matter to them and what interests or irritates them in elements of other conceptions and ways of life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 13,
+          "physical_page": 13
+        },
+        "cited_text": "begründen, warum ihnen Ele-\nmente an ihrer Religion, an ih-\nrer Religiosität und/oder ihrer \nsonstigen Lebensauffassung \nwichtig sind und was sie an \nElementen anderer Vorstellun-\ngen und Lebensweisen inte-\nressiert oder irritiert.",
+        "residual_flags": []
+      },
+      {
+        "content": "For judgement competence U1 at the end of year 6, pupils present religious basic attitudes independently and interpret their effects on the conduct of life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "stellen religiöse Grundhaltun-\ngen eigenständig dar und deu-\nten deren Auswirkungen auf \ndie Lebensführung,",
+        "residual_flags": []
+      },
+      {
+        "content": "For U2 at the end of year 8, pupils take a justified standpoint on religious and worldview questions against the background of a religion or life view and explain the criteria with which they justify their view.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "nehmen einen begründeten \nStandpunkt zu religiösen und \nweltanschaulichen Fragen vor \ndem Hintergrund einer/ihrer \nReligion bzw. Lebensauffas-\nsung ein und erläutern die Kri-\nterien, mit denen sie ihre \nSichtweise begründen,",
+        "residual_flags": []
+      },
+      {
+        "content": "For U3 at the end of year 6, pupils weigh different options of thought and action against each other in decision questions and situations and engage with religious standards and further criteria.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "wägen bei Entscheidungsfra-\ngen und -situationen verschie-\ndene Denk- und Handlungsop-\ntionen gegeneinander ab und \nsetzen sich hierbei mit religiö-\nsen Maßstäben und ggf. wei-\nteren Kriterien auseinander,",
+        "residual_flags": []
+      },
+      {
+        "content": "For U4 at the transition into the Studienstufe, pupils examine their own behaviour against the background of a religion or life view with the help of religious and worldview criteria and develop options for action for themselves.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "untersuchen ihr eigenes Ver-\nhalten vor dem Hintergrund ei-\nner/ihrer Religion bzw. Le-\nbensauffassung mit Hilfe religi-\nöser und weltanschaulicher \nKriterien und entwickeln für \nsich Handlungsoptionen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirements for asking about religions (R) are tied to core-curriculum modules 1.1 and 2.1, 3.1, and 4.1 and 5.1 respectively.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "zu KC-Modulen 1.1 und 2.1 \nzu KC-Modulen 3.1 \nzu KC-Modulen 4.1 und 5.1",
+        "residual_flags": []
+      },
+      {
+        "content": "For R1 at the end of year 8, pupils know what the legally guaranteed freedom from and to religion means and know the rights arising from their religious majority.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "wissen, was die gesetzlich ga-\nrantierte Freiheit vor und zur \nReligion bedeutet, und kennen \ndie Rechte, die sich aus ihrer \nReligionsmündigkeit ergeben,",
+        "residual_flags": []
+      },
+      {
+        "content": "For R3 at the end of year 6, pupils know central elements and concerns of a religion of theirs and relate them to other religions; the source prints \"kennen zentralen Elemente\".",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "kennen zentralen Elemente \nund Anliegen einer/ihrer Reli-\ngion und setzen sie in Bezie-\nhung zu anderen Religionen,",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "For R6 at the transition into the Studienstufe, pupils outline basic theological methods of interpreting the holy scripture of a religion, interpret individual passages with them and develop perspectives for a present-day personal meaning.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "skizzieren grundlegende theo-\nlogische Auslegungsmethoden \nfür die Heilige Schrift einer/ih-\nrer Religion, interpretieren mit \nihnen einzelne Stellen und \nentwickeln dabei Perspektiven \nfür eine gegenwärtige persön-\nliche Bedeutung.",
+        "residual_flags": []
+      },
+      {
+        "content": "The heading of the G table reads \"nach Gott/Goettliches/Transzendenz fragen\", diverging from the \"Goettlichem\" form used elsewhere in the plan.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "Im Bereich der Orientierungskompetenz – nach Gott/Göttliches/Transzendenz fragen (G):",
+        "residual_flags": [
+          "source-typo-verbatim"
+        ]
+      },
+      {
+        "content": "For G1 at the transition into the Studienstufe, pupils present central lines of argument of atheistic criticism of religion.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "stellen zentrale Argumentatio-\nnen atheistischer Religionskri-\ntik dar,",
+        "residual_flags": []
+      },
+      {
+        "content": "For G4 at the end of year 6, pupils describe various forms of prayer and contemplation as religious forms of expression, together with the prayer practice and prayer sites of several religions, and explain a central prayer of a religion of theirs.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 16,
+          "physical_page": 16
+        },
+        "cited_text": "beschreiben verschiedene Ge-\nbets- und Besinnungsformen \nals religiöse Ausdrucksformen \nsowie die Gebetspraxis und \nGebetsorte mehrerer Religio-\nnen und erläutern ein zentra-\nles Gebet einer/ihrer Religion.",
+        "residual_flags": []
+      },
+      {
+        "content": "For M1 at the transition into the Studienstufe, pupils analyse their own life dreams and plans, in particular their conceptions of love and partnership, for the underlying motives, goals and values.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "analysieren die eigenen Le-\nbensträume und -pläne, insbe-\nsondere auch ihre Vorstellun-\ngen von Liebe und Partner-\nschaft auf die zugrunde liegen-\nden Motive, Ziele und Wertvor-\nstellungen,",
+        "residual_flags": []
+      },
+      {
+        "content": "For M4 at the end of year 6, pupils present scientific theories and religious creation narratives.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "stellen naturwissenschaftliche \nTheorien und religiöse Schöp-\nfungserzählungen dar,",
+        "residual_flags": []
+      },
+      {
+        "content": "For M4 at the end of year 8, pupils use worked-out religious criteria to develop their own conceptions of a self-determined use of digital media and digital communication that is responsible towards others.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "entwickeln mithilfe erarbeiteter \n(religiöser) Kriterien eigene \nVorstellungen von einem \nselbstbestimmten und anderen \ngegenüber verantwortlichen \nUmgang mit digitalen Medien \nund digitaler Kommunikation.",
+        "residual_flags": []
+      },
+      {
+        "content": "For M7 at the transition into the Studienstufe, pupils discuss a current case example of dealing with dying and death against the background of ethical principles from a religion and from the respective social debate.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "erörtern vor dem Hintergrund \nethischer Prinzipien aus einer/ \nihrer Religion und aus der je-\nweiligen gesellschaftlichen \nDiskussion ein aktuelles Fall-\nbeispiel im Umgang mit Ster-\nben und Tod.",
+        "residual_flags": []
+      },
+      {
+        "content": "The requirements for asking about human responsibility in the world (V) are tied to core-curriculum modules 2.4, 3.4 and 5.3 respectively.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "zu KC-Modulen 2.4 \nzu KC-Modulen 3.4 \nzu KC-Modulen 5.3",
+        "residual_flags": []
+      },
+      {
+        "content": "For V1 at the end of year 8, pupils describe the global challenges posed by climate change and explain the principle of sustainability.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "beschreiben die (globalen) \nHerausforderungen durch den \nKlimawandel und erläutern \ndas Prinzip der Nachhaltigkeit,",
+        "residual_flags": []
+      },
+      {
+        "content": "For V2 at the transition into the Studienstufe, pupils know utopias and dystopias from religions, worldviews and culture and compare them with social reality.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "kennen Utopien und Dystopien \naus Religionen, Weltanschau-\nungen und Kultur und verglei-\nchen sie mit der gesellschaftli-\nchen Wirklichkeit,",
+        "residual_flags": []
+      },
+      {
+        "content": "For V3 at the transition into the Studienstufe, pupils present religious criteria of assessment and action from several religions and other life views, engage with them and take a position on a concrete social problem from the perspective of a religion of theirs.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "stellen (religiöse) Beurtei-\nlungs- und Handlungskriterien \nmehrerer Religionen und an-\nderer Lebensauffassungen \ndar, setzen sich damit selbst \nauseinander und nehmen aus \nder Perspektive einer/ihrer Re-\nligion zu einer konkreten ge-\nsellschaftlichen Problemlage \nStellung.",
+        "residual_flags": []
+      },
+      {
+        "content": "For V4 at the end of year 8, pupils present ecological movements inside and outside religions and show the religious motivation and justification using an example from a religion of theirs.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-religion",
+          "document_title": "Bildungsplan Gymnasium Sek I Religion",
+          "source_pdf_sha256": "90588528fed678511fb1119f19b46361820f5c0bdf9e9f764b32b2238c7d5943",
+          "section_anchor": "2.2 Fachliche Kompetenzen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "stellen ökologische Bewegun-\ngen in und außerhalb von Reli-\ngionen dar und zeigen an ei-\nnem Beispiel aus einer/ihrer \nReligion die religiöse Motiva-\ntion und Begründung auf.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.2 Fachliche Kompetenzen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-religion",
+        "section_anchor": "2.2 Fachliche Kompetenzen",
+        "printed_page_range": "11–18"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:fd916236f59fe12945e18bddb3eb56f4a473a452a2c0e5e6e334e46a1af9bde2"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Informatik — achievement assessment refers to the FIVE competency areas: analysing and understanding informatics systems; designing informatics systems; representing and interpreting; justifying and evaluating; communicating and cooperating.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Die Leistungsbewertung im Fach Informatik bezieht sich auf die fünf Kompetenzbereiche: \n• \nInformatiksysteme analysieren und verstehen \n• \nInformatiksysteme gestalten \n• \nDarstellen und Interpretieren \n• \nBegründen und Bewerten \n• \nKommunizieren und Kooperieren.",
+        "residual_flags": []
+      },
+      {
+        "content": "Tasks relating to products, projects and their documentation are particularly suited to achievement assessment in Informatics.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Aufgabenstellungen, die sich auf Produkte sowie Projekte und deren Dokumentation beziehen, \nsind zur Leistungsbewertung im Informatikunterricht besonders geeignet.",
+        "residual_flags": []
+      },
+      {
+        "content": "Areas of performance in Informatics (part 1): handling and transferring basic informatics competencies plus applying subject-specific working techniques; solving informatics problems; planning, carrying out, evaluating and documenting projects, especially in software development; project management.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Zu den Bereichen der Leistungserbringung im Fach Informatik gehören insbesondere: \n• \nUmgang mit Basiskompetenzen der Informatik und deren Transfer sowie Anwendung \nfachspezifischer Arbeitstechniken \n• \nLösung informatischer Probleme \n• \nPlanung, Durchführung, Evaluation und Dokumentation von Projekten, insbesondere \nim Zusammenhang mit der Entwicklung von Software \n• \nProjektmanagement",
+        "residual_flags": []
+      },
+      {
+        "content": "Areas of performance (part 2): use of digital and analogue tools for communication, documentation, planning, development and evaluation.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "• \nEinsatz von digitalen und analogen Werkzeugen zur Kommunikation, Dokumentation \nPlanung, Entwicklung und Evaluation",
+        "residual_flags": [
+          "source-typo-verbatim: original reads 'Kommunikation, Dokumentation Planung' — comma after 'Dokumentation' missing; kept as printed"
+        ]
+      },
+      {
+        "content": "Areas of performance (part 3): preparing and presenting data plus evaluating and interpreting it; using and commanding theoretical and applied mathematics to investigate informatics questions and solve informatics problems; transfer between theoretical and applied informatics; cross-subject exploring, communicating and problem solving.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "7h) Informatik",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "• \nAufbereitung und Darstellung von Daten sowie deren Auswertung und Interpretation \n• \nNutzung und Beherrschung von theoretischer und angewandter Mathematik zur Unter-\nsuchung informatischer Fragestellungen und zum Lösen informatischer Probleme \n• \nTransfer von theoretischer zu angewandter Informatik und umgekehrt \n• \nfachübergreifendes Erkunden, Kommunizieren und Problemlösen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7h) Informatik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7h) Informatik",
+        "printed_page_range": "25"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

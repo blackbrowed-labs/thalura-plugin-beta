@@ -1,0 +1,94 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:a77580f82e39b209d557f21b56d18f33f45849f25fb8cc2ed1afe970123aa148"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-ah",
+      "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students whose demonstration of achievement is substantially impeded by a disability or a severe reading/writing impairment are granted appropriate accommodations.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 13 Nachteilsausgleich",
+          "printed_page": 14,
+          "physical_page": 14
+        },
+        "cited_text": "Schülerinnen und Schülern, denen infolge einer Behinderung oder einer besonders \nschweren Beeinträchtigung des Lesens und Schreibens der Nachweis ihres Leistungs-\nstands wesentlich erschwert ist, werden angemessene Erleichterungen gewährt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Accommodations for a severe reading/writing impairment normally presuppose several years of prior school-based support.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 13 Nachteilsausgleich",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Gewährung von Erleichterungen wegen einer besonders schwe-\nren Beeinträchtigung des Lesens und Schreibens setzt in der Regel eine \nvorausgegangene mehrjährige schulische Förderung voraus.",
+        "residual_flags": []
+      },
+      {
+        "content": "Granting compensation for disadvantage (Nachteilsausgleich) leaves the subject-matter requirements untouched.",
+        "citation": {
+          "document_id": "apo-ah",
+          "document_title": "APO-AH",
+          "source_pdf_sha256": "64e10015d04aed40b7fded7bfef9d77146cd0065f63f6bacd5e49319f5207cf8",
+          "section_anchor": "§ 13 Nachteilsausgleich",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Gewährung von Nachteilsausgleich lässt die fachlichen Anforderungen unberührt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "§ 13 Nachteilsausgleich"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-ah",
+        "section_anchor": "§ 13 Nachteilsausgleich",
+        "printed_page_range": "14–15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

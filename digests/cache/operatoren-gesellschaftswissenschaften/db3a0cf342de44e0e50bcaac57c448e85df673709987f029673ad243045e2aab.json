@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:db3a0cf342de44e0e50bcaac57c448e85df673709987f029673ad243045e2aab"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-gesellschaftswissenschaften",
+      "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Operators (Operatoren) are described as the key to successfully handling task prompts in the Abitur and in semester exams (Klausuren).",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Vorwort",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Operatoren sind der Schlüssel, um Aufgabenstellungen im Abitur",
+        "residual_flags": []
+      },
+      {
+        "content": "Understanding of operators is to be initiated in lower secondary (Sekundarstufe I) and intensively practised in upper secondary (Sekundarstufe II).",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Vorwort",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Das Verständnis der Operatoren und die Arbeit mit ihnen gilt es in der",
+        "residual_flags": []
+      },
+      {
+        "content": "The Abitur guideline (Abiturrichtlinie) contains the binding operator definitions for examination subjects; this brochure only elaborates and concretizes them.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Vorwort",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Die nachfolgenden Erläuterungen heben die Definitionen gemäß der wei-",
+        "residual_flags": []
+      },
+      {
+        "content": "The brochure explains eight operators frequently used in the centrally examined social-science subjects.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Vorwort",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "In der Broschüre finden sich Erläuterungen zu acht Operatoren, die in den Aufgaben",
+        "residual_flags": []
+      },
+      {
+        "content": "The list is explicitly not exhaustive — other operators may still appear in Abitur examination tasks.",
+        "citation": {
+          "document_id": "operatoren-gesellschaftswissenschaften",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern",
+          "source_pdf_sha256": "618d27c3f27bda505e17f35a92fc75031910ab357b38ad1298180f46ff3655ae",
+          "section_anchor": "Vorwort",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "nicht um eine abschließende Auflistung der in den Abiturprüfungen eingesetzten",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        },
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Vorwort"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-gesellschaftswissenschaften",
+        "section_anchor": "Vorwort",
+        "printed_page_range": "4–5"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

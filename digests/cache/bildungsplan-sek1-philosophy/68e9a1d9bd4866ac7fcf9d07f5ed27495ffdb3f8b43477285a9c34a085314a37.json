@@ -1,0 +1,94 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:68e9a1d9bd4866ac7fcf9d07f5ed27495ffdb3f8b43477285a9c34a085314a37"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken PM8 (grade 10, 'Auf der Suche nach der Wahrheit'): sensory illusions are the starting point; it is discussed how far we can trust our senses and what role they play in attaining knowledge.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 8: Wahrnehmen und Erkennen",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Ausgangspunkt dieses Moduls sind Sinnestäuschungen. Es wird dis-\nkutiert, inwiefern wir unseren Sinnen vertrauen können und welche \nRolle sie für das Erlangen von Erkenntnis spielen.",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      },
+      {
+        "content": "The distinction between knowledge from sensory experience and knowledge attained through pure thought provides the basis for more differentiated inquiry.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 8: Wahrnehmen und Erkennen",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "Dabei liefert die \nUnterscheidung zwischen Erkenntnis aus sinnlicher Erfahrung und \nErkenntnis, die durch reines Denken erlangt wird",
+        "residual_flags": []
+      },
+      {
+        "content": "Contents of PM8: sense data and sensory illusion; radical doubt; experience and thought.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 8: Wahrnehmen und Erkennen",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "• Sinnesdaten und Sinnestäuschung \n• Radikaler Zweifel \n• Erfahrung und Denken",
+        "residual_flags": [
+          "source-anomaly: this module sheet contains no 'Beitrag zur Leitperspektive' paragraphs, unlike the other module sheets"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Pflichtmodul 8: Wahrnehmen und Erkennen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Pflichtmodul 8: Wahrnehmen und Erkennen",
+        "printed_page_range": "29"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

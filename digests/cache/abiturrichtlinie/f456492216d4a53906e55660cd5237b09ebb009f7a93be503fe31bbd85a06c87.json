@@ -1,0 +1,90 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:f456492216d4a53906e55660cd5237b09ebb009f7a93be503fe31bbd85a06c87"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie",
+      "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The focus topics (Schwerpunktthemen) plus the related teaching notes constitute, on the basis of the applicable framework curricula (Rahmenpläne), the instructional prerequisites for the corresponding examination tasks.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "2.1 Angaben zu den unterrichtlichen Voraussetzungen und den erwarteten Prüfungsleistungen",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Diese Schwerpunktthemen sowie die darauf bezogenen Hinweise für \nden Unterricht stellen auf der Basis der geltenden Rahmenpläne des jeweiligen Faches \ndie unterrichtlichen Voraussetzungen für die entsprechenden Prüfungsaufgaben dar.",
+        "residual_flags": []
+      },
+      {
+        "content": "The 'Regelungen' additionally state the type of tasks set, the time available to candidates (Prüflinge), and the permitted aids (Hilfsmittel).",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "2.1 Angaben zu den unterrichtlichen Voraussetzungen und den erwarteten Prüfungsleistungen",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Darüber hinaus enthalten die „Regelungen für die zentralen schriftlichen Prüfungsauf-\ngaben“ Angaben \n• \nzu der Art der Aufgaben, die gestellt werden, \n• \nzum Zeitumfang, der den Prüflingen für die Bearbeitung der Aufgabe bzw. der Auf-\ngaben zur Verfügung steht, und \n• \nzu den Hilfsmitteln, derer sich die Prüflinge bei der Bearbeitung der Aufgaben bedie-\nnen dürfen.",
+        "residual_flags": []
+      },
+      {
+        "content": "They also contain lists of operators (Operatoren) — exact definitions of the task instructions referenced to the requirement areas (Anforderungsbereiche).",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "2.1 Angaben zu den unterrichtlichen Voraussetzungen und den erwarteten Prüfungsleistungen",
+          "printed_page": 4,
+          "physical_page": 4
+        },
+        "cited_text": "Außerdem enthalten sie Listen der Operatoren, d. h. eine genaue Definition der Arbeits-\naufträge mit Bezug zu den Anforderungsbereichen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 4,
+          "printed_page": 4
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2.1 Angaben zu den unterrichtlichen Voraussetzungen und den erwarteten Prüfungsleistungen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie",
+        "section_anchor": "2.1 Angaben zu den unterrichtlichen Voraussetzungen und den erwarteten Prüfungsleistungen",
+        "printed_page_range": "4"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

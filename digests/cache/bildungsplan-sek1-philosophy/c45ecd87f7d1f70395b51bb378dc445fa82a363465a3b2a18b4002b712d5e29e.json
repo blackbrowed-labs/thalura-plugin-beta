@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c45ecd87f7d1f70395b51bb378dc445fa82a363465a3b2a18b4002b712d5e29e"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken WM3 (grade 8): students do not simply accept the world as it is but ask how smaller and larger parts of it could and should look different.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 3: Träume von einer besseren Welt",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "In diesem Modul geht es darum, die Welt, so wie sie ist, nicht einfach \nhinzunehmen. Die Schülerinnen und Schüler fragen, wie kleinere \nund größere Ausschnitte unserer Welt anders aussehen könnten und",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      },
+      {
+        "content": "Contents of WM3: utopias and ideals; sustainable development goals; children's rights and child protection.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 3: Träume von einer besseren Welt",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "• Utopien und Ideale \n• Nachhaltige Entwicklungsziele \n• Kinderrechte und Kinderschutz",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': students discuss which values underlie their conceptions of a better world and recognise the value of basic and human rights.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 3: Träume von einer besseren Welt",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Die Schülerinnen und Schüler diskutieren, welche Werte ihren Vor-\nstellungen von einer besseren Welt zugrunde liegen, und erkennen \nden Wert von Grund- und Menschenrechten",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'BNE': students examine the significance of sustainable development goals for conceptions of a better world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Wahlmodul 3: Träume von einer besseren Welt",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Die Schülerinnen und Schüler untersuchen die Bedeutung nachhal-\ntiger Entwicklungsziele für Vorstellungen von einer besseren Welt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Wahlmodul 3: Träume von einer besseren Welt"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Wahlmodul 3: Träume von einer besseren Welt",
+        "printed_page_range": "20"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

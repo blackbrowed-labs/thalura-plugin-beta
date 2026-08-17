@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:02b67829c350ee44dfc14606ce2b9dc00eb485e8392458dc661f2d9553fdc230"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie",
+      "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The correction and appraisal of the written work (Gutachten) shows what value is attributed to the solutions, findings or arguments put forward and how far the student advanced or impaired the solution through errors.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6.1 Schriftliche Prüfung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Aus der Korrektur und Beurteilung der schriftlichen Arbeit (Gutachten) geht hervor, wel-\ncher Wert den von der Schülerin bzw. dem Schüler vorgebrachten Lösungen, Untersu-\nchungsergebnissen oder Argumenten beigemessen wird und wie weit die Schülerin bzw. \nder Schüler die Lösung der gestellten Aufgaben gefördert oder durch Fehler beeinträch-\ntigt hat.",
+        "residual_flags": []
+      },
+      {
+        "content": "The summarising appraisal concludes with an assessment (Bewertung).",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6.1 Schriftliche Prüfung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die zusammenfassende Beurteilung schließt mit einer Bewertung.",
+        "residual_flags": []
+      },
+      {
+        "content": "Considerable deficiencies in linguistic correctness or external form lead to a deduction of up to two grade points of the simple weighting.",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6.1 Schriftliche Prüfung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Bei erheblichen Mängeln in der sprachlichen Richtigkeit oder der äußeren Form sind bei \nder Bewertung der schriftlichen Prüfungsleistung je nach Schwere und Häufigkeit bis zu \nzwei Notenpunkte der einfachen Wertung abzuziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "The assessment criteria for the individual subjects are found in the respective annex (Anlage).",
+        "citation": {
+          "document_id": "abiturrichtlinie",
+          "document_title": "Abiturrichtlinie",
+          "source_pdf_sha256": "2d6f025739c3722ccbe4fca98dbdfdc71fc0eab53e88c6c5605c127bb3ab57cf",
+          "section_anchor": "6.1 Schriftliche Prüfung",
+          "printed_page": 9,
+          "physical_page": 9
+        },
+        "cited_text": "Die Kriterien für die Bewertung in den einzelnen Fächern sind der jeweiligen Anlage \nzu entnehmen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6.1 Schriftliche Prüfung"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie",
+        "section_anchor": "6.1 Schriftliche Prüfung",
+        "printed_page_range": "9"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6a09af1e955f8072974d1b3afe76bf8e5b429b3427e1ab57eb5bcdb6d5d612f6"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english",
+      "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "For assessing content and language of the writing and mediation exam parts the following descriptor tables must be used bindingly, and the Gutachten refer explicitly to the formulations they contain.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Für die Bewertung von Inhalt und Sprache der Prüfungsteile Schreiben bzw. Sprachmitt-\nlung sind die folgenden Deskriptoren-Tabellen verbindlich einzusetzen. Die zu erstellen-\nden Gutachten nehmen explizit auf die darin enthaltenen Formulierungen Bezug.",
+        "residual_flags": []
+      },
+      {
+        "content": "Peculiarities of student work not captured in the tables but relevant to assessment are added freely formulated in the Gutachten.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "Für Inhalt und Sprache gilt, dass Besonderheiten von Schülerarbeiten, die nicht in den \nTabellen erfasst, aber für die Bewertung relevant sind, in den Gutachten frei formuliert \nhinzugefügt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Content descriptor table (writing task, continued foreign language), 'sehr gute Leistung': text comprehension grasps all essential aspects completely; analytical sub-tasks very competently and completely done; comment/creative part especially rich, independent and conclusive.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "sehr gute \nLeistung\nDas Textverständnis erfasst alle wesentlichen Aspekte vollständig. \nDie analytischen Teilaufgaben sind sehr sachkompetent und vollständig bearbeitet und zeigen diffe-\nrenzierte methodische Kompetenz im Umgang mit Texten.\nDer Kommentar / kreative Teil ist besonders reichhaltig, eigenständig und in besonderem Maße \nschlüssig.",
+        "residual_flags": []
+      },
+      {
+        "content": "'gute Leistung': text comprehension grasps the majority of essential aspects; analytical sub-tasks competently and almost completely done; comment/creative part grasps important aspects, is differentiated and conclusive.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "gute \nLeistung\nDas Textverständnis erfasst die Mehrzahl der wesentlichen Aspekte.\nDie analytischen Teilaufgaben sind sachkompetent und nahezu vollständig bearbeitet. Sie demonst-\nrieren weitgehend angemessene methodische Kompetenz im Umgang mit Texten.\nDer Kommentar / kreative Teil erfasst wichtige Aspekte, ist differenziert und schlüssig.",
+        "residual_flags": []
+      },
+      {
+        "content": "'befriedigende Leistung': text comprehension grasps some essential aspects; analytical sub-tasks essentially correct with some elements of methodological competence; commenting/creative passages still coherent but less developed.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "befriedigende \nLeistung\nDas Textverständnis erfasst einige der wesentlichen Aspekte.\nDie analytischen Teilaufgaben sind im Wesentlichen richtig bearbeitet, erfassen einige wichtige \nAspekte und zeigen einige Elemente methodischer Kompetenz im Umgang mit Texten.\nDie kommentierenden / kreativen Passagen sind gedanklich und in der Darstellung noch kohärent, \nallerdings weniger entwickelt und / oder es sind nicht viele wichtige Aspekte erfasst.",
+        "residual_flags": []
+      },
+      {
+        "content": "'ausreichende Leistung': text comprehension grasps few essential aspects; analytical sub-tasks only partly correct; methodological competence rudimentary; commenting/creative passages not always coherent and missing important aspects.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "ausreichende \nLeistung\nDas Textverständnis erfasst wenige wesentliche Aspekte. \nDie analytischen Teilaufgaben sind nur teilweise richtig bearbeitet. Methodische Kompetenz im \nUmgang mit Texten ist in Ansätzen erkennbar.\nDie kommentierenden / kreativen Passagen sind nicht immer kohärent, wenig entwickelt und/oder es \nfehlen wichtige Aspekte.",
+        "residual_flags": []
+      },
+      {
+        "content": "'mangelhafte Leistung': text comprehension very patchy; analytical sub-tasks not adequately done with serious content and methodological defects; few relevant aspects in the commenting/creative passages and important connections not recognised.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "mangelhafte \nLeistung\nDas Textverständnis ist sehr lückenhaft.\nDie analytischen Teilaufgaben sind nicht angemessen bearbeitet, gravierende inhaltliche und me-\nthodische Mängel im Umgang mit Texten liegen vor. \nIn den kommentierenden / kreativen Passagen werden wenige relevante Aspekte dargeboten und \nwichtige Zusammenhänge nicht erkannt.",
+        "residual_flags": []
+      },
+      {
+        "content": "'ungenügende Leistung': text comprehension grasps no essential aspect; analytical tasks not done or factually wrong; commenting passages meagre, incoherent and/or showing further fundamental defects.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 17,
+          "physical_page": 17
+        },
+        "cited_text": "ungenügende \nLeistung\nDas Textverständnis erfasst keinen wesentlichen Aspekt.\nDie analytischen Aufgaben sind nicht oder inhaltlich falsch bearbeitet. Die kommentierenden Passa-\ngen sind dürftig, unzusammenhängend und / oder weisen weitere grundlegende Mängel auf.",
+        "residual_flags": []
+      },
+      {
+        "content": "The language descriptor table for the writing task (continued foreign language) is graduated in 14, 11, 8, 5, 2 and 0 points.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Deskriptorentabelle Schreibaufgabe weitergeführte Fremdsprache – Bewertung der sprachlichen Leistung\n14 Punkte\n11 Punkte\n8 Punkte\n5 Punkte\n2 Punkte\n0 Punkte",
+        "residual_flags": []
+      },
+      {
+        "content": "Language criterion 'kommunikative Textgestaltung' covers text structure, text-type specificity, situational appropriateness and addressee reference; at 14 points the text is consistently purposeful, structured and coherent with especially convincing realisation of the required text-type features. NOTE: source contains soft-hyphenated forms such as 'Text\\u00adsortenmerkmale'.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "kommunikative Textge-\nstaltung\nTextaufbau\nTextsortenspezifik\nSituationsangemessen-\nheit und Adressatenbezug\ndurchgängig zielge-\nrichteter, strukturierter \nund kohärenter Text; \nbesonders überzeugende \nUmsetzung der geforder-\nten Textsortenmerkmale; \ndurchgängig situations-\nangemessen, gelungener \nAdressatenbezug",
+        "residual_flags": [
+          "source-artifact: soft hyphens inside 'unstrukturier\\u00adter' / 'Text\\u00adsortenmerkmale' in the 2-point cell preserved"
+        ]
+      },
+      {
+        "content": "Language criterion 'Ausdrucksvermögen, Verwendung sprachlicher Mittel' covers independence, vocabulary and syntax, from independent presentation with especially precise, differentiated and idiomatic word choice (14 points) down to no independent presentation and atypical syntax (0 points).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Ausdrucksvermögen, \nVerwendung sprachlicher \nMittel\nEigenständigkeit\nWortschatz\nSatzbau\neigenständige Darstellung; \nbesonders präzise, diffe-\nrenzierte und idiomatische \nWortwahl; durchgängig \nvariabler und funktionaler \nSatzbau, ggf. unter ange-\nmessener Verwendung \nkomplexer Strukturen\neigenständige Darstellung; \npräzise, recht diffe­ren­\nzierte und idiomatische \nWortwahl; variabler und \nfunktionaler Satzbau, ggf. \nunter überwiegend ange-\nmessener Verwendung \nkomplexer Strukturen\nteilweise eigenständige \nDarstellung; treffende, \nverständliche Wortwahl; \nteilweise variabler und \nfunktionaler Satzbau\nnoch eigenständige An-\nteile in der Darstellung; \neingeschränkte, noch \nangemessene Wortwahl; \nwenig variabler, aber der \nAufgabe noch angemes-\nsener Satzbau\nkaum eigenständige Dar-\nstellung; deutlich einge-\nschränkte Wortwahl; sehr \neinfacher, teilweise spra-\nchuntypischer Satzbau\nkeine eigenständige Dar-\nstellung; keine angemes-\nsene Wortwahl; sprachun-\ntypischer Satzbau",
+        "residual_flags": []
+      },
+      {
+        "content": "Language criterion 'sprachliche Korrektheit' covers lexis, grammar/syntax and orthography, from a high degree of correctness (14 points) to an accumulation of elementary errors where comprehensibility is no longer given (0 points).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "sprachliche Korrektheit\nLexik\nGrammatik/Syntax\nOrthographie\nhohes Maß an lexikali-\nscher, grammatischer/ \nsyntaktischer und ortho-\ngraphischer Korrektheit\nüberwiegend lexikalisch, \ngrammatisch/syntaktisch \nund orthographisch kor-\nrekt, keine Beeinträchti-\ngung der Verständlichkeit \nim Wesentlichen lexi-\nkalisch, grammatisch/ \nsyntaktisch und ortho-\ngraphisch korrekt, Ver-\nständlichkeit geringfügig \neingeschränkt\nlexikalische, grammati-\nsche/ syntaktische und \northographische Fehler, \ndie die Verständlichkeit \nstellenweise beeinträch-\ntigen\nHäufung lexikalischer, \ngrammatischer/ syntak-\ntischer und orthogra-\nphischer Fehler, die die \nVerständlichkeit stark \nbeeinträchtigen\nHäufung elementarer Feh-\nler, die Verständlichkeit ist \nnicht mehr gegeben",
+        "residual_flags": []
+      },
+      {
+        "content": "The 'Gesamteindruck / Aufgabenerfüllung' row grades the extent to which the linguistic requirements of the task are met, from consistently to not at all.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 18,
+          "physical_page": 18
+        },
+        "cited_text": "Gesamteindruck\nAufgabenerfüllung\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \ndurchgängig umgesetzt.\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \nweitgehend umgesetzt.\nDie sprachlichen Erfor-\ndernisse der Aufgabe \nwerden im Wesentlichen \numgesetzt.\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \nim Ansatz umgesetzt.\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \nkaum umgesetzt.\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \nnicht umgesetzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "A separate content descriptor table exists for the writing task in the newly taken-up foreign language, with the same grade bands from 'sehr gute Leistung' to 'ungenügende Leistung'.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Deskriptorentabelle Schreibaufgabe neu aufgenommene Fremdsprache\nInhaltliche Leistung\nsehr gute \nLeistung\nDas Textverständnis erfasst alle wesentlichen Aspekte vollständig. \nDie analytischen Teilaufgaben sind sachkompetent bearbeitet und zeigen differenzierte metho-\ndische Kompetenz im Umgang mit Texten.\nDer Kommentar / kreative Teil ist reichhaltig, eigenständig und durchgängig schlüssig.\ngute \nLeistung\nDas Textverständnis erfasst die Mehrzahl der wesentlichen Aspekte.\nDie analytischen Teilaufgaben sind sachkompetent und nahezu vollständig bearbeitet. Sie \ndemonstrieren weitgehend angemessene methodische Kompetenz im Umgang mit Texten.\nDer Kommentar / kreative Teil erfasst wichtige Aspekte, ist differenziert und schlüssig.\nbefriedigende \nLeistung\nDas Textverständnis erfasst einige der wesentlichen Aspekte.\nDie analytischen Teilaufgaben sind im Wesentlichen richtig bearbeitet, erfassen einige wichtige \nAspekte und zeigen einige Elemente methodischer Kompetenz im Umgang mit Texten.\nDie kommentierenden / kreativen Passagen sind gedanklich und in der Darstellung noch kohä-\nrent, allerdings weniger entwickelt und / oder es sind nicht viele wichtige Aspekte erfasst.\nausreichende \nLeistung\nDas Textverständnis erfasst wenige wesentliche Aspekte. \nDie analytischen Teilaufgaben sind nur teilweise richtig bearbeitet. Methodische Kompetenz im \nUmgang mit Texten ist in Ansätzen erkennbar.\nDie kommentierenden / kreativen Passagen sind nicht immer kohärent, wenig entwickelt und/\noder es fehlen wichtige Aspekte. \nmangelhafte \nLeistung\nDas Textverständnis ist sehr lückenhaft.\nDie analytischen Teilaufgaben sind nicht angemessen bearbeitet, gravierende inhaltliche und \nmethodische Mängel im Umgang mit Texten liegen vor. \nIn den kommentierenden / kreativen Passagen werden wenige relevante Aspekte dargeboten \nund wichtige Zusammenhänge nicht erkannt.\nungenügende \nLeistung\nDas Textverständnis erfasst keinen wesentlichen Aspekt.\nDie analytischen Aufgaben sind nicht oder inhaltlich falsch bearbeitet. Die kommentierenden \nPassagen sind dürftig, unzusammenhängend und/oder weisen weitere grundlegende Mängel \nauf.",
+        "residual_flags": []
+      },
+      {
+        "content": "For the newly taken-up foreign language the language descriptor table likewise runs from 14 to 0 points and is markedly less demanding on lexical, grammatical and orthographic correctness. NOTE: the source contains the run-together 'vorund' and a missing final full stop in the 0-point 'Aufgabenerfüllung' cell.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 20,
+          "physical_page": 20
+        },
+        "cited_text": "Deskriptorentabellen Schreibaufgabe neu aufgenommene Fremdsprache – Bewertung der sprachlichen Leistung\n14 Punkte\n11 Punkte\n8 Punkte\n5 Punkte\n2 Punkte\n0 Punkte\nkommunikative Textge-\nstaltung \nTextaufbau \nTextsortenspezifik \nSituationsangemessen-\nheit und Adressatenbezug\ndurchgängig zielgerich-\nteter, strukturierter und \nkohärenter Text; besonders \nüberzeugende Umsetzung \nder geforderten Textsor-\ntenmerkmale; durchgängig \nsituationsangemessen, \ngelungener Adressaten-\nbezug\nüberwiegend zielgerichte-\nter, strukturierter und kohä-\nrenter Text; überwiegend \nüberzeugende Umsetzung \nder geforderten Textsorten-\nmerkmale; überwiegend \nsituationsangemessen, \ngelungener Adressaten-\nbezug\nnoch zielgerichteter, nicht \ndurchgängig strukturier-\nter und kohärenter Text; \nteilweise gelungene Um-\nsetzung der geforderten \nTextsortenmerkmale; Situ-\nationsangemessenheit und \nAdressatenbezug teilweise \ngegeben\nansatzweise strukturierter \nund kohärenter Text; in \nAnsätzen vorhandene \nUmsetzung der geforderten \nTextsortenmerkmale; Situ-\nationsangemessenheit und \nAdressatenbezug ansatz-\nweise erkennbar\nweitgehend unstrukturier­\nter und inkohärenter Text; \nweitgehend fehlende \nText­sortenmerkmale; \nweitgehend fehlende Si-\ntuationsangemessenheit \nund weitgehend fehlender \nAdressatenbezug\nunstrukturierter, inkohären-\nter Text; keine Textsorten-\nmerkmale; keine Situati-\nonsangemessenheit, kein \nAdressatenbezug \nAusdrucksvermögen, \nVerwendung sprachlicher \nMittel \nEigenständigkeit \nWortschatz \nSatzbau\neigenständige Darstellung; \npräzise und differenzierte \nWortwahl mit idiomatischen \nAnteilen; überwiegend \nvariabler Satzbau\neigenständige Darstellung; \npräzise und recht diffe-\nrenzierte Wortwahl; unter-\nschiedliche Satzstrukturen \nwerden wiederholt benutzt\nteilweise eigenständige \nDarstellung; überwiegend \neinfache, aber doch treffsi-\nchere Wortwahl; einfacher \nund nur gelegentlich varia-\nbler Satzbau\nnoch eigenständige Anteile \nin der Darstellung; überwie-\ngend einfache Wortwahl; \neinfacher und kaum variab-\nler Satzbau\nkaum eigenständige Dar-\nstellung; eingeschränkte \nund überwiegend vage \nWortwahl; einfacher und \nimmer wieder sprachuntypi-\nscher Satzbau\nkeine eigenständige Dar-\nstellung; nicht angemes-\nsene und unzureichende \nWortwahl; durchgehend \nsprachuntypischer Satzbau\nsprachliche Korrektheit \nLexik \nGrammatik/Syntax \nOrthographie\nweitgehende lexikalische, \ngrammatische/ syntakti-\nsche und orthographische \nKorrektheit; eher selten \nvorkommende Fehler, die \nnicht schwerwiegend sind \nund das Verständnis nicht \nbeeinträchtigen\nangemessene lexikalische, \ngrammatische/ syntaktische \nund orthographische Kor-\nrektheit; wenige, nur verein-\nzelt auch schwerwiegende \nFehler, die das Verständnis \nkaum beeinträchtigen\nim Wesentlichen angemes-\nsene lexikalische, gram-\nmatische/ syntaktische und \northographische Korrekt-\nheit; gelegentliche Fehler \nbei gängigen Strukturen. \nDer Text ist im Allgemeinen \nverständlich.\nim Allgemeinen angemes-\nsene lexikalische, gram-\nmatische/ syntaktische und \northographische Korrekt-\nheit, es können aber auch \nbei gängigen Strukturen \nFehler häufiger vorkom-\nmen. Der Text ist insgesamt \nnoch verständlich.\neingeschränkte lexikali­sche, \ngrammatische/syn­taktische \nund orthographische Kennt-\nnisse, zahlreiche Fehler bei \ngrundlegenden Strukturen. \nDas Verständnis des Textes \nist eingeschränkt.\nsehr eingeschränkte lexi-\nkalische, grammatische/ \nsyntaktische und orthogra-\nphische Kenntnisse; Fehler \nkommen gehäuft in sämtli-\nchen Bereichen vorund er-\nschweren oder verhindern \ndas Verständnis. Einige \nTextteile sind vollkommen \nunverständlich.\nGesamteindruck \nAufgabenerfüllung\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \ndurchgängig umgesetzt.\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \nweitgehend umgesetzt.\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \nim Wesentlichen umge-\nsetzt.\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \nim Ansatz umgesetzt.\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \nkaum umgesetzt.\nDie sprachlichen Erforder-\nnisse der Aufgabe werden \nnicht umgesetzt",
+        "residual_flags": [
+          "source-typo: 'Fehler kommen gehäuft in sämtlichen Bereichen vorund erschweren' (run-together 'vorund') preserved verbatim",
+          "source-anomaly: final 0-point cell 'Die sprachlichen Erfordernisse der Aufgabe werden nicht umgesetzt' lacks a closing full stop"
+        ]
+      },
+      {
+        "content": "The Sprachmittlung descriptor table (continued foreign language) grades 'Inhalt und Textstruktur' and 'Sprache' in the point bands 14, 11, 8, 5, 2 and 0.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Deskriptorentabelle Sprachmittlung – weitergeführte Fremdsprache\nNotenpunkte\n14 Punkte\n11 Punkte\n8 Punkte\n5 Punkte\n2 Punkte\n0 Punkte ",
+        "residual_flags": []
+      },
+      {
+        "content": "In the mediation table, at 14 points all information essential in the sense of the task is rendered precisely and appropriately to situation and addressee, and presentation and structure are clear and logical at a high level of abstraction.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Alle im Sinne der Aufgaben-\nstellung wesentlichen Infor-\nmationen werden präzise, \nsituations- und adressaten-\ngerecht wiedergegeben.\nDie meisten im Sinne der \nAufgabenstellung wesentli-\nchen Informationen werden \npräzise, situations- und \nadressatengerecht wieder-\ngegeben.\nMehrere im Sinne der Auf-\ngabenstellung bedeutsame \nInformationen werden ange-\nmessen sowie überwiegend \nsituations- und adressaten-\ngerecht wiedergegeben.\nWenige im Sinne der Auf-\ngabenstellung wesentliche \nInformationen werden wieder-\ngegeben. Der Situations- und \nAdressatenbezug wird nur \nansatzweise beachtet.\nIm Sinne der Aufgabenstel-\nlung wesentliche Informatio-\nnen werden kaum aufgegrif-\nfen bzw. weitgehend falsch \ndargestellt. Ansatzweise wird \nder Situations- und Adressa-\ntenbezug beachtet.\nIm Sinne der Aufgaben-\nstellung wesentliche In-\nformationen werden nicht \naufgegriffen bzw. falsch \ndargestellt.\nè Diese Anforderung \ngilt nur für das \nerhöhte Niveau.\nGgf. werden relevante kul-\nturspezifische Erläuterungen \ntreffend und prägnant for-\nmuliert.\nGgf. werden relevante kul-\nturspezifische Erläuterungen \nnachvollziehbar formuliert.\nGgf. werden einige relevante \nkulturspezifische Erläute-\nrungen nachvollziehbar \nformuliert.\nGgf. werden nur wenige rele-\nvante kulturspezifische Erläu-\nterungen formuliert.\nGgf. relevante kulturspezi-\nfische Erläuterungen sind \nmissverständlich formuliert.\nGgf. relevante kulturspe-\nzifische Erläuterungen \nfehlen.\nDie Darstellung und Gliede-\nrung sind klar und logisch; \nein hohes Abstraktionsni-\nveau ist erkennbar.",
+        "residual_flags": []
+      },
+      {
+        "content": "The row on culture-specific explanations (kulturspezifische Erläuterungen) in the mediation table applies only to the raised level.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Diese Anforderung \ngilt nur für das \nerhöhte Niveau.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the mediation table's 'Sprache' rows, the target language must be used nearly correctly and aptly at 14 points, while at 0 points it is consistently seriously faulty and incomprehensible.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Die Zielsprache wird nahe-\nzu korrekt und treffsicher \nverwendet; geringfügige \nsprachliche Mängel beein-\nträchtigen die Verständlich-\nkeit jedoch nicht.\nDie Zielsprache wird weitge-\nhend korrekt und treffsicher \nverwendet; wenige Mängel \nbeeinträchtigen die Ver-\nständlichkeit jedoch nicht \nwesentlich.\nDie Zielsprache wird über-\nwiegend korrekt und treffsi-\ncher verwendet; vereinzelte \ngrobe und mehrere geringfü-\ngige Mängel beeinträchtigen \ndie Verständlichkeit an \nmehreren Stellen. Die zent-\nralen Aussagen bleiben klar \nerfassbar.\nDie Zielsprache wird in Teilen \nkorrekt verwendet; zahlreiche \nMängel beeinträchtigen die \nVerständlichkeit so, dass \neinzelne Aussagen nicht er-\nfassbar sind.\nDie Zielsprache wird nur \nin einzelnen Teilen korrekt \nverwendet und weist so \nviele Mängel auf, dass die \nVerständlichkeit des Textes \neingeschränkt ist.\nDie Zielsprache ist durch­\ngängig schwerwiegend \nfehlerhaft und unver-\nständlich.",
+        "residual_flags": []
+      },
+      {
+        "content": "Thematic and functional vocabulary is graded from idiomatic and apt use (14 points) down to hardly any use (2 points).",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Thematischer und funk-\ntionaler Wortschatz wird \nidiomatisch und treffsicher \nverwendet.\nThematischer und funktio-\nnaler Wortschatz wird ange-\nmessen verwendet.\nThematischer und funk-\ntionaler Wortschatz wird \nüberwiegend angemessen \nverwendet.\nThematischer und funktionaler \nWortschatz wird nur einge-\nschränkt verwendet.\nThematischer und funktio-\nnaler Wortschatz wird kaum \nverwendet.",
+        "residual_flags": []
+      },
+      {
+        "content": "A separate Sprachmittlung descriptor table exists for the newly taken-up foreign language, likewise covering 'Inhalt und Textstruktur' and 'Sprache' from 14 to 0 points.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Deskriptorentabelle Sprachmittlung – neu aufgenommene Fremdsprache\nNotenpunkte\n14 Punkte\n11 Punkte\n8 Punkte\n5 Punkte\n2 Punkte\n0 Punkte",
+        "residual_flags": []
+      },
+      {
+        "content": "In the newly-taken-up-language mediation table, the 0-point content cell states that essential information is not taken up or wrongly presented and situational/addressee reference is not observed. NOTE: that cell lacks a closing full stop in the source.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english",
+          "document_title": "Richtlinie für die Aufgabenstellung und Bewertung der Leistungen in der Abiturprüfung Englisch",
+          "source_pdf_sha256": "430f63c9be03b22c285ef1a27dcaed70d82ef046f1cd945f5d32488a058ec077",
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Im Sinne der Aufgabenstellung \nwesentliche Informationen \nwerden nicht aufgegriffen bzw. \nfalsch dargestellt. Der Situa-\ntions- und Adressatenbezug \nwird nicht beachtet",
+        "residual_flags": [
+          "source-anomaly: 0-point cell ends 'Der Situations- und Adressatenbezug wird nicht beachtet' without a closing full stop"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english",
+        "section_anchor": "4.4.3 Bewertung von Inhalt und Sprache mit Hilfe von Deskriptorentabellen",
+        "printed_page_range": "17–22"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

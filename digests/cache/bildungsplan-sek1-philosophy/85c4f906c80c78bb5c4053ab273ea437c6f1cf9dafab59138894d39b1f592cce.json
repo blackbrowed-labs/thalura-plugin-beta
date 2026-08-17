@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:85c4f906c80c78bb5c4053ab273ea437c6f1cf9dafab59138894d39b1f592cce"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Section 1.3 treats language education (Sprachbildung) as a cross-cutting task to be implemented within subject teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "1.3 Sprachbildung als Querschnittsaufgabe \nFür die Umsetzung der Querschnittsaufgabe Sprachbildung im Rahmen des Fachunterrichts",
+        "residual_flags": []
+      },
+      {
+        "content": "For this implementation, the principles laid down in the general part of the curriculum framework (Bildungsplan) are the relevant reference.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "sind die im allgemeinen Teil des Bildungsplans niedergelegten Grundsätze relevant.",
+        "residual_flags": []
+      },
+      {
+        "content": "The presentation and explanation of subject-related language competencies is given in the competency matrix for language education, not in this section.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die Dar-\nstellung und Erläuterung fachbezogener sprachlicher Kompetenzen erfolgt in der Kompetenz-",
+        "residual_flags": []
+      },
+      {
+        "content": "That competency matrix is the \"Kompetenzmatrix Sprachbildung\"; within the core curricula the central language competencies are assigned by cross-references to individual topic and content areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "matrix Sprachbildung. Innerhalb der Kerncurricula werden die zentralen sprachlichen Kompe-\ntenzen durch Verweise einzelnen Themen- bzw. Inhaltsbereichen zugeordnet",
+        "residual_flags": []
+      },
+      {
+        "content": "The purpose of assigning the central language competencies to topic and content areas within the core curricula is to support the planning of language-sensitive subject teaching.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Stadtteilschule Philosophie",
+          "source_pdf_sha256": "f7481c5d762a603445d5c321d6a739c48959bc60be0f695f247b5d8b9c056371",
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+          "printed_page": 7,
+          "physical_page": 7
+        },
+        "cited_text": "Innerhalb der Kerncurricula werden die zentralen sprachlichen Kompe-\ntenzen durch Verweise einzelnen Themen- bzw. Inhaltsbereichen zugeordnet, um die Planung \neines sprachsensiblen Fachunterrichts zu unterstützen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        },
+        {
+          "physical_page": 7,
+          "printed_page": 7
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "1.3 Sprachbildung als Querschnittsaufgabe",
+        "printed_page_range": "6–7"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

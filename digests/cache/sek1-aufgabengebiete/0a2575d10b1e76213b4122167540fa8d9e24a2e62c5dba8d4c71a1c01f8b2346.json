@@ -1,0 +1,416 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:0a2575d10b1e76213b4122167540fa8d9e24a2e62c5dba8d4c71a1c01f8b2346"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-aufgabengebiete",
+      "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Berufsorientierung (2.1): the aim of career orientation is to strengthen students' individual career-choice competence (Berufswahlkompetenz).",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2 Kompetenzen und Inhalte in den Aufgabengebieten",
+          "printed_page": 8,
+          "physical_page": 8
+        },
+        "cited_text": "Ziel der beruflichen Orientierung ist es, die individuelle Berufswahlkompetenz",
+        "residual_flags": []
+      },
+      {
+        "content": "Globales Lernen (2.3) is an essential part of education for sustainable development (BNE) and addresses the existential challenges that make a transformation of our whole way of living and doing business necessary.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2 Kompetenzen und Inhalte in den Aufgabengebieten",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Globales Lernen ist wesentlicher Teil einer Bildung für nachhaltige Entwicklung (BNE) und \nsetzt sich mit den existenziellen Herausforderungen auseinander, die eine Transformation un-\nserer gesamten Lebens- und Wirtschaftsweise notwendig machen",
+        "residual_flags": []
+      },
+      {
+        "content": "Medienerziehung (2.5) aims to prepare students appropriately for life in current and future society.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2 Kompetenzen und Inhalte in den Aufgabengebieten",
+          "printed_page": 39,
+          "physical_page": 39
+        },
+        "cited_text": "Medienerziehung hat zum Ziel, Schülerinnen und Schüler angemessen auf das Leben in der \nderzeitigen und künftigen Gesellschaft vorzubereiten",
+        "residual_flags": []
+      },
+      {
+        "content": "Sexualerziehung (2.6) is a task of both home and school; in secondary it builds on and complements sex education in the home and primary school.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2 Kompetenzen und Inhalte in den Aufgabengebieten",
+          "printed_page": 47,
+          "physical_page": 47
+        },
+        "cited_text": "Sexualerziehung ist eine Aufgabe von Elternhaus und Schule. Sexualerziehung in der Sekun-\ndarstufe knüpft an die Sexualerziehung in Elternhaus und Grundschule an und ergänzt diese",
+        "residual_flags": []
+      },
+      {
+        "content": "Umwelterziehung (2.8) is part of education for sustainable development (BNE) and aims to develop in young people a sense of responsibility for nature and the environment.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2 Kompetenzen und Inhalte in den Aufgabengebieten",
+          "printed_page": 61,
+          "physical_page": 61
+        },
+        "cited_text": "Die Umwelterziehung ist Teil der Bildung für nachhaltige Entwicklung (BNE) und zielt darauf, bei \nJugendlichen und jungen Erwachsenen ein Verantwortungsbewusstsein für Natur und Umwelt",
+        "residual_flags": []
+      },
+      {
+        "content": "Der Themenbereich Zukunftsfähige Mobilität ist Teil der behandelten Aufgabengebiete.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2 Kompetenzen und Inhalte in den Aufgabengebieten",
+          "printed_page": 74,
+          "physical_page": 74
+        },
+        "cited_text": "Themenbereich 2: Zukunftsfähige Mobilität",
+        "residual_flags": [
+          "page-multi-match:physical-74-earliest-of-3-candidate-pages"
+        ]
+      },
+      {
+        "content": "Rücksichtnahme auf andere Verkehrsteilnehmende gehört zu den Inhalten.",
+        "citation": {
+          "document_id": "sek1-aufgabengebiete",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Aufgabengebiete",
+          "source_pdf_sha256": "28cea45c8bb20f001453d0b5f32ed130011aef08c538e4559cbe7a8333215966",
+          "section_anchor": "2 Kompetenzen und Inhalte in den Aufgabengebieten",
+          "printed_page": 76,
+          "physical_page": 76
+        },
+        "cited_text": "Rücksichtnahme auf andere Verkehrsteilnehmende",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 8,
+          "printed_page": 8
+        },
+        {
+          "physical_page": 9,
+          "printed_page": 9
+        },
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        },
+        {
+          "physical_page": 13,
+          "printed_page": 13
+        },
+        {
+          "physical_page": 14,
+          "printed_page": 14
+        },
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        },
+        {
+          "physical_page": 16,
+          "printed_page": 16
+        },
+        {
+          "physical_page": 17,
+          "printed_page": 17
+        },
+        {
+          "physical_page": 18,
+          "printed_page": 18
+        },
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        },
+        {
+          "physical_page": 20,
+          "printed_page": 20
+        },
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        },
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        },
+        {
+          "physical_page": 24,
+          "printed_page": 24
+        },
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        },
+        {
+          "physical_page": 31,
+          "printed_page": 31
+        },
+        {
+          "physical_page": 32,
+          "printed_page": 32
+        },
+        {
+          "physical_page": 33,
+          "printed_page": 33
+        },
+        {
+          "physical_page": 34,
+          "printed_page": 34
+        },
+        {
+          "physical_page": 35,
+          "printed_page": 35
+        },
+        {
+          "physical_page": 36,
+          "printed_page": 36
+        },
+        {
+          "physical_page": 37,
+          "printed_page": 37
+        },
+        {
+          "physical_page": 38,
+          "printed_page": 38
+        },
+        {
+          "physical_page": 39,
+          "printed_page": 39
+        },
+        {
+          "physical_page": 40,
+          "printed_page": 40
+        },
+        {
+          "physical_page": 41,
+          "printed_page": 41
+        },
+        {
+          "physical_page": 42,
+          "printed_page": 42
+        },
+        {
+          "physical_page": 43,
+          "printed_page": 43
+        },
+        {
+          "physical_page": 44,
+          "printed_page": 44
+        },
+        {
+          "physical_page": 45,
+          "printed_page": 45
+        },
+        {
+          "physical_page": 46,
+          "printed_page": 46
+        },
+        {
+          "physical_page": 47,
+          "printed_page": 47
+        },
+        {
+          "physical_page": 48,
+          "printed_page": 48
+        },
+        {
+          "physical_page": 49,
+          "printed_page": 49
+        },
+        {
+          "physical_page": 50,
+          "printed_page": 50
+        },
+        {
+          "physical_page": 51,
+          "printed_page": 51
+        },
+        {
+          "physical_page": 52,
+          "printed_page": 52
+        },
+        {
+          "physical_page": 53,
+          "printed_page": 53
+        },
+        {
+          "physical_page": 54,
+          "printed_page": 54
+        },
+        {
+          "physical_page": 55,
+          "printed_page": 55
+        },
+        {
+          "physical_page": 56,
+          "printed_page": 56
+        },
+        {
+          "physical_page": 57,
+          "printed_page": 57
+        },
+        {
+          "physical_page": 58,
+          "printed_page": 58
+        },
+        {
+          "physical_page": 59,
+          "printed_page": 59
+        },
+        {
+          "physical_page": 60,
+          "printed_page": 60
+        },
+        {
+          "physical_page": 61,
+          "printed_page": 61
+        },
+        {
+          "physical_page": 62,
+          "printed_page": 62
+        },
+        {
+          "physical_page": 63,
+          "printed_page": 63
+        },
+        {
+          "physical_page": 64,
+          "printed_page": 64
+        },
+        {
+          "physical_page": 65,
+          "printed_page": 65
+        },
+        {
+          "physical_page": 66,
+          "printed_page": 66
+        },
+        {
+          "physical_page": 67,
+          "printed_page": 67
+        },
+        {
+          "physical_page": 68,
+          "printed_page": 68
+        },
+        {
+          "physical_page": 69,
+          "printed_page": 69
+        },
+        {
+          "physical_page": 70,
+          "printed_page": 70
+        },
+        {
+          "physical_page": 71,
+          "printed_page": 71
+        },
+        {
+          "physical_page": 72,
+          "printed_page": 72
+        },
+        {
+          "physical_page": 73,
+          "printed_page": 73
+        },
+        {
+          "physical_page": 74,
+          "printed_page": 74
+        },
+        {
+          "physical_page": 75,
+          "printed_page": 75
+        },
+        {
+          "physical_page": 76,
+          "printed_page": 76
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Kompetenzen und Inhalte in den Aufgabengebieten"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-aufgabengebiete",
+        "section_anchor": "2 Kompetenzen und Inhalte in den Aufgabengebieten",
+        "printed_page_range": "8–76"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

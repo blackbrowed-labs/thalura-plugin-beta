@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:cfc21b54577525926274fbea21bdeb0130c482f2d86305a61447e2a2023e88ca"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Assessments (Klausuren) in the pre-stage of the upper school are to be designed so that students are prepared for the task formats of the study stage.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7j) Musik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Klausuren in der Vorstufe der gymnasialen Oberstufe sind so zu gestalten, dass die Schü-\nlerinnen und Schüler auf die Aufgabenformate der Studienstufe vorbereitet werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In music, assessment of ongoing coursework considers, beyond the activities named under No. 4, further activities and any products arising from them.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7j) Musik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Die Bewertung der in der laufenden Unterrichtsarbeit erbrachten Leistungen berücksichtigt im \nFach Musik über die unter Nr. 4 genannten Aktivitäten und Produkte hinaus die folgenden \nAktivitäten sowie ggf. aus ihnen entstandene Produkte:",
+        "residual_flags": []
+      },
+      {
+        "content": "These further activities include vocal and instrumental music-making, movement representations and dance, and scenic designs.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7j) Musik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "vokales und instrumentales Musizieren \n• \nBewegungsdarstellungen, Tanz \n• \nszenische Gestaltungen",
+        "residual_flags": []
+      },
+      {
+        "content": "These further activities include arranging and inventing music and participation in school performances.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7j) Musik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Arrangieren und Erfinden von Musik \n• \nMitwirkung bei Schulaufführungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Music-related abilities acquired outside school are drawn on for assessment to the extent that they are constructively brought into the lessons.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7j) Musik",
+          "printed_page": 26,
+          "physical_page": 26
+        },
+        "cited_text": "Musikbezogene Fähigkeiten, die Schülerinnen und Schüler im außerschulischen Bereich er-\nworben haben, werden in dem Maße zur Bewertung herangezogen, wie sie konstruktiv in den \nUnterricht eingebracht werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment criteria include whether the student handles musical instruments competently and precisely realises and controls the various musical parameters such as pitch and rhythm.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7j) Musik",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "fachgerecht mit Musikinstrumenten umgeht \n• \ndie verschiedenen musikalischen Parameter wie Tonhöhe, Rhythmus usw. präzise um-\nsetzt und gezielt steuert",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria include whether the student listens to others while making music together and develops expressive designs from original ideas.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7j) Musik",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "beim gemeinsamen Musizieren auf andere hört und aufmerksam und bewusst mit an-\nderen zusammenspielt \n• \naus originellen Einfällen ausdrucksvolle Gestaltungen entwickelt und umsetzt",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria include coherently combining different musical design elements, designing presentations appropriately for the audience, and expressing musical content appropriately.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7j) Musik",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "unterschiedliche musikalische Gestaltungselemente in schlüssiger Weise zusammen-\nführt \n• \nPräsentationen adressatengerecht gestaltet \n• \nmusikalische Gehalte angemessen zum Ausdruck bringt",
+        "residual_flags": []
+      },
+      {
+        "content": "Criteria include achieving security in execution during musical activities and performing in a concentrated and committed way in performances.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Stadtteilschule — Teil C: Leistungsbewertung",
+          "source_pdf_sha256": "5786256188404d1ac3d78d518972994249286302d89458cb06917ac4d3703cfd",
+          "section_anchor": "7j) Musik",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "bei musikalischen Tätigkeiten Sicherheit in der Ausführung erreicht \n• \nin Aufführungen konzentriert und engagiert auftritt.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        },
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "7j) Musik"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "7j) Musik",
+        "printed_page_range": "26–27"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

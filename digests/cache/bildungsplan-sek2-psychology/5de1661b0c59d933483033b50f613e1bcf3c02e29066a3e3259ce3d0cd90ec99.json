@@ -1,0 +1,185 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:5de1661b0c59d933483033b50f613e1bcf3c02e29066a3e3259ce3d0cd90ec99"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Processes of development are maturation and learning.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Prozesse der Entwicklung (Reifen, Lernen)",
+        "residual_flags": []
+      },
+      {
+        "content": "Freud's layer model distinguishes conscious, preconscious and unconscious.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Schichtenmodell (bewusst, vorbewusst, unbewusst)",
+        "residual_flags": []
+      },
+      {
+        "content": "Drive theory and defense mechanisms displacement and sublimation are covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Triebtheorie und die Abwehrmechanismen Verdrängung, Ver-\nschiebung, Sublimierung",
+        "residual_flags": []
+      },
+      {
+        "content": "Phases 1 to 3 of the psychosexual phase model (oral, anal, phallic) are covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "psychosexuellen Phasenmodells (oral, \nanal, phallisch",
+        "residual_flags": []
+      },
+      {
+        "content": "Bandura's socio-cognitive learning theory is covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Sozialkognitive Lerntheorie (Bandura)",
+        "residual_flags": []
+      },
+      {
+        "content": "Reciprocal determinism (person, behavior, environment) is a grundannahme.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "reziproker Determinismus (Person, Verhalten, Umwelt)",
+        "residual_flags": []
+      },
+      {
+        "content": "Model learning subprocesses include attention, memory and reproduction.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Modelllernen (Aufmerksamkeit, Gedächtnis, Reproduktion",
+        "residual_flags": []
+      },
+      {
+        "content": "eA deepening on the development focus: psychosocial development (Erikson).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Schwerpunkt Entwicklung: Psychosoziale Entwicklung",
+        "residual_flags": []
+      },
+      {
+        "content": "Erikson's stage model has 8 developmental stages.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+          "printed_page": 21,
+          "physical_page": 21
+        },
+        "cited_text": "Stufenmodell (8 Entwicklungsstufen)",
+        "residual_flags": []
+      },
+      {
+        "content": "Als Forschungsmethode werden Längsschnitt- und Querschnittmethode genannt.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+          "printed_page": 22,
+          "physical_page": 22
+        },
+        "cited_text": "Längsschnitt- und Querschnittmethode",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 21,
+          "printed_page": 21
+        },
+        {
+          "physical_page": 22,
+          "printed_page": 22
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S2.1 Entwicklungs- und Persönlichkeitstheorien",
+        "printed_page_range": "21–22"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

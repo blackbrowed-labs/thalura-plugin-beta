@@ -1,5 +1,5 @@
 {
-  "description": "Thalura regulation digest-cache hard-gate plus the advisory setup-route gate and the fan-out deny gate. Host-executed cache hooks that the firewall read loop can no longer skip. Put-side persists each section's digest on the firewall's completion — PostToolUse-on-Agent (primary, carries tool_input+tool_response) AND SubagentStop (backup, the structural boundary). Get-side pre-loads a cached digest on the next firewall dispatch — PreToolUse-on-Agent. The fan-out gate co-binds on PreToolUse-on-Agent and DENIES a firewall dispatch that hands more than one document to a single reader (>=2 first-line document_id: keys), returning a corrective re-dispatch reason before any read cost is paid. The setup-route gate re-asserts the setup-vs-task routing decision on every prompt — UserPromptSubmit — as an ADVISORY injection only: on a not-yet-initialized or ambiguous workspace it injects a routing directive, and on a resolved workspace it emits nothing. It NEVER blocks a turn and degrades to the retained startup prose, so a non-steering result is a clean no-regression. Every binding carries a host timeout (the guaranteed hang ceiling) and is FAIL-OPEN: any error path is a no-op (exit 0), so a misbehaving hook never breaks, stalls, or degrades a teacher session.",
+  "description": "Thalura regulation digest-cache hard-gate plus the advisory setup-route gate and the fan-out deny gate. Host-executed cache hooks that the firewall read loop can no longer skip. Put-side persists each section's digest on the firewall's completion — PostToolUse-on-Agent (primary, carries tool_input+tool_response) AND SubagentStop (backup, the structural boundary). Get-side runs on the next firewall dispatch — PreToolUse-on-Agent: when the dispatch resolves to exactly one already-cached (document, section), it DENIES the dispatch and delivers the cached digest inline in the deny reason, so no reader sub-agent spawns and no PDF is reopened; on a miss (or any multi-section / ambiguous / failed derivation) it falls through and injects the digest-envelope mandate into the dispatch prompt. The fan-out gate co-binds on PreToolUse-on-Agent and DENIES a firewall dispatch that hands more than one document to a single reader (>=2 first-line document_id: keys), returning a corrective re-dispatch reason before any read cost is paid. A third gate, `reader-queue.sh`, co-binds on the same PreToolUse-on-Agent dispatch and enforces a bounded number of concurrent readers via a slot ledger: a slot is CLAIMED at dispatch and RELEASED when the reader stops — SubagentStop, matcher-less exactly as the put-side binding is, with the reader discriminated inside the script — while a sibling gate's cache-HIT veto drops a tombstone that frees the slot of a dispatch no reader will ever run, and stale slots are reaped on every pass so a lost completion signal cannot wedge capacity shut. Only event keys that every supported runtime recognises are bound here: an unrecognised key makes the host register ZERO hooks from this plugin, silently, so a binding for a newer event would disable every gate above rather than just its own. At capacity a dispatch is DEFERRED with a corrective re-dispatch instruction naming the document, never refused, so a document whose reader did not run in this wave is read in a following one and is never dropped. The setup-route gate re-asserts the setup-vs-task routing decision on every prompt — UserPromptSubmit — as an ADVISORY injection only: on a not-yet-initialized or ambiguous workspace it injects a routing directive, and on a resolved workspace it emits nothing. It NEVER blocks a turn and degrades to the retained startup prose, so a non-steering result is a clean no-regression. Every binding carries a host timeout (the guaranteed hang ceiling) and is FAIL-OPEN: any error path is a no-op (exit 0), so a misbehaving hook never breaks, stalls, or degrades a teacher session.",
   "hooks": {
     "UserPromptSubmit": [
       {
@@ -33,6 +33,15 @@
             "timeout": 15
           }
         ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/reader-queue.sh",
+            "timeout": 10
+          }
+        ]
       }
     ],
     "PreToolUse": [
@@ -52,6 +61,16 @@
           {
             "type": "command",
             "command": "${CLAUDE_PLUGIN_ROOT}/hooks/fanout-gate.sh",
+            "timeout": 15
+          }
+        ]
+      },
+      {
+        "matcher": "Agent",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/reader-queue.sh",
             "timeout": 15
           }
         ]

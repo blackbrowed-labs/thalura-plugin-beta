@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1ebbd2a6935c210f0bb669b3f4381e51cf3c8f9a2e645b2ff1c407661a098374"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "In 2020 the UK left the EU after more than forty years of membership, redefining its international role and its relationship to European partners.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 2 Politics, Culture and Society – between Tradition and Change: Vereinigtes Königreich",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Im Jahr 2020 trat das Vereinigte Königreich \nnach mehr als vierzigjähriger Mitgliedschaft aus der Europäischen \nUnion aus und definierte damit auch seine Rolle auf der internationalen \nBühne und sein Verhältnis zu den europäischen Partnern neu.",
+        "residual_flags": []
+      },
+      {
+        "content": "The narrow Brexit majority exposed social and political fault lines in a society marked by regional, social, cultural and ethnic diversity.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 2 Politics, Culture and Society – between Tradition and Change: Vereinigtes Königreich",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Das knappe Mehrheitsvotum der Briten für den EU-Austritt ließ verschie-\ndene gesellschaftliche und politische Bruchlinien in der durch große regio-\nnale, soziale, kulturelle und ethnische Vielfalt geprägten Gesellschaft deut-\nlich hervortreten.",
+        "residual_flags": []
+      },
+      {
+        "content": "Teaching focus: the political, social and cultural changes and challenges of Britain in the 21st century.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 2 Politics, Culture and Society – between Tradition and Change: Vereinigtes Königreich",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Im Mittel-\npunkt der Auseinandersetzung mit dem Thema im Unterricht sollen die po-\nlitischen, sozialen und kulturellen Veränderungen und Herausforderungen \nGroßbritanniens im 21. Jahrhundert stehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: The British Empire (territorial evolution, ideological and political justifications for colonialism, controversial perspectives).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 2 Politics, Culture and Society – between Tradition and Change: Vereinigtes Königreich",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "The British Empire (e. g. territorial evolution, ideological and political \njustifications for colonialism, controversial perspectives)",
+        "residual_flags": []
+      },
+      {
+        "content": "Binding content: Postcolonial Britain (legacy of World War II, immigration and multiculturalism).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "S1–4 2 Politics, Culture and Society – between Tradition and Change: Vereinigtes Königreich",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Postcolonial Britain (e. g. legacy of World War II, immigration and \nmulticulturalism)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        },
+        {
+          "physical_page": 26,
+          "printed_page": 26
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S1–4 2 Politics, Culture and Society – between Tradition and Change: Vereinigtes Königreich"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "S1–4 2 Politics, Culture and Society – between Tradition and Change: Vereinigtes Königreich",
+        "printed_page_range": "25–26"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

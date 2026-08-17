@@ -1,0 +1,120 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:278dd8e29cfdfb8dc920f85574e780c38985a9b58f25280686830b096cff5dc5"
+  },
+  "freshness": [
+    {
+      "document_id": "allgemeiner-teil",
+      "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The primary school comprises year levels 1 to 4; preschool classes (Vorschulklassen) belong to a primary school.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Grundschule",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Grundschule umfasst die Jahrgangsstufen 1 bis 4. Zu einer Grundschule gehören Vor-\nschulklassen",
+        "residual_flags": []
+      },
+      {
+        "content": "Classes or learning groups in the primary school may be composed across year levels (jahrgangsübergreifend).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Grundschule",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Klassen bzw. Lerngruppen in der Grundschule können jahrgangsübergreifend zusammenge-\nsetzt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Primary schools organise their teaching on the basis of the prescribed timetable (Stundentafel) and ensure the requirements of the curriculum framework (Bildungsplan) are met.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Grundschule",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Die Grundschulen organisieren ihr Unterrichtsangebot auf Basis der vorgegebenen Stunden-\ntafel und stellen sicher, dass die Anforderungen des Bildungsplans erfüllt werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "Permanent achievement-based streaming is not possible; the school may use time-limited learning-group differentiation.",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Grundschule",
+          "printed_page": 27,
+          "physical_page": 27
+        },
+        "cited_text": "Eine Aufteilung der Schülerinnen \nund Schüler nach Leistung in verschiedene Klassen bzw. Lerngruppen ist in der Grundschule \nnicht dauerhaft möglich.",
+        "residual_flags": []
+      },
+      {
+        "content": "In der Phase des Übergangs von der Kindertageseinrichtung in die Schule liegt der Fokus auf den Bedürfnissen des einzelnen Kindes (S. 28).",
+        "citation": {
+          "document_id": "allgemeiner-teil",
+          "document_title": "Allgemeiner Teil",
+          "source_pdf_sha256": "3a6f430e72740f10c5e616b4b8eaf1c768d133a15515c93b75cb6df3212fbfd5",
+          "section_anchor": "6.1.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Grundschule",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "In der Phase des Übergangs von der Kindertageseinrichtung in die Schule liegt der Fokus der",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 27,
+          "printed_page": 27
+        },
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "6.1.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Grundschule"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "allgemeiner-teil",
+        "section_anchor": "6.1.2 Organisatorischer Rahmen und Gestaltungsaufgaben der Grundschule",
+        "printed_page_range": "27–28"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

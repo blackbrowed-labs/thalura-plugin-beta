@@ -50,11 +50,21 @@ RESOLVER="${THALURA_RESOLVER:-$PROOT/scripts/resolve-data-root.sh}"
 # Pull the event cwd (python3 — robust to any payload shape). In Cowork the hook's
 # own $PWD is the ephemeral outputs/ dir, not the teacher workspace, so the stdin
 # cwd is the load-bearing input the resolver keys on.
+#
+# LOCALE-INDEPENDENT, BOTH ENDS. The event arrives as BYTES and is decoded
+# UTF-8 with an EXPLICIT error handler, and the cwd is written back out as UTF-8
+# BYTES — never through the interpreter default, which follows whatever locale the
+# host process happens to run under. Under a non-UTF-8 one the implicit path cannot
+# even emit a workspace path carrying an umlaut without raising, and this gate would
+# then resolve against its own ephemeral $PWD instead of the teacher's folder while
+# still looking healthy. errors="replace" is the display-path direction: a
+# smudged path costs a no-op, never a block.
 event_cwd="$(printf '%s' "$EVENT" | python3 -c '
 import json,sys
-try: e=json.load(sys.stdin)
-except Exception: print(""); sys.exit(0)
-print(e.get("cwd","") if isinstance(e,dict) else "")' 2>/dev/null)"
+def emit(s): sys.stdout.buffer.write((s + "\n").encode("utf-8", "replace"))
+try: e=json.loads(sys.stdin.buffer.read().decode("utf-8", "replace"))
+except Exception: emit(""); sys.exit(0)
+emit(e.get("cwd","") if isinstance(e,dict) and isinstance(e.get("cwd"),str) else "")' 2>/dev/null)"
 [ -n "$event_cwd" ] || event_cwd="$PWD"
 
 # Portable per-subprocess timeout (timeout/gtimeout when present; else a watchdog —
@@ -139,11 +149,16 @@ case "$ROOT" in
       esac
     fi
     DIRECTIVE="Resolve the Thalura workspace before treating this request as a task. If it resolves to an initialized teacher workspace, proceed with the request. If it does not — the workspace is genuinely un-onboarded — route to the setup flow to onboard the teacher, or, when the teacher is restoring a workspace backup, to the restore flow, whose direct-initialization path may initialize the workspace from the backup. Never treat the session sandbox as the workspace or write into it."
+    # Both ends pinned: stdin read as BYTES and decoded UTF-8 explicitly, the
+    # payload emitted as UTF-8 BYTES. ensure_ascii=False is RETAINED deliberately —
+    # the contract is real UTF-8 bytes on the wire, not \uXXXX-escaped ASCII — which
+    # is only safe once the write goes through the buffer instead of an ascii-coded
+    # text stdout that would raise and cost this gate its whole injection.
     printf '%s' "$DIRECTIVE" | python3 -c '
 import json, sys
-text = sys.stdin.read()
+text = sys.stdin.buffer.read().decode("utf-8", "replace")
 out = {"hookSpecificOutput": {"hookEventName": "UserPromptSubmit", "additionalContext": text}}
-sys.stdout.write(json.dumps(out, ensure_ascii=False)); sys.stdout.write("\n")
+sys.stdout.buffer.write((json.dumps(out, ensure_ascii=False) + "\n").encode("utf-8", "replace"))
 ' 2>/dev/null || emit_noop
     exit 0
     ;;
@@ -160,9 +175,20 @@ sys.stdout.write(json.dumps(out, ensure_ascii=False)); sys.stdout.write("\n")
     done
     IFS="$OLDIFS"
     [ -n "$LEAVES" ] || emit_noop
+    # THREE ends here, not two — and the third is the one no guard covers. The folder
+    # leaves are a NON-ASCII PAYLOAD PASSED THROUGH ARGV (a teacher folder called
+    # "Schule Nord Ost" or "Ünïcode-Schule" is the normal case), and CPython decodes
+    # argv with the LOCALE-DEPENDENT FILESYSTEM encoding: macOS forces utf-8 there
+    # regardless of locale, but a Linux host under LC_ALL=C gives fs=ascii and the
+    # leaf arrives surrogate-escaped. json.dumps then serialises the lone surrogates
+    # without complaint, so the emit succeeds at rc=0 with empty stderr and the model
+    # is handed a CORRUPTED folder name to ask the teacher about. os.fsencode()
+    # round-trips surrogateescape back to the original bytes; the decode is then ours
+    # and explicit. The source-ASCII guard scans the -c SPAN and the CI leg covers
+    # STREAMS, so nothing but this line covers this channel.
     python3 -c '
-import json, sys
-leaves = sys.argv[1]
+import json, os, sys
+leaves = os.fsencode(sys.argv[1]).decode("utf-8", "replace")
 text = (
     "More than one mounted folder looks like a Thalura workspace. Before proceeding "
     "with this request, ask the teacher which folder is theirs and bind that one. "
@@ -170,7 +196,7 @@ text = (
     "Offer a \"None of these\" choice that routes to setup."
 )
 out = {"hookSpecificOutput": {"hookEventName": "UserPromptSubmit", "additionalContext": text}}
-sys.stdout.write(json.dumps(out, ensure_ascii=False)); sys.stdout.write("\n")
+sys.stdout.buffer.write((json.dumps(out, ensure_ascii=False) + "\n").encode("utf-8", "replace"))
 ' "$LEAVES" 2>/dev/null || emit_noop
     exit 0
     ;;

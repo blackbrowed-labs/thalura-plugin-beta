@@ -1,0 +1,139 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:4c2bfd28c1760f197ac569c18bf41feab6834a2e7aa14a0e06001c4244ab3bfb"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-philosophie",
+      "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Operator Vergleichen (compare) is defined as identifying and presenting differences, similarities and commonalities according to given or self-chosen aspects.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Vergleichen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Nach vorgegebenen oder selbst gewählten Aspekten Unter-\nschiede, Ähnlichkeiten und Gemeinsamkeiten ermitteln und darstel-\nlen",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction): briefly name the phenomena, readings, models or positions to be compared.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Vergleichen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Zu vergleichende Phänomene, Deutungen, Modelle, Positionen etc. kurz nennen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (main part), first variant: present commonalities one after another, each time showing the comparison criterion, then repeat the step for the differences.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Vergleichen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Gemeinsamkeiten nacheinander darstellen und jeweils das Vergleichskriterium aufzeigen, \nanschließend bezüglich der Unterschiede den Arbeitsschritt wiederholen,",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2, alternative variant: set out commonalities and differences ordered by comparison criteria.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Vergleichen",
+          "printed_page": 10,
+          "physical_page": 10
+        },
+        "cited_text": "Gemeinsamkeiten und Unterschiede geordnet nach Vergleichskriterien ausführen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the worked example the differences heading introduces the Kant/Berkeley contrast about a mind-independent external world.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Vergleichen",
+          "printed_page": 11,
+          "physical_page": 11
+        },
+        "cited_text": "Unterscheide: \n- \nEine Außenwelt, die unabhängig davon, erkannt zu werden, existiert, ist für Kant \ndenkbar, für Berkeley nicht (Berkeley vertritt einen Solipsismus).",
+        "residual_flags": [
+          "source anomaly preserved: heading reads 'Unterscheide:' where 'Unterschiede:' is meant"
+        ]
+      },
+      {
+        "content": "Step 3 (conclusion): summarize the results or record overarching insights.",
+        "citation": {
+          "document_id": "operatoren-beispiel-philosophie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern – Fachspezifische Beispiele Philosophie",
+          "source_pdf_sha256": "19e699d582f3b3f39ded6d65c115f9a257003e82196ecd0e2480f07a0c38de54",
+          "section_anchor": "Vergleichen",
+          "printed_page": 12,
+          "physical_page": 12
+        },
+        "cited_text": "Ergebnisse zusammenfassen oder übergreifende Erkenntnisse (Beobachtungen) festhalten.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 10,
+          "printed_page": 10
+        },
+        {
+          "physical_page": 11,
+          "printed_page": 11
+        },
+        {
+          "physical_page": 12,
+          "printed_page": 12
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Vergleichen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-philosophie",
+        "section_anchor": "Vergleichen",
+        "printed_page_range": "10–12"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

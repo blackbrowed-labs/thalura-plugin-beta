@@ -1,0 +1,105 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:1c71677efac5945d1374e8791546bea884219c6ca515f46b81035223b417ecf0"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-philosophy",
+      "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Leitgedanken PM3 (grade 8, 'Zukunftsfragen'): the individual, subjective perspective is widened to what is valuable, scarce and precious for everyone.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 3: Gerechtigkeit",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "In diesem Modul geht es darum, die individuelle und subjektive Per-\nspektive, die sich primär auf eigene Wünsche und Bedürfnisse be-\nzieht, auszuweiten auf das, was für alle wertvoll, knapp und kostbar",
+        "residual_flags": [
+          "source-placeholder-verbatim: the 'Umsetzungshilfen' column of this module sheet reads '[bleibt zunächst leer]'"
+        ]
+      },
+      {
+        "content": "Contents of PM3: equality and justice; just distribution of goods and education; effects of poverty and wealth.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 3: Gerechtigkeit",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "• Gleichheit und Gerechtigkeit \n• Gerechte Verteilung von Gütern und Bildung \n• Auswirkungen von Armut und Reichtum",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'W': students examine in what sense social and ecological justice are values, e.g. by comparing alternative states of affairs.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 3: Gerechtigkeit",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Die Schülerinnen und Schüler untersuchen, inwiefern es sich bei so-\nzialer und ökologischer Gerechtigkeit um Werte handelt, indem sie \nz. B. alternative Zustände vergleichen, in denen diese eine Rolle",
+        "residual_flags": []
+      },
+      {
+        "content": "Contribution to guiding perspective 'BNE': students grasp the contribution that individual global sustainability goals make to a just world.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-philosophy",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Philosophie",
+          "source_pdf_sha256": "5ac4e8b52512b59dc2294fce22e202360b83dc7bcc43c178282bf86b8968bb3a",
+          "section_anchor": "Pflichtmodul 3: Gerechtigkeit",
+          "printed_page": 19,
+          "physical_page": 19
+        },
+        "cited_text": "Die Schülerinnen und Schüler erfassen den Beitrag, den einzelne \nglobale Nachhaltigkeitsziele für eine gerechte Welt leisten",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 19,
+          "printed_page": 19
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Pflichtmodul 3: Gerechtigkeit"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-philosophy",
+        "section_anchor": "Pflichtmodul 3: Gerechtigkeit",
+        "printed_page_range": "19"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

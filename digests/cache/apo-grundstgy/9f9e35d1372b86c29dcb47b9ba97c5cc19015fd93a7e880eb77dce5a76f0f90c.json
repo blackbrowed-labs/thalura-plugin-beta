@@ -1,0 +1,145 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:9f9e35d1372b86c29dcb47b9ba97c5cc19015fd93a7e880eb77dce5a76f0f90c"
+  },
+  "freshness": [
+    {
+      "document_id": "apo-grundstgy",
+      "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The VO-BF applies to all students taught according to the requirements of the curriculum frameworks of the Grundschule, the Stadtteilschule or the Gymnasium.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "VO-BF — Verordnung über die besondere Förderung von Schülerinnen und Schülern (§ 45 HmbSG)",
+          "printed_page": 52,
+          "physical_page": 52
+        },
+        "cited_text": "Diese Verordnung gilt für alle Schülerinnen und Schüler, die nach den Anfor-\nderungen der Bildungspläne der Grundschule, der Stadtteilschule oder des Gym-\nnasiums unterrichtet werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "At the Gymnasium, years 5 to 10, special support is triggered by a grade of 'mangelhaft' (5) or worse in one or more subjects or learning areas.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "VO-BF — Verordnung über die besondere Förderung von Schülerinnen und Schülern (§ 45 HmbSG)",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Schülerinnen und Schüler der Jahrgangsstufen 5 bis 10 des Gymnasiums erhalten \nbesondere Förderung, wenn ihre Leistungen in einem oder mehreren Fächern oder \nLernbereichen mit der Note „mangelhaft“ (5) oder einer schlechteren Note bewer-\ntet wurden.",
+        "residual_flags": []
+      },
+      {
+        "content": "The learning and support agreement (Lern- und Fördervereinbarung) binds both the support measures and the mutual obligations.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "VO-BF — Verordnung über die besondere Förderung von Schülerinnen und Schülern (§ 45 HmbSG)",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "In der Lern- und Fördervereinbarung nach Absatz 1 werden die notwendigen \nFördermaßnahmen und die wechselseitigen Pflichten verbindlich festgelegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "The agreement is normally concluded for one school half-year.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "VO-BF — Verordnung über die besondere Förderung von Schülerinnen und Schülern (§ 45 HmbSG)",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Die Lern- und Fördervereinbarung wird in der Regel für ein Schul-\nhalbjahr geschlossen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Support measures normally take place in addition to regular lessons and are complemented by integrated measures.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "VO-BF — Verordnung über die besondere Förderung von Schülerinnen und Schülern (§ 45 HmbSG)",
+          "printed_page": 55,
+          "physical_page": 55
+        },
+        "cited_text": "Fördermaßnahmen finden in der Regel zusätzlich zum Unterricht statt und \nwerden durch integrierte Maßnahmen ergänzt.",
+        "residual_flags": []
+      },
+      {
+        "content": "In the Studienstufe, special support is triggered by fewer than 5 points in one or more subjects, learning areas or the seminar.",
+        "citation": {
+          "document_id": "apo-grundstgy",
+          "document_title": "Ausbildungs- und Prüfungsordnungen (APO-GrundStGy / VO-BF / AO-SF)",
+          "source_pdf_sha256": "ac21325944795a1c2c0a9feccb95011162c85e30fbe2001758d195b0b8b8f76f",
+          "section_anchor": "VO-BF — Verordnung über die besondere Förderung von Schülerinnen und Schülern (§ 45 HmbSG)",
+          "printed_page": 54,
+          "physical_page": 54
+        },
+        "cited_text": "Schülerinnen und Schüler der Studienstufe erhalten besondere Förderung, \nwenn ihre Leistungen in einem oder mehreren Fächern, Lernbereichen oder im \nSeminar, wenn dieses eingerichtet wurde, mit weniger als 5 Punkten bewertet \nwurden.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 51,
+          "printed_page": 51
+        },
+        {
+          "physical_page": 52,
+          "printed_page": 52
+        },
+        {
+          "physical_page": 53,
+          "printed_page": 53
+        },
+        {
+          "physical_page": 54,
+          "printed_page": 54
+        },
+        {
+          "physical_page": 55,
+          "printed_page": 55
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "VO-BF — Verordnung über die besondere Förderung von Schülerinnen und Schülern (§ 45 HmbSG)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "apo-grundstgy",
+        "section_anchor": "VO-BF — Verordnung über die besondere Förderung von Schülerinnen und Schülern (§ 45 HmbSG)",
+        "printed_page_range": "51–55"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

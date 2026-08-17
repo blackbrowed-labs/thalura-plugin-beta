@@ -1,0 +1,103 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:b001dfa90e3cf9a8fa842544d0e06958355e067ed9b4577321d488803394008b"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-english",
+      "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Taking part in conversations: students can participate largely fluently, correctly and appropriately for addressee and situation.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K2 Sprechen (Interaktion und Produktion)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler können sich weitgehend flüssig, sprachlich korrekt und adressatengerecht sowie \nsituationsangemessen an Gesprächen beteiligen.",
+        "residual_flags": []
+      },
+      {
+        "content": "At the basic level they can deliberately use communicative strategies to handle non-understanding and misunderstandings.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K2 Sprechen (Interaktion und Produktion)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "angemessene kommunikative Strategien bewusst \neinsetzen, um mit Nichtverstehen und Missverständ-\nnissen umzugehen",
+        "residual_flags": []
+      },
+      {
+        "content": "Monological speaking: they can give clear, detailed accounts and state the advantages and disadvantages of different options.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K2 Sprechen (Interaktion und Produktion)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "Die Schülerinnen und Schüler können klare und detaillierte Darstellungen geben, ihren Standpunkt vertreten und \nerläutern sowie Vor- und Nachteile verschiedener Optionen angeben.",
+        "residual_flags": []
+      },
+      {
+        "content": "At the raised level they can deliver a presentation in a clearly structured, fluent way and respond to follow-up questions.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-english",
+          "document_title": "Bildungsplan Studienstufe Englisch",
+          "source_pdf_sha256": "3b63ff4731fc36d55fde65ead641079b1f89e52fc37497e68b2047e4985852b0",
+          "section_anchor": "K2 Sprechen (Interaktion und Produktion)",
+          "printed_page": 15,
+          "physical_page": 15
+        },
+        "cited_text": "eine Präsentation klar strukturiert und flüssig vortra-\ngen, ggf. spontan vom vorbereiteten Text abweichen \nund auf Nachfragen zum Thema eingehen.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 15,
+          "printed_page": 15
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "K2 Sprechen (Interaktion und Produktion)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-english",
+        "section_anchor": "K2 Sprechen (Interaktion und Produktion)",
+        "printed_page_range": "15"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

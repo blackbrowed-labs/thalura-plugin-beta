@@ -1,0 +1,129 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c2c8fcb05fa2462decbd3085da41775a8bdca8a1a40a65dccaab981bd1f8b360"
+  },
+  "freshness": [
+    {
+      "document_id": "rahmenvorgaben-sprachbildung",
+      "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+      "index_version": 3
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The purpose of judging and evaluating (Urteilen und Bewerten) is a final positioning on a factual or evaluation problem based on weighed arguments, to reach a decision on a subject-related problem.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 14: URTEILEN UND BEWERTEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Der Zweck des Urteilens und Bewertens",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can say or write whether something is good or bad, positive or negative, or why it is an advantage, disadvantage or problem.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 14: URTEILEN UND BEWERTEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "ob etwas gut oder schlecht, positiv oder negativ ist",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can weigh reasons and counter-reasons and formulate a clear, factually cogent, coherent and differentiated positioning on a factual or value question.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 14: URTEILEN UND BEWERTEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "eine Abwägung der Gründe und Gegengründe vornehmen",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can separate factual and value judgments (legitimacy).",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 14: URTEILEN UND BEWERTEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "zwischen Sach- und Werturteilen (Legitimität) trennen",
+        "residual_flags": []
+      },
+      {
+        "content": "The purpose of summarizing (Zusammenfassen) is to reduce knowledge in an extensive representation to the essential elements for quick knowledge transfer or self-documentation.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 14: URTEILEN UND BEWERTEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "Der Zweck des Zusammenfassens ist es",
+        "residual_flags": []
+      },
+      {
+        "content": "Students can identify essential and non-essential knowledge elements in a summarizing representation.",
+        "citation": {
+          "document_id": "rahmenvorgaben-sprachbildung",
+          "document_title": "Rahmenvorgaben Sprachbildung als Querschnittsaufgabe",
+          "source_pdf_sha256": "aaae341cd9aa3cd5a0b051cbcda106db0870549da1d657601f832a867b42e50d",
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 14: URTEILEN UND BEWERTEN",
+          "printed_page": 25,
+          "physical_page": 25
+        },
+        "cited_text": "die wesentlichen und unwesentlichen Wis",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 25,
+          "printed_page": 25
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 14: URTEILEN UND BEWERTEN"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "rahmenvorgaben-sprachbildung",
+        "section_anchor": "4 Kompetenzmatrix — Sprachhandlung 14: URTEILEN UND BEWERTEN",
+        "printed_page_range": "25"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:c015baa0257513f8062f55cc819252f898c1a7f431f6e39e7bd0527f66fa02f6"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Students gain insights into everyday life, culture, traditions and history of Great Britain and the USA.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "in Alltag, Kultur, Traditionen und Geschichte Großbritanniens und",
+        "residual_flags": []
+      },
+      {
+        "content": "The topic area is suited to sensitising students to the diversity of anglophone dialect variants.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "eignet sich, um die Schülerinnen und Schüler für die Vielfalt der anglo-",
+        "residual_flags": []
+      },
+      {
+        "content": "The bold-printed topics are compulsory to cover.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "Die fettgedruckten Themen sind verpflichtend zu behandeln.",
+        "residual_flags": []
+      },
+      {
+        "content": "The overarching content field covers everyday life, cultural identity and historical development of GB and the USA.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "Across Cultures: Alltag, kulturelle Identität und historische",
+        "residual_flags": []
+      },
+      {
+        "content": "Great Britain history includes selected developments such as Roman Britain, England and Scotland, the Commonwealth.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "history: selected developments and aspects (e.g. Roman Britain,",
+        "residual_flags": []
+      },
+      {
+        "content": "Great Britain content includes culture and traditions such as British sports and British school life.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "culture and traditions (e.g. British sports, British school life)",
+        "residual_flags": []
+      },
+      {
+        "content": "Great Britain content includes tourism such as favourite places and sightseeing in London.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "tourism (e.g. favourite places, sightseeing in London)",
+        "residual_flags": []
+      },
+      {
+        "content": "Great Britain content includes language issues such as politeness and different accents.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "language issues (e.g. politeness, different accents)",
+        "residual_flags": []
+      },
+      {
+        "content": "USA history includes selected aspects such as settlement, immigration and the civil rights movement.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "history: selected aspects (e.g. settlement, immigration, civil rights",
+        "residual_flags": []
+      },
+      {
+        "content": "USA content includes the American way of life, e.g. a country of immigrants, school life, living the dream.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "American way of life (e.g. a country of immigrants, school life, living",
+        "residual_flags": []
+      },
+      {
+        "content": "USA content includes culture and traditions such as sports and holidays.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "culture and traditions (e.g. sports, holidays)",
+        "residual_flags": []
+      },
+      {
+        "content": "USA content includes big cities and rural areas.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "big cities and rural areas",
+        "residual_flags": []
+      },
+      {
+        "content": "USA content includes tourism such as favourite places and sightseeing in New York.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "tourism (e.g. favourite places, sightseeing in New York)",
+        "residual_flags": []
+      },
+      {
+        "content": "The engagement addresses the relation of ideal and realisation of the American Dream.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+          "printed_page": 53,
+          "physical_page": 53
+        },
+        "cited_text": "das Verhältnis von Ideal und Realisierungsmöglichkeiten des",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 53,
+          "printed_page": 53
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 5: Unterschiedliche Kulturen im englischsprachigen Raum — 7/8 Great Britain and the USA",
+        "printed_page_range": "53"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

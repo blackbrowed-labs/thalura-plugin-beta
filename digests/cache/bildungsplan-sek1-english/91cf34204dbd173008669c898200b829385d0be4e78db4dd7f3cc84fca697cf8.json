@@ -1,0 +1,272 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "stadtteilschule",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:91cf34204dbd173008669c898200b829385d0be4e78db4dd7f3cc84fca697cf8"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek1-english",
+      "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Themenbereich 3: Gesellschaftliches Zusammenleben",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Themenbereich 3: Gesellschaftliches Zusammenleben  ",
+        "residual_flags": []
+      },
+      {
+        "content": "In diesem Themenbereich verständigen sich die Schülerinnen und",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "In diesem Themenbereich verständigen sich die Schülerinnen und ",
+        "residual_flags": []
+      },
+      {
+        "content": "Schüler altersangemessen über Themen, die ihre unmittelbare Lebenswelt und ihren Alltag betreffen, z. B. über Feste, das Einkaufen, Wegbeschreibungen und touristische Attraktionen. Im Bereich Sprechen bieten sich Dialoge und kleine Rollenspiele an, im Bereich Lesen entnehmen die Lernenden kurz und einfach gehaltenen Alltagstexten (z. B. Fahrplänen, Plakaten, Broschüren) und einfachen Geschichten gezielt Informationen, sodass sie Einblicke in die Alltagswelt von Jugendlichen in anglophonen Kulturräumen bekommen und Orientierungswissen über Kultur und Tourismus erwerben.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Schüler altersangemessen über Themen, die ihre unmittelbare Lebens-\nwelt und ihren Alltag betreffen, z. B. über Feste, das Einkaufen, Wegbe-\nschreibungen und touristische Attraktionen.  Im Bereich Sprechen bieten \nsich Dialoge und kleine Rollenspiele an, im Bereich Lesen entnehmen \ndie Lernenden kurz und einfach gehaltenen Alltagstexten (z. B. Fahrplä-\nnen, Plakaten, Broschüren) und einfachen Geschichten gezielt Informa-\ntionen, sodass sie Einblicke in die Alltagswelt von Jugendlichen in ang-\nlophonen Kulturräumen bekommen und Orientierungswissen über Kul-\ntur und Tourismus erwerben. ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die fettgedruckten Themen sind verpflichtend zu behandeln.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Die fettgedruckten Themen sind verpflichtend zu behandeln. ",
+        "residual_flags": []
+      },
+      {
+        "content": "seasons, months and dates",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "• seasons, months and dates ",
+        "residual_flags": []
+      },
+      {
+        "content": "at the (super)market",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "• at the (super)market ",
+        "residual_flags": []
+      },
+      {
+        "content": "Wegbeschreibung und Transport",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Wegbeschreibung und Transport ",
+        "residual_flags": []
+      },
+      {
+        "content": "asking for and giving directions",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "• asking for and giving directions ",
+        "residual_flags": []
+      },
+      {
+        "content": "means of transport",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "• means of transport ",
+        "residual_flags": []
+      },
+      {
+        "content": "Kulturelle Einrichtungen und touristische Attraktionen",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Kulturelle Einrichtungen und touristische Attraktionen ",
+        "residual_flags": []
+      },
+      {
+        "content": "going to the theatre, cinema, museum, zoo",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "• going to the theatre, cinema, museum, zoo ",
+        "residual_flags": []
+      },
+      {
+        "content": "birthday parties, celebrations and other festivities",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "• birthday parties, celebrations and other festivities ",
+        "residual_flags": []
+      },
+      {
+        "content": "Beitrag zur Leitperspektive W:",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Beitrag zur Leitperspektive W: ",
+        "residual_flags": []
+      },
+      {
+        "content": "Die Schülerinnen und Schüler reflektieren Ähnlichkeiten, Unterschiede und Gemeinsamkeiten im Alltag, beim Zelebrieren von kulturspezifischen Festen und besonderen Anlässen.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Die Schülerinnen und Schüler reflektieren Ähnlichkeiten, Unterschiede \nund Gemeinsamkeiten im Alltag, beim Zelebrieren von kulturspezifi-\nschen Festen und besonderen Anlässen. ",
+        "residual_flags": []
+      },
+      {
+        "content": "5/6 Persönl. Lebensgestaltung",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "5/6 Persönl. Le-\nbensgestaltung ",
+        "residual_flags": []
+      },
+      {
+        "content": "Unterschiedliche Kulturen im englischspr.",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "Unterschiedli-\nche Kulturen \nim englischspr. ",
+        "residual_flags": []
+      },
+      {
+        "content": "[bleibt zunächst leer]",
+        "citation": {
+          "document_id": "bildungsplan-sek1-english",
+          "document_title": "Bildungsplan Stadtteilschule Jahrgangsstufen 5-11 Englisch",
+          "source_pdf_sha256": "a3160914fdb6afa25b4a32e6f62e9c8b9f85b9e40f7832e81b2dfe287b72f6e5",
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+          "printed_page": 46,
+          "physical_page": 46
+        },
+        "cited_text": "[bleibt zunächst \nleer] ",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 46,
+          "printed_page": 46
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek1-english",
+        "section_anchor": "Themenbereich 3: Gesellschaftliches Zusammenleben — 5/6 Daily life",
+        "printed_page_range": "46"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

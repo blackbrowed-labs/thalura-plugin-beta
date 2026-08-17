@@ -1,0 +1,172 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:64175ff2b382897c3da451a0d883fb4720d340795912d39749484adf61b542cc"
+  },
+  "freshness": [
+    {
+      "document_id": "operatoren-beispiel-psychologie",
+      "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Definition of Zusammenfassen: reproduce the core statements of the text in compressed and structured form — i.e. collect, order, abstract, arrange logically, and phrase in one's own words.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die Kernaussagen des Textes komprimiert und \nstrukturiert wiedergeben, d. h. sammeln, ordnen, \nabstrahieren, sachlogisch gliedern und in eigenen Worten \nformulieren",
+        "residual_flags": []
+      },
+      {
+        "content": "The example task instruction: summarize the laboratory study (Fassen Sie die Laborstudie zusammen).",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Fassen Sie die Laborstudie zusammen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 1 (introduction) instruction: name the author, title, possibly the time of origin, the text type, and the theme or question.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Verfasser, Titel, ggf. die Entstehungszeit des Textes, Textsorte und Thema bzw. \nFragestellung nennen",
+        "residual_flags": []
+      },
+      {
+        "content": "The summarized study: a study by A. Bund from 2000 on self-confidence and sport and the meaning of self-referential cognitions.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Studie von A. Bund von 2000 mit dem Titel \nSelbstvertrauen und Sport – Die Bedeutung selbstbezogener Kognitionen",
+        "residual_flags": []
+      },
+      {
+        "content": "What was examined: the influence of individual self-efficacy on movement learning, using a 15m stretch to be covered with a Pedalo.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Bewegungslernen am Beispiel einer mit einem Pedalo zu bewältigenden Strecke von \n15m",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 2 (main part) instruction: reproduce the central statements and lines of argument in one's own words, indirect speech, and logical order using technical language, without citations and references.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Die zentralen Aussagen und Argumentationen des Textes in eigenen Worten, indirekter Rede \nund sachlogischer Ordnung unter Verwendung der Fachsprache ohne Belege und Verweise \nwiedergeben",
+        "residual_flags": []
+      },
+      {
+        "content": "The study's research question: whether there is a connection between the degree of personal or situational self-confidence and the learning of movement skills in a sporting context.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 5,
+          "physical_page": 5
+        },
+        "cited_text": "Gibt es einen Zusammenhang zwischen der Ausprägung des persönlichen oder \nsituativen Selbstvertrauens [vgl. Selbstwirksamkeit] und dem Erlernen von \nBewegungsfertigkeiten im sportlichen Kontext?",
+        "residual_flags": []
+      },
+      {
+        "content": "The investigation variables: independent variable is the type of performance feedback; dependent variables include general and task-specific self-efficacy and motor performance.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "uV: Art der Leistungsrückmeldung \n- \naV: Allgemeine und aufgabenspezifische Selbstwirksamkeitsüberzeugung, Angaben \nzur Leistungserwartung, aufgewendeter Anstrengung, Art der Attribution und \nübungsbegleitender Emotionen sowie die motorische Leistung",
+        "residual_flags": []
+      },
+      {
+        "content": "Step 3 (conclusion): not required.",
+        "citation": {
+          "document_id": "operatoren-beispiel-psychologie",
+          "document_title": "Operatoren in den gesellschaftswissenschaftlichen Fächern — Fachspezifische Beispiele Psychologie",
+          "source_pdf_sha256": "6fe08e1ebb1de91b700f36abd982b880c05de18fa455316c815ba34504381d20",
+          "section_anchor": "Zusammenfassen",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "3. Schritt: Schluss \nNicht erforderlich",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 5,
+          "printed_page": 5
+        },
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Zusammenfassen"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "operatoren-beispiel-psychologie",
+        "section_anchor": "Zusammenfassen",
+        "printed_page_range": "5–6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

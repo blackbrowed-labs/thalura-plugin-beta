@@ -1,0 +1,77 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:6d34fb441510575c3f74032189b6596485d4a3d411ab2ca321a34c153daef34e"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-psychology-praesentation",
+      "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The literature and material section for the examinee lists no entries (marked by an em dash).",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — II Literaturhinweise, Material [für den Prüfling]",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "II Literaturhinweise, Material",
+        "residual_flags": []
+      },
+      {
+        "content": "The examinee's chosen area 'Entwicklung und Persönlichkeit' is supplemented by 'Motivation und Lernen' to secure the Semesterübergriff.",
+        "citation": {
+          "document_id": "abiturrichtlinie-psychology-praesentation",
+          "document_title": "Präsentationsprüfung Psychologie Beispielaufgaben",
+          "source_pdf_sha256": "9575378c9d36e2c6692c31fe2f802e0205d920d8bb1c73c84f9ede1a76770c36",
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — II Literaturhinweise, Material [für den Prüfling]",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "gibt als Bereich für die Präsentationsprüfung \nden Inhaltsbereich „Entwicklung und Persönlichkeit“ an; auf dieser Grundlage erhält er \ndie nachfolgend angegebene Aufgabenstellung, die der Referent/die Referentin um den \nInhaltsbereich „Motivation und Lernen“ ergänzt, um den geforderten Semesterübergriff \nsicherzustellen",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — II Literaturhinweise, Material [für den Prüfling]"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-psychology-praesentation",
+        "section_anchor": "Thema: Bindung aus Sicht der Lerntheorien (gA) — II Literaturhinweise, Material [für den Prüfling]",
+        "printed_page_range": "6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

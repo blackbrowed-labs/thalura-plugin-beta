@@ -1,0 +1,209 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:41a4ef97124ea8f13849e79e58a626c4a13428863984cc2f33202e6e9e886296"
+  },
+  "freshness": [
+    {
+      "document_id": "sek1-teil-c",
+      "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "The objects of achievement assessment are: performance in class tests/exams (Klassenarbeiten bzw. Klausuren) and equivalent performances; oral, written and practical performance in ongoing classwork during the appraisal period; and performance in examinations (Prüfungen).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Gegenstand der Leistungsbewertung sind: \n• \nLeistungen in Klassenarbeiten bzw. Klausuren und ihnen entsprechende Leistungen, \n• \ndie während eines Beurteilungszeitraums erbrachten mündlichen, schriftlichen und \npraktischen Leistungen in der laufenden Unterrichtsarbeit sowie \n• \nin Prüfungen erbrachte Leistungen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Report-card grades for an assessment period must NOT rest predominantly on class tests/exams and equivalent performances.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Die für einen Bewertungszeitraum vergebenen Zeugnisnoten dürfen sich nicht überwiegend \nauf die Leistungen in Klassenarbeiten bzw. Klausuren und ihnen entsprechende Leistungen \nbeziehen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Exception: in Mathematics (Sek I and II) the shares of class-test and equivalent performance in the report grade are prescribed bindingly; details in No. 3 lit. b).",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Abweichend davon werden für das Fach Mathematik in den Sekundarstufen I und \nII die Anteile von Leistungen in Klassenarbeiten bzw. Klausuren und von entsprechenden Leis-\ntungen an der Zeugnisnote verbindlich vorgegeben; Näheres regelt Nr. 3 lit. b).",
+        "residual_flags": []
+      },
+      {
+        "content": "Alongside assessed work there may also be assessment-free working phases and assessment-free performance checks.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Neben bewerteten kann es auch bewertungsfreie Arbeitsphasen und Leistungsfeststellungen \ngeben.",
+        "residual_flags": []
+      },
+      {
+        "content": "Achievement assessment therefore differs from the appraisal of learning development and of cross-curricular competencies, which take the entire learning time in the appraisal period into account.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Insofern unterscheidet sich Leistungsbewertung von der Beurteilung der Lernentwick-\nlung und der Einschätzung der überfachlichen Kompetenzen, die die gesamte Lernzeit im Be-\nurteilungszeitraum berücksichtigen.",
+        "residual_flags": []
+      },
+      {
+        "content": "Varied forms of checking and assessing give students the chance to demonstrate acquired competencies and knowledge repeatedly and in changing contexts.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Verschiedene Formen der Überprüfung und Bewertung des erreichten Lernstandes geben \nSchülerinnen und Schülern die Gelegenheit, die erworbenen Kompetenzen und Kenntnisse \nwiederholt und in wechselnden Zusammenhängen nachzuweisen.",
+        "residual_flags": []
+      },
+      {
+        "content": "In principle ALL competency areas (Kompetenzbereiche) of a subject or learning area must be appropriately considered in achievement assessment; digital formats of performance regularly complement analogue ones.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Grundsätzlich sind alle \nKompetenzbereiche eines Faches bzw. Lernbereichs bei der Leistungsbewertung angemes-\nsen zu berücksichtigen. Neben analoge Formen treten regelmäßig auch digitale Formate der \nLeistungserbringung.",
+        "residual_flags": [
+          "source-grammar-verbatim: original reads 'Neben analoge Formen treten' (expected dative 'Neben analogen Formen'); kept as printed"
+        ]
+      },
+      {
+        "content": "Teacher/department/subject conferences bindingly determine the areas and criteria of achievement assessment, their indicators, and the ratio by which performances are weighted, respecting legal rules and the Bildungsplan.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Lehrer- bzw. Abteilungs- oder Fachkonferenzen legen unter Berücksichtigung der Vorgaben \nin Rechtsvorschriften und Bildungsplan verbindlich die Bereiche und Kriterien bei der Leis-\ntungsbewertung fest, zudem deren Indikatoren und das Verhältnis, nach dem die Leistungen \ngewichtet werden.",
+        "residual_flags": []
+      },
+      {
+        "content": "In doing so they orient themselves on the aims, principles and requirements of the subject and on the school-internal curriculum (schulinternes Curriculum) they also adopt; additionally there is coordination within the year-group team.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Dabei orientieren sie sich an den Zielen, Grundsätzen und Anforderungen \ndes Faches bzw. Lernbereichs und an dem von ihnen ebenfalls festgelegten schulinternen \nCurriculum. Darüber hinaus erfolgt eine Abstimmung im Jahrgangsteam.",
+        "residual_flags": []
+      },
+      {
+        "content": "Transparency: at the beginning of an appraisal period the teacher explains the essential bases and criteria of assessment to the students.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Zu Beginn eines Beurteilungszeitraums erläutert die Lehrkraft den Schülerinnen und Schülern \ndie wesentlichen Bewertungsgrundlagen und -kriterien.",
+        "residual_flags": []
+      },
+      {
+        "content": "The teacher ensures that the distinction between assessed and assessment-free working phases and between assessed and assessment-free performance checks is transparent to students during lessons.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Sie trägt Sorge dafür, dass den Schü-\nlerinnen und Schülern im laufenden Unterricht die Unterscheidung zwischen bewerteten und \nbewertungsfreien Arbeitsphasen sowie zwischen bewerteter und bewertungsfreier Leistungs-\nfeststellung transparent wird.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessments are communicated respectfully and combined with learning-supportive hints; students receive individual feedback on strengths and deficits plus guidance for further work.",
+        "citation": {
+          "document_id": "sek1-teil-c",
+          "document_title": "Bildungsplan Gymnasium Sekundarstufe I — Teil C Leistungsbewertung",
+          "source_pdf_sha256": "0d6ff8357ebe14a4914c7f05ba18ce667705edf0b9c73b43be891301ad0353db",
+          "section_anchor": "2 Grundsätze",
+          "printed_page": 6,
+          "physical_page": 6
+        },
+        "cited_text": "Bewertungen werden respektvoll vermittelt und mit lernförderlichen Hinweisen verbunden. Die \nSchülerinnen und Schüler erhalten individuelle Rückmeldungen zu Vorzügen und Defiziten \neiner Leistung sowie Hinweise für den weiteren Lern- und Arbeitsprozess.",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 6,
+          "printed_page": 6
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "2 Grundsätze"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "sek1-teil-c",
+        "section_anchor": "2 Grundsätze",
+        "printed_page_range": "6"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

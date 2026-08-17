@@ -1,0 +1,142 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "*",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:9df3a29a93f6f94f8b93e88bf095624745a022a0037830b3f484c04930027d47"
+  },
+  "freshness": [
+    {
+      "document_id": "bildungsplan-sek2-psychology",
+      "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+      "index_version": 2
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "Foundations of attachment theory are covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.2 Soziale und emotionale Entwicklung (Bindung)",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Grundlagen der Bindungstheorie",
+        "residual_flags": []
+      },
+      {
+        "content": "The attachment concept covers exploration and attachment.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.2 Soziale und emotionale Entwicklung (Bindung)",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Bindungsbegriff (Exploration und Bindung)",
+        "residual_flags": []
+      },
+      {
+        "content": "Phases of the development of an attachment are covered.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.2 Soziale und emotionale Entwicklung (Bindung)",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Phasen der Entwicklung einer Bindung",
+        "residual_flags": []
+      },
+      {
+        "content": "Attachment qualities are measured at the end of the first year of life (FST after Ainsworth).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.2 Soziale und emotionale Entwicklung (Bindung)",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "ersten Lebensjahres (FST nach Ainsworth)",
+        "residual_flags": []
+      },
+      {
+        "content": "Attachment classifications: insecure-ambivalent, secure, insecure-avoidant, disorganized/disoriented.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.2 Soziale und emotionale Entwicklung (Bindung)",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "unsicher-ambivalent \no sicher \no unsicher-vermeidend \no desorganisiert/desorientiert",
+        "residual_flags": []
+      },
+      {
+        "content": "eA typology of attachment disorders includes undifferentiated, inhibited and aggressive attachment behavior.",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.2 Soziale und emotionale Entwicklung (Bindung)",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "undifferenziertes Bindungsverhalten \no gehemmtes Bindungsverhalten \no aggressives Bindungsverhalten",
+        "residual_flags": []
+      },
+      {
+        "content": "Research method: Strange Situation Test (Ainsworth et al.).",
+        "citation": {
+          "document_id": "bildungsplan-sek2-psychology",
+          "document_title": "Bildungsplan Studienstufe Psychologie",
+          "source_pdf_sha256": "a94fc8e1e5fb027b4d005b80a296aa4e5eaa99efe59fefedfe69e5ee3956da80",
+          "section_anchor": "S2.2 Soziale und emotionale Entwicklung (Bindung)",
+          "printed_page": 23,
+          "physical_page": 23
+        },
+        "cited_text": "Fremde-Situation-Test (Ainsworth et al.)",
+        "residual_flags": []
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 23,
+          "printed_page": 23
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "S2.2 Soziale und emotionale Entwicklung (Bindung)"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "bildungsplan-sek2-psychology",
+        "section_anchor": "S2.2 Soziale und emotionale Entwicklung (Bindung)",
+        "printed_page_range": "23"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "key_components": {
+    "federal_state": "hamburg",
+    "subject": "*",
+    "level": "*",
+    "school_type": "gymnasium",
+    "abitur_year": null,
+    "sic_fingerprint": "sha256:emptyset",
+    "pregenerated": true,
+    "read_scope_identity": "sha256:39b13f23162487563f010798bd3bae80969a8855a6ddb9fd7485a6092cf26d32"
+  },
+  "freshness": [
+    {
+      "document_id": "abiturrichtlinie-english-praesentation",
+      "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+      "index_version": 1
+    }
+  ],
+  "digest": {
+    "claims": [
+      {
+        "content": "One overall grade is formed for both parts of the exam, with the language performance predominating.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — VI Bewertungshinweise",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Für die beiden Teile der Präsentationsprüfung wird eine Gesamtnote gebildet, bei der \ndie sprachliche Leistung überwiegt.",
+        "residual_flags": []
+      },
+      {
+        "content": "Assessment uses the descriptor tables of Abiturrichtlinie 2018, Annex 2 English; the tables shown are excerpts adapted in the 'inhaltliche Aufgabenerfüllung' sub-area.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — VI Bewertungshinweise",
+          "printed_page": 28,
+          "physical_page": 28
+        },
+        "cited_text": "Der Bewertung werden die Deskriptorentabellen zugrunde gelegt, die in der Abiturricht-\nlinie 2018, Anlage 2 Englisch, enthalten sind.  \nDie folgenden Tabellen sind Auszüge aus diesen Deskriptorentabellen. Sie wurden im \nTeilbereich „inhaltliche Aufgabenerfüllung“ der konkreten Prüfung angepasst.",
+        "residual_flags": []
+      },
+      {
+        "content": "For a 'gut' presentation the candidate gives a precise, functional definition of social media, utopia and dystopia and summarises the relevant features of utopias and dystopias.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — VI Bewertungshinweise",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "• nimmt eine genaue, funkti-\nonale Definition von sozia-\nlen Medien, Utopie und \nDystopie vor und fasst für \ndas Thema relevante Kenn-\nzeichen von Utopien und \nDystopien zusammen,",
+        "residual_flags": []
+      },
+      {
+        "content": "A 'gut' presentation analyses the utopian and dystopian features of social media competently and almost completely.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — VI Bewertungshinweise",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "• analysiert sachkompetent \nund nahezu vollständig die \nutopischen und dystopi-\nschen Merkmale sozialer \nMedien,",
+        "residual_flags": []
+      },
+      {
+        "content": "At 'ausreichend' the definition is imprecise and barely functional, and the analysis is undifferentiated and superficial.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — VI Bewertungshinweise",
+          "printed_page": 29,
+          "physical_page": 29
+        },
+        "cited_text": "• analysiert die utopischen \nund dystopischen Merk-\nmale sozialer Medien undif-\nferenziert und oberfläch-\nlich,",
+        "residual_flags": []
+      },
+      {
+        "content": "In the Fachgespräch table the top grade is printed capitalised, and requires grasping most essential aspects and analysing competently and almost completely.",
+        "citation": {
+          "document_id": "abiturrichtlinie-english-praesentation",
+          "document_title": "Präsentationsprüfung im Abitur — Beispielaufgaben Englisch",
+          "source_pdf_sha256": "45d2fc518a6b7a2cc1d51f0b64f0fc607678a2983d72f6b6e0067c75f01c7365",
+          "section_anchor": "Social media — VI Bewertungshinweise",
+          "printed_page": 30,
+          "physical_page": 30
+        },
+        "cited_text": "Gut \n• erfasst die Mehrzahl der wesentlichen \nAspekte, \n• analysiert sachkompetent und nahezu \nvollständig,",
+        "residual_flags": [
+          "source-formatting-verbatim: the grade label is capitalised as 'Gut' here, whereas the parallel tables in the other examples print 'gut'"
+        ]
+      }
+    ],
+    "page_map_fragment": {
+      "page_table": [
+        {
+          "physical_page": 28,
+          "printed_page": 28
+        },
+        {
+          "physical_page": 29,
+          "printed_page": 29
+        },
+        {
+          "physical_page": 30,
+          "printed_page": 30
+        }
+      ],
+      "sections": [
+        {
+          "section_anchor": "Social media — VI Bewertungshinweise"
+        }
+      ]
+    },
+    "section_pointers": [
+      {
+        "document_id": "abiturrichtlinie-english-praesentation",
+        "section_anchor": "Social media — VI Bewertungshinweise",
+        "printed_page_range": "28–30"
+      }
+    ],
+    "hierarchy": {
+      "order": [
+        "curriculum-framework",
+        "abitur-supplement",
+        "school-internal-curriculum"
+      ],
+      "note": "precedence preserved, not flattened; pre-generated entry — this is the generic document-type precedence, not a routing-context-specific order"
+    }
+  }
+}
